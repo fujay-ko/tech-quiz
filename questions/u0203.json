@@ -1,0 +1,4057 @@
+{
+  "chapter": "2上 第3章 資訊科技與相關法律",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "網路串流音樂平臺可以免費使用，所以餐廳可以透過音響播放給用餐者收聽。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在社群軟體上散播色情圖片可能會構成散布販賣猥褻物品罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果公務人員違反個人資料保護法，其所受到的刑責將較非公務人員重二分之一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華在網路上號召聚賭被網路警察逮捕，他將會以賭博罪起訴。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我可以將正版的遊戲光碟複製到其他光碟中賣給同班同學。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能會侵犯著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨意下載手機程式可能導致個人資料外洩，因此下載前須謹慎閱讀協定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著網路購物的興起，網路行銷的詐騙案件也日益增加。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小達可以將上網抓的音樂燒成光碟並發送給其他同學，並不違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "將網路上的音樂燒成光碟並發送他人可能違反《著作權法》。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦電磁紀錄代表電腦內存放的資料，其中包含檔案與使用者紀錄等訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小美在社群軟體上公開辱罵教師，即可能觸犯法律。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "遊玩暴力網路遊戲可以紓壓，因此可以隨意下載並安裝遊戲。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "安裝遊戲前應了解遊戲的來源，避免電腦中毒或被人入侵。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小寶因好玩而入侵圖書館的電腦，將大部分的資料刪除，檢察機關可以依法直接逮捕他。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "木馬程式為一種後門程式，主要用於盜取用戶個人資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著網路購物的興起，網路詐騙行銷的犯罪案件也日益增加。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果公務人員違反《個人資料保護法》，其所受到的刑責將較非公務人員重二分之一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "民事的法律較與賠償有關，刑事的法律較與坐牢有關。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林設計病毒程式駭入同學的電腦盜取個人資料，他犯了干擾電腦或其相關設備罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為製作犯罪電腦程式罪、破壞電磁紀錄罪與入侵電腦或其相關設備罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "入侵學校的電腦可能會比入侵一般住家電腦面臨更嚴重的罰則。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林將客戶資料賣給補習班，小林可能會觸犯著作權法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林為了製作國外旅遊的報告，可以上網隨意下載他人拍攝的照片做為報告內容，也不用標示出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "若上網下載他人照片應取得授權，並標示出處，避免侵犯著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "駭客通常會使用網址、電子郵件等方式來散布病毒程式，以取得他人個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "設計電腦病毒程式癱瘓他人電腦可能會面臨《刑法》的刑責，因此不可貿然設計病毒程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上散播假訊息，不屬於網路犯罪的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於廣義的網路犯罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果在網路上提供色情刊物給兒童，將會觸犯《兒少法》，易科罰金。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小張因為與同學打賭輸掉，而在網路上散布自己的裸照，依《刑法》規定，他會被處以有期徒刑或易科罰金。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了造福他人，我們可以在電影院錄最新的電影給同學觀賞。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不得於電影院錄製影片，避免違反著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "大部分的藥物都是有管控的，因此不得隨意在拍賣網站上銷售藥物。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只要將網路上的文章稍作修改，就不會侵犯著作權了。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若室外有免費 wifi 可以使用，可以隨時連接，不會造成影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不明的　wifi　可能藏有病毒，任意連接可能導致手機中毒。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小美將偷來的戒指放到網路上販售，她將違反網路詐欺罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "小美違反的是網路販賣贓物。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "目前尚無法律規範電腦的犯罪，因此在社群媒體上可以任意妄為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前已有法律規範電腦的犯罪，因此任何人在網站上發表的言論都須負責任。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上販售盜版影音光碟會侵害著作人的散布權，可能會觸犯刑法與民法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "未經他人同意分享他人文章可能會觸法，因此分享前須徵求作者同意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「妨害電腦使用罪」為電腦犯罪最直接的法律條文。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華上網下載音樂分享給其他同學，這不會構成犯罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能會違反《著作權法》。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林將公司電腦內的客戶資料賣給補習班，小林可能會觸犯《著作權法》。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能觸犯《個人資料保護法》，進而遭判有期徒刑或易科罰金。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "可以在餐廳大聲播放合法的音樂 CD，不會違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "在營業場所用自己的播音設備播放音樂　CD，稱做公開演出，而公開演出的權利是屬於著作財產權人專有的，因此仍需經過著作人同意。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上購買物品時，應詳細留意物品來源避免網路詐欺。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "製作報告時，不應直接複製他人文章，避免違反著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "應避免在網路上發布個人社群帳號的資訊，避免被有心人士使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上若留言措辭不當或辱罵他人，依然可能觸犯公然侮辱罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林是一位網路賣家，有次他謊稱他的商品具有神奇的療效，他可能面臨網路詐欺罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路犯罪無分國界，因此在瀏覽國外不知名的網站也要小心避免電腦中毒。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "使用網路購物時，若收到不明簡訊要求匯款，應查明其真實性再匯款。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "設計電腦病毒程式癱瘓他人電腦可能會面臨刑法的刑責，因此不可貿然設計病毒程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在學校如果發現電腦被癱瘓，應該馬上請告知老師並連絡網管中心協助處理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "不點擊來路不明的網址與下載軟體才能保護個人資料或電腦不被盜用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上賭博是合法的行為，因為網路不屬於公開場所。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不一定，由於尚未有明確規範，視法官判決而定。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "可隨意搜尋下載網站上的圖片使用，並不會犯法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "除非為無版權圖片，否則可能侵犯《著作權法》。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小明公開販售上網抓的盜版音樂，他將違反《著作權法》。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "駭客為不法侵入他人電腦系統的人，因此使用者平常應定時掃毒，避免電腦中毒。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林未經申請就在拍賣網站上銷售武士刀，可能會面臨《刑法》的刑責。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "可以在網站上隨意發布分享色情圖片，不會觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能違反《刑法》，恐面臨有期徒刑或易科罰金。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "法律與倫理規範最大的差異就是法律為自律，以外在力量制裁違法行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "法律為他律。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "販售盜版光碟的人所受到的刑責會較使用盜版光碟的人嚴重，因此勿以身試法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華在網路上下載盜版的軟體，因為小華不是發行者，所以不會違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "盜版軟體使用者也同樣可能受到刑責。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果小華的個人資料經由不合法的管道進入公務機關中，小華得以申請國賠。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "因為有花錢租借漫畫，得到漫畫的所有權，因此可以用手機拍下漫畫內容分享在網路上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "租借漫畫僅代表有權占有漫畫，不代表可以重製漫畫內容。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小花將從唱片行購買來的合法光碟放到購物網站上銷售是違法的行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "因為小花已取得光碟的所有權，所以不違反法律。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦病毒程式並不受著作權規範，因此可以隨意下載分享給別人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "任何程式皆會有著作權，因此不得任意複製轉發。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林在線上遊戲中反串成女性角色，他可能觸犯法律。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林在社群軟體上有看到他想要很久的遊戲機，他應該盡快下單避免被其他人購買走。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應先查明產品來源及交易方式，避免受騙。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "玩線上遊戲時，若登入他人帳號密碼盜取虛寶可能會觸犯法律。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "製作電腦病毒程式可能觸犯製作犯罪電腦程式罪，並且檢察機關可以主動偵查。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "翰翰可以把國外的書籍翻譯成冊進行販售，由於內容不同，所以不用經過原著同意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "還是要經過原著同意。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華發現同學的社群帳號沒登出，因此用他的名義發了一篇「我是大笨蛋」的貼文，因同學帳號未登出，因此小華沒有違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "冒用他人社群帳號逕自發文可能觸犯法律。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若使用他人設計的程式使別人的電腦中毒，使用者與製作者皆會觸犯製作犯罪電腦程式罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "刑法第362條「製作犯罪電腦程式罪」處罰製作者，只沒有罰及散佈者和使用者。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "可以不用經過別人的同意將別人的信件公開，不會違反著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "即便是別人的信件，也具著作權，因此尚需經過別人的同意。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "即便是情書也具有著作權，因此不得隨意公開他人情書。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "破壞電磁紀錄罪為非告訴乃論罪，因此只要有違法情形發生，檢察機關會主動偵查。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "除非破壞公務機關之電腦電磁紀錄，才為非告訴乃論罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當發現自己社群軟體帳號密碼有被盜用的嫌疑時，應馬上報警保護自己。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應立即更改帳號密碼。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林未經同意使用同學的帳號密碼登入同學的電腦，他可能觸犯干擾電腦或其相關設備的罪刑。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能觸犯入侵電腦或其相關設備罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "使用程式癱瘓他人電腦並加以勒索要求贖金，會構成破壞電磁紀錄罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能構成干擾電腦或其相關設備罪與恐嚇取財罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華因朋友的慫恿與請求，開始在網路上販賣毒品，由於是朋友的請求，所以小華不會觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "小華與朋友都會違反《刑法》，最高將面臨死刑。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上販售盜版影音光碟會侵害著作人的散布權，可能會觸犯《刑法》與《民法》。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果遇到疑似網路詐騙的行為，可以撥打 1968 進行查證，避免受害。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應撥打　165　反詐騙專線。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "由於某些國家銷售大麻合法，因此可以透過國外網站銷售大麻至臺灣。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "依照《刑法》規定，不得持有毒品，否則將面對刑責。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "使用匿名在網路上謾罵別人不會觸法，因為別人查不到你的真名。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網路警察可以透過　IP　位置查詢犯罪電腦，並加以封鎖或逮捕。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小翰因被女友分手，因而在網站上發布女友的醜照，女友可依網路詐欺罪向小翰提告。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "由於違反肖像權，因此可以提出民事賠償。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當收到網路賣家電話要求再次匯款時，應先撥打反詐騙專線避免受害。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小德是一名程式設計師，有天他發現某網站的程式漏洞，因此駭入該網站蒐集個資，但未公開，因此他無須面臨任何罰則。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "非法入侵他人電腦，即觸犯刑法第358條「入侵電腦或其相關設備罪」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "入侵電腦或相關設備不會被處以有期徒刑或拘役，只會被處罰緩或罰金。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可能會被處有期徒刑、拘役或科或併科罰金。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華使用程式癱瘓圖書館內的電腦，由於他尚未成年，因此不用面臨罰則。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "儘管為未成年學生，仍需面臨罰則。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "一本書的著作權最多只能一人申請，因此就算有多個作者，也應選出一位代表人申請著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "若有多個作者，可以共同申請著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "從照片被拍下的當下即具有著作權，因此未經攝影者同意不得隨意轉發他人照片。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "當手機收到中獎簡訊連結，應怎麼處置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "太幸運了！直接點連結，趕快填寫個資以盡快收到中獎的東西。"
+        },
+        {
+          "key": "B",
+          "text": "先檢查網址正確性，複製網址後使用無痕模式開啟，且不任意填寫任何表單避免透漏個資。"
+        },
+        {
+          "key": "C",
+          "text": "傳給朋友請他幫忙確認，再請朋友填寫資料。"
+        },
+        {
+          "key": "D",
+          "text": "直接回傳簡訊詢問怎麼領獎，並且附上個人聯絡資料。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰使用同學已登入帳號的電腦瀏覽作業，下載後複製到自己的帳號上，並用此作業繳交，請問他觸犯了何種犯罪行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路詐欺"
+        },
+        {
+          "key": "B",
+          "text": "破壞電磁紀錄"
+        },
+        {
+          "key": "C",
+          "text": "發表不當言論"
+        },
+        {
+          "key": "D",
+          "text": "網路色情。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問企圖不法入侵他人電腦系統的人統稱為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊小偷"
+        },
+        {
+          "key": "B",
+          "text": "駭客"
+        },
+        {
+          "key": "C",
+          "text": "網路殭屍"
+        },
+        {
+          "key": "D",
+          "text": "白帽。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者屬於非告訴乃論罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "B",
+          "text": "破壞電磁紀錄罪"
+        },
+        {
+          "key": "C",
+          "text": "製作犯罪電腦程式罪"
+        },
+        {
+          "key": "D",
+          "text": "干擾或其相關設備罪。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)(Ｂ)(Ｄ)為告訴乃論罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問在相同情勢下，公務機關與私人機構違反《個資法》規定的刑責處分，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公務機關會較私人機構受到更嚴厲的處罰"
+        },
+        {
+          "key": "B",
+          "text": "公務機關與私人機構會遭受相同的處分"
+        },
+        {
+          "key": "C",
+          "text": "私人機構較公務機關受到更嚴厲的處罰"
+        },
+        {
+          "key": "D",
+          "text": "不一定，依照法官判決。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "在相同情勢下，公務人員應被處以更嚴厲之處罰，加重刑責至二分之一。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者不是《個資法》所定義的個人資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "身分證字號"
+        },
+        {
+          "key": "B",
+          "text": "綽號"
+        },
+        {
+          "key": "C",
+          "text": "最高學歷"
+        },
+        {
+          "key": "D",
+          "text": "住家地址。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "個人資料是指自然人之姓名、出生年月日、國民身分證統一編號、護照號碼、特徵、指紋、婚姻、家庭、教育、職業、病歷、醫療、基因、性生活、健康檢查、犯罪前科、聯絡方式、財務情況、社會活動及其他得以直接或間接方式識別該個人之資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "依照《著作權法》，欲重製下列何種作品須經過原著同意？",
+      "options": [
+        {
+          "key": "A",
+          "text": "國外的小說"
+        },
+        {
+          "key": "B",
+          "text": "網路程式"
+        },
+        {
+          "key": "C",
+          "text": "電影卡通"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在社群軟體張貼色情照片是屬於下列何種網路犯罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路販賣贓物"
+        },
+        {
+          "key": "B",
+          "text": "散布猥褻物品"
+        },
+        {
+          "key": "C",
+          "text": "網路詐欺"
+        },
+        {
+          "key": "D",
+          "text": "網路賭博。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者為電腦可以完成的事情？",
+      "options": [
+        {
+          "key": "A",
+          "text": "購物"
+        },
+        {
+          "key": "B",
+          "text": "分享近況"
+        },
+        {
+          "key": "C",
+          "text": "轉帳"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者屬於網路犯罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用即時通訊軟體與他人聊天"
+        },
+        {
+          "key": "B",
+          "text": "在社群軟體上販售物品"
+        },
+        {
+          "key": "C",
+          "text": "在網站上發表自己的言論"
+        },
+        {
+          "key": "D",
+          "text": "利用大量垃圾郵件攻擊他人信箱。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "利用大量垃圾郵件攻擊他人信箱可能導致他人電腦網路速度減慢或斷線，屬於違反妨害電腦使用罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪個網路行為可能會觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "註冊社群帳號不使用自己的名字"
+        },
+        {
+          "key": "B",
+          "text": "在網站上提供自己繪製的圖片"
+        },
+        {
+          "key": "C",
+          "text": "將朋友的網路遊戲帳密公開至網路上"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "將朋友的網路遊戲帳密公開至網路上可能觸犯朋友的隱私權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者為良好的網路使用習慣？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用公用電腦後，不須關機"
+        },
+        {
+          "key": "B",
+          "text": "在網路上發布訊息時盡量使用假帳號，以免被告"
+        },
+        {
+          "key": "C",
+          "text": "可與網友單獨出去遊玩過夜，無須告知親友遊玩地點"
+        },
+        {
+          "key": "D",
+          "text": "手機也有可能中毒，因此下載時仍須注意。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(Ａ)通常使用完公用電腦須關機，除非該機關告知無須關機；(Ｂ)發布訊息應使用真實身分，以示負責；(Ｃ)與網友盡量在燈光明亮且人潮較多的地方較安全，並須告知親友遊玩地點。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "為了降低電腦中毒的風險，我們應採取什麼行動？",
+      "options": [
+        {
+          "key": "A",
+          "text": "定期掃毒"
+        },
+        {
+          "key": "B",
+          "text": "定期更換電腦密碼"
+        },
+        {
+          "key": "C",
+          "text": "不隨意下載來路不明的檔案"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "非法重製著作物可能違反著作權，請問下列何者的罪刑最重？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林把網路上的音樂灌到光碟中"
+        },
+        {
+          "key": "B",
+          "text": "翰翰將網路上的音樂下載到自己電腦中聆聽"
+        },
+        {
+          "key": "C",
+          "text": "小美販售網路上下載的音樂"
+        },
+        {
+          "key": "D",
+          "text": "無法判斷。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "重製於光碟中由於可以大量製作，因此刑度最重。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種狀況是屬於網路詐欺？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小美在網路上交友"
+        },
+        {
+          "key": "B",
+          "text": "翰翰玩遊戲反串成女角"
+        },
+        {
+          "key": "C",
+          "text": "小林使用病毒程式擷取他人帳號密碼"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問有心人士通常會使用何種方法散布後門程式，癱瘓或入侵他人電腦？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電子郵件"
+        },
+        {
+          "key": "B",
+          "text": "通訊軟體"
+        },
+        {
+          "key": "C",
+          "text": "色情網站"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問制訂《個人資料保護法》最重要的目的為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "保障他人的隱私權"
+        },
+        {
+          "key": "B",
+          "text": "避免個人資料遭到濫用"
+        },
+        {
+          "key": "C",
+          "text": "規範個人資料的收集方式"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者在網路上屬於違法行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "分享色情網站網址"
+        },
+        {
+          "key": "B",
+          "text": "販售植物"
+        },
+        {
+          "key": "C",
+          "text": "分享他人撰寫的文章並註明出處"
+        },
+        {
+          "key": "D",
+          "text": "下載遊戲軟體。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "可能觸犯《兒童及少年福利法》。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小華在網路上購買手機，但他發現這部手機其實是別人的，詢問警察發現該手機是賣家偷竊來的，請問賣家可能觸犯何種網路犯罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無罪"
+        },
+        {
+          "key": "B",
+          "text": "散布猥褻圖畫影像等"
+        },
+        {
+          "key": "C",
+          "text": "網路販賣贓物"
+        },
+        {
+          "key": "D",
+          "text": "網路詐欺。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "由於該手機是偷竊來的，因此屬於網路販賣贓物罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰懷疑自己遭到網路詐騙，他可以撥打哪個號碼來求證？",
+      "options": [
+        {
+          "key": "A",
+          "text": "113"
+        },
+        {
+          "key": "B",
+          "text": "165"
+        },
+        {
+          "key": "C",
+          "text": "104"
+        },
+        {
+          "key": "D",
+          "text": "168。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "165　為反詐騙專線，只要撥打「165」即可由專人為您說明研判是否為詐欺事件。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項網路販售是合法的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將來路不明的影音光碟在網路再販售"
+        },
+        {
+          "key": "B",
+          "text": "將買來的合法影音光碟在網路再販售"
+        },
+        {
+          "key": "C",
+          "text": "將買來的盜版影音光碟在網路再販售"
+        },
+        {
+          "key": "D",
+          "text": "將從網路買來的盜版影音光碟在網路再販售。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林因違反《著作權法》而遭法官判有期徒刑三個月，可易科罰金，則下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "除了須坐牢外，尚須繳納罰金"
+        },
+        {
+          "key": "B",
+          "text": "可選擇坐牢或繳納罰金"
+        },
+        {
+          "key": "C",
+          "text": "需在進牢前先繳納罰金"
+        },
+        {
+          "key": "D",
+          "text": "出獄後仍須繳納罰金。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "易科罰金表示可繳納罰金或選擇坐牢。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小豪因為好玩所以把隔壁同學電腦中的作業刪除，請問他可能面臨何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "B",
+          "text": "製作犯罪電腦程式罪"
+        },
+        {
+          "key": "C",
+          "text": "干擾電腦或其相關設備罪"
+        },
+        {
+          "key": "D",
+          "text": "偽造文書罪。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "小豪入侵他人電腦並刪除同學的作業，可能觸犯入侵電腦或其相關設備罪與破壞電磁紀錄罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者屬於網路犯罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿達在網路上公開他人發現的美景秘境"
+        },
+        {
+          "key": "B",
+          "text": "翰翰使用螢幕錄製工具截圖他人留言"
+        },
+        {
+          "key": "C",
+          "text": "小林開網路直播販賣外國槍枝"
+        },
+        {
+          "key": "D",
+          "text": "小美在社群網站上分享線上新聞。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "利用大量垃圾郵件攻擊他人信箱可能導致他人電腦網路速度減慢或斷線，屬於違反妨害電腦使用罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿達在網路上找到線上賭場，可以使用真實錢幣進行下注，阿達因此想試試運氣而儲值下注，這行為可能觸犯何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "詐欺罪"
+        },
+        {
+          "key": "B",
+          "text": "賭博罪"
+        },
+        {
+          "key": "C",
+          "text": "贓物罪"
+        },
+        {
+          "key": "D",
+          "text": "公然猥褻罪。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "線上賭博可能違反賭博罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列關於《個人資料保護法》的規定，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "如果當事人認為權益受損害，可以提出損害賠償"
+        },
+        {
+          "key": "B",
+          "text": "公務機關與非公務機關違法時所受刑責相同"
+        },
+        {
+          "key": "C",
+          "text": "公務機關所欲收集的資料須是屬於業務範圍內"
+        },
+        {
+          "key": "D",
+          "text": "此法的立法目的是為了促進個資的合理使用。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不同，應為公務機關較重。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者違反著作權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林影印學校的講義賣給同學"
+        },
+        {
+          "key": "B",
+          "text": "翰翰模仿家長的簽名"
+        },
+        {
+          "key": "C",
+          "text": "小美偷看別人上課傳的紙條"
+        },
+        {
+          "key": "D",
+          "text": "阿顯未經皮皮的同意，將皮皮的電話、住址公開在網路上。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)可能違反偽造文書罪；(Ｃ)會違反隱私權；(Ｄ)會違反個資法。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "勒索病毒為近幾年來常見的電腦病毒，它會癱瘓系統並要求贖金以解除癱瘓。請問設計勒索病毒的人可能會觸犯哪一項法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "恐嚇取財罪"
+        },
+        {
+          "key": "B",
+          "text": "製作犯罪電腦程式罪"
+        },
+        {
+          "key": "C",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林發現公司的電腦癱瘓無法使用，請問他應如何處理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "立即通知網管中心，了解因應措施"
+        },
+        {
+          "key": "B",
+          "text": "想辦法關機，眼不見為淨"
+        },
+        {
+          "key": "C",
+          "text": "將電腦拿去重灌，刪除電腦內資料"
+        },
+        {
+          "key": "D",
+          "text": "拔除並丟棄電腦硬碟。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列關於賭博罪的刑責，下列何人所面臨的罰則應最重？",
+      "options": [
+        {
+          "key": "A",
+          "text": "參與線上賭博的人"
+        },
+        {
+          "key": "B",
+          "text": "觀看他人賭博的人"
+        },
+        {
+          "key": "C",
+          "text": "架設賭博網站的人"
+        },
+        {
+          "key": "D",
+          "text": "提供資金的人。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小達最近打算將一些二手物品放到網站上販售，請問他不得販售何種物品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "行動電源"
+        },
+        {
+          "key": "B",
+          "text": "遊戲光碟"
+        },
+        {
+          "key": "C",
+          "text": "感冒藥"
+        },
+        {
+          "key": "D",
+          "text": "洗面乳。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿達因不甘與女友分手，因此登入女友的社群帳號發布不雅言詞。請問阿達觸犯何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "干擾電腦或相關設備罪"
+        },
+        {
+          "key": "B",
+          "text": "破壞電磁紀錄罪"
+        },
+        {
+          "key": "C",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是"
+        }
+      ],
+      "answer": "C",
+      "explanation": "阿達未告知女友即登入社群帳號並發布不雅言詞，觸犯入侵電腦或其相關設備罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項刑責較重？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路販賣色情或暴力出版品等"
+        },
+        {
+          "key": "B",
+          "text": "網路販賣武器槍砲彈藥刀械等"
+        },
+        {
+          "key": "C",
+          "text": "網路販賣毒品、麻醉藥品等"
+        },
+        {
+          "key": "D",
+          "text": "網路販賣贓物。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小美在某電信公司任職，有天 B 公司出高價向她購買電信公司的客戶資料，而小美也禁不起金錢的誘惑提供了資料。請問依照《個人資料保護法》的規範，誰應該負責？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小美"
+        },
+        {
+          "key": "B",
+          "text": "電信公司"
+        },
+        {
+          "key": "C",
+          "text": "B 公司"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路賣家宣稱可以幫忙從國外代購手機較便宜，但收到款後卻馬上消失，捲款逃逸，請問他犯了什麼罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "侵占罪"
+        },
+        {
+          "key": "B",
+          "text": "詐欺罪"
+        },
+        {
+          "key": "C",
+          "text": "妨礙電腦使用"
+        },
+        {
+          "key": "D",
+          "text": "散播電腦病毒。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "由於賣家聲稱可以購買到較便宜的手機，但事實並非如此，因此屬於詐欺罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問依照《著作權法》，在哪種情況下公開播送著作物的刑度最重？",
+      "options": [
+        {
+          "key": "A",
+          "text": "用於課程教學給學生觀看"
+        },
+        {
+          "key": "B",
+          "text": "用於餐廳讓顧客觀看"
+        },
+        {
+          "key": "C",
+          "text": "用於夜市販售牟利"
+        },
+        {
+          "key": "D",
+          "text": "不一定。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "依照《著作權法》，販售牟利著作物的刑度應最重。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問在網路上販賣何種東西會觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "手機"
+        },
+        {
+          "key": "B",
+          "text": "色情光碟"
+        },
+        {
+          "key": "C",
+          "text": "外國進口的水果"
+        },
+        {
+          "key": "D",
+          "text": "棒球棒。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "在網路上販售色情之出版品違反《刑法》，可處以有期徒刑、拘役或併科罰金。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者不屬於網路犯罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路賭博"
+        },
+        {
+          "key": "B",
+          "text": "網路拍賣"
+        },
+        {
+          "key": "C",
+          "text": "散播網路病毒"
+        },
+        {
+          "key": "D",
+          "text": "網路援交。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者情況可能違反《著作權法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "翰翰閱讀網路上的文章並把心得放在網路上分享"
+        },
+        {
+          "key": "B",
+          "text": "阿達上網下載他人拍攝之風景照，放在店裡展示"
+        },
+        {
+          "key": "C",
+          "text": "小美偷看他人的私密日記"
+        },
+        {
+          "key": "D",
+          "text": "小林將他寫的小說放到網路上與他人分享。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)無違法；(Ｃ)可能觸犯《隱私權法》；(Ｄ)無違法。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者違反《個資法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林將其他同學的姓名與電話號碼提供給補習班招生"
+        },
+        {
+          "key": "B",
+          "text": "網路購物公司為了配送貨物，將客戶地址提供給宅配公司"
+        },
+        {
+          "key": "C",
+          "text": "阿達考了第一名，因此老師將阿達的姓名貼到榮譽榜上"
+        },
+        {
+          "key": "D",
+          "text": "爸爸把公司地址告訴媽媽，請媽媽送午餐到公司給爸爸。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "電腦資料的備份很重要，請問下列關於資料備份的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可將資料放於同一個隨身碟中，電腦不要放任何資料"
+        },
+        {
+          "key": "B",
+          "text": "須隨時更新隨身碟內的資料"
+        },
+        {
+          "key": "C",
+          "text": "若電腦長時間不使用，則無須備份資料"
+        },
+        {
+          "key": "D",
+          "text": "資料備份很麻煩，所以不需要備份資料。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)盡量將資料分散或放置於不同硬碟內較為安全；(Ｃ)仍需備份資料；(Ｄ)仍需備份資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小寶發現有一篇文章寫得很好，因此他將文章儲存到自己瀏覽器的書籤中，以便隨時觀看，請問小寶有沒有觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "沒有，因為儲存到書籤只是為了方便隨時觀看"
+        },
+        {
+          "key": "B",
+          "text": "已觸法，違反妨害電腦使用罪"
+        },
+        {
+          "key": "C",
+          "text": "已觸法，違反重製權"
+        },
+        {
+          "key": "D",
+          "text": "沒有，因為他只儲存了一篇文章。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰是一名企業家，常常四處分享他的經歷，有次在分享時讓學校錄影，請問這部影片的著作權屬於誰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "學校"
+        },
+        {
+          "key": "B",
+          "text": "翰翰"
+        },
+        {
+          "key": "C",
+          "text": "學校與翰翰共有"
+        },
+        {
+          "key": "D",
+          "text": "不一定。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "由於演講者為翰翰，因此著作權屬於翰翰所有。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小寶發現有一篇文章寫得很好，因此他將文章儲存到自己瀏覽器的書籤中，可隨時觀看，請問小寶有沒有觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "沒有觸法"
+        },
+        {
+          "key": "B",
+          "text": "已觸法，違反妨害電腦使用罪"
+        },
+        {
+          "key": "C",
+          "text": "已觸法，違反重製權"
+        },
+        {
+          "key": "D",
+          "text": "不一定。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "入侵公務機關電腦與私人電腦所面臨的罪刑不盡相同，請問下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "兩者皆屬於妨害電腦使用罪"
+        },
+        {
+          "key": "B",
+          "text": "入侵公務機關面臨刑責較輕"
+        },
+        {
+          "key": "C",
+          "text": "入侵私人電腦面臨的刑責屬於非告訴乃論"
+        },
+        {
+          "key": "D",
+          "text": "入侵私人電腦將會面臨刑法，只會處以有期徒刑。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)入侵公務機關面臨刑責較重；(Ｃ)入侵私人電腦屬於告訴乃論罪；(Ｄ)可能處以有期徒刑、拘役或併科罰金。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小翰平常喜歡分享自己設計的軟體給他人使用，請問他分享下列何種軟體可能會觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "產品比價軟體"
+        },
+        {
+          "key": "B",
+          "text": "手機遊戲"
+        },
+        {
+          "key": "C",
+          "text": "盜版破解軟體"
+        },
+        {
+          "key": "D",
+          "text": "遠端連線軟體。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問學校公布欄可否公告學生曠課的名單？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以，因為獎懲符合學校辦理教育行政之目的"
+        },
+        {
+          "key": "B",
+          "text": "可以，為確保公布的資訊為正確的，應多公告學生姓名、身分證字號等資訊"
+        },
+        {
+          "key": "C",
+          "text": "不可以，因為學生曠課屬於個人隱私"
+        },
+        {
+          "key": "D",
+          "text": "不可以，因為學生學號姓名屬於個人資料，不得公開。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林在圖書館的電腦中安裝病毒程式，打算癱瘓所有電腦，請問關於他所觸犯的法律，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "他所觸犯的法律為告訴乃論罪"
+        },
+        {
+          "key": "B",
+          "text": "他會因為強制罪而移送法辦"
+        },
+        {
+          "key": "C",
+          "text": "如果程式是他做的，將面臨更嚴重的刑罰"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)為非告訴乃論罪；(Ｂ)無違反強制罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰使用外部程式進入他人私人相簿，並下載至個人電腦中，請問他觸犯了何種法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路詐欺"
+        },
+        {
+          "key": "B",
+          "text": "妨害電腦使用"
+        },
+        {
+          "key": "C",
+          "text": "發表不當言論"
+        },
+        {
+          "key": "D",
+          "text": "網路色情。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問在網路上販售未吃完的藥物是否有罪？為什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無罪，可以在網路上分享藥物的效果並販售之"
+        },
+        {
+          "key": "B",
+          "text": "有罪，應交給專業人士銷售"
+        },
+        {
+          "key": "C",
+          "text": "有罪，網路上不得販售藥物"
+        },
+        {
+          "key": "D",
+          "text": "有罪，應銷售全新未拆裝之藥品。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "網路上販售藥物會觸犯《藥事法》，應避免銷售藥物。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰應該如何向小林蒐集聯絡資料才不會觸犯《個人資料保護法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從本人口中得知，並同意提供"
+        },
+        {
+          "key": "B",
+          "text": "從其他同學口中轉述"
+        },
+        {
+          "key": "C",
+          "text": "偷看老師的同學個資紀錄表"
+        },
+        {
+          "key": "D",
+          "text": "趁班上同學不在時，使用小林的手機打給自己。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於網路購物的注意事項，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "購買前應注意產品來源與規格"
+        },
+        {
+          "key": "B",
+          "text": "若賣家有實體店面，建議到實體店面選購"
+        },
+        {
+          "key": "C",
+          "text": "若賣家致電要求到提款機前操作轉帳，應盡快到提款機前處理"
+        },
+        {
+          "key": "D",
+          "text": "在下單前應仔細閱讀交易條款。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "若被要求到提款機前操作轉帳，應馬上撥打反詐騙專線，避免遭詐騙。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於網路遊戲的使用習慣，下列何者最不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林取人物名稱使用好友的暱稱"
+        },
+        {
+          "key": "B",
+          "text": "翰翰到便利商店購買 500 元遊戲儲值金"
+        },
+        {
+          "key": "C",
+          "text": "小莉在遊戲內使用現金向其他玩家購買虛寶"
+        },
+        {
+          "key": "D",
+          "text": "阿達在遊戲中發表自己對政治的看法。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ｃ)在遊戲內使用現金向其他玩家購買虛寶可能遭詐騙，因此建議透過合法的管道購買虛寶。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林在軟體公司上班，聽從老闆指示販售盜版軟體，請問誰可能觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有小林"
+        },
+        {
+          "key": "B",
+          "text": "只有老闆"
+        },
+        {
+          "key": "C",
+          "text": "都有觸犯《著作權法》"
+        },
+        {
+          "key": "D",
+          "text": "只要賠償損失就無罪。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "販售與教唆的人皆違反著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林因為懷疑女朋友出軌，因此未經女友同意登入信箱閱讀信件，請問小林可能觸犯何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "B",
+          "text": "破壞電磁紀錄罪"
+        },
+        {
+          "key": "C",
+          "text": "干擾電腦或其相關設備罪"
+        },
+        {
+          "key": "D",
+          "text": "製作犯罪電腦程式罪。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項後果造成的損害比較嚴重？",
+      "options": [
+        {
+          "key": "A",
+          "text": "利用電腦系統之漏洞，而入侵他人之電腦或其相關設備"
+        },
+        {
+          "key": "B",
+          "text": "刪除或變更他人電腦或其相關設備之電磁紀錄"
+        },
+        {
+          "key": "C",
+          "text": "無故以電腦程式或其他電磁方式干擾他人電腦或其相關設備"
+        },
+        {
+          "key": "D",
+          "text": "製作專供犯罪的電腦程式給自己或他人使用，以致損害於公眾或他人。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "公務人員經手大量人民的個人資料，若假借職務上的權力或管理個人資料之便，故意違法，下列哪一項可能是最嚴厲的處罰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "記過處分"
+        },
+        {
+          "key": "B",
+          "text": "賠錢"
+        },
+        {
+          "key": "C",
+          "text": "暫停職務"
+        },
+        {
+          "key": "D",
+          "text": "處有期徒刑。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者較不違反《著作權法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將目前上映的電影檔案放到網路上供人下載"
+        },
+        {
+          "key": "B",
+          "text": "將網路上無版權的音樂放到自己的部落格上供人下載"
+        },
+        {
+          "key": "C",
+          "text": "將網路漫畫家所畫的圖設為自己的大頭貼"
+        },
+        {
+          "key": "D",
+          "text": "分享網路上他人的盜版軟體網址。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)(Ｃ)(Ｄ)皆可能違反著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿達是一名郵差，有天他發現自己的高中同學小林的新家在某棟大樓，於是號召其他高中同學到他家給他一個驚喜。請問阿達是否違反《個資法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "否，因為阿達認識小林，所以不構成個資法"
+        },
+        {
+          "key": "B",
+          "text": "否，因為阿達屬於合理的使用"
+        },
+        {
+          "key": "C",
+          "text": "是，因為阿達沒有在小林同意的情況下透露住址"
+        },
+        {
+          "key": "D",
+          "text": "是，如果阿達自己去給驚喜則無罪。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種情形最有可能因違反《個人資料保護法》而受罰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "老師因為要做家庭訪問，而到教務處取得學生住址資料"
+        },
+        {
+          "key": "B",
+          "text": "老師發下聯絡資料表，請家長提供聯絡資料"
+        },
+        {
+          "key": "C",
+          "text": "老師將自己的手機號碼提供給學生及其家長"
+        },
+        {
+          "key": "D",
+          "text": "老師製作全班所有同學月考成績進退步比較表，請家長簽名。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者具有原創性著作財產權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿達在課堂上抄寫的筆記"
+        },
+        {
+          "key": "B",
+          "text": "翰翰寫給心儀女子的情書"
+        },
+        {
+          "key": "C",
+          "text": "小林在網路上發表的文章"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種情況可能觸犯《著作權法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小豪在網拍賣場中販售國外偷渡來的書籍"
+        },
+        {
+          "key": "B",
+          "text": "翰翰在電影院側錄電影並上傳到網路上"
+        },
+        {
+          "key": "C",
+          "text": "阿達在網路上販售二手正版軟體"
+        },
+        {
+          "key": "D",
+          "text": "小美在網路上播放自己唱歌的影片。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)偷渡可能觸犯走私條例；(Ｃ)無罪；(Ｄ)無罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問在網路上販售哪一種物品最重可能會被判死刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "毒品"
+        },
+        {
+          "key": "B",
+          "text": "手槍"
+        },
+        {
+          "key": "C",
+          "text": "贓車"
+        },
+        {
+          "key": "D",
+          "text": "色情軟體。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)最重被判無期徒刑；(Ｃ)(Ｄ)可能處以有期徒刑。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問在網路上販售未吃完的安眠藥是否有罪？為什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無罪，可以在網路上分享藥物的效果並販售"
+        },
+        {
+          "key": "B",
+          "text": "無罪，安眠藥不屬於管制藥物"
+        },
+        {
+          "key": "C",
+          "text": "有罪，網路上不得販售安眠藥"
+        },
+        {
+          "key": "D",
+          "text": "有罪，應銷售全新未拆裝之藥品。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "網路上販售藥物會觸犯《藥事法》，應避免銷售藥物。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者可以加以利用，不會違反《著作權法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "總統在公開場合發表的內容"
+        },
+        {
+          "key": "B",
+          "text": "教師在課堂中演示的教學簡報"
+        },
+        {
+          "key": "C",
+          "text": "在電視上所看到的韓劇內容"
+        },
+        {
+          "key": "D",
+          "text": "補習班的講義。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰為一名音樂家，他常常自創手機鈴聲供自己使用，請問他是否需經過申請才享有《著作權法》的保護？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是，需要向地方政府機關申請始具有著作權"
+        },
+        {
+          "key": "B",
+          "text": "是，需要向智慧財產局申請始具有著作權"
+        },
+        {
+          "key": "C",
+          "text": "是，須向學校機構申請，即可獲得著作權"
+        },
+        {
+          "key": "D",
+          "text": "否，創作一產生便擁有著作權。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小莉由於不滿小豪霸凌班上同學，私自在網路上發布小豪偷竊班上財物等不實的言論，請問小莉觸犯了何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "B",
+          "text": "偽造文書罪"
+        },
+        {
+          "key": "C",
+          "text": "誹謗罪"
+        },
+        {
+          "key": "D",
+          "text": "公然侮辱罪。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "誹謗罪為發布或散播毀人名聲的謠言。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於網路販售影音光碟的適切性，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以銷售自己燒錄的光碟，不會觸法"
+        },
+        {
+          "key": "B",
+          "text": "幫同學賣盜版光碟自己不會觸法，因為不是自己燒錄的"
+        },
+        {
+          "key": "C",
+          "text": "販售盜版軟體將違反《民法》，並須繳交賠償金給原著"
+        },
+        {
+          "key": "D",
+          "text": "如果音樂只有網路上有，則可以燒成光碟不會觸法。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)(Ｂ)(Ｄ)皆會觸犯《刑法》與《民法》。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種方式較無法防範駭客的入侵或攻擊？",
+      "options": [
+        {
+          "key": "A",
+          "text": "時常掃毒並移除非必要程式"
+        },
+        {
+          "key": "B",
+          "text": "不隨意關閉防火牆"
+        },
+        {
+          "key": "C",
+          "text": "使用遊戲外掛程式練功"
+        },
+        {
+          "key": "D",
+          "text": "不點開陌生人所發送的電子郵件。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "有些遊戲外掛程式內可能藏有木馬或其他病毒程式，導致個人電腦遭破解或入侵。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種行為觸犯妨害電腦使用罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網站上發布假訊息"
+        },
+        {
+          "key": "B",
+          "text": "複製他人文章做為自己的報告"
+        },
+        {
+          "key": "C",
+          "text": "在網站中銷售安非他命"
+        },
+        {
+          "key": "D",
+          "text": "設計木馬程式竊取他人個資。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(Ａ)可能觸犯恐嚇公眾罪等罪刑；(Ｂ)違反《著作權法》；(Ｃ)違反《毒品危害防制條例》。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林的公司因違反《個資法》而遭提出告訴，但對方卻無法證明實際總損害金額，請問依照民事損害賠償，法官應如何裁決規定每人求償之金額？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二百元以上、二萬元以下"
+        },
+        {
+          "key": "B",
+          "text": "五百元以上、二萬元以下"
+        },
+        {
+          "key": "C",
+          "text": "二百元以上、五萬元以下"
+        },
+        {
+          "key": "D",
+          "text": "五百元以上、五萬元以下。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為五百元以上、二萬元以下。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "翰翰為學校的幹事，他利用職務之便收集新生的資料，並提供給補習班招生。下列關於翰翰的行為，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "如果翰翰只提供學生的姓名與出生年月日，則不違法"
+        },
+        {
+          "key": "B",
+          "text": "翰翰的行為不構成《刑法》，只會受到《民法》與行政處罰的制裁，僅需賠償損失即可"
+        },
+        {
+          "key": "C",
+          "text": "受害家長可根據《國家賠償法》之規定申請國賠"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林發現自己所購買的電腦軟體已經到期，此時他應做什麼才不會觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "上網搜尋破解碼嘗試破解之"
+        },
+        {
+          "key": "B",
+          "text": "將軟體移除或找免費軟體代替"
+        },
+        {
+          "key": "C",
+          "text": "上網找尋盜版軟體"
+        },
+        {
+          "key": "D",
+          "text": "以上皆可。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關法律與倫理規範的敘述，哪一項未必正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "法律比倫理規範重要"
+        },
+        {
+          "key": "B",
+          "text": "倫理規範是自律，發自於良知以約束自己的行為"
+        },
+        {
+          "key": "C",
+          "text": "法律為他律，以外在的力量制裁違法的行為"
+        },
+        {
+          "key": "D",
+          "text": "人類社會先有倫理規範再有法律。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林玩線上遊戲時，覺得裝備很難取得，因此設計一款外掛程式自動取得裝備，請問他可能觸犯何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "破壞電磁紀錄罪"
+        },
+        {
+          "key": "B",
+          "text": "製作犯罪電腦程式罪"
+        },
+        {
+          "key": "C",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "此行為須侵入主機伺服器竄改電磁紀錄，因此構成破壞電磁紀錄罪、製作犯罪電腦程式罪與入侵電腦或其相關設備罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今即時通訊軟體非常方便，請問下列使用即時通訊軟體的方式何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以新增很多聯絡人，包含認識與不認識的"
+        },
+        {
+          "key": "B",
+          "text": "網路上看到不錯的文章可以轉傳分享給他人"
+        },
+        {
+          "key": "C",
+          "text": "可以安裝通訊軟體的外掛程式，增加功能"
+        },
+        {
+          "key": "D",
+          "text": "可以傳送重要的個資給他人。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿達很喜歡某部電影，因此使用錄影機錄製，打算再看第二次。請問阿達的行為是否違反《著作權法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "否，雖然有重製的行為發生，但因為只供個人使用，所以無違反《著作權法》"
+        },
+        {
+          "key": "B",
+          "text": "否，但他看一次就得丟棄，不得留存"
+        },
+        {
+          "key": "C",
+          "text": "否，但若與家人分享同看"
+        },
+        {
+          "key": "D",
+          "text": "是，有重製行為就會違反《著作權法》。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "由於供個人使用，屬於合理範圍，因此不違反著作權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "玩線上遊戲時，若出現下列何種行為可能會被官方停權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "男生反串成女角色"
+        },
+        {
+          "key": "B",
+          "text": "公開遊戲攻略方式"
+        },
+        {
+          "key": "C",
+          "text": "在遊戲中販售遊戲裝備"
+        },
+        {
+          "key": "D",
+          "text": "使用外掛程式練等升級。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者不是安全使用電腦內個人資料的做法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "規範不同人員可以讀取的個人資料檔案範圍"
+        },
+        {
+          "key": "B",
+          "text": "為了確保個人資料可以隨時取得，應該將登入密碼標示在鍵盤旁邊"
+        },
+        {
+          "key": "C",
+          "text": "個人資料使用完畢應該立即退出應用程式，並刪除紀錄"
+        },
+        {
+          "key": "D",
+          "text": "應利用帳號密碼管理電腦，避免個資外洩。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種狀況違反《個人資料保護法》？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林為了要寄信給朋友，向朋友收集地址資料"
+        },
+        {
+          "key": "B",
+          "text": "為了寄送成績單到家中，教師向學校蒐集班上同學的地址"
+        },
+        {
+          "key": "C",
+          "text": "補習班為了招生，向他人機構購買學生姓名及地址"
+        },
+        {
+          "key": "D",
+          "text": "學校將錄取明星學校的學生名單公布於學校網站中，並將每個姓名的中間字用 O 代替。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林懷疑女朋友出軌，因此未經女友同意就登入她的信箱閱讀信件，請問小林可能觸犯何種罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "入侵電腦或其相關設備罪"
+        },
+        {
+          "key": "B",
+          "text": "破壞電磁紀錄罪"
+        },
+        {
+          "key": "C",
+          "text": "干擾電腦或其相關設備罪"
+        },
+        {
+          "key": "D",
+          "text": "製作犯罪電腦程式罪。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小美由於被上司責罵，因此設計病毒程式入侵公司電腦並竊取上司的個資散佈於網路上，請問小美犯了那些罪刑？ (甲)製作犯罪電腦程式罪(乙)破壞電磁紀錄罪(丙)入侵電腦或其相關設備罪(丁)干擾電腦或其相關設備罪",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲乙"
+        },
+        {
+          "key": "B",
+          "text": "甲丙"
+        },
+        {
+          "key": "C",
+          "text": "乙丙"
+        },
+        {
+          "key": "D",
+          "text": "乙丁。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林是某保險公司的員工，他利用公務之便取得前女友的住家地址，並寄送恐嚇信到前女友家。請問小林犯了哪些罪刑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "恐嚇罪、《個資法》"
+        },
+        {
+          "key": "B",
+          "text": "《著作權法》、偽造文書罪"
+        },
+        {
+          "key": "C",
+          "text": "《槍砲彈藥刀械管制條例》、偽造文書罪"
+        },
+        {
+          "key": "D",
+          "text": "偽造文書罪、《個資法》。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "由於運用職務之便取得他人個資，犯了個資法；寄恐嚇信到他人家中，犯了恐嚇罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "非公務機關利用個人資料進行行銷時，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "應該取得當事人同意，才能進行"
+        },
+        {
+          "key": "B",
+          "text": "若違法，最高可處新臺幣五萬元以上五十萬元以下的罰鍰"
+        },
+        {
+          "key": "C",
+          "text": "違反《個資法》，不僅要受民事損害，還要負刑事責任與行政處罰"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

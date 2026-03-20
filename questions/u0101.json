@@ -1,0 +1,2615 @@
+{
+  "chapter": "1上 第1章 資訊科技導論",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "資訊產業間競爭激烈且產品生命週期短。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位時代所需具備的媒體素養較以往更加複雜與多元，除了傳統的媒體識讀，更要面對 AI 介入網路世界，以及人類操作 AI 創造的假訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在下列的對話中， 小明 侵害了他人的隱私權。 小華 ：你報告裡的圖，畫的好逼真喔，真佩服你。 小明 ：那張不是我畫的啦！ 小華 ：不然是從哪裡來的呢？ 小明 ：網路啊！網路隨便找，複製貼上都有。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著科技的進步，媒體不再只有平面媒體和電子媒體，也出現了影音分享平臺、直播等新的媒體方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "看到網路上的圖適合拿來交作業，可以隨意地使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上散播色情影音檔是違法的網路行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隱私權、著作與所有權都是網路禮儀和遵守社群規範的資訊倫理議題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊產業也稱為 IT 產業，是一種技術、智慧、知識密集型的產業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "因為在網路上沒人知道自己是誰，可以盡情在網路上謾罵他人來紓發情緒。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著科技的進步，生活和工作都方便許多，所以科技帶給我們的只有好處沒有壞處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "Alpha Go 電腦程式擊敗頂尖職業圍棋高手所運用的資訊技術是物聯網。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了讓網友認識自己，可以將自己的出生年月日、手機電話清楚標示在網路上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "智慧手環沒有提供個人健康管理功能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊產業的類別包含許多層面，例如：硬體製造、軟體設計、網路通訊等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技是指用於管理及處理資訊所採用的各種技術總稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "智慧型手錶完全沒有提升工作效率的功能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "APP 是只能應用在電腦上的應用程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "APP　也可以使用在智慧型手機、平板等。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技對我們生活當中的食、衣、住、行皆有影響，在「衣」方面，除了能從網路買衣服外，也可以拍全身照，並用手機試穿技術來了解款式的適合與否。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "某遊樂場有一「太空船」遊戲設施，只要看著螢幕，就有如親臨現場，相當震撼，所運用的資訊技術是虛擬實境。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "看到網路上的圖適合拿來交作業，可以隨意地使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我們可以在網路上公開全班同學的身分證字號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著科技的進步，媒體不再只有平面媒體和電子媒體，也出現了影音分享平臺、直播等新的媒體方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "要防止無線網路被人盜連，要為無線網路基地台設定密碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在使用網路時，也要注意到資料保護及資訊安全。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "Facebook 是知名的社群網站。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上散播色情影音檔是違法的網路行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "微軟公司 （ Microsoft ）每隔一段時間就會推出 Windows 新的作業系統修正檔，這是為了修補作業系統安全漏洞，以免招受網路攻擊。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路現場直播自己創意舞蹈是違法的網路行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "因為在網路上沒人知道自己是誰，可以盡情在網路上謾罵他人來紓發情緒。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技對我們生活當中的食、衣、住、行皆有影響，路線、大眾運輸的 APP 都能讓我們更方便到達目的地，是「行」方面的影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隱私權、著作與所有權都是網路禮儀和遵守社群規範的資訊倫理議題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技對我們生活當中的食、衣、住、行皆有影響，大眾現在租屋、住屋、外出旅遊住宿皆可在網路上下訂，是「衣」方面的影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技對我們生活當中的食、衣、住、行皆有影響，例如：因生活繁忙而利用美食訂購平臺來下訂外送餐服務，就是「食」方面的影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿亮 因為喜歡 金庸 武俠小說的內容，將小說的內容掃描成文字檔供人下載，這樣的行為觸犯 個人資料保護法 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著科技的進步，生活和工作都方便許多，所以科技帶給我們的只有好處沒有壞處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "訓練飛機駕駛員可以運用虛擬實境（ VR ）技術。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "直播可以透過剪接及後製，將最完美的一面呈現給觀眾。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "直播可以透過網路的即時性將最真實的一面呈現給觀眾。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊產業雖然產業間競爭劇烈，但是對於其從業人員的素質要求不高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "資訊產業對於其從業人員素質要求高。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "偽造遊戲網站以騙取使用者帳號和密碼的行為稱之為網路釣魚。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊產業也稱為 MIT 產業，是一種技術、智慧、知識密集型的產業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技的功能日趨強大，操作上親和性也逐步提高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "下列的對話中， 小明 的行為是一種網路霸凌。 小華 ：你昨天在社群網站所寫的文章是真的嗎？ 小明 ：管他是真的是假的，我只是要別人關注啦！ 小華 ：那如果不是真的怎麼辦，大家說不定會相信。 小明 ：反正網路上有那麼多假訊息，又沒關係。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "小明的行為是散布不實資訊。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "下列的對話中， 小明 侵害了他人的隱私權。 小華 ：你怎麼會知道 小美 帳號的密碼啊？ 小明 ：你不知道我可是電腦高手嗎？ 小華 ：什麼意思？所以你駭進她的帳號喔！ 小明 ：對阿，因為我很喜歡她，想知道她都喜歡些什麼，都跟別人聊些什麼啊？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在下列的對話中， 小明 侵害了他人的隱私權。 小華 ：你報告裡的圖畫的好逼真喔，真佩服你。 小明 ：那張不是我畫的啦！ 小華 ：不然是從哪裡來的呢？ 小明 ：網路啊！網路隨便找，複製貼上都有。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊產業間競爭激烈且產品生命週期短。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "防火牆是一種可以過濾資料來源的網路安全防護設施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技只有特定工作才能使用，一般民眾不能接觸。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "資訊科技已經發展到一般民眾都可以輕易使用。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "Facebook 為社群網路服務，中文譯名廣泛稱為臉書，原先註冊僅限於 哈佛學院 院生。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "E-mail 為電子郵件，是一種寄件人只可將數位資訊傳送給單一人的資訊交換方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "E-mail　可同時將數位資訊傳給單一或多人。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "APP 為 Mobile Application 的簡稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "難",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "確實使用網路安全機制 https 進行加密處理後，才能在網路上傳遞檔案或訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "difficulty": "難",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於資訊產業的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對其從業人員素質要求高"
+        },
+        {
+          "key": "B",
+          "text": "產業間競爭激烈"
+        },
+        {
+          "key": "C",
+          "text": "產品生命週期長"
+        },
+        {
+          "key": "D",
+          "text": "產業營運國際化程度高。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今資訊發達，不再只有以往的平面媒體，也出現了許多不同種類的新興媒體。關於媒體的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳統的平面媒體包含了報紙、雜誌等。"
+        },
+        {
+          "key": "B",
+          "text": "電子媒體有廣播、電視等。"
+        },
+        {
+          "key": "C",
+          "text": "新興的媒體：社群媒體（如 FB 、 IG ）、串流媒體（如公視＋、 YouTube 、 Netflix 、 Disney ＋）。"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿亮 因為喜歡日本連載漫畫的內容，將漫畫的內容掃描成圖檔供人下載，這樣的行為觸犯下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "刑法"
+        },
+        {
+          "key": "B",
+          "text": "民法"
+        },
+        {
+          "key": "C",
+          "text": "著作權法"
+        },
+        {
+          "key": "D",
+          "text": "個人資料保護法。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是違法的網路行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網路上散播色情影音檔"
+        },
+        {
+          "key": "B",
+          "text": "傳送群組訊息一同團購禮品"
+        },
+        {
+          "key": "C",
+          "text": "呼朋引伴玩網路對戰遊戲"
+        },
+        {
+          "key": "D",
+          "text": "網路現場直播自己創意舞蹈。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於附圖的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "杜絕不實資訊的散布。"
+        },
+        {
+          "key": "B",
+          "text": "不隨意盜取圖片，尊重他人的著作權。"
+        },
+        {
+          "key": "C",
+          "text": "安全認證系統可以保障大多數使用者的權益。"
+        },
+        {
+          "key": "D",
+          "text": "避免使用盜版軟體。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是虛擬實境的英文與縮寫？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Virtual Reality ，簡稱 VR 。"
+        },
+        {
+          "key": "B",
+          "text": "Internet of Things ，簡稱 IoT 。"
+        },
+        {
+          "key": "C",
+          "text": "Augmented Reality ，簡稱 AR 。"
+        },
+        {
+          "key": "D",
+          "text": "Mixed Reality ，簡稱 MR 。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問以下對話中， 曉琳 違反了哪種數位公民素養？ 明翰 ：妳這次作文寫得好棒唷！ 曉琳 ：當然呀！我在網路上精挑細選的文章，再直接複製貼上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "違反著作權"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "C",
+          "text": "散布不實資訊"
+        },
+        {
+          "key": "D",
+          "text": "違反隱私權。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在便捷的數位環境中，除了生活及工作更方便外，社會也更加開放，但同時衍生很多新的議題，下列何者 不是 相關議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路犯罪頻傳"
+        },
+        {
+          "key": "B",
+          "text": "食物生產過剩"
+        },
+        {
+          "key": "C",
+          "text": "侵害他人著作權"
+        },
+        {
+          "key": "D",
+          "text": "竊取個人資料。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是資訊產業的類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路通訊"
+        },
+        {
+          "key": "B",
+          "text": "硬體製造"
+        },
+        {
+          "key": "C",
+          "text": "軟體設計"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種行為 不會 遭遇到網路危險？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網路上分享自己私密的照片。"
+        },
+        {
+          "key": "B",
+          "text": "透過網路轉帳購買來路不明的手機。"
+        },
+        {
+          "key": "C",
+          "text": "在網路遊戲中與人組隊共享帳號密碼。"
+        },
+        {
+          "key": "D",
+          "text": "確實使用網路安全機制進行加密處理後，才在網路上傳遞檔案或訊息。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於資訊科技的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊科技的功能越來越強大"
+        },
+        {
+          "key": "B",
+          "text": "操作上親和性逐漸提高"
+        },
+        {
+          "key": "C",
+          "text": "一般民眾皆可以使用資訊科技"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "訓練飛行員可以運用何種電腦科技來避免人員與飛機的實際損失？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電腦輔助設計（ CAD ）"
+        },
+        {
+          "key": "B",
+          "text": "電腦輔助製造（ CAM ）"
+        },
+        {
+          "key": "C",
+          "text": "無線射頻辨識（ RFID ）"
+        },
+        {
+          "key": "D",
+          "text": "虛擬實境（ VR ）。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在便捷的數位環境中，除了生活及工作更方便外，社會也更加開放，但也衍生很多新的議題，下列哪些議題並非相關議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路犯罪頻傳"
+        },
+        {
+          "key": "B",
+          "text": "食物生產過剩"
+        },
+        {
+          "key": "C",
+          "text": "侵害他人著作權"
+        },
+        {
+          "key": "D",
+          "text": "竊取個人資料。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿祥 喜歡韓劇的影集，在自己網站上放相關的影片供人下載，這樣的行為是否違法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "違法，觸犯刑法不當得利罪"
+        },
+        {
+          "key": "B",
+          "text": "不違法，相關的法令已廢除"
+        },
+        {
+          "key": "C",
+          "text": "違法，觸犯著作權法"
+        },
+        {
+          "key": "D",
+          "text": "不違法，因為沒有用來營利。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問以下對話中， 小明 和 小華 違反了哪種數位公民素養？ 小華 ： 小美 真的又胖又醜！ 小明 ：對阿，睡覺還會流口水，我要把她的照片上傳到網路上，讓大家一起笑她。 小華 ：好啊好啊！那我來幫你分享，讓全世界的人都知道。",
+      "options": [
+        {
+          "key": "A",
+          "text": "違反著作權"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "C",
+          "text": "散布不實資訊"
+        },
+        {
+          "key": "D",
+          "text": "違反隱私權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對我們生活當中的食、衣、住、行、育、樂皆有影響，下列何者是在「行」方面的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "租屋、住屋、外出旅遊住宿皆可在網路上下訂"
+        },
+        {
+          "key": "B",
+          "text": "因生活繁忙而利用美食訂購平臺來下訂外送餐服務"
+        },
+        {
+          "key": "C",
+          "text": "路線、大眾運輸的 APP 都能讓我們更方便到達目的地"
+        },
+        {
+          "key": "D",
+          "text": "除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)租屋、住屋、外出旅遊住宿皆可在網路上下訂—住；(Ｂ)因生活繁忙而利用美食訂購平臺來下訂外送餐服務—食；(Ｄ)除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否—衣。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問以下對話中， 小明 違反了哪種數位公民素養？ 小華 ：你昨天在社群網站所寫的文章是真的嗎？ 小明 ：管他是真的是假的，我只是要別人關注啦！ 小華 ：那如果不是真的怎麼辦，大家說不定會相信。 小明 ：反正網路上有那麼多假訊息，又沒關係。",
+      "options": [
+        {
+          "key": "A",
+          "text": "違反著作權"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "C",
+          "text": "散布不實資訊"
+        },
+        {
+          "key": "D",
+          "text": "違反隱私權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在現在資訊發達的時代，何種行為較 不可能 出現？",
+      "options": [
+        {
+          "key": "A",
+          "text": "線上訂購交通票券"
+        },
+        {
+          "key": "B",
+          "text": "利用手機 APP 來訂購美食"
+        },
+        {
+          "key": "C",
+          "text": "在網路學習新知識"
+        },
+        {
+          "key": "D",
+          "text": "親自到銀行才能匯款。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於附圖的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "杜絕不實資訊的散布"
+        },
+        {
+          "key": "B",
+          "text": "不隨意盜取圖片，尊重他人的著作權"
+        },
+        {
+          "key": "C",
+          "text": "安全認證系統可以保障大多數使用者的權益"
+        },
+        {
+          "key": "D",
+          "text": "避免使用盜版軟體。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [
+          "u0101_image004.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對我們生活當中的食、衣、住、行、育、樂皆有影響，下列何者是在「衣」方面的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "租屋、住屋、外出旅遊住宿皆可在網路上下訂"
+        },
+        {
+          "key": "B",
+          "text": "因生活繁忙而利用美食訂購平臺來下訂外送餐服務"
+        },
+        {
+          "key": "C",
+          "text": "路線、大眾運輸的 APP 都能讓我們更方便到達目的地"
+        },
+        {
+          "key": "D",
+          "text": "除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)租屋、住屋、外出旅遊住宿皆可在網路上下訂—住；(Ｂ)因生活繁忙而利用美食訂購平臺來下訂外送餐服務—食；(Ｄ)除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否—衣。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對我們生活當中的食、衣、住、行、育、樂皆有影響，下列何者是在「樂」方面的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網站上有許多的線上學習系統，只要在有網路的地方都可以學習"
+        },
+        {
+          "key": "B",
+          "text": "有許多看電影、聽音樂、遊戲的 APP"
+        },
+        {
+          "key": "C",
+          "text": "路線、大眾運輸的 APP 都能讓我們更方便到達目的地"
+        },
+        {
+          "key": "D",
+          "text": "除了能從網路買衣服外，也可以拍全身照，並用手機試穿技術來了解款式的適合與否。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)租屋、住屋、外出旅遊住宿皆可在網路上下訂—住；(Ｂ)因生活繁忙而利用美食訂購平臺來下訂外送餐服務—食；(Ｄ)除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否—衣。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對我們生活當中的食、衣、住、行、育、樂皆有影響，下列何者是在「食」方面的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "租屋、住屋、外出旅遊住宿皆可在網路上下訂"
+        },
+        {
+          "key": "B",
+          "text": "因生活繁忙而利用美食訂購平臺來下訂外送餐服務"
+        },
+        {
+          "key": "C",
+          "text": "路線、大眾運輸的 APP 都能讓我們更方便到達目的地"
+        },
+        {
+          "key": "D",
+          "text": "除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)租屋、住屋、外出旅遊住宿皆可在網路上下訂—住；(Ｂ)因生活繁忙而利用美食訂購平臺來下訂外送餐服務—食；(Ｄ)除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否—衣。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對於我們的生活有什麼影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以透過網路進行線上學習"
+        },
+        {
+          "key": "B",
+          "text": "資訊更不容易傳遞給其他人"
+        },
+        {
+          "key": "C",
+          "text": "工作上的效率降低"
+        },
+        {
+          "key": "D",
+          "text": "一般民眾生活的步調放慢。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)資訊更容易傳遞給其他人；(Ｃ)工作上的效率提高；(Ｄ)一般民眾生活的步調加快。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問以下對話中， 小明 違反了哪種數位公民素養？ 小華 ：你怎麼會知道 小美 帳號的密碼阿？ 小明 ：你不知道我可是電腦高手嘛！ 小華 ：什麼意思？所以你駭進他的帳號喔！ 小明 ：對阿，因為我很喜歡他，想知道他都喜歡些什麼，都跟別人聊些什麼啊？",
+      "options": [
+        {
+          "key": "A",
+          "text": "違反著作權"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "C",
+          "text": "散布不實資訊"
+        },
+        {
+          "key": "D",
+          "text": "違反隱私權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問以下對話中， 小明 違反了哪種數位公民素養？ 小華 ：你報告裡的圖畫的好逼真喔，真佩服你。 小明 ：那張不是我畫的啦！ 小華 ：不然是從哪裡來的呢？ 小明 ：網路啊！網路隨便找，複製貼上都有。",
+      "options": [
+        {
+          "key": "A",
+          "text": "違反著作權"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "C",
+          "text": "散布不實資訊"
+        },
+        {
+          "key": "D",
+          "text": "違反隱私權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪些是資訊產業的類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路通訊"
+        },
+        {
+          "key": "B",
+          "text": "硬體製造"
+        },
+        {
+          "key": "C",
+          "text": "軟體設計"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是一位具有數位公民基本素養應該有的行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "停止散播不實資訊"
+        },
+        {
+          "key": "B",
+          "text": "散布電腦病毒"
+        },
+        {
+          "key": "C",
+          "text": "非法入侵他人網站"
+        },
+        {
+          "key": "D",
+          "text": "竊取個人資料"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對我們生活當中的食、衣、住、行、育、樂皆有影響，下列何者是在「住」方面的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "租屋、住屋、外出旅遊住宿皆可在網路上下訂"
+        },
+        {
+          "key": "B",
+          "text": "因生活繁忙而利用美食訂購平臺來下訂外送餐服務"
+        },
+        {
+          "key": "C",
+          "text": "路線、大眾運輸的 APP 都能讓我們更方便到達目的地"
+        },
+        {
+          "key": "D",
+          "text": "除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)租屋、住屋、外出旅遊住宿皆可在網路上下訂—住；(Ｂ)因生活繁忙而利用美食訂購平臺來下訂外送餐服務—食；(Ｄ)除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否—衣。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於網路上的禮儀規範敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "言論—因為可以匿名留言，所以不需注意過度的激烈言詞"
+        },
+        {
+          "key": "B",
+          "text": "使用者—若與他人共享頻寬，勿佔用過大的頻數"
+        },
+        {
+          "key": "C",
+          "text": "網路規範—每個網站有許多不同的規定，應了解並遵守"
+        },
+        {
+          "key": "D",
+          "text": "法律界限—應注重他人的著作權和隱私權。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ａ)網路是個開放空間，有時可匿名留言，所以切忌出現揭露他人的隱私言論，也勿使用過度激烈言詞及散布謠言。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "身為一位有資訊素養的公民， 不應該 出現下列何種表現？",
+      "options": [
+        {
+          "key": "A",
+          "text": "尊重他人的隱私權"
+        },
+        {
+          "key": "B",
+          "text": "竊取個人資料和圖片"
+        },
+        {
+          "key": "C",
+          "text": "培養得體的網路禮儀"
+        },
+        {
+          "key": "D",
+          "text": "遵守網路社群規範。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊科技對我們生活當中的食、衣、住、行、育、樂皆有影響，下列何者是在「育」方面的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網站上有許多的線上學習系統，只要在有網路的地方都可以學習"
+        },
+        {
+          "key": "B",
+          "text": "有許多看電影、聽音樂、遊戲的 APP"
+        },
+        {
+          "key": "C",
+          "text": "路線、大眾運輸的 APP 都能讓我們更方便到達目的地"
+        },
+        {
+          "key": "D",
+          "text": "除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)租屋、住屋、外出旅遊住宿皆可在網路上下訂—住；(Ｂ)因生活繁忙而利用美食訂購平臺來下訂外送餐服務—食；(Ｄ)除了能從網路買衣服外，也可以拍全身照，並手機試穿技術來了解款式的適合與否—衣。",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "大同 在網咖上網，擔心自己瀏覽網站的記錄會被下一個使用者取得，瀏覽器提供什麼功能可以幫他保障隱私權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "我的最愛"
+        },
+        {
+          "key": "B",
+          "text": "防止網路釣魚"
+        },
+        {
+          "key": "C",
+          "text": "新增頁籤"
+        },
+        {
+          "key": "D",
+          "text": "無痕模式。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "微軟公司 （ Microsoft ）每隔一段時間就會推出 Windows 新的作業系統修正檔，並提醒用戶趕快去下載及更新，這是為了何種考量？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加賣點"
+        },
+        {
+          "key": "B",
+          "text": "修補安全漏洞"
+        },
+        {
+          "key": "C",
+          "text": "與用戶保持交流"
+        },
+        {
+          "key": "D",
+          "text": "提高市佔率。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿亮 因為喜歡 金庸 小說的內容，將小說的內容掃描成文字檔供人下載，這樣的行為觸犯",
+      "options": [
+        {
+          "key": "A",
+          "text": "刑法"
+        },
+        {
+          "key": "B",
+          "text": "民法"
+        },
+        {
+          "key": "C",
+          "text": "著作權法"
+        },
+        {
+          "key": "D",
+          "text": "個人資料保護法 。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者與電腦程式擊敗頂尖職業圍棋高手所運用的資訊技術最相關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "物聯網"
+        },
+        {
+          "key": "B",
+          "text": "人工智慧"
+        },
+        {
+          "key": "C",
+          "text": "人機介面"
+        },
+        {
+          "key": "D",
+          "text": "電腦輔助教。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是違法的網路行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網路上散播色情影音檔"
+        },
+        {
+          "key": "B",
+          "text": "傳送群組訊息一同團購禮品"
+        },
+        {
+          "key": "C",
+          "text": "呼朋引伴玩網路對戰遊戲"
+        },
+        {
+          "key": "D",
+          "text": "網路現場直播自己創意舞蹈。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於資訊產業的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對其從業人員素質要求高"
+        },
+        {
+          "key": "B",
+          "text": "產業間競爭激烈"
+        },
+        {
+          "key": "C",
+          "text": "產品生命週期長"
+        },
+        {
+          "key": "D",
+          "text": "產業營運國際化程度高。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於社群媒體的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tumblr —電子郵件，指寄件人可將數位資訊傳送給一人或多人的資訊交換方式"
+        },
+        {
+          "key": "B",
+          "text": "Facebook —新聞的入口網站，可關注全世界的資訊及不同類型的新聞"
+        },
+        {
+          "key": "C",
+          "text": "Blogger —部落格，可在此平臺上發布文章"
+        },
+        {
+          "key": "D",
+          "text": "E-mail —社群網路服務，中文譯名廣泛稱為臉書。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)　E-mail　—電子郵件，指寄件人可將數位資訊傳送給一人或多人的資訊交換方式；(Ｂ)　Yahoo　新聞—新聞的入口網站，可關注全世界的資訊及不同類型的新聞；(Ｄ)　Facebook　—社群網路服務，中文譯名廣泛稱為臉書。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於社群媒體的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Facebook —社群網路服務，原先註冊僅限於 哈佛 學院院生"
+        },
+        {
+          "key": "B",
+          "text": "Instagram —社交應用軟體，可分享攝影及視訊給平臺使用者"
+        },
+        {
+          "key": "C",
+          "text": "LinkedIn —社交應用軟體，主要使用族群為職場人，可以放上個人履歷在網站上增加自己商場競爭力"
+        },
+        {
+          "key": "D",
+          "text": "Tumblr —社交應用軟體，以不超過 280 字數來分享文章，非註冊戶也可以閱讀公開貼文。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)　E-mail　—電子郵件，指寄件人可將數位資訊傳送給一人或多人的資訊交換方式；(Ｂ)　Yahoo　新聞—新聞的入口網站，可關注全世界的資訊及不同類型的新聞；(Ｄ)　Facebook　—社群網路服務，中文譯名廣泛稱為臉書。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者最能確保通訊資料的安全性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "壓縮資料"
+        },
+        {
+          "key": "B",
+          "text": "備份資料"
+        },
+        {
+          "key": "C",
+          "text": "分割資料"
+        },
+        {
+          "key": "D",
+          "text": "加密資料。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今資訊發達，社會產生許多新的議題，相當廣泛，下列何者並 不是 關於資訊的新議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "B",
+          "text": "網路散布不實謠言"
+        },
+        {
+          "key": "C",
+          "text": "杜絕隱私權和著作權的問題"
+        },
+        {
+          "key": "D",
+          "text": "過度依賴電子產品。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "隨著科技的發展，凸顯出越來越多的隱私權和著作權問題",
+      "difficulty": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於網路倫理的相關敘述，何者最正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以將喜歡的音樂和影片隨意分享在網路上"
+        },
+        {
+          "key": "B",
+          "text": "網路具有匿名性，使用者不一定知道他人在現實生活中的身份"
+        },
+        {
+          "key": "C",
+          "text": "因為在網路上沒人知道自己是誰，可以盡情在網路上罵人來發洩情緒"
+        },
+        {
+          "key": "D",
+          "text": "為了讓網友認識自己，要將自己的身分證號碼、電話、地址清楚標示在網路上。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種行為 不會 遭遇到網路危險？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網路上分享自己私密的照片"
+        },
+        {
+          "key": "B",
+          "text": "透過網路轉帳購買來路不明的手機"
+        },
+        {
+          "key": "C",
+          "text": "在網路遊戲中與人組隊共享帳號密碼"
+        },
+        {
+          "key": "D",
+          "text": "確實使用網路安全機制進行加密處理後，才在網路上傳遞檔案或訊息。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於 APP 的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "英文為 Mobile Application 的簡稱"
+        },
+        {
+          "key": "B",
+          "text": "中文稱為行動應用程式"
+        },
+        {
+          "key": "C",
+          "text": "只能用在電腦上的軟體"
+        },
+        {
+          "key": "D",
+          "text": "為大家的生活帶來更多的便利。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "國道計程 eTag 電子標籤機制，與下列哪一項技術最有關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "全球定位系統（ Global Positioning System ， GPS ）"
+        },
+        {
+          "key": "B",
+          "text": "無線射頻識別（ Radio Frequency Identification ， RFID ）"
+        },
+        {
+          "key": "C",
+          "text": "條碼（ Bar Code ）"
+        },
+        {
+          "key": "D",
+          "text": "擴增實境（ Augmented Reality ， AR ）。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "一個國家的 IT 產業發展，往往會帶動其他產業的數位化，創造異於傳統的商業模式，請問根據以上敘述，我們的生活將會產生哪些改變？",
+      "options": [
+        {
+          "key": "A",
+          "text": "經濟活動更活絡"
+        },
+        {
+          "key": "B",
+          "text": "社會活動更多元"
+        },
+        {
+          "key": "C",
+          "text": "民眾生活方式更多樣化"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "公車動態資訊系統與下列哪一項技術最相關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "虛擬實境（ Virtual Reality ， VR ）"
+        },
+        {
+          "key": "B",
+          "text": "擴增實境（ Augmented Reality ， AR ）"
+        },
+        {
+          "key": "C",
+          "text": "全球定位系統（ Global Positioning System ， GPS ）"
+        },
+        {
+          "key": "D",
+          "text": "藍芽（ Bluetooth ）。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種行為符合網路倫理的規範？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在部落格發表自己的遊記"
+        },
+        {
+          "key": "B",
+          "text": "上傳租來的影片到 YouTube"
+        },
+        {
+          "key": "C",
+          "text": "在網路上公開全班同學的身分證字號"
+        },
+        {
+          "key": "D",
+          "text": "暫用他人的 Facebook 帳號來攻擊別人。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於 IT 產業發展的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因屬於技術型產業，所以其他行業較無相關"
+        },
+        {
+          "key": "B",
+          "text": "促進產業升級，創造異於傳統的商業模式"
+        },
+        {
+          "key": "C",
+          "text": "會讓產業產生組織及營運模式改變"
+        },
+        {
+          "key": "D",
+          "text": "產業數位化。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於新興媒體的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "YouTube ─ 影音分享平臺，源自於 臺灣 的影片分享網站"
+        },
+        {
+          "key": "B",
+          "text": "直播可以透過剪接及後製，將最真實的一面呈現給觀眾"
+        },
+        {
+          "key": "C",
+          "text": "Tumblr —微部落格社交媒體，使用者可針對有興趣的主題關注，也可以自行發文分享"
+        },
+        {
+          "key": "D",
+          "text": "Facebook 、 Instagram 、 Yahoo 奇摩新聞都是社交應用軟體，可自行發表文章。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)　YouTube　中文可稱為影音分享平臺，源自於美國的影片分享網站；(Ｂ)直播可以透過網路的即時性將最真實的一面呈現給觀眾；(Ｄ)　Facebook、Instagram　都是社交應用軟體，可自行發表文章。",
+      "difficulty": "中",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今資訊發達，不再只有以往的平面媒體，也出現了許多不同種類的新興媒體。關於媒體的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳統的平面媒體包含了報紙、雜誌等"
+        },
+        {
+          "key": "B",
+          "text": "電子媒體有廣播、電視等"
+        },
+        {
+          "key": "C",
+          "text": "新興的媒體有分享平臺（ YouTube ）、直播（ Live broadcast ）等"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "difficulty": "易",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種網路種類所涵蓋的範圍最大？",
+      "options": [
+        {
+          "key": "A",
+          "text": "都會網路"
+        },
+        {
+          "key": "B",
+          "text": "廣域網路"
+        },
+        {
+          "key": "C",
+          "text": "區域網路"
+        },
+        {
+          "key": "D",
+          "text": "三者涵蓋範圍相同。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "網路涵蓋範圍：廣域網路＞都會網路＞區域網路。",
+      "difficulty": "難",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於資訊產業的特性與種類敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊產業也稱為 IT 產業"
+        },
+        {
+          "key": "B",
+          "text": "影響的層面廣泛，包含硬體製造、軟體設計等"
+        },
+        {
+          "key": "C",
+          "text": "眾多國家將其視為較落後的產業，所以不被重視"
+        },
+        {
+          "key": "D",
+          "text": "一種技術、智慧、知識密集型的產業。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "在眾多產業當中，許多國家將資訊產業被視為重點發展項目。",
+      "difficulty": "難",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

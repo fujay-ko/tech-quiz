@@ -1,0 +1,4210 @@
+{
+  "chapter": "1下 第6章 數位著作合理使用原則",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "博物館展示當代藝術家的藝術作品，只要有獲得授權就不會違反著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作人格權在保護著作人的人格及聲譽，著作財產權則指著作人享有其創作之著作的專有權利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "真真 在社群媒體上公開發布了一首自己創作的短詩，因為沒有出版，所以不受著作權法的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "融融 是一名作家，為了保障自己的著作權，每寫好一本書後，需趕快去申請著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在製作畢業影片時，可以直接下載網友分享的流行歌曲作為背景音樂，不會觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "要分享他人在臉書的文章，必須先經過原著作人的同意才可以轉發。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只要經過作者同意就可以直接引用其著作，不需標明出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "凱凱 放假到外國旅遊的時候，買了幾片盜版音樂光碟，想帶回 臺灣 分送給親友，由於不在國內購買，所以不屬於違法行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "宏宏 將網路上看到的某張圖片下載來自己使用，並沒有散布出去，他可以主張合理使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小花 撰寫報告時，可以合理的使用他人的文章與著作，並且需標明出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "花花 購買新電腦時要商家代灌盜版軟體在自己的新電腦裡面，是侵害著作權的行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "自由軟體是指在使用授權時，賦予軟體使用者可以有使用、研究、散布及改良的四項自由的軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在學習活動過程，例如：撰寫報告等，經常會引用他人的資料或著作，引用也是重製行為，但如果符合合理使用，則不須特別註明被引用著作的出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "仍須註明引用著作之出處。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "創用 CC 四種主要元素分別為姓名標示、非商業性、禁止改作、相同方式分享。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "創作意指著作的完成是著作人獨力或與他人合作，透過心智活動所產生的結果。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在製作畢業影片時，可以直接下載網友分享的流行歌曲作為背景音樂，不會觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在學習活動過程，例如：撰寫報告等，經常會引用他人的資料或著作，即使合乎合理使用，也應註明被引用著作的出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "仍須註明引用著作之出處。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權法把著作權分為著作人格權及著作財產權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作財產權保護的期間，是著作人生存的期間到離世後的 10 年。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "保障其應為離世後　50　年。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我們在聽音樂會時，可以錄音或錄影轉傳給親友，不會違反著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作人格權專屬於著作人本身，不得讓與或繼承。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我們不能隨便上網下載盜版的軟體，這可能會侵犯著作權法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我們可以善用自由軟體，就可以免去購買商用軟體的經費。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "凱凱 放假到外國旅遊的時候，買了幾片盜版音樂光碟，想帶回 臺灣 分送給親友，由於不在國內，所以不屬於違法行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "包括重製、公開口述、公開播送、公開上映、公開演出、公開傳輸、公開展示、改作、移轉所有權及出租其著作等，都屬於著作人格權的保障範圍。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應屬於著作財產權的保障範圍。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小宏 從書店買了一套書，看完後拿到網站上拍賣，這樣的作法違反著作權法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "創用 CC 共有五種授權條款方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "共有六種。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "姓名標示、非商業性、相同方式分享為創用 CC 的六種授權條款之一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "姓名標示授權為創用 CC 的六種授權條款之一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我國著作權法規定：著作人於著作完成時享有著作權；也就是只要著作創作完成，就受到著作權法保護，不需要向任何機關、組織註冊或登記。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "播放新聞時使用外電報導的行為，並不符合著作權的合理使用原則。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "融融 是一名作家，為了保障自己的著作權，他每寫好一本書後需趕快去申請著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在著作權引用的比例原則中，引用幾句應屬合理，但若引用整段或數段則需註明被引用著作的出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "整段或數段引用已超出著作權合理使用範圍。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "將哥哥的作文原封不動拿去交作業，這是一種侵犯著作權的錯誤行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "拒買盜版品除了可以避免自己觸法外，也是用來抵制盜版商不再製造盜版品的最佳途徑。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "創作物所表達的思想、程序、製程、系統、操作方法、概念、原理、發現等，皆受著作權的保護。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權法立法的目的是為了保障著作人之著作權，即便是考量社會公益及國家文化發展的前提下也不得例外。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "姓名標示、非商業性為創用 CC 的六種授權條款之一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "博物館中常常會展示當代藝術家的藝術作品，這不會違反著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "一般而言，絕大部分的開源碼軟體也都符合自由軟體的定義，故所有的開源碼軟體都能被稱為自由軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不是所有的開源碼軟體都能被稱為自由軟體，原始碼即使公開了，但是如果使用者的自由仍然得不到尊重，那麼公開原始碼也沒有意義。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "具體的說，透過資訊科技的技術而產生的創作就是數位著作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "使用者可以在創用 CC 條款中挑選最適合自己的授權條款，並標示於作品上，供大眾使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "老師上課的講義及簡報檔，因並未正式發表，屬於不受著作權法保護的語文著作。同學若要保留老師上課的實況而拍照，或錄音、錄影，以便課後複習，不需特別徵得老師的同意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "週會時，學校邀請校外專家演講地球暖化及氣候變遷，為了保存其有價值的演講內容，聽者可以在講者授權的前提下對演講進行錄音、錄影。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "非商業性、禁止改作為創用 CC 的六種授權條款之一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "創用　CC　的六種授權條款中，皆有包含「姓名標示」之授權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "創用 CC 的六種授權條款中皆包含「姓名標示」之授權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "就算是老師為了教學，也不能擷取電影中的某片段作為課程介紹使用，否則會觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "只要是在合理範圍內，且依該著作之種類、用途及其重製物之數量、方法，不會有害於著作財產權人之利益者，均被允許。不過別忘了註明出處，以示尊重著作人格權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作的合理使用是指讓利用人不需要經著作人授權，在合理範圍內利用他人著作，且不會構成著作財產權的侵害。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "要分享他人在臉書的文章必須先經過原著的同意才可以轉發。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權合理使用所利用的著作量在整個著作所占之比例以少量為宜，利用結果才不會影響原著作的潛在市場。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "因研究而寫文章，也把引用他人發表的文章註明出處，符合著作的合理使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "商用軟體不允許使用者複製與改良，否則可能觸犯著作權法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "影印、下載、轉貼皆屬於著作權中所規範為重製之行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "把既有的著作以翻譯、編曲、改寫、拍攝為影片等方式，另發揮創意改作所得的作品，也稱為改作著作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "從小說改編拍攝成電影，電影就是小說的衍生著作，但原視聽著作所應享有的著作權，衍生著作無法同時享有。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小宏 到圖書館找論文資料，而他最多只能影印一份論文集中的單篇著作，才不會違反著作權法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權的保障範圍包含語文、音樂、戲劇舞蹈、攝影、美術、建築、視聽、錄音、電腦程式等十種著作及其衍生著作，包含數位著作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "學校中舉辦經常性的活動（如週一到週五的晨操）使用已公開播映的著作為合理使用的範圍。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "經常性活動中的使用已超出著作權合理使用範圍。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在百貨公司、店家播放的音樂不需要經過音樂著作財產權人同意，可以逕行播放。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權法分為著作人格權與著作財產權，而著作財產權可以轉讓給他人，也可由繼承人依法繼承。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "合理使用是著作權法所特別賦予利用人的許可，而不是利用人的權利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權法中，合理使用規定較明確者，也就是在公共圖書館或文教機構等，得重製著作期刊或已公開發表之研討會論文集的單篇著作，但每人以三份為限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "以一份為限。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只要經過作者同意就可以直接引用其著作，不需標明出處。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "免費軟體不向使用者收取任何費用，但原始碼不一定會公開，且不允許研究、修改及複製等，因此，免費軟體未必是自由軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "學校中的音樂課在課堂上完整播放未經授權的曲目，因為是教學用途，並不會對著作權造成侵害，屬於著作的合理使用範圍。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小花 撰寫報告時，只需標明出處，就可以合理的使用他人的文章與著作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "自由軟體因主張研究及改良的自由，因此公開原始碼，從這個角度看，自由軟體也是一種開源碼軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "宏宏 將網路上看到的某張圖片下載來自己使用，並沒有散布出去，他可以主張合理使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "技術性的創新同樣在著作權法保護範圍之內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "另以其他法律（如專利法、商標法等）加以保護。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "真真 在 Facebook 上發布了一首自己創作的短詩，因為沒有出版，所以不受著作權法的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "文學創作也受著作權法保護。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權法所定義的著作，指屬於文學、科學、藝術或其他學術範圍的創作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為個人的研究或學習等使用，可以在合理的範圍內，下載並儲存到自己的電腦，也就是重製網路上各種著作之內容，而不需要事先獲得著作財產權人之授權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小花 平時喜歡寫作，她使用筆名在部落格上寫文章，這也受著作權法的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作權法中，合理使用規定較明確者，也就是在公共圖書館或文教機構等，得重製學位論文或期刊中之學術論文的摘要，及已公開發表之研討會論文集或研究報告的摘要。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "以一份為限。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只要符合開源碼定義者就能被稱為開源碼軟體。而開源碼軟體比自由軟體對自由的概念更嚴格，因此所有開源碼軟體都是自由軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "反之，自由軟體比開源碼軟體對自由的概念更嚴格，因此所有自由軟體都是開源碼軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "創用 CC 的授權條款中皆同時開放姓名標示、非商業性、禁止改作、相同方式分享等四項授權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "創作者可依己意願選擇開放不同的授權方式。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "著作人格權在保護著作人的人格及聲譽。著作財產權則指著作人享有其創作之著作的專有權利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "自由軟體和商用軟體最顯著的差別在於前者允許使用者對其研究、改良及複製；後者則否。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "一篇作文或校園圍牆的彩繪壁畫等因未經公開發表， 不屬於 創作，並不受著作權法保護。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電影經公開發布後所發售的正版光碟，合法購買後即可在任何場合進行播映。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "家用版光碟不得在公開場合播映，若有需要，則應購買公播版本。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "老師為了教學，將講義複印三十份給班上同學，這不違反著作權法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "播放新聞時引用外電報導，符合著作權的合理使用原則。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "學校舉辦非經常性活動（如校慶晚會等），未對學生或家長收取任何費用，也未支付給該活動表演的學生或老師任何酬勞，則可以在舉辦特定活動時，公開口述、公開演出、公開播映已發表的著作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿達 未經 小宏 的同意，就隨意將 小宏 寫給 小美 的情書念給全班聽，這侵害了 小宏 的著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿達 可以將自己作業系統的授權碼分享在網路上，供他人使用，不會違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "所有的開源碼軟體都是自由軟體，所以可以隨時更改開源碼軟體的原始碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "並非所有開源碼軟體都是自由軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖中的創用 CC 的授權條款代表什麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示、非商業性"
+        },
+        {
+          "key": "B",
+          "text": "姓名標示、相同方式分享"
+        },
+        {
+          "key": "C",
+          "text": "非商業性、禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "姓名標示、禁止改作。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image002.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種著作在我國著作權所保障的範圍之中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "語文著作"
+        },
+        {
+          "key": "B",
+          "text": "音樂著作"
+        },
+        {
+          "key": "C",
+          "text": "戲劇、舞蹈著作"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小明 在暑假時到夜市工讀，老闆要他銷售盜版光碟，請問若被警察抓到，責任歸咎何人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "老闆"
+        },
+        {
+          "key": "B",
+          "text": "小明"
+        },
+        {
+          "key": "C",
+          "text": "老闆與 小明 都觸法"
+        },
+        {
+          "key": "D",
+          "text": "若有賠償損失則無違法。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "著作權的範圍 不包括 下列哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "文學創作"
+        },
+        {
+          "key": "B",
+          "text": "科學創作"
+        },
+        {
+          "key": "C",
+          "text": "藝術創作"
+        },
+        {
+          "key": "D",
+          "text": "技術創新。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "陳老師想要把他拍攝的照片用創用 CC 的授權方式放在網路上，而且希望取用者能標示他的姓名和不可作為商業利用，其他則無特別限制，那麼下列何者為正確的標示？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image004.jpg",
+          "u0106_image006.jpg",
+          "u0106_image008.jpg",
+          "u0106_image010.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者 不屬於 創用 CC 的四種主要元素之一？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示"
+        },
+        {
+          "key": "B",
+          "text": "多元方式分享"
+        },
+        {
+          "key": "C",
+          "text": "禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "非商業性。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "應為相同方式分享。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "學校若經費不足的情況下，會建議使用下列哪種軟體最為方便且能自由修改、研究、複製和散布？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由軟體"
+        },
+        {
+          "key": "B",
+          "text": "商業軟體"
+        },
+        {
+          "key": "C",
+          "text": "免費軟體"
+        },
+        {
+          "key": "D",
+          "text": "以上皆可。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者方式為著作財產權保障著作人所享有其創作之著作的專有權利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重製"
+        },
+        {
+          "key": "B",
+          "text": "公開口述"
+        },
+        {
+          "key": "C",
+          "text": "公開上映"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者為著作權所保障的範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "音樂樂譜"
+        },
+        {
+          "key": "B",
+          "text": "房地產"
+        },
+        {
+          "key": "C",
+          "text": "股票"
+        },
+        {
+          "key": "D",
+          "text": "汽車。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問著作財產權保護的期間，是著作人生存的期間至過世後的幾年？",
+      "options": [
+        {
+          "key": "A",
+          "text": "40 年"
+        },
+        {
+          "key": "B",
+          "text": "50 年"
+        },
+        {
+          "key": "C",
+          "text": "60 年"
+        },
+        {
+          "key": "D",
+          "text": "過世後即解除保障。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "著作的合理使用與下列哪一項有關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著作財產權"
+        },
+        {
+          "key": "B",
+          "text": "著作人格權"
+        },
+        {
+          "key": "C",
+          "text": "與前兩者皆有關"
+        },
+        {
+          "key": "D",
+          "text": "與前兩者皆無關。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問何種授權項目 不在 附圖中的創用 CC 的授權條款？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示"
+        },
+        {
+          "key": "B",
+          "text": "非商業性"
+        },
+        {
+          "key": "C",
+          "text": "禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "相同方式分享。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image012.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖中的創用 CC 的授權條款代表什麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示、非商業性"
+        },
+        {
+          "key": "B",
+          "text": "非商業性、禁止改作"
+        },
+        {
+          "key": "C",
+          "text": "禁止改作、相同方式分享"
+        },
+        {
+          "key": "D",
+          "text": "姓名標示、禁止改作。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image014.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者方式為著作財產權保障著作人所享有其創作之著作的專有權利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公開展示"
+        },
+        {
+          "key": "B",
+          "text": "改作"
+        },
+        {
+          "key": "C",
+          "text": "移轉所有權"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種著作 不在 我國著作權所保障的範圍之中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "語文著作"
+        },
+        {
+          "key": "B",
+          "text": "製程著作"
+        },
+        {
+          "key": "C",
+          "text": "戲劇、舞蹈著作"
+        },
+        {
+          "key": "D",
+          "text": "錄音著作。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一圖示為創用 CC 的相同方式分享？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image016.jpg",
+          "u0106_image018.jpg",
+          "u0106_image020.jpg",
+          "u0106_image022.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者 不屬於 創用 CC 的六種善意授權條款之一？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示、禁止改作"
+        },
+        {
+          "key": "B",
+          "text": "姓名標示、相同方式分享"
+        },
+        {
+          "key": "C",
+          "text": "姓名標示、非商業性、禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "非商業性、相同方式分享。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "創用　CC　的六種善意授權條款皆須包含姓名標示。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者 不屬於 創用 CC 的六種善意授權條款之一？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示"
+        },
+        {
+          "key": "B",
+          "text": "非商業性"
+        },
+        {
+          "key": "C",
+          "text": "姓名標示、禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "姓名標示、相同方式分享。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "創用　CC　的六種善意授權條款皆須包含姓名標示。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者為著作財產權中，著作者所應有的專屬權利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "重製"
+        },
+        {
+          "key": "B",
+          "text": "公開展示"
+        },
+        {
+          "key": "C",
+          "text": "移轉所有權"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種著作在我國著作權所保障的範圍之中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電腦程式著作"
+        },
+        {
+          "key": "B",
+          "text": "音樂著作"
+        },
+        {
+          "key": "C",
+          "text": "戲劇、舞蹈著作"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "花花 是一位作家，每寫好一本書，她是否需要登記才能享有著作權法的保護呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不需要，自創作完成就可以受著作權法保護，不必作任何登記或申請"
+        },
+        {
+          "key": "B",
+          "text": "不需要，著作權法通常只要申請第一次的創作即可，建檔完成後都無須再次申請"
+        },
+        {
+          "key": "C",
+          "text": "需要，且越快越好，否則容易被人抄襲"
+        },
+        {
+          "key": "D",
+          "text": "需要，自創完成後要作登記或申請，才可以受著作權法保護。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "校園舉辦校慶或比賽，在什麼情形下，可以 不經 著作財產權人授權而演唱或演奏他人的音樂？",
+      "options": [
+        {
+          "key": "A",
+          "text": "非以營利為目的"
+        },
+        {
+          "key": "B",
+          "text": "未對觀眾或聽眾直接或間接收取任何費用"
+        },
+        {
+          "key": "C",
+          "text": "未對表演人支付報酬"
+        },
+        {
+          "key": "D",
+          "text": "以上 3 種條件都具備的情形下。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "美美 將一本韓文的漫畫原著翻譯成日文， 翰翰 再將日文版翻譯成中文，若 琳琳 要將中文版拍成電影，請問要得到誰的授權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只要 美美 的授權就可以了"
+        },
+        {
+          "key": "B",
+          "text": "只要 翰翰 的授權就可以了"
+        },
+        {
+          "key": "C",
+          "text": "要得到韓文原著作者、 美美 （日譯本作者）及 翰翰 （中譯本作者） 3 人的授權"
+        },
+        {
+          "key": "D",
+          "text": "都不用。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項 不是 自由軟體所宣示的自由主張？",
+      "options": [
+        {
+          "key": "A",
+          "text": "研究的自由"
+        },
+        {
+          "key": "B",
+          "text": "銷售的自由"
+        },
+        {
+          "key": "C",
+          "text": "散布的自由"
+        },
+        {
+          "key": "D",
+          "text": "改良的自由。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關創用 CC 授權的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是一種與著作權法相衝突的授權方式"
+        },
+        {
+          "key": "B",
+          "text": "是一種僅能在 美國 主張的授權方式"
+        },
+        {
+          "key": "C",
+          "text": "奠基於著作權法但又較具彈性的著作權運作模式"
+        },
+        {
+          "key": "D",
+          "text": "僅能向特定人授權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者 不是 自由軟體賦予使用者的自由？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用"
+        },
+        {
+          "key": "B",
+          "text": "銷售"
+        },
+        {
+          "key": "C",
+          "text": "改良"
+        },
+        {
+          "key": "D",
+          "text": "散布。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "自由軟體是指在使用授權時，賦予軟體使用者可以有使用、研究、散布及改良的四項自由的軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖中的創用 CC 的授權條款代表什麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示、非商業性、禁止改作"
+        },
+        {
+          "key": "B",
+          "text": "姓名標示、非商業性、相同方式分享"
+        },
+        {
+          "key": "C",
+          "text": "非商業性、禁止改作、相同方式分享"
+        },
+        {
+          "key": "D",
+          "text": "姓名標示、禁止改作、非商業性。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image023.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問何種授權項目 不在 附圖中的創用 CC 的授權條款？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示"
+        },
+        {
+          "key": "B",
+          "text": "非商業性"
+        },
+        {
+          "key": "C",
+          "text": "禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "相同方式分享。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image025.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問需經過下列何項手續，方能得到我國著作權之保障？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著作完成時享有著作權"
+        },
+        {
+          "key": "B",
+          "text": "需向該縣市財產局註冊"
+        },
+        {
+          "key": "C",
+          "text": "需向該縣市專利局申請"
+        },
+        {
+          "key": "D",
+          "text": "需經公開發表。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一圖示為創用 CC 的非商業性？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image026.jpg",
+          "u0106_image027.jpg",
+          "u0106_image028.jpg",
+          "u0106_image029.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關創用 CC 的四種元素，附圖代表甚麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "非商業性"
+        },
+        {
+          "key": "B",
+          "text": "禁止改作"
+        },
+        {
+          "key": "C",
+          "text": "姓名標示"
+        },
+        {
+          "key": "D",
+          "text": "相同方式分享。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image031.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一圖示為創用 CC 的姓名標示？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image032.jpg",
+          "u0106_image018.jpg",
+          "u0106_image028.jpg",
+          "u0106_image033.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖中的創用 CC 的授權條款代表什麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示、非商業性"
+        },
+        {
+          "key": "B",
+          "text": "非商業性、禁止改作"
+        },
+        {
+          "key": "C",
+          "text": "姓名標示、禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "姓名標示、相同方式分享。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image035.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種著作 不在 我國著作權所保障的範圍之中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "語文著作"
+        },
+        {
+          "key": "B",
+          "text": "音樂著作"
+        },
+        {
+          "key": "C",
+          "text": "思想著作"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種著作在我國著作權所保障的範圍之中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建築著作"
+        },
+        {
+          "key": "B",
+          "text": "視聽著作"
+        },
+        {
+          "key": "C",
+          "text": "錄音著作"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖中的創用 CC 的授權條款代表什麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示"
+        },
+        {
+          "key": "B",
+          "text": "非商業性"
+        },
+        {
+          "key": "C",
+          "text": "禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "相同方式分享。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image037.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於自由軟體與開源碼軟體的比較，下列敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "很大部分為免費軟體"
+        },
+        {
+          "key": "B",
+          "text": "軟體功能及種類相當多樣"
+        },
+        {
+          "key": "C",
+          "text": "易學、操作親和性高"
+        },
+        {
+          "key": "D",
+          "text": "通常會有一定授權時間限制。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "著作財產權的保護期間是著作人的生存加上其死亡後幾年？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 年"
+        },
+        {
+          "key": "B",
+          "text": "30 年"
+        },
+        {
+          "key": "C",
+          "text": "50 年"
+        },
+        {
+          "key": "D",
+          "text": "100 年。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於創用 CC 的說明，下列敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "創用 CC 是指 2001 年成立的非營利組織 Creative Commons"
+        },
+        {
+          "key": "B",
+          "text": "它是一套眾人可以自由使用、關於著作使用的授權條款"
+        },
+        {
+          "key": "C",
+          "text": "創用 CC 的條款中共具備四種主要元素"
+        },
+        {
+          "key": "D",
+          "text": "創用 CC 中的四種主要元素可供原作者自由搭配成善意的授權條款。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "創用　CC　中的四種主要元素可構成六種授權條款，無法自由搭配。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿達 是一位研究生，他抄襲同學的論文用自己名義去投稿，請問 阿達 是否觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "會違反著作權法"
+        },
+        {
+          "key": "B",
+          "text": "因為沒有金錢的往來，所以不違法"
+        },
+        {
+          "key": "C",
+          "text": "這樣做不違法，但對不起自己的良心"
+        },
+        {
+          "key": "D",
+          "text": "這是不合理的行為，但不違法。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一圖示為創用 CC 的禁止改作？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image016.jpg",
+          "u0106_image038.jpg",
+          "u0106_image039.jpg",
+          "u0106_image040.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種著作在我國著作權所保障的範圍之中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖形著作"
+        },
+        {
+          "key": "B",
+          "text": "攝影著作"
+        },
+        {
+          "key": "C",
+          "text": "美術著作"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關創用 CC 的四種元素，附圖代表甚麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "非商業性"
+        },
+        {
+          "key": "B",
+          "text": "禁止改作"
+        },
+        {
+          "key": "C",
+          "text": "姓名標示"
+        },
+        {
+          "key": "D",
+          "text": "相同方式分享。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image042.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖中的創用 CC 的授權條款代表什麼意思？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示、非商業性、禁止改作"
+        },
+        {
+          "key": "B",
+          "text": "姓名標示、禁止改作、非商業性"
+        },
+        {
+          "key": "C",
+          "text": "非商業性、禁止改作、相同方式分享"
+        },
+        {
+          "key": "D",
+          "text": "姓名標示、非商業性、相同方式分享。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image043.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何選項 不受 著作權所保護？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著作物的製程"
+        },
+        {
+          "key": "B",
+          "text": "著作物的概念"
+        },
+        {
+          "key": "C",
+          "text": "著作物的原理"
+        },
+        {
+          "key": "D",
+          "text": "以上皆不在著作權的保護之列。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者 不是 創用 CC 授權條款之授權要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名標示"
+        },
+        {
+          "key": "B",
+          "text": "播放場合標示"
+        },
+        {
+          "key": "C",
+          "text": "非商業性"
+        },
+        {
+          "key": "D",
+          "text": "禁止改作。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "著作人格權專屬於著作人本身，請問著作人可以如何運用該項權利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可讓與、可繼承"
+        },
+        {
+          "key": "B",
+          "text": "可讓與、不可繼承"
+        },
+        {
+          "key": "C",
+          "text": "不可讓與、可繼承"
+        },
+        {
+          "key": "D",
+          "text": "不可讓與、不可繼承。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者 不屬於 著作權法所定義的著作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "文學書籍"
+        },
+        {
+          "key": "B",
+          "text": "科學期刊"
+        },
+        {
+          "key": "C",
+          "text": "藝術畫作"
+        },
+        {
+          "key": "D",
+          "text": "技術創新。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "著作權法所定義的著作，指屬於文學、科學、藝術或其他學術範圍的創作；技術創新需申請專利保護。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "依著作權法取得的著作，其受保護僅及於該著作的哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表達"
+        },
+        {
+          "key": "B",
+          "text": "程序"
+        },
+        {
+          "key": "C",
+          "text": "操作方法"
+        },
+        {
+          "key": "D",
+          "text": "原理。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問著作權法把著作權分立為下列哪兩種權利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人格權及財產權"
+        },
+        {
+          "key": "B",
+          "text": "人格權及繼承權"
+        },
+        {
+          "key": "C",
+          "text": "繼承權及財產權"
+        },
+        {
+          "key": "D",
+          "text": "財產權及衍生權。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問我國的著作權法共保障幾種著作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 種"
+        },
+        {
+          "key": "B",
+          "text": "8 種"
+        },
+        {
+          "key": "C",
+          "text": "9 種"
+        },
+        {
+          "key": "D",
+          "text": "10 種。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "著作的引用註明出處與下列哪一項 沒有 關係？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著作權的授權"
+        },
+        {
+          "key": "B",
+          "text": "尊重著作人"
+        },
+        {
+          "key": "C",
+          "text": "符合著作權法"
+        },
+        {
+          "key": "D",
+          "text": "符合學術倫理。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何項並非著作權的合理適用範圍，可能會構成對著作財產權的侵害？",
+      "options": [
+        {
+          "key": "A",
+          "text": "學校中經常性活動中所使用的升旗音樂"
+        },
+        {
+          "key": "B",
+          "text": "編撰教科用書過程中進行書目引用"
+        },
+        {
+          "key": "C",
+          "text": "學術研究過程中進行文獻考究"
+        },
+        {
+          "key": "D",
+          "text": "立法、司法程序或行政目的。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "東東 目前就讀研究所，致力於研究人工智慧相關議題，請問在研究的過程中何項行為可能已經逾越了著作權合理使用的範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用網路搜尋引擎進行資料檢索"
+        },
+        {
+          "key": "B",
+          "text": "將可能有助於研究的文章進行下載"
+        },
+        {
+          "key": "C",
+          "text": "上傳下載到的文章提供從事相似研究的人參考"
+        },
+        {
+          "key": "D",
+          "text": "在網路上分享自己的最終研究成果。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小芬 在影印店影印「心靈雞湯」一書，複印整本供自己使用，請問是否違法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只印一本且供自己使用，所以並不違法"
+        },
+        {
+          "key": "B",
+          "text": "整本影印已經超出合理使用的範圍（會替代市場），所以會有侵害著作權的問題"
+        },
+        {
+          "key": "C",
+          "text": "因為書已經出了超過十年，所以影印沒關係"
+        },
+        {
+          "key": "D",
+          "text": "因為印了一整本是不對的，如果只印其中的部份內容且可以多印幾份是可以的。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "個人參加海報大賽，如果利用老師給我的建議來設計這張海報，請問這張海報的著作權是歸誰享有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "歸我享有，因為著作權法是保護著作的表達，不保護觀念、構想，由他人提供點子而自行創作之海報，著作權當然屬於我的"
+        },
+        {
+          "key": "B",
+          "text": "歸老師和我共有"
+        },
+        {
+          "key": "C",
+          "text": "雙方都沒有享有著作權"
+        },
+        {
+          "key": "D",
+          "text": "歸老師享有，因為是老師的點子。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是屬於著作權合理使用中的重製行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在咖啡廳中播放的數位背景音樂"
+        },
+        {
+          "key": "B",
+          "text": "下載網路圖庫"
+        },
+        {
+          "key": "C",
+          "text": "上傳檔案轉寄給朋友"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項符合著作權的合理使用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當著作人死亡後，我們可以立刻將他的小說隨意改拍為電影"
+        },
+        {
+          "key": "B",
+          "text": "在自己的臉書放上尚未上映的電影片段和劇情內容來衝高點擊率"
+        },
+        {
+          "key": "C",
+          "text": "利用德國人的音樂編曲，不必徵求著作財產權人的同意"
+        },
+        {
+          "key": "D",
+          "text": "為視障者的福利，已公開發表的著作，得為視障者以點字重製。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "若在經費不足的情況下，下列哪一項軟體最為方便且能自由修改、研究、複製和散布？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由軟體"
+        },
+        {
+          "key": "B",
+          "text": "商業軟體"
+        },
+        {
+          "key": "C",
+          "text": "免費軟體"
+        },
+        {
+          "key": "D",
+          "text": "以上皆可。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現代生活中無處不與多媒體資源息息相關，請問下列情境中何項行為可能已經逾越了著作權合理使用的範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "錄製播放限量整首試聽的音樂作為咖啡廳背景音樂"
+        },
+        {
+          "key": "B",
+          "text": "自行下載網路畫作設為私人桌布畫面"
+        },
+        {
+          "key": "C",
+          "text": "在比較畫風的報告中以畫作佐證並註明來源"
+        },
+        {
+          "key": "D",
+          "text": "老師於課堂上擷取 15 ～ 30 秒的樂曲讓學生判斷曲風。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於自由軟體與開源碼軟體的比較，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由軟體是開源碼軟體的一種"
+        },
+        {
+          "key": "B",
+          "text": "自由軟體比開源碼軟體對自由的概念更嚴格"
+        },
+        {
+          "key": "C",
+          "text": "所有的自由軟體都是開源碼軟體"
+        },
+        {
+          "key": "D",
+          "text": "以上皆正確。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問創用 CC 的完整名稱應為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Creative Commons"
+        },
+        {
+          "key": "B",
+          "text": "Cubic Centimetre"
+        },
+        {
+          "key": "C",
+          "text": "Carbon Copy"
+        },
+        {
+          "key": "D",
+          "text": "Creative Cloud 。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問著作權中所規範的合理使用與下列何者權力有關連？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人格權"
+        },
+        {
+          "key": "B",
+          "text": "財產權"
+        },
+        {
+          "key": "C",
+          "text": "衍生權"
+        },
+        {
+          "key": "D",
+          "text": "改作權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是創用 CC 授權時一定要標示的元素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "作者姓名"
+        },
+        {
+          "key": "B",
+          "text": "非商業性用途"
+        },
+        {
+          "key": "C",
+          "text": "禁止改作"
+        },
+        {
+          "key": "D",
+          "text": "以相同方式分享。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者 不屬於 「重製」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "影印雜誌上感興趣的文章"
+        },
+        {
+          "key": "B",
+          "text": "在公開場合播放數位音樂"
+        },
+        {
+          "key": "C",
+          "text": "下載收藏網路資源"
+        },
+        {
+          "key": "D",
+          "text": "轉貼討論區的議題。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於創用 CC 授權條款標示，下列敘述何者 不正確 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表示允許他人對你的著作原封不動地進行重製、散佈、展示及演出等利用行為，但不得產出衍生著作"
+        },
+        {
+          "key": "B",
+          "text": "表示必須按照作者或授權人所指定的方式，表彰其姓名"
+        },
+        {
+          "key": "C",
+          "text": "表示允許他人對你的著作及衍生著作加以販賣，唯價格必須合理"
+        },
+        {
+          "key": "D",
+          "text": "表示若改作作品，必須沿用原授權條款分享。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "創用　CC　是非商業性的",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項受著作權所保護？",
+      "options": [
+        {
+          "key": "A",
+          "text": "科學研究的程序"
+        },
+        {
+          "key": "B",
+          "text": "科學研究的原理"
+        },
+        {
+          "key": "C",
+          "text": "科學研究的發現"
+        },
+        {
+          "key": "D",
+          "text": "科學研究的論文。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "著作權法合理使用的規定事實上是對著作財產權的何項作為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "衍伸"
+        },
+        {
+          "key": "B",
+          "text": "擴充"
+        },
+        {
+          "key": "C",
+          "text": "限制"
+        },
+        {
+          "key": "D",
+          "text": "整併。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小宏 為了省錢，去影印店影印整本學校講義，請問 小宏 是否違反著作權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是，只要有複印講義這個動作就侵犯到著作權"
+        },
+        {
+          "key": "B",
+          "text": "是，因為講義整本影印已經超出合理使用的範圍"
+        },
+        {
+          "key": "C",
+          "text": "否，因為 小宏 是為了學習而複印，不違法"
+        },
+        {
+          "key": "D",
+          "text": "否， 小宏 不違法，但影印店需負責。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "自由軟體是指在使用授權時，賦予軟體使用者可以有下列哪幾項自由？ 甲、使用；乙、研究；丙、複製；丁、散布；戊、轉傳；己、改良",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲丙丁戊"
+        },
+        {
+          "key": "B",
+          "text": "甲乙丁己"
+        },
+        {
+          "key": "C",
+          "text": "乙丙丁戊"
+        },
+        {
+          "key": "D",
+          "text": "丙丁戊己。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "法律保障創作人的權利，請問下列那一種行為違反著作權法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿達 偷看 小宏 的情書"
+        },
+        {
+          "key": "B",
+          "text": "小花 模仿爸爸的簽名"
+        },
+        {
+          "key": "C",
+          "text": "小勳 上網購買二手書"
+        },
+        {
+          "key": "D",
+          "text": "小呆 複製拷貝線上遊戲程式送給同學。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "(Ａ)違反隱私權；(Ｂ)犯了偽造文書罪；(Ｃ)不犯法。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者引用形式可能會觸犯著作權法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "引用書籍內文標註作者姓名、出版年代、著作名稱"
+        },
+        {
+          "key": "B",
+          "text": "引用期刊雜誌並標註出版者或發行者"
+        },
+        {
+          "key": "C",
+          "text": "引用公開新聞資料則不需加以註記"
+        },
+        {
+          "key": "D",
+          "text": "以上皆在著作權合理使用的範圍內。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "剛接觸圖像設計領域的 涓涓 ，想搜尋一張底圖作為海報的主視覺，用做自主設計練習，請問下列何種方式可能 不在 著作權的合理使用範圍內？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從專業的設計網站上下載底圖"
+        },
+        {
+          "key": "B",
+          "text": "利用繪圖軟體改作底圖"
+        },
+        {
+          "key": "C",
+          "text": "分享改作後的底圖至自己的社群平台"
+        },
+        {
+          "key": "D",
+          "text": "以上皆可能超出合理使用的範圍。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於自由軟體與商業軟體的比較，下列敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "商用軟體允許使用者對其研究"
+        },
+        {
+          "key": "B",
+          "text": "商用軟體不允許使用者對其改良"
+        },
+        {
+          "key": "C",
+          "text": "自由軟體允許使用者對其複製"
+        },
+        {
+          "key": "D",
+          "text": "自由軟體允許使用者對其改良。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關著作權法之敘述何者 不正確 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為保障著作人著作權益"
+        },
+        {
+          "key": "B",
+          "text": "為保障使用者權益"
+        },
+        {
+          "key": "C",
+          "text": "促進國家文化發展"
+        },
+        {
+          "key": "D",
+          "text": "調和社會公共利益。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "應改為保護著作者的權益。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿達 將老師的演講側錄下來後，作為收藏用，請問這段影片的著作權人屬於何人所有？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿達"
+        },
+        {
+          "key": "B",
+          "text": "老師"
+        },
+        {
+          "key": "C",
+          "text": "阿達 與老師共同擁有"
+        },
+        {
+          "key": "D",
+          "text": "演講主辦單位。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於著作權法，下列敘述哪一項 不正確 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著作人於著作完成時即享有著作權"
+        },
+        {
+          "key": "B",
+          "text": "著作財產權保護期間是著作人生存的期間到死後的 50 年"
+        },
+        {
+          "key": "C",
+          "text": "需向特定機關、組織註冊或登記"
+        },
+        {
+          "key": "D",
+          "text": "著作權法把著作權分為著作人格權與著作財產權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果某一著作物上標示創用 CC 授權條款（如附圖），下列有關該授權條款的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不必標示作者姓名"
+        },
+        {
+          "key": "B",
+          "text": "不可改作"
+        },
+        {
+          "key": "C",
+          "text": "可用於商業用途"
+        },
+        {
+          "key": "D",
+          "text": "若改作，必須沿用原授權條款。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image045.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是屬於著作權合理使用中的公開播送行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在咖啡廳中播放的數位背景音樂"
+        },
+        {
+          "key": "B",
+          "text": "下載網路圖庫"
+        },
+        {
+          "key": "C",
+          "text": "上傳檔案轉寄給朋友"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是屬於著作權合理使用中的公開傳輸行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在咖啡廳中播放的數位背景音樂"
+        },
+        {
+          "key": "B",
+          "text": "下載網路圖庫"
+        },
+        {
+          "key": "C",
+          "text": "上傳檔案轉寄給朋友"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一領域的創新 不在 著作權法的保護之內？",
+      "options": [
+        {
+          "key": "A",
+          "text": "文學創新"
+        },
+        {
+          "key": "B",
+          "text": "科學創新"
+        },
+        {
+          "key": "C",
+          "text": "技術創新"
+        },
+        {
+          "key": "D",
+          "text": "藝術創新。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ｃ)技術性的創新另以其他法律（如專利法等）加以保護。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者 不屬於 我國著作權中所規範的衍生著作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小說翻拍成的電影"
+        },
+        {
+          "key": "B",
+          "text": "從國外原著翻譯的小說"
+        },
+        {
+          "key": "C",
+          "text": "將原聲帶重新發行"
+        },
+        {
+          "key": "D",
+          "text": "由原著改寫的劇本。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一選項 不在 著作權法的保護之內？",
+      "options": [
+        {
+          "key": "A",
+          "text": "國文課撰寫的一篇作文"
+        },
+        {
+          "key": "B",
+          "text": "校園內的彩繪壁畫"
+        },
+        {
+          "key": "C",
+          "text": "美術課製作的動物雕塑"
+        },
+        {
+          "key": "D",
+          "text": "技術創新。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "若著作物上標示創用 CC 授權條款（如附圖），關於該授權條款的敘述，下列哪一項正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不必標示作者姓名"
+        },
+        {
+          "key": "B",
+          "text": "不可改作"
+        },
+        {
+          "key": "C",
+          "text": "可用於商業用途"
+        },
+        {
+          "key": "D",
+          "text": "若改作，必須沿用原授權條款。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0106_image047.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關著作權法之敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "著作人格權無法繼承"
+        },
+        {
+          "key": "B",
+          "text": "合理使用與著作財產權無關"
+        },
+        {
+          "key": "C",
+          "text": "著作人格權無法讓與他人"
+        },
+        {
+          "key": "D",
+          "text": "著作財產權保護的期間為人生存到死後 50 年。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "應改為保護著作者的權益。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關創用 CC 授權的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "創用 CC 是指 Current Contents"
+        },
+        {
+          "key": "B",
+          "text": "創用 CC 是我國首創的授權方式"
+        },
+        {
+          "key": "C",
+          "text": "創用 CC 是指 Creative Commons"
+        },
+        {
+          "key": "D",
+          "text": "創用 CC 僅適用於學術界的授權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "創用　CC　供各界合理使用",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關於自由軟體的敘述，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自由軟體都是開源碼軟體"
+        },
+        {
+          "key": "B",
+          "text": "自由軟體主張研究及改良的自由"
+        },
+        {
+          "key": "C",
+          "text": "自由軟體允許被複製"
+        },
+        {
+          "key": "D",
+          "text": "免費軟體都是自由軟體。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

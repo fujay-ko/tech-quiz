@@ -1,0 +1,5759 @@
+{
+  "chapter": "3下 第5章 資料數位化原理與方法",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "響度是指聲音的高低，本身與振幅有關，振幅越大響度越強。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "響度是指聲音的強弱。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "聲音數位化後用越多的位元來表示，可以讓聲音的音量越大，越不容易失真。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "用更高品質的方式來存取聲音，可以增加聲音連續性，會產生比較少失真的現象。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "人耳可以聽到的頻率大約在 2Hz～2000Hz 之間。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "大約在　20Hz～20000Hz　之間。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "dpi 代表每一平方英寸可容納的色彩數目，dpi 越高，表示影像的解析度愈高，畫質愈好。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "dpi　代表每一平方英寸可容納的“像素＂數目，dpi　越高，表示影像的解析度愈高，畫質愈好。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "人耳可以聽到的頻率大約在 20Hz～20000Hz 之間。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "大約在　20Hz～20000Hz　之間。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "十進位是以十為基數，逢九進位的數字系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "十進位是以十為基數，逢十進位的數字系統。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "101 這個二進位數字轉換成十進位為 5。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦處理文字資料時，會將每一個文字資料對應一個二進位碼來做識別。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦處理文字資料時，會將每一個文字資料對應一個二進位碼來做識別。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位化就是將類比訊號轉換成數位訊號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "將文字資料轉換成二進位碼的系統是一種編碼系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "紅光、綠光跟藍光之所以被稱為光的三原色是因為這三種色光可以混合出其他可見光。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "將聲音數位化的目的，不是只有儲存聲音而已，而是要對它做進一步的非線性編輯。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "1010 這個二進位數字轉換為十進位為 10。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "一個英文字母或阿拉伯數字在美國資訊交換標準碼中，以 8 個位元表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位化是把非數位化的資料，轉換成電腦所能識別的 0 與 1。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "日常生活中常見的 MP3 音樂格式通常使用 8 個位元表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "是使用　16　個位元表示。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "將影像分割為許多相同小區塊，而每個區塊稱為像素。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "影像的解析度越高，畫質就會越好。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "用無電流通過與有電流通過的電路狀態表示關（0）或開（1），若用一條電路可以表示兩種不同的狀態。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位化是把非數位化的資料，轉換成電腦所能識別的 1 與 2。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "Unicode 編碼系統以 16 個位元來表示一個字元，因此共可表示 32,768 個字元或符號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "最多可以達到　65,536　個字元。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "ASCII 編碼系統只能將英文字母、阿拉伯數字或常用符號轉換成二進位碼，無法將中文轉換成二進位碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦處理文字資料時，會將每一個文字資料對應一個十進位碼來做識別。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "ASCII、Big-5 碼、Uniqlo 都是可以將文字資料轉換成二進位碼的編碼系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Unicode　是編碼系統，Uniqlo　是服裝品牌。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "聲音進行數位化時，取樣頻率越低，存下來的聲音也就越精緻，因此只要降低取樣頻率，聲音可以很輕易的被還原到一模一樣。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "Unicode 編碼系統又稱萬國碼、統一碼或萬用碼，是全球通用的文字編碼系統，範圍涵蓋各國常用的文字、字母及符號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "音色是指聲音的特色，與波形有關，我們之所以能辨別不同的聲音是因為音色的不同。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "音調是指聲音的高低，本身與頻率有關，頻率越高音調越高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "不同人的聲音不一樣是因為每個人的音色不同，波形不同。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "8 這個十進位數字轉換成二進位為 1000。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "頻率是指單位時間內事件重複發生的次數。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "黑白水墨畫不管是透過灰階還是全彩來呈現，看起來都是一樣的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "假如我們按下鍵盤的 A 鍵，電腦會將其轉換成 ASCII 的二進位碼進行處理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若是用 8 個位元來表示不同的強度，這樣每個像素就可以表現 256 種不同的顏色，可以得到量化後的灰階點陣圖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若白色像素以數值 1、黑色像素以數值 0 來表示，可以得到量化後的黑白點陣圖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "二進位數字使用兩個符號，分別為 0 與 1。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "請問將類比訊號轉換成數位訊號稱作 ？ (Ａ)標準化 (Ｂ)數位化 (Ｃ)電子化 (Ｄ)虛擬化。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "紅光、綠光跟藍光之所以被稱為光的三原色是因為這三種色光為大自然中最常出現的三種顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "光的三原色是紅光、綠光跟藍光。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "常見的影像量化，有使用 1 位元、8 位元和 24 位元等色彩模式，若是使用 1 位元代表只能表達兩種不同顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "響度是指聲音的強弱，本身與頻率有關，頻率越高響度越強。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "響度與振幅有關，振幅越大響度越強。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨著壓縮技術的進步，圖片所占的儲存空間隨之變小。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "1111 這個二進位數字轉換成十進位為 8。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "附圖為家用電器常見的開關，該狀態為關閉的狀態。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為開啟的狀態。",
+      "images": {
+        "stem": [
+          "u0305_image002.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "常見的像素量化有使用 1 位元、8 位元、24 位元等色彩模式，若是使用 8 位元只能表達 256 種不同顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "二進位是以二為基數，逢二進位的數字系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦內部處理數字是以十進位來表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "電腦內部儲存與處理數字是以二進位來表示。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在二進位的數字裡面不可能出現 0 和 1 以外的數字。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "以檯燈為例，若將「關開關開關」數位化，轉換後應為「01010」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "假如我們按下鍵盤的 A 鍵，電腦會將其轉換成 ASCII 的十進位碼進行處理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若白色像素以數值 1、黑色像素以數值 0 來表示，可以得到量化後的灰階點陣圖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當我們使用電腦打字時，電腦內部所接收到的資料其實是一連串的英文字母。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "使用電腦打字時，電腦內部所接收到的資料是由　0　和　1　所組成的。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小明最近迷上暗號遊戲，他與小美選擇用 ASCII 編碼系統作為解碼工具，因為 ASCII 這套編碼系統以 16 個位元來表示一個字元，可以涵蓋的文字最多。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "以　16　個位元來表示一個字元的是　Unicode　編碼系統，ASCII　編碼系統僅用　8　個位元來表示。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "人類之所以能夠聽到大自然的各種聲音，是因為它透過空氣的波動來刺激耳膜，並傳遞到大腦處理產生聽覺，如果今天在真空的環境中人類就不可能聽到聲音。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "常見的像素量化有使用 1 位元、8 位元、24 位元等色彩模式，若是使用 8 位元只能表達 16 種不同顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "13 個十進位數字轉換成二進位為 1001。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "附圖為家用電器常見的開關，該狀態為關閉的狀態。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為開啟的狀態。",
+      "images": {
+        "stem": [
+          "u0305_image004.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "十進位數字使用十個不同的符號，由小到大依次是 1、2、3、4、5、6、7、8、9、10。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "由小到大依次為　0、1、2、3、4、5、6、7、8、9。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "16 這個十進位數字轉換成二進位為 1000。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在 Big-5 碼中，每一個中文字以 16 個位元表示，而在 ASCII 中，中文字以 8 個位元表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "ASCII　沒有支援中文字。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "物體震動能發出聲音，只是發出的聲音不一定能被人耳聽到。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位化是把非數位化的資料，轉換成電腦所能識別的 0 與 1，電腦才能進行處理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "自然界的聲音是由物體振動而產生，是屬於連續性的數位訊號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "聲音屬於連續性的類比訊號。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若是用 8 個位元來表示不同的強度，這樣每個像素就可以表現 16 種不同的顏色，可以得到量化後的灰階點陣圖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦內部儲存與處理數字是以二進位來表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "現代的電腦多媒體，在處理資料時，會採用類比訊號進行識別、儲存與處理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "將影像放大，可以發現是由許多相同小色塊所組成，每一個色塊就稱為像素。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "物體振動能發出聲音，不同的物體振動則會產生不同聲音，但每種聲音不一定都能被人耳聽到。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "人耳可以聽到的頻率大約在 200Hz～200000Hz 之間。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "大約在　20Hz～20000Hz　之間。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "常見的像素量化有使用 1 位元、8 位元、24 位元等色彩模式，若是使用 1 位元只能表達 1 種不同顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "ASCII 是由我國制定的，因此其除可以表示英文外，中文也可呈現。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "ASCII　是由美國國家標準局制定，且無法用以表示中文。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "平常在電腦螢幕以及鍵盤輸入使用的數字系統都是以十進位表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "現代的電腦多媒體在處理資料時都採用二進位的類比訊號去處理，因為電腦只讀得懂 0 與 1 兩種資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "音調是指聲音的高低，本身與振幅有關，振幅越大音調越高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦是用二進位系統來儲存資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在進行聲音數位化的過程中，頻率越高的聲音每秒中所取得的樣本越少。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "頻率越高的聲音所取得的樣本越多。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「00000010」為 16 位元，可用以 Big-5 中表示中文字。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「00000010」應為　8　位元。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "傳統錄影帶及錄音帶皆以數位訊號儲存資料，而 CD 光碟以類比訊號來儲存。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "傳統媒體以類比訊號儲存，CD　光碟則以數位訊號儲存。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "傳統錄影帶以類比訊號儲存，若要用電腦處理、播放，就要把類比形式的影音，經數位化轉換成數位訊號，電腦才可以加以編輯、儲存。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "ASCII 編碼系統只能將英文字母、阿拉伯數字或常用符號轉換成二進位碼，無法將中文轉換成二進位碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "音調是指聲音的強弱，本身與頻率有關，頻率越高音調越高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "音調是指聲音的高低。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "響度是指聲音的強弱，本身與振幅有關，振幅越大響度越強。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "響度與振幅有關，振幅越大響度越強。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "光的三原色是紅光、綠光跟黃光。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "光的三原色是紅光、綠光跟藍光。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "檯燈的開關上常見以 1 與 0 標示，其中 1 表示低電壓，0 表示高電壓。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "1　表示高電壓，0　表示低電壓。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "萬國碼是使用 16 位元表示一字元，涵蓋各國常用文字及符號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "檯燈的開關上常見以 1 與 0 標示，其中 1 表示電源開啟，0 表示電源關閉。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "1　表示高電壓，0　表示低電壓。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "常見的像素量化有使用 1 位元、8 位元、24 位元等色彩模式，若是使用 1 位元只能表達 2 種不同顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當我們使用電腦輸入中文時，電腦內部所接收到的資料，其實是一連串的英文字母。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "ASCII、Big-5 碼、Unicode 三種編碼系統屬於當今電腦較常用到的編碼系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "聲音三要素包含響度、音調及音色，其中音調是指聲音的高低，當聲音越高，代表振幅越大。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "3 這個十進位數字轉換成二進位為 11。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦是用四進位系統來處理資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "電腦是用二進位系統來處理資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "美國資訊交換標準碼（ASCII）以 8 個位元來表示一個字元，最多可以達 128 個字元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "最多可達　256　個字元。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦透過將連續的聲波進行取樣和量化來轉換為數位資料進行處理與儲存，所以聲音可以很輕易的被還原到一模一樣。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "數位化後的聲音資料呈現離散化的特性。但如果離散化的情況不是很嚴重，一般人的耳朵是聽不出它的不連續性。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "附圖中，最下方的運算結果應讀作「14 的 10 次方」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "運算結果表示二進位　1110　用轉換成十進位是　14。",
+      "images": {
+        "stem": [
+          "u0305_image006.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "BMP 點陣圖格式被廣泛應用於網路傳輸中，是可以自由調整壓縮程度以控制檔案大小。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "BMP　不適合用於網路存取，JPEG　較為適合。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如雷貫耳、響徹雲霄是用來形容聲音的響度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當我們按下鍵盤的 B 鍵，電腦就會將其轉換成 ASCII 的二進位碼進行處理，再以二進位碼對照 ASCII 後，輸出該對應值於螢幕上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "將二進位數字轉換成十進位數字是使用乘法將數字展開，反過來說，將十進位數字轉換成二進位數字可以使用除法重複運算。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若從 0 開始為第一個數字，每次加 1，則十進位與二進位的數字在第三個數字開始產生不同。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "20 這個十進位數字轉換成二進位為 10100。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若想使用電腦編輯或傳輸聲音資料，應將數位訊號轉換成類比訊號傳送。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應將聲音(類比訊號)轉換為數位訊號(0　或　1)傳輸。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "二進位的數字可以轉換為十進位，但十進位的數字無法轉換為二進位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "二進位的數字與十進位的數字可以互相轉換。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "現今音樂 CD 的音樂主要採用 PCM 編碼儲存檔案，雖然音質好但檔案較大。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了將聲音數值化，我們會用固定的刻度來表示每個取樣樣本在特定時間點的強度。。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在聲音數位化的過程中，分成「取樣」、「編碼」及「分析」三大步驟。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "聲音數位化過程分成「取樣」、「量化」及「編碼」三大步驟。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在二進位的運算中 1111＋1 應為 11111。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為　10000",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "TIFF 是目前最常見的向量圖檔格式，常用於高品質的印刷與圖形設計。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "TIFF　為點陣圖格式。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在二進位的運算中 1001＋1 應為 1010。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為　10000",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "10000 這個二進位數字轉換成十進位為 32。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦將聲音數值化的過程中，是先將聲音數值改為二進位資料，再進行分析編碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "10100 這個二進位數字轉換成十進位為 20。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「將 A 除以 2，得到第一次商和餘數，再將商除以 2，得到第二次商和餘數，以此類推直到商等於 0 為止，接著判斷每次得到的餘數是代表基數 2 的幾次方，依序由後往前排列，就可以得到相對應的 B」，上列敘述的運算過程中，「B」代表的應為二進位數字。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "經過運算，可以簡單地將十進位的數字轉換為二進位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了讓輸入麥克風的聲音轉為數據，我們可將麥克風所蒐集的振動聲波轉為電流強度表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CDR 主要是 Adobe Illustrator 軟體的圖檔格式，通常可包含複雜的向量圖形。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "CDR　為　CorelDRAW　繪圖軟體的圖檔格式。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華的作業不小心被打翻的墨汁弄髒了，黑漆漆的墨汁蓋住了大部分的內容，無法判斷題目到底是用哪一種進位方式，只看到 10 下面接的是 11，聰明的小華根據他所學到的，判斷這道題一定是使用十進位。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "二進位與十進位中，10　的下一位都是　11",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「00000101」屬於十進位碼，為 ASCII 中可表示的一個字元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "00000101　屬於二進位碼。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若僅使用一位元進行聲音的量化，則聲音會僅有四種狀態。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應僅有兩種狀態，因為一位元僅有　0　與　1　兩種可能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「將 A 除以 2，得到第一次商和餘數，再將商除以 2，得到第二次商和餘數，以此類推直到商等於 0 為止，接著判斷每次得到的餘數是代表基數 2 的幾次方，依序由後往前排列，就可以得到相對應的 B」，上列敘述的運算過程中，「A」代表的應為十進位數字。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "附圖為二進位的運算過程。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image008.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "附圖為將 1110 這個二進位數字用基數 2 的乘方來表示，並轉換成十進位數字的過程。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image006.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "早期聲音使用錄音帶的方式來儲存，透過磁頭讀取磁帶上的資料，只能做非線性編輯；後來聲音數位化，編輯軟體操作介面透過時間軸的移動，可以做線性編輯。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "透過磁頭讀取磁帶上的資料，編輯聲音時需要用捲動的方式來尋找特定資料，這種編輯方式稱為線性編輯；電腦的聲音編輯軟體操作介面透過時間軸的移動，可以直接跳到任意的地方編輯，稱為非線性編輯。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "雖然在人類眼中看到的影像可能有多種顏色，但在電腦世界的影像則是由一系列的數值所構成的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以下哪個編碼系統又稱萬國碼、統一碼或萬用碼，為 1991 年美國制訂的全球通用文字編碼系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "Big-5 碼"
+        },
+        {
+          "key": "C",
+          "text": "Unicode"
+        },
+        {
+          "key": "D",
+          "text": "C ++。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "傳統媒體如錄影帶、錄音帶是以何種訊號記錄音訊、影片等資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "類比訊號"
+        },
+        {
+          "key": "B",
+          "text": "數位訊號"
+        },
+        {
+          "key": "C",
+          "text": "電磁訊號"
+        },
+        {
+          "key": "D",
+          "text": "超音波段。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿雯在電腦上看到了一張黑白圖檔，請問該影像使用了幾個位元來表達顏色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4 個位元。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "使用　1　位元可以表達　2　種不同的顏色。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖為家用電器常見的開關，請問該狀態為下列何種狀態？",
+      "options": [
+        {
+          "key": "A",
+          "text": "高電壓"
+        },
+        {
+          "key": "B",
+          "text": "高電流"
+        },
+        {
+          "key": "C",
+          "text": "低電壓"
+        },
+        {
+          "key": "D",
+          "text": "低電流。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image009.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "歌手所唱的歌，必須經過哪個步驟，才可以儲存在電腦中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "聽覺化"
+        },
+        {
+          "key": "B",
+          "text": "類比化"
+        },
+        {
+          "key": "C",
+          "text": "數位化"
+        },
+        {
+          "key": "D",
+          "text": "影像化。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "需要把類比形式的影音，經數位化轉換成數位訊號，電腦才可以進行儲存。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲波包含了振幅、波形及頻率三個要素，請問響度與哪一項要素有關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "振幅"
+        },
+        {
+          "key": "B",
+          "text": "頻率"
+        },
+        {
+          "key": "C",
+          "text": "波形"
+        },
+        {
+          "key": "D",
+          "text": "都無關。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲音包含了響度、音調及音色三個要素，請問振幅可以影響聲音的哪一項要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "響度"
+        },
+        {
+          "key": "B",
+          "text": "音調"
+        },
+        {
+          "key": "C",
+          "text": "音色"
+        },
+        {
+          "key": "D",
+          "text": "都無關。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "輕敲或重敲鑼可以改變聲音的大小，是因為改變了何種聲音的元素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "頻率"
+        },
+        {
+          "key": "B",
+          "text": "響度"
+        },
+        {
+          "key": "C",
+          "text": "音調"
+        },
+        {
+          "key": "D",
+          "text": "音色。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "輕敲聲音小，重敲聲音大，和振幅及響度有關。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "能將文字資料轉換成二進位碼的系統稱為編碼系統，由美國國家標準局制訂，以 8 個位元來表示一個字元的是以下哪種編碼系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "Big-5 碼"
+        },
+        {
+          "key": "C",
+          "text": "Unicode"
+        },
+        {
+          "key": "D",
+          "text": "C ++。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問黑白影像量化時，需使用幾個位元來表示色彩？",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1"
+        },
+        {
+          "key": "C",
+          "text": "2"
+        },
+        {
+          "key": "D",
+          "text": "3 個。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲音包含了響度、音調及音色三個要素，請問頻率可以影響聲音的哪一項要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "響度"
+        },
+        {
+          "key": "B",
+          "text": "音調"
+        },
+        {
+          "key": "C",
+          "text": "音色"
+        },
+        {
+          "key": "D",
+          "text": "都無關。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "把傳統的類比資料，轉換成電腦所能識別的 0 與 1，即二進位的形式，讓電腦能夠識別、儲存與處理的方式稱為什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "科技化"
+        },
+        {
+          "key": "B",
+          "text": "虛擬化"
+        },
+        {
+          "key": "C",
+          "text": "電子化"
+        },
+        {
+          "key": "D",
+          "text": "數位化。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "數位化（digitize）就是要把非數位化的資料，轉換成電腦所能識別的　0　與　1，即二進位（binary）的形式，電腦才能夠識別、儲存與處理。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲音的取樣是記錄每個固定間隔時間的振幅，通常取樣頻率的時間單位是多久？",
+      "options": [
+        {
+          "key": "A",
+          "text": "每秒鐘"
+        },
+        {
+          "key": "B",
+          "text": "每分鐘"
+        },
+        {
+          "key": "C",
+          "text": "每小時"
+        },
+        {
+          "key": "D",
+          "text": "每天。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "通常我們會以什麼來判斷數位影像的畫質好不好？",
+      "options": [
+        {
+          "key": "A",
+          "text": "純淨度"
+        },
+        {
+          "key": "B",
+          "text": "顆粒度"
+        },
+        {
+          "key": "C",
+          "text": "解析度"
+        },
+        {
+          "key": "D",
+          "text": "清晰度。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "影像的取樣是用固定範圍去截取影像的像素，若截取到的像素愈多，就會更接近它原始的樣貌，這個概念就是數位影像的解析度。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "17 這個十進位數字以二進位來表示應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1001"
+        },
+        {
+          "key": "B",
+          "text": "1111"
+        },
+        {
+          "key": "C",
+          "text": "10101"
+        },
+        {
+          "key": "D",
+          "text": "10001。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "電腦透過什麼設備做每秒取樣的動作來得到不同狀態的資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "顯示卡"
+        },
+        {
+          "key": "B",
+          "text": "中央處理器"
+        },
+        {
+          "key": "C",
+          "text": "核心運算器"
+        },
+        {
+          "key": "D",
+          "text": "通訊系統。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "透過調節小提琴絃的鬆緊度可以調整聲音的高低，實際上是在調節樂器的哪個要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "音色"
+        },
+        {
+          "key": "B",
+          "text": "響度"
+        },
+        {
+          "key": "C",
+          "text": "振幅"
+        },
+        {
+          "key": "D",
+          "text": "音調。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "弦樂器調整鬆緊度，是在調整聲音的高低。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不屬於色光三原色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "紅光"
+        },
+        {
+          "key": "B",
+          "text": "綠光"
+        },
+        {
+          "key": "C",
+          "text": "黃光"
+        },
+        {
+          "key": "D",
+          "text": "藍光。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "色光的三原色為紅光、綠光、藍光。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "二進位數字 1111 轉換為十進位後應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "11"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "21"
+        },
+        {
+          "key": "D",
+          "text": "37。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關數位訊號與類比訊號的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳統的錄影帶以類比訊號儲存"
+        },
+        {
+          "key": "B",
+          "text": "數位訊號只有 0 與 1 兩種狀態"
+        },
+        {
+          "key": "C",
+          "text": "人聲是屬於類比訊號"
+        },
+        {
+          "key": "D",
+          "text": "電腦只能處理類比訊號，無法處理數位訊號。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "電腦只能處理數位訊號，無法處理類比訊號。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是二進位數字 轉換成十進位數字的對應值？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image011.jpg"
+        ],
+        "options": {
+          "A": "u0305_image013.jpg",
+          "B": "u0305_image015.jpg",
+          "C": "u0305_image017.jpg",
+          "D": "u0305_image019.jpg"
+        }
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲音包含了響度、音調及音色三個要素，請問波形可以影響聲音的哪一項要素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "響度"
+        },
+        {
+          "key": "B",
+          "text": "音調"
+        },
+        {
+          "key": "C",
+          "text": "音色"
+        },
+        {
+          "key": "D",
+          "text": "都無關。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種編碼系統是以 16 個位元來表示一個字元，可表示 65,536 個字元或符號，涵蓋各國常用的文字、字母及符號？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "Big-5 碼"
+        },
+        {
+          "key": "C",
+          "text": "Unicode"
+        },
+        {
+          "key": "D",
+          "text": "C ++。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "福爾摩斯今天收到一封挑戰信，上面寫滿了密密麻麻的代碼，他將代碼輸入電腦後發現信中所傳達的內容是「黃金鑰匙」這四個字，請問破解代碼的不可能是哪種編碼方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "Big-5 碼"
+        },
+        {
+          "key": "C",
+          "text": "Unicode"
+        },
+        {
+          "key": "D",
+          "text": "二進位碼。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問何種向量圖格式是屬於開放標準化的圖檔格式，被廣泛應用於網路上？",
+      "options": [
+        {
+          "key": "A",
+          "text": "PNG"
+        },
+        {
+          "key": "B",
+          "text": "SVG"
+        },
+        {
+          "key": "C",
+          "text": "CDR"
+        },
+        {
+          "key": "D",
+          "text": "TIFF。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是十進位數字 轉換成二進位數字的對應值？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image021.jpg"
+        ],
+        "options": {
+          "A": "u0305_image023.jpg",
+          "B": "u0305_image025.jpg",
+          "C": "u0305_image027.jpg",
+          "D": "u0305_image029.jpg"
+        }
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "影像能夠透過數位鏡頭或掃描器等設備進行取樣與量化，再轉換成數位影像，這樣的過程稱為什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "影像解析化"
+        },
+        {
+          "key": "B",
+          "text": "影像像素化"
+        },
+        {
+          "key": "C",
+          "text": "影像編碼化"
+        },
+        {
+          "key": "D",
+          "text": "影像數位化。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "解析度越高代表什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "影像尺寸越大"
+        },
+        {
+          "key": "B",
+          "text": "影像畫質越好"
+        },
+        {
+          "key": "C",
+          "text": "影像亮度越高"
+        },
+        {
+          "key": "D",
+          "text": "影像色彩的彩度更高。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "影像的解析度愈高，畫質愈好。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "Hz（赫茲）是國際單位制中，頻率的單位，表示每一秒週期性事件發生的次數頻率，下列哪一項敘述不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "聲音的取樣是在類比聲音固定的時間間隔，取出音波訊號"
+        },
+        {
+          "key": "B",
+          "text": "聲音的取樣是在類比聲音隨機的時間間隔，取出音波訊號"
+        },
+        {
+          "key": "C",
+          "text": "每秒取樣的次數稱為取樣頻率"
+        },
+        {
+          "key": "D",
+          "text": "取樣的樣本數愈多，就會更接近原來的聲音源。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果要讓電腦看得懂資料，需要先將資料轉換成什麼形式的訊號？",
+      "options": [
+        {
+          "key": "A",
+          "text": "類比訊號"
+        },
+        {
+          "key": "B",
+          "text": "數位訊號"
+        },
+        {
+          "key": "C",
+          "text": "十進位"
+        },
+        {
+          "key": "D",
+          "text": "十六進位。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在使用麥克風收集數據時，我們通常會將麥克風的振動聲波轉換成什麼來表示？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電流強度"
+        },
+        {
+          "key": "B",
+          "text": "電壓大小"
+        },
+        {
+          "key": "C",
+          "text": "波長大小"
+        },
+        {
+          "key": "D",
+          "text": "網路速度。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "電腦是用哪一種進位系統來處理資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二進位"
+        },
+        {
+          "key": "B",
+          "text": "八進位"
+        },
+        {
+          "key": "C",
+          "text": "十進位"
+        },
+        {
+          "key": "D",
+          "text": "十六進位。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "電腦是用二進位系統來處理資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關 Canva 軟體的敘述，下列哪一項不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一個線上平面設計軟體"
+        },
+        {
+          "key": "B",
+          "text": "可以設計簡報和海報"
+        },
+        {
+          "key": "C",
+          "text": "無法編輯影音檔案"
+        },
+        {
+          "key": "D",
+          "text": "可以與他人共同編輯作品。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不是數位產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "MP3 隨身聽"
+        },
+        {
+          "key": "B",
+          "text": "數位相機的照片"
+        },
+        {
+          "key": "C",
+          "text": "YouTube 的影音"
+        },
+        {
+          "key": "D",
+          "text": "晚會活動的錄影帶。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不須數位化就可以在網路上播放？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由聲帶振動產生的歌聲"
+        },
+        {
+          "key": "B",
+          "text": "由拉弦振動所產生的琴聲"
+        },
+        {
+          "key": "C",
+          "text": "由打鼓振動所產生的鼓聲"
+        },
+        {
+          "key": "D",
+          "text": "播放影音平臺的影片。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "碧可使用了 3 位元來量化聲音，請問這表示他利用了幾種變化來描繪聲音的細緻程度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 種"
+        },
+        {
+          "key": "B",
+          "text": "3 種"
+        },
+        {
+          "key": "C",
+          "text": "8 種"
+        },
+        {
+          "key": "D",
+          "text": "16 種。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "以　3　位元來量化聲音，表示有　　種變化。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於聲音的敘述，下列說法何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當振幅越大，響度就越大"
+        },
+        {
+          "key": "B",
+          "text": "當頻率越大，音調會越高"
+        },
+        {
+          "key": "C",
+          "text": "當頻率越大，響度就越大"
+        },
+        {
+          "key": "D",
+          "text": "物體的震動會產生聲音。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "當頻率越大，音調就越高。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項設備無法與電腦進行數位傳輸來獲得資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "手機"
+        },
+        {
+          "key": "B",
+          "text": "拍立得"
+        },
+        {
+          "key": "C",
+          "text": "數位相機"
+        },
+        {
+          "key": "D",
+          "text": "空拍機。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在日常生活中的影像能夠透過數位鏡頭或掃描器等設備轉換成數位影像，在轉換的過程中，包含了取樣與下列哪個步驟？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二質化"
+        },
+        {
+          "key": "B",
+          "text": "編碼化"
+        },
+        {
+          "key": "C",
+          "text": "量化"
+        },
+        {
+          "key": "D",
+          "text": "純化。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關 Audacity 軟體的敘述，下列哪一項不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一個數位音訊編輯軟體"
+        },
+        {
+          "key": "B",
+          "text": "一個開源碼的自由軟體"
+        },
+        {
+          "key": "C",
+          "text": "這個軟體可以錄音或是編輯音訊"
+        },
+        {
+          "key": "D",
+          "text": "聲音不能直接匯出 MP3 格式。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列種編碼系統在電腦中可表示英文字母？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "Big-5"
+        },
+        {
+          "key": "C",
+          "text": "Unicode"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是類比產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "錄音帶"
+        },
+        {
+          "key": "B",
+          "text": "MP3 隨身聽"
+        },
+        {
+          "key": "C",
+          "text": "CD 光碟"
+        },
+        {
+          "key": "D",
+          "text": "直播影音。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問在電腦中，一個位元可以表示幾種狀態？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 種"
+        },
+        {
+          "key": "B",
+          "text": "2 種"
+        },
+        {
+          "key": "C",
+          "text": "3 種"
+        },
+        {
+          "key": "D",
+          "text": "4 種。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "十進位數字使用十個不同的符號，請問下列何者不是其符號之一 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "9"
+        },
+        {
+          "key": "D",
+          "text": "10。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "十進位數字為　0、1、2、3、4、5、6、7、8、9，沒有　10。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "佑佑老師今天教大家認識頻率，老師說人耳可以聽到的頻率大約在 20Hz～20,000Hz 之間，請問老師指的是聲音的哪個部分？",
+      "options": [
+        {
+          "key": "A",
+          "text": "響度"
+        },
+        {
+          "key": "B",
+          "text": "震度"
+        },
+        {
+          "key": "C",
+          "text": "音色"
+        },
+        {
+          "key": "D",
+          "text": "音調。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小美在網路上編碼表中看到有一編碼為「A440」，請問該編碼應為幾位元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 位元"
+        },
+        {
+          "key": "B",
+          "text": "8 位元"
+        },
+        {
+          "key": "C",
+          "text": "10 位元"
+        },
+        {
+          "key": "D",
+          "text": "16 位元。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲波包含了振幅、波形及頻率三個要素，請問音調與哪一項要素有關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "振幅"
+        },
+        {
+          "key": "B",
+          "text": "頻率"
+        },
+        {
+          "key": "C",
+          "text": "波形"
+        },
+        {
+          "key": "D",
+          "text": "都無關。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "檯燈的開關上常見以 1 與 0 標示，其中 0 代表什麼意思 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "高電壓"
+        },
+        {
+          "key": "B",
+          "text": "高電流"
+        },
+        {
+          "key": "C",
+          "text": "低電壓"
+        },
+        {
+          "key": "D",
+          "text": "低電流。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "1　表示電源開啟為高電壓，0　表示電源關閉為低電壓。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲波包含了振幅、波形及頻率三個要素，請問音色與哪一項要素有關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "振幅"
+        },
+        {
+          "key": "B",
+          "text": "頻率"
+        },
+        {
+          "key": "C",
+          "text": "波形"
+        },
+        {
+          "key": "D",
+          "text": "都無關。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "睿睿到相片沖洗店想把手機中與小狗的合照洗出來，老闆說 100dpi、300dpi 及 450dpi 三種影像規格可選擇，請問睿睿該選擇哪一種規格才可以得到畫質最好的照片呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "100dpi"
+        },
+        {
+          "key": "B",
+          "text": "300dpi"
+        },
+        {
+          "key": "C",
+          "text": "450dpi"
+        },
+        {
+          "key": "D",
+          "text": "畫質都一樣。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "數字愈大，表示影像的解析度愈高，畫質愈好。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小霞欲將聲音量化，請問它應使用幾位元才能讓量化的數值最精細？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 位元"
+        },
+        {
+          "key": "B",
+          "text": "2 位元"
+        },
+        {
+          "key": "C",
+          "text": "8 位元"
+        },
+        {
+          "key": "D",
+          "text": "16 位元。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "位元數越高，表示量化的數值越精細。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項為色光三原色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "紅、綠、藍"
+        },
+        {
+          "key": "B",
+          "text": "紅、綠、白"
+        },
+        {
+          "key": "C",
+          "text": "紫、綠、藍"
+        },
+        {
+          "key": "D",
+          "text": "紅、黑、藍。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "點陣圖中只包含黑到白不同明亮程度的色彩，是屬於下列哪一種點陣圖？",
+      "options": [
+        {
+          "key": "A",
+          "text": "黑白點陣圖"
+        },
+        {
+          "key": "B",
+          "text": "灰階點陣圖"
+        },
+        {
+          "key": "C",
+          "text": "漸層點陣圖"
+        },
+        {
+          "key": "D",
+          "text": "彩色點陣圖。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如何才能將傳統以類比形式記錄的錄影帶透過電腦儲存起來？",
+      "options": [
+        {
+          "key": "A",
+          "text": "把類比訊號轉換成數位訊號儲存"
+        },
+        {
+          "key": "B",
+          "text": "將類比訊號進行壓縮後儲存"
+        },
+        {
+          "key": "C",
+          "text": "不用經過特別處理電腦即可儲存"
+        },
+        {
+          "key": "D",
+          "text": "將影像以及聲音分開儲存。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "傳統的錄影帶及錄音帶以類比訊號（analog signal）儲存，如果要以電腦處理、播放，就要把類比形式的影音，經數位化轉換成數位訊號（digital signal）。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖為家用電器常見的開關，請問該狀態為下列何種狀態？",
+      "options": [
+        {
+          "key": "A",
+          "text": "高電壓"
+        },
+        {
+          "key": "B",
+          "text": "高電流"
+        },
+        {
+          "key": "C",
+          "text": "低電壓"
+        },
+        {
+          "key": "D",
+          "text": "低電流。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image030.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於聲音的敘述，下列何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "分組討論時老師總是要大家壓低音量，是希望大家可以降低聲音的響度"
+        },
+        {
+          "key": "B",
+          "text": "「聞其聲而知其人」是透過音色的不同來辨認說話的對象"
+        },
+        {
+          "key": "C",
+          "text": "頻率是指單位時間內事件重複發生的次數，影響聲音的高低"
+        },
+        {
+          "key": "D",
+          "text": "只要物體在震動，我們就一定能聽到它發出的聲音。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "人耳可以聽到的頻率大約在　20Hz～20000Hz　之間，超過此範圍人耳無法聽到。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "解析度一般會以什麼為單位，計算每平方單位中所包含的樣本數？",
+      "options": [
+        {
+          "key": "A",
+          "text": "毫米"
+        },
+        {
+          "key": "B",
+          "text": "公分"
+        },
+        {
+          "key": "C",
+          "text": "英哩"
+        },
+        {
+          "key": "D",
+          "text": "英寸。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "解析度一般會以英寸為單位，計算每平方英寸中所包含的樣本數，例如：100dpi、300dpi　等。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "使用 8 位元色彩模式的相片中，最多可以表達幾種不同的顏色？",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "64"
+        },
+        {
+          "key": "D",
+          "text": "256 種。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "使用　8　位元的色彩模式可以表達　256　種不同的顏色。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列與影像類型有關的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隨著壓縮技術的進步，圖片所占的儲存空間隨之變小"
+        },
+        {
+          "key": "B",
+          "text": "256 種不同顏色的灰階點陣圖，每一個像素是使用 16 個位元來表示"
+        },
+        {
+          "key": "C",
+          "text": "相同尺寸的照片，解析度越高，所包含的像素越多"
+        },
+        {
+          "key": "D",
+          "text": "黑白點陣圖的色彩模式為 1 位元。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "每一個像素使用　8　個位元來記錄。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖是某聲音的位元深度及取樣頻率的關係圖，請問從附圖中，可以看出此筆資料為多少位元深度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 位元深度"
+        },
+        {
+          "key": "B",
+          "text": "2 位元深度"
+        },
+        {
+          "key": "C",
+          "text": "4 位元深度"
+        },
+        {
+          "key": "D",
+          "text": "8 位元深度。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image032.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一個規格的圖片最容易在放大後看到不規則的鋸齒狀？",
+      "options": [
+        {
+          "key": "A",
+          "text": "100dpi"
+        },
+        {
+          "key": "B",
+          "text": "200dpi"
+        },
+        {
+          "key": "C",
+          "text": "300dpi"
+        },
+        {
+          "key": "D",
+          "text": "400dpi。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "若將影像分割成較少的區塊，取樣則較不精準，影像會失真。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "聲音的數位化，是指將聲音訊號做以下哪種轉換？",
+      "options": [
+        {
+          "key": "A",
+          "text": "類比轉為數位"
+        },
+        {
+          "key": "B",
+          "text": "數位轉為類比"
+        },
+        {
+          "key": "C",
+          "text": "點陣轉為向量"
+        },
+        {
+          "key": "D",
+          "text": "向量轉為點陣。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一句話是電腦可以直接讀懂的指令？",
+      "options": [
+        {
+          "key": "A",
+          "text": "digitalWrite(ledPin,val);"
+        },
+        {
+          "key": "B",
+          "text": "8541456"
+        },
+        {
+          "key": "C",
+          "text": "click the button"
+        },
+        {
+          "key": "D",
+          "text": "1001001。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請利用課本第 154 頁查表，下列哪一項是文字「九」的 Big-5 碼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "A2B8"
+        },
+        {
+          "key": "B",
+          "text": "A445"
+        },
+        {
+          "key": "C",
+          "text": "FF19"
+        },
+        {
+          "key": "D",
+          "text": "4E5D。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "點陣圖中只包含黑和白兩種顏色，是屬於下列哪一種點陣圖？",
+      "options": [
+        {
+          "key": "A",
+          "text": "黑白點陣圖"
+        },
+        {
+          "key": "B",
+          "text": "灰階點陣圖"
+        },
+        {
+          "key": "C",
+          "text": "漸層點陣圖"
+        },
+        {
+          "key": "D",
+          "text": "彩色點陣圖。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "檯燈的開關上常見以 1 與 0 標示，其中 1 代表什麼意思 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "高電壓"
+        },
+        {
+          "key": "B",
+          "text": "高電流"
+        },
+        {
+          "key": "C",
+          "text": "低電壓"
+        },
+        {
+          "key": "D",
+          "text": "低電流。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "1　表示電源開啟為高電壓，0　表示電源關閉為低電壓。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種點陣圖格式較 JPEG 有更好的品質，是 Apple 設備的影像格式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "PNG"
+        },
+        {
+          "key": "B",
+          "text": "HEIC"
+        },
+        {
+          "key": "C",
+          "text": "GIF"
+        },
+        {
+          "key": "D",
+          "text": "TIFF。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "影像中以固定的範圍去截取影像的像素，若截取到的像素愈多代表什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "影像越模糊"
+        },
+        {
+          "key": "B",
+          "text": "影像越清晰"
+        },
+        {
+          "key": "C",
+          "text": "影像尺寸越小"
+        },
+        {
+          "key": "D",
+          "text": "影像尺寸越大。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "為了節省通話時資料傳輸的頻寬，一般電話通話是採用多少的取樣頻率？",
+      "options": [
+        {
+          "key": "A",
+          "text": "800Hz"
+        },
+        {
+          "key": "B",
+          "text": "8,000Hz"
+        },
+        {
+          "key": "C",
+          "text": "10,000Hz"
+        },
+        {
+          "key": "D",
+          "text": "20,000Hz。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "電話通話品質並不需要極高的音質，採用　8,000Hz　的取樣頻率就可達到聲音的辨識，同時也可以節省傳輸的頻寬。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「將 A 除以 2，得到第一次商和餘數，再將商除以 2，得到第二次商和餘數，以此類推直到商等於 0 為止，接著判斷每次得到的餘數是代表基數 2 的幾次方，依序由後往前排列，就可以得到相對應的 B」，請問上列敘述的運算過程中，「A」代表的應為幾進位的數字 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二進位"
+        },
+        {
+          "key": "B",
+          "text": "八進位"
+        },
+        {
+          "key": "C",
+          "text": "十進位"
+        },
+        {
+          "key": "D",
+          "text": "十六進位。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "二進位數字 100110 轉換為十進位後應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "26"
+        },
+        {
+          "key": "B",
+          "text": "38"
+        },
+        {
+          "key": "C",
+          "text": "42"
+        },
+        {
+          "key": "D",
+          "text": "46。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪兩種進位方式互相轉換 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二進位與十進位"
+        },
+        {
+          "key": "B",
+          "text": "二進位與八進位"
+        },
+        {
+          "key": "C",
+          "text": "二進位與十六進位"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問「天籟之音」是在描述聲音中的哪項元素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "響度"
+        },
+        {
+          "key": "B",
+          "text": "震度"
+        },
+        {
+          "key": "C",
+          "text": "音色"
+        },
+        {
+          "key": "D",
+          "text": "音調。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "聲音的特色，與波形有關；我們之所以能夠辨別不同的聲音，是因為音色的不同。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列四個成語中，哪一個與響度無關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "如雷貫耳"
+        },
+        {
+          "key": "B",
+          "text": "黃鶯出谷"
+        },
+        {
+          "key": "C",
+          "text": "輕聲細語"
+        },
+        {
+          "key": "D",
+          "text": "震耳欲聾。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "黃鶯出谷形容聲音悅耳動聽，與音色有關。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「震耳欲聾」這句成語是在形容聲音的哪項特質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "響度"
+        },
+        {
+          "key": "B",
+          "text": "震度"
+        },
+        {
+          "key": "C",
+          "text": "音色"
+        },
+        {
+          "key": "D",
+          "text": "音調。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列說法何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "我們即使閉著眼睛也可以判斷出是誰在講話，因為每個人的音色不同"
+        },
+        {
+          "key": "B",
+          "text": "同一個樂器可以發出不同的聲音是因為聲音的振幅不同"
+        },
+        {
+          "key": "C",
+          "text": "男生的聲音通常比女生的聲音低沉、渾厚是因為響度不同"
+        },
+        {
+          "key": "D",
+          "text": "想要讓音色變得更好聽可以透過調整物體本身的震動頻率。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)同一個樂器可以發出不同聲音是因為音調不同，與頻率有關；(Ｃ)男生的聲音通常比女生的聲音低沉、渾厚是因為音調不同，與頻率有關；(Ｄ)調整物體本身的震動頻率只能改變音調，無法改變音色。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "黑皮發現男老師上課時使用麥克風講話比較不清楚，女老師講話比較清楚，請問是什麼原因？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因為聲音頻率不同，頻率高轉換的聲音越精緻，聲音也越清晰"
+        },
+        {
+          "key": "B",
+          "text": "因為聲音的響度不同，響度越大，麥克風轉換的效率越差"
+        },
+        {
+          "key": "C",
+          "text": "因為聲音的波形不同，波形越柔和，聲音越清晰"
+        },
+        {
+          "key": "D",
+          "text": "因為聲音的語調不同，波長越長，表示聲音越清楚。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖是某一個振幅-時間的關係圖，請問此類資料是屬於何種訊號？",
+      "options": [
+        {
+          "key": "A",
+          "text": "類比訊號"
+        },
+        {
+          "key": "B",
+          "text": "數位訊號"
+        },
+        {
+          "key": "C",
+          "text": "以上皆非"
+        },
+        {
+          "key": "D",
+          "text": "視情況而定。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image034.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問附圖是什麼進位的運算過程？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二進位"
+        },
+        {
+          "key": "B",
+          "text": "八進位"
+        },
+        {
+          "key": "C",
+          "text": "十進位"
+        },
+        {
+          "key": "D",
+          "text": "十六進位。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0305_image035.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種編碼系統因可以表示中文字，而廣泛應用於臺灣、香港等地？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ASCII"
+        },
+        {
+          "key": "B",
+          "text": "Big-5"
+        },
+        {
+          "key": "C",
+          "text": "Unicode"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在 Unicode 編碼系統中，「4E00」是表示中文字「一」，請問該編碼應屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二進位"
+        },
+        {
+          "key": "B",
+          "text": "十進位"
+        },
+        {
+          "key": "C",
+          "text": "十六進位"
+        },
+        {
+          "key": "D",
+          "text": "三十二進位。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "電腦編碼系統皆為二進位。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "若從 0 開始為第一個數字，每次加 1，則十進位與二進位的數字在第幾個數字開始會產生不同 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "第 2 個"
+        },
+        {
+          "key": "B",
+          "text": "第 3 個"
+        },
+        {
+          "key": "C",
+          "text": "第 4 個"
+        },
+        {
+          "key": "D",
+          "text": "第 5 個。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "十進位：0、1、2、3、4、5、……\n二進位：0、1、10、11、100、101、……",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「聲如洪鐘」這句成語是在形容聲音的哪項特質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "音色"
+        },
+        {
+          "key": "B",
+          "text": "震度"
+        },
+        {
+          "key": "C",
+          "text": "音調"
+        },
+        {
+          "key": "D",
+          "text": "響度。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "聲音的強弱，與振幅有關，振幅越大響度越強。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問「黃鶯出谷」是在描述聲音中的哪項元素？",
+      "options": [
+        {
+          "key": "A",
+          "text": "震度"
+        },
+        {
+          "key": "B",
+          "text": "音色"
+        },
+        {
+          "key": "C",
+          "text": "響度"
+        },
+        {
+          "key": "D",
+          "text": "音調。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "聲音的特色，與波形有關；我們之所以能夠辨別不同的聲音，是因為音色的不同。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "10 在十進位中是從 1 開始排序的第 10 個數字，但在二進位中是從 1 開始排序的第幾個數字？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "10。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "45 這個十進位數字以二進位來表示應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1111"
+        },
+        {
+          "key": "B",
+          "text": "10011"
+        },
+        {
+          "key": "C",
+          "text": "101101"
+        },
+        {
+          "key": "D",
+          "text": "1101101。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有一聲音取樣頻率為 10,000 赫茲，請問此一聲音每秒的取樣次數為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "100 次"
+        },
+        {
+          "key": "B",
+          "text": "1,000 次"
+        },
+        {
+          "key": "C",
+          "text": "10,000 次"
+        },
+        {
+          "key": "D",
+          "text": "無法判定。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "二進位數字 110110 轉換為十進位後應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "8"
+        },
+        {
+          "key": "B",
+          "text": "22"
+        },
+        {
+          "key": "C",
+          "text": "54"
+        },
+        {
+          "key": "D",
+          "text": "78。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「將 A 除以 2，得到第一次商和餘數，再將商除以 2，得到第二次商和餘數，以此類推直到商等於 0 為止，接著判斷每次得到的餘數是代表基數 2 的幾次方，依序由後往前排列，就可以得到相對應的 B」，請問上列敘述的運算過程中，「B」代表的應為幾進位的數字 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "二進位"
+        },
+        {
+          "key": "B",
+          "text": "八進位"
+        },
+        {
+          "key": "C",
+          "text": "十進位"
+        },
+        {
+          "key": "D",
+          "text": "十六進位。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "42 這個十進位數字以二進位來表示應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "111111"
+        },
+        {
+          "key": "B",
+          "text": "111000"
+        },
+        {
+          "key": "C",
+          "text": "101111"
+        },
+        {
+          "key": "D",
+          "text": "101010。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者為測量聲音音調高低的單位？",
+      "options": [
+        {
+          "key": "A",
+          "text": "分貝"
+        },
+        {
+          "key": "B",
+          "text": "赫茲"
+        },
+        {
+          "key": "C",
+          "text": "公分"
+        },
+        {
+          "key": "D",
+          "text": "秒。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "音調的高低與頻率有關，頻率的單位為赫茲。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小寶在虛擬世界的村莊中迷了路，眼前出現了四道門，上面分別寫著不同的門牌號碼，而且只有一扇是正確的，正當小寶懊惱著不知道該選哪條路時，突然想起村長曾經告訴過他，這個世界是透過數位訊號來溝通的，請問小寶該走進哪一扇門？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1212"
+        },
+        {
+          "key": "B",
+          "text": "0505"
+        },
+        {
+          "key": "C",
+          "text": "1234"
+        },
+        {
+          "key": "D",
+          "text": "1010。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種聲音的取樣頻率人類無法辨識？",
+      "options": [
+        {
+          "key": "A",
+          "text": "500Hz"
+        },
+        {
+          "key": "B",
+          "text": "5,000Hz"
+        },
+        {
+          "key": "C",
+          "text": "10,000Hz"
+        },
+        {
+          "key": "D",
+          "text": "50,000Hz。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "人類可聽到聲音的頻率範圍為　20Hz～20,000Hz。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "蝙蝠在漆黑的山洞中可以透過超音波的回聲定位來找尋獵物，但當牠發出超音波時人類卻聽不到，是因為超音波的哪一項數值過高，人耳無法辨識？",
+      "options": [
+        {
+          "key": "A",
+          "text": "頻率"
+        },
+        {
+          "key": "B",
+          "text": "震幅"
+        },
+        {
+          "key": "C",
+          "text": "振幅"
+        },
+        {
+          "key": "D",
+          "text": "響度。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "一般電腦的儲存是以位元組計算，請問一位元組是多少位元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 位元"
+        },
+        {
+          "key": "B",
+          "text": "4 位元"
+        },
+        {
+          "key": "C",
+          "text": "8 位元"
+        },
+        {
+          "key": "D",
+          "text": "16 位元。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種聲音的檔案類型支援串流技術，在檔案傳輸時就可以播放音檔？",
+      "options": [
+        {
+          "key": "A",
+          "text": "MP3"
+        },
+        {
+          "key": "B",
+          "text": "AAC"
+        },
+        {
+          "key": "C",
+          "text": "WAV"
+        },
+        {
+          "key": "D",
+          "text": "WMA。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在聲音的取樣過程中，聲音音調越高表示每秒鐘所可以取得的樣本越？",
+      "options": [
+        {
+          "key": "A",
+          "text": "少"
+        },
+        {
+          "key": "B",
+          "text": "不變"
+        },
+        {
+          "key": "C",
+          "text": "多"
+        },
+        {
+          "key": "D",
+          "text": "視情況而定。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "音調越高表示聲音頻率越高，因此每秒鐘所可取得的樣本應越多。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪種數位聲音格式使用了較佳的壓縮演算法，達到較 MP3 更小的檔案，也保有較高的音質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "AAC"
+        },
+        {
+          "key": "B",
+          "text": "WAV"
+        },
+        {
+          "key": "C",
+          "text": "WMA"
+        },
+        {
+          "key": "D",
+          "text": "PCM。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於影像的敘述，下列說法何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "dpi 越高，表示影像的解析度愈高，畫質愈好"
+        },
+        {
+          "key": "B",
+          "text": "影像的取樣是用固定範圍去截取影像的色彩鮮豔度，截取到愈多的色彩鮮豔度就會更接近原始樣貌"
+        },
+        {
+          "key": "C",
+          "text": "常見的像素量化有使用 1 位元、8 位元、24 位元等色彩模式，使用位元數不同，色彩的呈現也不同"
+        },
+        {
+          "key": "D",
+          "text": "現在電腦的資源變得豐富，所以將像素使用 24 位元來儲存也很常見。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "影像的取樣是用固定範圍去截取影像的像素，截取到愈多像素就會更接近原始樣貌。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小明看到有一個二進位編碼為「00000000」，其可以對照編碼表來表示一英文字母字元，請問該編碼系統應為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "美國資訊交換碼"
+        },
+        {
+          "key": "B",
+          "text": "Big-5"
+        },
+        {
+          "key": "C",
+          "text": "萬用碼"
+        },
+        {
+          "key": "D",
+          "text": "統一碼。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "一英文字母為八位元應該是　ASCII。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "二進位數字 10101 轉換為十進位後應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "17"
+        },
+        {
+          "key": "C",
+          "text": "19"
+        },
+        {
+          "key": "D",
+          "text": "21。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以檯燈為例，若將「關開關開關」數位化，轉換後應為下列何者 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10101"
+        },
+        {
+          "key": "B",
+          "text": "01010"
+        },
+        {
+          "key": "C",
+          "text": "21212"
+        },
+        {
+          "key": "D",
+          "text": "12121。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "1　表示電源開啟為高電壓，0　表示電源關閉為低電壓。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一種檔案類型由微軟和 IBM 聯合開發，用 PCM 碼而未壓縮，盡可能保護高音質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "MP3"
+        },
+        {
+          "key": "B",
+          "text": "WAV"
+        },
+        {
+          "key": "C",
+          "text": "WMA"
+        },
+        {
+          "key": "D",
+          "text": "AAC。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「輕聲細語」這句成語是在形容聲音的哪項特質？",
+      "options": [
+        {
+          "key": "A",
+          "text": "音調"
+        },
+        {
+          "key": "B",
+          "text": "震度"
+        },
+        {
+          "key": "C",
+          "text": "響度"
+        },
+        {
+          "key": "D",
+          "text": "音色。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "聲音的強弱，與振幅有關，振幅越小響度越小。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "強強上完資訊科技課後自己練習做聲音取樣，他每秒記錄 1000 次樣本，但轉換成聲音輸出時卻發現與原來的音源相差很大，很多聲音都失真了，請問是什麼原因所導致的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "播放的聲音太大聲了"
+        },
+        {
+          "key": "B",
+          "text": "播放的聲音太小聲了"
+        },
+        {
+          "key": "C",
+          "text": "每秒取樣的次數太多了"
+        },
+        {
+          "key": "D",
+          "text": "每秒取樣的次數太少了。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "每秒取樣次數過少，會導致與原本聲音源相差較大。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小華的作業不小心被打翻的墨汁弄髒了，黑漆漆的墨汁蓋住了大部分的內容，無法判斷題目到底是用哪一種進位方式，只看到 10 下面接的是 11，聰明的小華根據他所學到的，判斷這道題可能是使用下列何種進位方式 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "四進位"
+        },
+        {
+          "key": "B",
+          "text": "八進位"
+        },
+        {
+          "key": "C",
+          "text": "十進位"
+        },
+        {
+          "key": "D",
+          "text": "十六進位。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "二進位與十進位中，10　的下一位都是　11。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "33 這個十進位數字以二進位來表示應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "100001"
+        },
+        {
+          "key": "B",
+          "text": "100011"
+        },
+        {
+          "key": "C",
+          "text": "100101"
+        },
+        {
+          "key": "D",
+          "text": "101001。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "假設有一聲音檔案的取樣頻率為 1,000Hz，樣本大小為 16 位元，若採單聲道，其 60 秒的聲音檔案大小應為多少 Bytes？",
+      "options": [
+        {
+          "key": "A",
+          "text": "16,000Bytes"
+        },
+        {
+          "key": "B",
+          "text": "60,000Bytes"
+        },
+        {
+          "key": "C",
+          "text": "120,000Bytes"
+        },
+        {
+          "key": "D",
+          "text": "240,000Bytes。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "1000×(16÷8)×1×60＝120000",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "20 這個十進位數字以二進位來表示應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10010"
+        },
+        {
+          "key": "B",
+          "text": "10100"
+        },
+        {
+          "key": "C",
+          "text": "11100"
+        },
+        {
+          "key": "D",
+          "text": "11111。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何種點陣圖格式支援透明度，可以呈現較好的色彩與亮度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "JPEG"
+        },
+        {
+          "key": "B",
+          "text": "GIF"
+        },
+        {
+          "key": "C",
+          "text": "TIFF"
+        },
+        {
+          "key": "D",
+          "text": "PNG。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "波波在遊戲中獲得了一個藏寶箱，關主告訴他寶箱密碼是一組二進位數字，而且同時是 2、3 和 7 的倍數，請問波波該按下哪一組數字才能獲得寶藏？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1000110"
+        },
+        {
+          "key": "B",
+          "text": "1001011"
+        },
+        {
+          "key": "C",
+          "text": "1011100"
+        },
+        {
+          "key": "D",
+          "text": "1010100。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(Ａ)　70；(Ｂ)　75；(Ｃ)　92；(Ｄ)　84　同時為　2、3　和　7　的倍數。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿迪的爺爺喜歡用收音機收聽廣播節目，阿迪每次都看見爺爺在收音機旁一直旋轉旋鈕，經詢問後才知道原來爺爺是在調整不同的頻道，請問該旋鈕是透過什麼訊號在控制收音機的頻道？",
+      "options": [
+        {
+          "key": "A",
+          "text": "類比訊號"
+        },
+        {
+          "key": "B",
+          "text": "數位訊號"
+        },
+        {
+          "key": "C",
+          "text": "數碼訊號"
+        },
+        {
+          "key": "D",
+          "text": "電磁波訊號。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "曉華很常在網路上看到簡單的動畫，也會將其應用於自己的簡報中，請問通常網路上的動畫圖檔格式應為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "GIF"
+        },
+        {
+          "key": "B",
+          "text": "HEIC"
+        },
+        {
+          "key": "C",
+          "text": "PNG"
+        },
+        {
+          "key": "D",
+          "text": "JPEG。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "二進位數字 1100110 轉換為十進位後應為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "58"
+        },
+        {
+          "key": "B",
+          "text": "84"
+        },
+        {
+          "key": "C",
+          "text": "102"
+        },
+        {
+          "key": "D",
+          "text": "116。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問何謂位元深度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "每個聲音取樣樣本在特定時間點的強度"
+        },
+        {
+          "key": "B",
+          "text": "每個聲音樣本在特定位元數的狀態"
+        },
+        {
+          "key": "C",
+          "text": "每個聲音樣本在不同時間的頻率"
+        },
+        {
+          "key": "D",
+          "text": "每個聲音樣本在不同位元數的狀態。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

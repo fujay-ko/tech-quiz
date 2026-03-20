@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>國中科技練習測驗</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<style>
+:root {
+  --bg:#f7f6f2; --surface:#fff; --surface2:#f0efe9; --border:#e2e0d8;
+  --text:#1a1916; --muted:#8a8880; --accent:#c0392b; --accent2:#e74c3c;
+  --accent-bg:#fdf3f2; --correct:#27ae60; --correct-bg:#eafaf1;
+  --wrong:#c0392b; --wrong-bg:#fdedec;
+  --tf-color:#8e44ad; --tf-bg:#f5eef8; --mc-color:#2471a3; --mc-bg:#eaf4fb;
+  --radius:10px; --shadow:0 2px 8px rgba(0,0,0,.07);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Noto Sans TC',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.6}
+.page{display:none;max-width:720px;margin:0 auto;padding:32px 16px 80px}
+.page.active{display:block;animation:fadeUp .25s ease}
+@keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.topbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:40px}
+.brand{font-family:'DM Mono',monospace;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:500}
+.home-headline{font-size:clamp(1.8rem,5vw,2.6rem);font-weight:700;line-height:1.2;letter-spacing:-.02em;margin-bottom:8px}
+.home-sub{color:var(--muted);font-size:.9rem;margin-bottom:36px}
+
+/* 上傳區域樣式 */
+.upload-box {
+  border: 2px dashed var(--border);
+  border-radius: var(--radius);
+  padding: 30px;
+  text-align: center;
+  background: var(--surface);
+  margin-bottom: 32px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.upload-box:hover, .upload-box.dragover {
+  border-color: var(--accent);
+  background: var(--accent-bg);
+}
+.upload-box p { font-size: 0.9rem; color: var(--muted); margin-top: 8px; }
+.upload-icon { font-size: 24px; color: var(--accent); }
+
+.type-chips{display:flex;gap:8px;margin-bottom:32px;flex-wrap:wrap}
+.chip{padding:4px 14px;border-radius:20px;font-size:.78rem;font-weight:500;display:flex;align-items:center;gap:5px}
+.chip-tf{background:var(--tf-bg);color:var(--tf-color)}
+.chip-mc{background:var(--mc-bg);color:var(--mc-color)}
+.section-label{font-family:'DM Mono',monospace;font-size:.65rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.unit-list{display:flex;flex-direction:column;gap:8px;margin-bottom:28px}
+.unit-item{display:flex;align-items:center;gap:14px;padding:16px 18px;background:var(--surface);border:1.5px solid var(--border);border-radius:var(--radius);cursor:pointer;transition:border-color .15s,background .15s}
+.unit-item:hover,.unit-item.selected{border-color:var(--accent);background:var(--accent-bg)}
+.unit-radio{width:20px;height:20px;border-radius:50%;border:2px solid var(--border);flex-shrink:0;display:flex;align-items:center;justify-content:center;transition:all .15s}
+.unit-item.selected .unit-radio{border-color:var(--accent);background:var(--accent)}
+.unit-dot{width:7px;height:7px;border-radius:50%;background:white;opacity:0;transition:opacity .15s}
+.unit-item.selected .unit-dot{opacity:1}
+.unit-name{font-weight:500;font-size:.95rem;margin-bottom:4px}
+.unit-meta{display:flex;gap:6px}
+.unit-badge{font-size:.7rem;padding:1px 8px;border-radius:4px;font-weight:500}
+.badge-tf{background:var(--tf-bg);color:var(--tf-color)}
+.badge-mc{background:var(--mc-bg);color:var(--mc-color)}
+.start-btn{width:100%;padding:16px;background:var(--accent);color:white;border:none;border-radius:var(--radius);font-family:'Noto Sans TC',sans-serif;font-size:.95rem;font-weight:700;cursor:pointer;transition:background .15s,transform .1s}
+.start-btn:hover:not(:disabled){background:var(--accent2);transform:translateY(-1px)}
+.start-btn:disabled{background:var(--border);color:var(--muted);cursor:not-allowed;transform:none}
+.loading-msg{text-align:center;padding:48px 0;color:var(--muted);font-size:.9rem}
+.loading-dot{display:inline-block;animation:blink 1.2s infinite}
+.loading-dot:nth-child(2){animation-delay:.2s}
+.loading-dot:nth-child(3){animation-delay:.4s}
+@keyframes blink{0%,80%,100%{opacity:.2}40%{opacity:1}}
+.error-box{background:var(--wrong-bg);border:1px solid #f5b8b8;border-radius:var(--radius);padding:14px 18px;color:var(--wrong);font-size:.88rem;margin-bottom:20px}
+.quiz-nav{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px}
+.quiz-chapter{font-weight:700;color:var(--muted);font-size:.88rem}
+.quiz-count{font-size:.82rem;color:var(--muted)}
+.progress-wrap{background:var(--border);border-radius:99px;height:5px;margin-bottom:28px;overflow:hidden}
+.progress-bar{height:100%;background:var(--accent);border-radius:99px;transition:width .4s}
+.q-card{background:var(--surface);border:1.5px solid var(--border);border-radius:var(--radius);padding:24px;margin-bottom:14px;box-shadow:var(--shadow)}
+.q-head{display:flex;align-items:center;gap:10px;margin-bottom:14px;padding-bottom:12px;border-bottom:1px solid var(--surface2)}
+.q-num{font-family:'DM Mono',monospace;background:var(--accent);color:white;padding:3px 10px;border-radius:5px;font-size:.82rem;font-weight:500}
+.q-tag{font-size:.72rem;padding:3px 9px;border-radius:4px;font-weight:600}
+.tag-tf{background:var(--tf-bg);color:var(--tf-color)}
+.tag-mc{background:var(--mc-bg);color:var(--mc-color)}
+.q-text{font-size:1rem;font-weight:500;line-height:1.75;margin-bottom:14px}
+.q-img{margin-bottom:14px;text-align:center}
+.q-img img{max-width:100%;border-radius:8px;border:1px solid var(--border)}
+.options{display:flex;flex-direction:column;gap:9px}
+.opt{display:flex;align-items:flex-start;gap:11px;padding:12px 15px;border-radius:9px;border:1.5px solid var(--border);cursor:pointer;background:var(--bg);transition:all .12s}
+.opt:hover:not(.locked){border-color:var(--accent);background:var(--accent-bg)}
+.opt.chosen{border-color:var(--accent);background:var(--accent-bg)}
+.opt.correct{border-color:var(--correct);background:var(--correct-bg)}
+.opt.wrong{border-color:var(--wrong);background:var(--wrong-bg)}
+.opt.locked{cursor:default}
+.opt-key{flex-shrink:0;width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:.78rem;font-weight:700;font-family:'DM Mono',monospace;border:1.5px solid var(--border);background:white;color:var(--muted);margin-top:1px;transition:all .12s}
+.opt.chosen .opt-key{border-color:var(--accent);color:var(--accent);background:var(--accent-bg)}
+.opt.correct .opt-key{border-color:var(--correct);background:var(--correct);color:white}
+.opt.wrong .opt-key{border-color:var(--wrong);background:var(--wrong);color:white}
+.opt-body{flex:1;min-width:0}
+.opt-text{font-size:.92rem;line-height:1.6}
+.opt-img{margin-top:8px}
+.opt-img img{max-width:100%;border-radius:6px;border:1px solid var(--border);display:block}
+@media(min-width:500px){.opts-tf{display:grid;grid-template-columns:1fr 1fr;gap:9px}}
+.submit-area{text-align:center;margin-top:32px}
+.submit-btn{padding:16px 56px;background:var(--accent);color:white;border:none;border-radius:var(--radius);font-size:1rem;font-weight:700;font-family:'Noto Sans TC',sans-serif;cursor:pointer;box-shadow:0 6px 20px rgba(192,57,43,.25);transition:all .15s}
+.submit-btn:hover{background:var(--accent2);transform:translateY(-2px)}
+.result-top{background:var(--surface);border:1.5px solid var(--border);border-radius:var(--radius);padding:28px 24px;display:flex;gap:24px;align-items:center;margin-bottom:20px;box-shadow:var(--shadow)}
+.score-ring{position:relative;width:96px;height:96px;flex-shrink:0}
+.score-ring svg{transform:rotate(-90deg);width:100%;height:100%}
+.ring-track{fill:none;stroke:var(--border);stroke-width:8}
+.ring-prog{fill:none;stroke:var(--accent);stroke-width:8;stroke-dasharray:270;stroke-dashoffset:270;transition:stroke-dashoffset 1s ease}
+.ring-label{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.ring-pct{font-size:1.5rem;font-weight:700;line-height:1}
+.result-info h2{font-size:1.3rem;font-weight:700;margin-bottom:4px}
+.result-info p{color:var(--muted);font-size:.88rem}
+.review-list{margin-bottom:24px}
+.review-item{padding:18px 0;border-bottom:1px solid var(--border)}
+.review-item:last-child{border-bottom:none}
+.ri-head{display:flex;gap:8px;align-items:flex-start;margin-bottom:8px}
+.ri-badge{font-size:.65rem;padding:2px 8px;border-radius:4px;font-weight:700;text-transform:uppercase;flex-shrink:0;margin-top:2px}
+.badge-correct{background:var(--correct-bg);color:var(--correct)}
+.badge-wrong{background:var(--wrong-bg);color:var(--wrong)}
+.ri-text{font-size:.9rem;line-height:1.6}
+.ri-ans{margin-top:6px;font-size:.84rem;display:flex;gap:12px;flex-wrap:wrap}
+.ans-wrong{color:var(--wrong);font-weight:600}
+.ans-correct{color:var(--correct);font-weight:600}
+.ri-exp{margin-top:8px;padding:10px 12px;background:var(--surface2);border-left:3px solid var(--accent);font-size:.82rem;border-radius:0 6px 6px 0}
+.result-actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.ra-btn{padding:14px;border-radius:var(--radius);border:none;font-size:.9rem;font-weight:700;cursor:pointer;font-family:'Noto Sans TC',sans-serif;transition:all .15s}
+.ra-sec{background:var(--surface2);color:var(--text)}
+.ra-sec:hover{background:var(--border)}
+.ra-pri{background:var(--accent);color:white}
+.ra-pri:hover{background:var(--accent2)}
+</style>
+</head>
+<body>
+
+<div class="page active" id="homePage">
+  <div class="topbar"><div class="brand">國中科技 · 練習測驗</div></div>
+  <h1 class="home-headline">選擇單元<br>開始練習</h1>
+  <p class="home-sub">每次隨機抽出 10 題是非 ＋ 10 題選擇，選項順序也會隨機打亂。</p>
+  
+  <!-- 新增：檔案上傳區 -->
+  <div class="upload-box" id="dropZone" onclick="document.getElementById('fileInput').click()">
+    <div class="upload-icon">📂</div>
+    <p>拖放 JSON 或 Excel (xlsx) 檔案到這裡，或點擊上傳</p>
+    <input type="file" id="fileInput" accept=".json,.xlsx" style="display:none">
+  </div>
+
+  <div class="type-chips">
+    <span class="chip chip-tf">● 是非題 ×10</span>
+    <span class="chip chip-mc">● 選擇題 ×10</span>
+  </div>
+  <div id="errorBox" class="error-box" style="display:none;"></div>
+  <div id="loadingMsg" class="loading-msg">
+    載入題庫中<span class="loading-dot">.</span><span class="loading-dot">.</span><span class="loading-dot">.</span>
+  </div>
+  <div id="unitSection" style="display:none;">
+    <div class="section-label">選擇章節</div>
+    <div class="unit-list" id="unitList"></div>
+    <button class="start-btn" id="startBtn" disabled onclick="startQuiz()">請先選擇章節</button>
+  </div>
+</div>
+
+<div class="page" id="quizPage">
+  <div class="quiz-nav">
+    <div class="quiz-chapter" id="quizChapter"></div>
+    <div class="quiz-count" id="quizCount"></div>
+  </div>
+  <div class="progress-wrap"><div class="progress-bar" id="progressBar"></div></div>
+  <div id="questionsList"></div>
+  <div class="submit-area">
+    <button class="submit-btn" onclick="submitQuiz()">提交所有答案</button>
+  </div>
+</div>
+
+<div class="page" id="resultPage">
+  <div class="result-top">
+    <div class="score-ring">
+      <svg viewBox="0 0 96 96">
+        <circle class="ring-track" cx="48" cy="48" r="43"/>
+        <circle class="ring-prog" id="ringProg" cx="48" cy="48" r="43"/>
+      </svg>
+      <div class="ring-label"><div class="ring-pct" id="ringPct">0%</div></div>
+    </div>
+    <div class="result-info">
+      <h2 id="resGrade"></h2>
+      <p id="resDetail"></p>
+    </div>
+  </div>
+  <div class="review-list" id="reviewList"></div>
+  <div class="result-actions">
+    <button class="ra-btn ra-sec" onclick="backHome()">← 換章節</button>
+    <button class="ra-btn ra-pri" onclick="startQuiz()">再練一次 →</button>
+  </div>
+</div>
+
+<script>
+const TF_COUNT = 10, MC_COUNT = 10;
+const IMG_DIR = 'images/';
+
+const CHAPTERS = [
+  {name:'1上 第1章 資訊科技導論',   file:'u0101.json'},
+  {name:'1下 第4章 資料保護與資訊安全', file:'u0104.json'},
+  {name:'1下 第5章 基礎程式設計(2)', file:'u0105.json'},
+  {name:'1下 第6章 數位著作合理使用', file:'u0106.json'},
+  {name:'2上 第1章 資訊倫理',        file:'u0201.json'},
+  {name:'2上 第3章 資訊科技與相關法律', file:'u0203.json'},
+  {name:'2下 第4章 進階程式設計(2)', file:'u0204.json'},
+  {name:'2下 第5章 媒體與社會議題',  file:'u0205.json'},
+  {name:'3上 第1章 系統平臺',        file:'u0301.json'},
+  {name:'3上 第3章 網路技術與服務',  file:'u0303.json'},
+  {name:'3下 第5章 資料數位化原理',  file:'u0305.json'},
+];
+
+let allChapters = {}, selectedChapter = null, quizList = [], userAnswers = {};
+
+function shuffle(arr) {
+  const a = [...arr];
+  for (let i = a.length-1; i>0; i--) {
+    const j = Math.floor(Math.random()*(i+1));
+    [a[i],a[j]] = [a[j],a[i]];
+  }
+  return a;
+}
+
+async function loadChapters() {
+  const results = await Promise.allSettled(
+    CHAPTERS.map(c =>
+      fetch('questions/'+c.file, {cache:'no-store'})
+        .then(r => r.ok ? r.json() : Promise.reject())
+        .then(data => ({name:c.name, qs:data.questions}))
+    )
+  );
+  let loaded = 0;
+  results.forEach(r => {
+    if (r.status==='fulfilled') { allChapters[r.value.name]=r.value.qs; loaded++; }
+  });
+  document.getElementById('loadingMsg').style.display = 'none';
+  if (loaded===0) { 
+    // 如果預設抓不到，不報錯，讓使用者可以手動上傳
+    document.getElementById('unitSection').style.display = 'block';
+    renderHome();
+    return;
+  }
+  renderHome();
+  document.getElementById('unitSection').style.display = 'block';
+}
+
+function renderHome() {
+  const list = document.getElementById('unitList');
+  list.innerHTML = '';
+  const entries = Object.entries(allChapters);
+  if (entries.length === 0) {
+    list.innerHTML = '<p style="text-align:center; color:var(--muted); padding:20px;">目前沒有題庫，請點擊上方區域上傳檔案。</p>';
+    return;
+  }
+  entries.forEach(([name, qs]) => {
+    const tf = qs.filter(q=>q.type==='是非').length;
+    const mc = qs.filter(q=>q.type==='選擇').length;
+    const item = document.createElement('div');
+    item.className = 'unit-item';
+    item.innerHTML = `
+      <div class="unit-radio"><div class="unit-dot"></div></div>
+      <div style="flex:1">
+        <div class="unit-name">${name}</div>
+        <div class="unit-meta">
+          <span class="unit-badge badge-tf">是非 ${tf}</span>
+          <span class="unit-badge badge-mc">選擇 ${mc}</span>
+        </div>
+      </div>`;
+    item.onclick = () => {
+      document.querySelectorAll('.unit-item').forEach(i=>i.classList.remove('selected'));
+      item.classList.add('selected');
+      selectedChapter = name;
+      const btn = document.getElementById('startBtn');
+      btn.disabled = false;
+      btn.textContent = `開始練習「${name}」 →`;
+    };
+    list.appendChild(item);
+  });
+}
+
+// 處理檔案讀取
+document.getElementById('fileInput').onchange = e => handleFiles(e.target.files);
+const dropZone = document.getElementById('dropZone');
+dropZone.ondragover = e => { e.preventDefault(); dropZone.classList.add('dragover'); };
+dropZone.ondragleave = () => dropZone.classList.remove('dragover');
+dropZone.ondrop = e => { e.preventDefault(); dropZone.classList.remove('dragover'); handleFiles(e.dataTransfer.files); };
+
+function handleFiles(files) {
+  for (const file of files) {
+    const reader = new FileReader();
+    const isXlsx = file.name.endsWith('.xlsx');
+    reader.onload = async (e) => {
+      try {
+        if (isXlsx) {
+          const data = new Uint8Array(e.target.result);
+          const workbook = XLSX.read(data, { type: 'array' });
+          workbook.SheetNames.forEach(sheetName => {
+            const rows = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName], { defval: '' });
+            if (rows.length > 0) parseExcelRows(sheetName, rows);
+          });
+        } else {
+          const json = JSON.parse(e.target.result);
+          if (json.chapter && json.questions) {
+            allChapters[json.chapter] = json.questions;
+          }
+        }
+        renderHome();
+        document.getElementById('unitSection').style.display = 'block';
+      } catch (err) { alert('檔案格式解析失敗：' + err.message); }
+    };
+    if (isXlsx) reader.readAsArrayBuffer(file);
+    else reader.readAsText(file);
+  }
+}
+
+function parseExcelRows(sheetName, rows) {
+  const k = Object.keys(rows[0]), fk = cs => k.find(x => cs.includes(x.trim())) || '';
+  const kQ = fk(['題目','問題','question']), kAns = fk(['答案','answer','正確答案']), kTyp = fk(['題型','type']), kExp = fk(['解析','說明','explanation']);
+  
+  const qs = rows.filter(r => r[kQ] && r[kAns]).map(r => {
+    const type = kTyp ? String(r[kTyp]).trim() : '選擇';
+    const options = type === '是非' 
+      ? [{key:'A', text:'是'}, {key:'B', text:'否'}]
+      : ['A','B','C','D'].map(key => ({ key, text: String(r[fk([`選項${key}`,key])]||'').trim() })).filter(o=>o.text);
+    
+    return {
+      type: type,
+      text: String(r[kQ]).trim(),
+      options: options,
+      answer: String(r[kAns]).trim().toUpperCase().replace(/[()（）]/g, ''),
+      explanation: kExp ? String(r[kExp]).trim() : ''
+    };
+  });
+  if (qs.length) allChapters[sheetName] = qs;
+}
+
+function startQuiz() {
+  if (!selectedChapter) return;
+  const pool = allChapters[selectedChapter];
+  const tf = shuffle(pool.filter(q=>q.type==='是非')).slice(0,TF_COUNT);
+  const mc = shuffle(pool.filter(q=>q.type==='選擇')).slice(0,MC_COUNT);
+  quizList = [...tf,...mc].map(q=>({...q, options:shuffle([...q.options])}));
+  userAnswers = {};
+  document.getElementById('quizChapter').textContent = selectedChapter;
+  document.getElementById('quizCount').textContent = `共 ${quizList.length} 題`;
+  renderQuiz();
+  showPage('quizPage');
+}
+
+function renderQuiz() {
+  const container = document.getElementById('questionsList');
+  container.innerHTML = '';
+  document.getElementById('progressBar').style.width = '0%';
+
+  quizList.forEach((q, idx) => {
+    const isTF = q.type==='是非';
+    const card = document.createElement('div');
+    card.className = 'q-card';
+
+    const stemImgs = (q.images?.stem||[]).map(f=>
+      `<img src="${IMG_DIR}${f}" alt="題目圖片" loading="lazy">`
+    ).join('');
+    const stemImgHTML = stemImgs ? `<div class="q-img">${stemImgs}</div>` : '';
+
+    card.innerHTML = `
+      <div class="q-head">
+        <span class="q-num">Q${idx+1}</span>
+        <span class="q-tag ${isTF?'tag-tf':'tag-mc'}">${isTF?'是非題':'選擇題'}</span>
+      </div>
+      <div class="q-text">${q.text}</div>
+      ${stemImgHTML}
+      <div class="options ${isTF?'opts-tf':''}" id="opts-${idx}"></div>`;
+
+    const optsEl = card.querySelector(`#opts-${idx}`);
+    q.options.forEach(opt => {
+      const btn = document.createElement('div');
+      btn.className = 'opt';
+      const optImgSrc = q.images?.options?.[opt.key];
+      const optImgHTML = optImgSrc
+        ? `<div class="opt-img"><img src="${IMG_DIR}${optImgSrc}" alt="選項圖" loading="lazy"></div>` : '';
+      btn.innerHTML = `
+        <div class="opt-key">${opt.key}</div>
+        <div class="opt-body">
+          ${opt.text ? `<div class="opt-text">${opt.text}</div>` : ''}
+          ${optImgHTML}
+        </div>`;
+      btn.onclick = () => {
+        optsEl.querySelectorAll('.opt').forEach(o=>o.classList.remove('chosen'));
+        btn.classList.add('chosen');
+        userAnswers[idx] = opt.key;
+        updateProgress();
+      };
+      optsEl.appendChild(btn);
+    });
+    container.appendChild(card);
+  });
+}
+
+function updateProgress() {
+  const pct = (Object.keys(userAnswers).length / quizList.length * 100).toFixed(0);
+  document.getElementById('progressBar').style.width = pct+'%';
+}
+
+function submitQuiz() {
+  const unanswered = quizList.length - Object.keys(userAnswers).length;
+  if (unanswered > 0 && !confirm(`還有 ${unanswered} 題未作答，確定交卷嗎？`)) return;
+  showResult();
+}
+
+function showResult() {
+  showPage('resultPage');
+  let correct = 0;
+  quizList.forEach((q,i) => { if (userAnswers[i]===q.answer) correct++; });
+
+  const total = quizList.length;
+  const pct = Math.round(correct/total*100);
+  document.getElementById('ringPct').textContent = pct+'%';
+  const circ = 2*Math.PI*43;
+  setTimeout(() => {
+    const prog = document.getElementById('ringProg');
+    prog.style.strokeDasharray = circ;
+    prog.style.strokeDashoffset = circ*(1-pct/100);
+  }, 100);
+
+  document.getElementById('resGrade').textContent =
+    pct>=90?'🎉 太厲害了！':pct>=70?'👍 表現不錯！':pct>=60?'💪 繼續加油！':'📖 再多複習一下！';
+  document.getElementById('resDetail').textContent = `共 ${total} 題，答對 ${correct} 題`;
+
+  document.getElementById('reviewList').innerHTML = quizList.map((q,i)=>{
+    const chosen = userAnswers[i];
+    const isCorrect = chosen===q.answer;
+    const chosenOpt = q.options.find(o=>o.key===chosen);
+    const correctOpt = q.options.find(o=>o.key===q.answer);
+    const wrongPart = (!isCorrect&&chosen)
+      ? `<span class="ans-wrong">你的答案：${chosen}. ${chosenOpt?.text||''}</span>` : '';
+    const skippedPart = !chosen ? `<span class="ans-wrong">未作答</span>` : '';
+    const correctPart = isCorrect
+      ? `<span class="ans-correct">✓ ${q.answer}. ${correctOpt?.text||''}</span>`
+      : `<span class="ans-correct">正確：${q.answer}. ${correctOpt?.text||''}</span>`;
+    const expPart = q.explanation
+      ? `<div class="ri-exp">📌 ${q.explanation}</div>` : '';
+    return `
+      <div class="review-item">
+        <div class="ri-head">
+          <span class="ri-badge ${isCorrect?'badge-correct':'badge-wrong'}">${isCorrect?'答對':'答錯'}</span>
+          <div class="ri-text">Q${i+1}. ${q.text}</div>
+        </div>
+        <div class="ri-ans">${wrongPart}${skippedPart}${correctPart}</div>
+        ${expPart}
+      </div>`;
+  }).join('');
+}
+
+function showPage(id) {
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  window.scrollTo(0,0);
+}
+function backHome() { showPage('homePage'); }
+function showError(msg) {
+  const el = document.getElementById('errorBox');
+  el.style.display='block'; el.textContent=msg;
+}
+
+loadChapters();
+</script>
+</body>
+</html>

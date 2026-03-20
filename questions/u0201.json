@@ -1,0 +1,4061 @@
+{
+  "chapter": "2上 第1章 資訊倫理",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "倫理與道德常相提並論；也就是說，個人如做了不符合倫理基準的事，也會被認為是做了不道德的行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路互動常常使用英文的縮寫字來表達意思。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "學校的系統管理人員，可以查閱或存取學校師生及行政人員的個人資料，也可以將資料給任何想要的人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不能將個人資料峇任何想要的人。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了避免資訊安全的危機，維持資訊的正確性、個人的隱私權等，是重要的資訊倫理，應要遵守。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位機會中心 （ DOC ）、數位學伴（ etutor ）、 WomenUp 數位鳳凰計畫等都是為了縮減「數位落差」而創辦的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "倫理是人們從小受到長輩的教導、社會文化的薰陶，無形中內化形成個人的行為準則與是非善惡的價值觀。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隱私權是個人有權決定哪些資料應該保密，哪些可以公開，且不受他人侵犯的權力。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位學伴的推動，可以使數位落差縮短。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿顯 想知道 星兒 的期末成績，但 星兒 不想告訴他，於是 阿顯 去問老師，老師可以告訴他 星兒 的分數。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "民間公益團體推動送二手電腦至偏遠山區可以處理數位落差的問題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路中謾罵他人是不行的，應該營造有禮貌、尊重友善的環境。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若想要提高資訊使用的素養及能力，可以到 數位機會中心 參加相關研習。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在匿名的網路中，隨意散布謠言也不會被發現。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不能隨意散布謠言。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊近用權主張人人都有使用電腦和網路的權力。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位機會中心 可提供民眾免費學習電腦的應用或相關服務和諮詢。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "對待網路上的網友，盡量不要使用帶有歧視或偏見的字眼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路的世界裡是很複雜的，所以不用太遵守什麼規範，因為也不會被發現。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應遵守網路禮儀。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "不法之徒常會利用網路來擾亂社會秩序甚至危害國家安全。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "倫理（ ethic ）泛指個人在日常生活中的行為規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "由於現今科技的進步，視障者可以利用一些 APP 的圖像辨識功能，將周遭的物件，透過語音的方式念給視障者聽。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "未經當事人同意，都不應將他人的個資傳送給第三者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "看到某明星的不雅照散布在群組中，應立即分享給身邊的朋友們一起欣賞。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不可隨意分享。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當我收到疑似有病毒的郵件或文件，應該寄給朋友們互相轉貼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應直接刪除，不能轉寄給朋友們互相轉貼。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "廣設網路到各個偏鄉地區無法消除數位落差。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "廣設網路也能消除數位落差。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在資訊的使用上，尊重他人的智慧財產權也是重要的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "根據 梅森 所提 PAPA 資訊倫理模式，若拍賣網在其網站上提供來源不明或錯誤的資料，則違反了資訊正確性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊的精確與否，對我們的生活有極大影響。切勿輕易寄發或轉寄不實、可疑，或是未經查證的郵件及貼文。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊的使用上，即便是侵害到他人的隱私，為了利益，依然可以被原諒。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "侵害到他人的隱私是違法的。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路的使用上，只要是匿名的情況下，都可以指名道姓地討論他人的隱私。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "無論匿名與否，在網路公開的場合皆不可討論他人隱私。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路的使用雖然方便快速，卻也降低了溝通的品質，人與人之間的距離也可能越來越遠，少了點人情味。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路的快速， e-mail 也成了大家常用的通訊方式，而郵件的內容應盡量明確且需要署名，才易使收件人理解。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "透過語音輸入的方式，能使一些身障者更方便使用電腦。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上散布某明星的醜聞，會妨礙他人隱私權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在社群軟體中，看到不喜歡的人可以盡量謾罵、發洩，反正在網路的世界中是匿名的，想說甚麼都可以。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "在網路上發言，不能使用帶有歧視或偏見的字眼。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "透過數位學伴的方式，可以使學生提升學習的興趣，且能進行即時的互動。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "使用網路寄送正式電子郵件時，主旨與內容要明確且務必署名，以示對收件者的尊重。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在「數位包容」的政策中，希望在社會中建立一個不受限於身分地位，都能接觸不同數位產品和使用數位服務的環境。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "目前縮短數位落差的措施，目的是希望在社會中不受限於身分地位，都能接觸到不同數位產品與使用數位服務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「無障礙網站」和各平臺作業系統的「協助工具」都是促進障礙者近用資訊改善的措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "偏鄉的學童，因為資源的缺乏，無法學習資訊相關的知識也沒關西，透過國文、英文、數學的學習，依然可以減少城鄉的差距。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "偏鄉的學童，更需要享有資訊學習的機會，減少數位落差，才不會造成社會兩極化更趨嚴重的後果。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "教育部 主管的 臺灣 學術網路（ Taiwan Academic Network ，簡稱 TANet ）制訂了有關 臺灣 學術網路使用的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路的互動盡量不要加入一些表情符號來添加趣味效果，會讓大家會錯意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可適時加入一些表情符號，更能讓對方感受自己的情緒。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "由於病情的擴散，政府單位可以公布確診病例的姓名、居住地，以利全國人民不受恐慌及害怕，有效做到遠離危害的可能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "為了保護個人隱私及空間隱私，個人資料依法是不能任意公布的。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "政府官方網站能提供真實的資料供民眾查詢。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "即便是政府的官方網站，依然不可提供個人資料供人查詢。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "無障礙網頁的設計，讓所有類型的障礙者都能使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前的設計方式仍未開發完全，還無法讓各類型的障礙者都能使用，仍未開發完全。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位落差是指社會上性別、族群、居住環境等有差異，造成使用數位產品的機會不均等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小明 想知道 小美 的期末成績，但 小美 不想告訴他，於是 小明 去問老師她的分數，老師可以告訴他是幾分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "老師不能將小美的期未成績告訴小明。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網友在網路上發起「人肉搜索」，此一舉動可能引發資訊倫理中關於隱私權的爭議。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "國外某醫院病人用藥的品項輸入錯誤，致使病人誤服藥品後，病情加重。上述情況牽涉了資訊倫理議題中的「近用權」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此為「正確性」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上購買東西時，填寫正確的個人資料，才能有效領取，這是符合 PAPA 理論中的所有權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此敘述符合　PAPA　理論的正確性。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "註冊網路新會員時，輸入他人的身分證字號，可以保護自己個資安全。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "輸入他人個資也是違反資訊倫理，應輸入自己的身分證字號，自己可選擇自己隱私權的使用，而非竊用他人資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "政府為提供弱勢民眾資訊服務，於偏遠鄉鎮建置上網據點，提供便捷的上網設備及網路，主要是為了解決數位落差的問題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在考前連結線上題庫，下載模擬考題，做足充分練習，做好準備，是合乎資訊倫理的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路禮儀要注意下列三項原則： 1. 建立友善與尊重的環境； 2. 維護系統安全及個人隱私； 3. 人際互動要正確、簡潔且清楚表達。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊資源擁有者對於該資訊資源具有持有、處置及利用的權力，屬於 PAPA 資訊理論模式中的隱私權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題目為所有權的描述。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "教育部 為縮短國內城鄉間的數位落差，成立了數位圖書館。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應是「數位機會中心」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果有人違反了網路的禮儀，盡量在公開的群組中一起撻伐他人，不要私下提醒，會有一錯再錯的可能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應私下提醒。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "老師請同學上網搜尋畫家的畫作，學生可以下載這些找到的畫作圖片，並存於自己的電腦，也可以轉發給其他同學。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不能轉發給其他同學，僅可以自己與家人共同欣賞。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "1986 年 梅森 提出 PAPA 理論，主要呼籲要尊重個人隱私權（ privacy ）、資料正確性（ accuracy ）、財物所有權（ property ）及主張資訊近用權（ accessibility ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路上流傳著破解軟體程式，使原本要付費的程式可以免費取得，可以分享給大家一起使用並不會怎麼樣。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "破解付費程式就是盜版，有犯法的可能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊倫理不僅是人際關係的禮儀或行為上是非善惡判斷的規範而已，也可以發展成為高尚的情操。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位學伴僅需要一臺電腦就可以進行線上學習與輔導。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "因為是透過網路平臺教學，還需要攝影機、耳機、麥克風等，才能使得雙方能聽到及看到，並進行即時互動。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "偷看他人的手機螢幕，也算是侵害隱私。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "身為圖書館資訊管理員的 小林 ，因為圖書館長期經營不善，他將國外圖書館的照片放在自己圖書館的網頁上，來吸引更多的人來參觀並借書，此行為合乎資訊使用倫理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此舉動有違反資訊正確性的疑慮，且盜用他人圖片也違反了財物所有權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了幫助 小明 交到更多的朋友，可以將他的個人資料放在網路論壇上，讓大家來認識他。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不能隨意公開他人的個資。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路世界的互動，常會使用一些表情符號來增添趣味性，也會看到縮寫字，例如： LOL 是提醒他人盡快的縮寫。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "LOL　是哈哈大笑的縮寫。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊倫理僅規範資訊從業人員。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應人人都要遵守。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只要是網路上提供的資料，都可以轉發或存下做為使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "會妨害他人的財物所有權、智慧財產權。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "由於資訊科技的進步，反而助長個人隱私的侵害。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "臺灣 目前沒有制訂學術網路使用規範的單位或部門。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "教育部主管的臺灣學術網路（Taiwan Academic Network，簡稱　TANet）制訂了有關臺灣學術網路使用的規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位落差並不會影響學生課業的學習。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "因為數位的落差，會造成社會兩極化，使得落後的人更加落後。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了避免資訊「貧者愈貧，富者愈富」的現象，要維護好資訊倫理中的「近用權」的部分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為消除數位落差，使聽障學生積極融入社會，未來應加強聽障生使用手語來進行溝通。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "題目「為消除數位落差」，因此應該加強聽障生透過網路的方式進行溝通，才能有效消除數位落差。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿翰 在網路上找到喜歡的圖片，將它們下載下來並影印海報張貼在自己的房間，並沒有違背資訊倫理的使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "此一舉動也許有違反著作權，但未進行營利或轉貼給其他人，仍符合使用規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "兩個班級的同學，彼此互看不順眼，私底下在網路上說的話不用當真，都只是氣話而已。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "即便只是簡單的爭吵，說出的言論也需負責，還是要調查了解實際狀況，以避免不好的事情產生。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「資訊在什麼情況下可以免費使用？什麼情況下應該付費或徵得所有權人的同意才能使用？」這是關於資訊倫理中關於近用權的描述。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "這一段描述是關於「所有權」的描述。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "學校或政府機關不可提供各類學習障礙者，以翻譯、點字、語音及手語等方式來利用已公開發表的著作，因為這已經違反著作權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "著作權法第　53　條規定：「中央或地方政府機關、非營利機構或團體、依法立案之各級學校，為專供視覺障礙者、學習障礙者、聽覺障礙者或其他感知著作有困難之障礙者使用之目的，得以翻譯、點字、錄音、數位轉換、口述影像、附加手語或其他方式利用已公開發表之著作。」因此是可以的。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個人有權不受他人或組織的窺視與干擾的權力，是指 PAPA 理論中的事物所有權（ Property ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此題目的敘述為個人隱私權（Privacy）。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊倫理常見的四大議題簡稱為 PAPA ，包含保存（ Preservation ）、正確性（ Accuracy ）、所有權（ Property ）、近用權（ Accessibility ）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不是保存，是隱私（Privacy）。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "關於 PAPA 理論中的近用權，如果使用 Line 傳遞好友個人資料時，是屬於保障其個資，避免資料不當外洩，是近用權的正確的使用方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "使用　Line　傳遞好友個人資料，是屬於隱私權的規範，需經過當事人同意才可進行，而近用權是關於資訊使用，減少弱勢者的數位落差，非題目所敘述的例子。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「城鄉數位機會落差」主要反應了資訊倫理中的資訊正確性問題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應該為「近用權」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "要寫電子郵件向師長詢問課業或問題時，以下何者為 不適當 的行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用標點符號"
+        },
+        {
+          "key": "B",
+          "text": "沒有使用稱呼和署名"
+        },
+        {
+          "key": "C",
+          "text": "不使用火星文以及英文縮寫"
+        },
+        {
+          "key": "D",
+          "text": "簡單表明信件的用意與目的。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據 梅森 所提 PAPA 資訊倫理模式，下列何者是以「資訊的精確性，其維護責任、錯誤可能造成的後果及避免方式」為探討範疇？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人隱私權（ Privacy ）"
+        },
+        {
+          "key": "B",
+          "text": "資訊正確性（ Accuracy ）"
+        },
+        {
+          "key": "C",
+          "text": "智慧財產權（ Property ）"
+        },
+        {
+          "key": "D",
+          "text": "資訊近用權（ Accessibility ）。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路購物中，常常需要填寫寄送的地址及收件人的基本資料，是要符合資訊倫理 PAPA 理論中的哪一項，才不會使寄件人寄錯地點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正確性"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "近用權"
+        },
+        {
+          "key": "D",
+          "text": "所有權。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "數位落差與下列哪一項關係較為密切？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隱私權"
+        },
+        {
+          "key": "B",
+          "text": "正確性"
+        },
+        {
+          "key": "C",
+          "text": "所有權"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據 梅森 所提 PAPA 資訊倫理模式，下列何者是以「個人有權不受他人或組織的窺視與干擾的權利」為探討範疇？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人隱私權（ Privacy ）"
+        },
+        {
+          "key": "B",
+          "text": "資訊正確性（ Accuracy ）"
+        },
+        {
+          "key": "C",
+          "text": "智慧財產權（ Property ）"
+        },
+        {
+          "key": "D",
+          "text": "資訊近用權（ Accessibility ）。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據 梅森 所提 PAPA 資訊倫理模式，若圖書館在其網站上提供來源不明或錯誤的資料，有違以下何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人隱私權（ Privacy ）"
+        },
+        {
+          "key": "B",
+          "text": "資訊正確性（ Accuracy ）"
+        },
+        {
+          "key": "C",
+          "text": "智慧財產權（ Property ）"
+        },
+        {
+          "key": "D",
+          "text": "資訊取用權（ Accessibility ）。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "數位落差可能會導致下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "課業學習"
+        },
+        {
+          "key": "B",
+          "text": "社會財富分配不均"
+        },
+        {
+          "key": "C",
+          "text": "城鄉差距"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於網路禮儀的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "留言版是抒發個人情緒的地方，可以暢所欲言"
+        },
+        {
+          "key": "B",
+          "text": "尊重他人隱私權，即使別人的電腦或檔案開著，也不能偷窺"
+        },
+        {
+          "key": "C",
+          "text": "網路上的謾罵、言語攻擊行為已司空見慣，是網路特色之一"
+        },
+        {
+          "key": "D",
+          "text": "聊天室通常是以匿名的方式進入，因此說什麼話也都不必負責任。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "網路世界也應該要尊重任何人，不該隨便謾罵或偷窺他人隱私，即使是匿名，說的話也要負責。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網際網路上活動的人，常能利用通訊的便利，迅速流動與集結，也會出現群情激憤的現象。某網友針對一位乘坐公車而不知讓座給老人的大學生寫道：「讓我們利用手中的鍵盤和滑鼠當作武器，把這個不肯讓座的人找出來，好好的教訓她。」立刻有數以千計的人加入了「人肉搜索」的行動，開始有人提供這個大學生的姓名、校系、照片、電話、地址，甚至是私生活全都被放上網路。文中網民們所可能涉及的法律責任，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路上的發言者可以自由地發言，此屬於憲法對人權保障的「積極人權」"
+        },
+        {
+          "key": "B",
+          "text": "隱身在網路背後的發言者若侵犯他人隱私，可能同時有刑事及民事責任"
+        },
+        {
+          "key": "C",
+          "text": "網路的發言者只要不具記者身分，就不受到媒體倫理與新聞道德的約束"
+        },
+        {
+          "key": "D",
+          "text": "基於「言論自由」，網路上發言只要是針對公共議題就不會有法律責任。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "(Ａ)為言論自由；(Ｃ)無論是甚麼身分都會受到媒體和新聞道德的約束；(Ｄ)即便是言論自由，說出的話依然有違法的可能，例如：毀謗、汙辱等等。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "無故利用網路工具監聽他人非公開之活動、談話、或是身體隱私部位者，違反了什麼權利而將受罰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隱私權"
+        },
+        {
+          "key": "B",
+          "text": "正確性"
+        },
+        {
+          "key": "C",
+          "text": "近用權"
+        },
+        {
+          "key": "D",
+          "text": "言論權。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何項政策 不是 用來改善或降低數位落差？",
+      "options": [
+        {
+          "key": "A",
+          "text": "推動翻轉教學"
+        },
+        {
+          "key": "B",
+          "text": "設立 數位機會中心"
+        },
+        {
+          "key": "C",
+          "text": "補助偏遠地區國中小網路電路費"
+        },
+        {
+          "key": "D",
+          "text": "辦理數位學伴。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "倫理與下列哪一個詞關係較為密切？",
+      "options": [
+        {
+          "key": "A",
+          "text": "良知"
+        },
+        {
+          "key": "B",
+          "text": "能力"
+        },
+        {
+          "key": "C",
+          "text": "興趣"
+        },
+        {
+          "key": "D",
+          "text": "人格。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路上交友時，下列哪一種做法較能維護自己的安全與權益？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不要任意透露自己的電話或地址"
+        },
+        {
+          "key": "B",
+          "text": "相約見面的地點要隱密"
+        },
+        {
+          "key": "C",
+          "text": "不要向家長透露交友的情形，免得他們責罵"
+        },
+        {
+          "key": "D",
+          "text": "借錢給網友時，要給現金，不要匯款。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)與網友見面要找空曠且多人的地點；(Ｃ)不要藏匿交友情形才不會有危險；(Ｄ)盡量不要借錢給網友。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小明 這次的期末的數學考了 90 分，他想知道 小美 考幾分，應該詢問誰，才可以得到解答呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "班導"
+        },
+        {
+          "key": "B",
+          "text": "數學老師"
+        },
+        {
+          "key": "C",
+          "text": "小美"
+        },
+        {
+          "key": "D",
+          "text": "小美 媽媽。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "成績屬於個人隱私權的部分，也需要透過本人的同意才可以。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「廠商截取手機用戶的定位資訊」可能引發何種資訊倫理的爭議？",
+      "options": [
+        {
+          "key": "A",
+          "text": "智慧財產權"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "資訊正確性"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "何者 不是 資訊倫理的 PAPA 議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隱私權議題"
+        },
+        {
+          "key": "B",
+          "text": "正確性議題"
+        },
+        {
+          "key": "C",
+          "text": "所有權議題"
+        },
+        {
+          "key": "D",
+          "text": "工作權議題。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "(Ｄ)近用權議題。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種行為符合資訊倫理的規範？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在部落格發表自己的遊記"
+        },
+        {
+          "key": "B",
+          "text": "上傳租來的影片到 YouTube"
+        },
+        {
+          "key": "C",
+          "text": "在網路上公開全班同學的身分證字號"
+        },
+        {
+          "key": "D",
+          "text": "暫用到他人的 Facebook 帳號來攻擊別人。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)違反所有權；(Ｃ)違反隱私權；(Ｄ)違反隱私權，且有竊盜的可能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者與造成數位落差的可能原因最 不相關 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "家庭收入"
+        },
+        {
+          "key": "B",
+          "text": "教育程度"
+        },
+        {
+          "key": "C",
+          "text": "身高體重"
+        },
+        {
+          "key": "D",
+          "text": "居住地區。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "受到網路上其他網友的欺凌時，下列何者 不是 妥當的處理方法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "尋求師長或家長的幫忙"
+        },
+        {
+          "key": "B",
+          "text": "冷靜處理看待，不隨之起舞胡鬧"
+        },
+        {
+          "key": "C",
+          "text": "可以蒐集具有侮辱性的言論作為證據，來尋求法律協助"
+        },
+        {
+          "key": "D",
+          "text": "以暴制暴，尋找其他網友聯合一起反擊。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據學者研究，愈貧窮、教育程度愈低，對資訊科技的使用機會愈低，而愈少機會使用資訊科技，就愈可能失去獲取財富的機會。上述現象可稱為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊焦慮"
+        },
+        {
+          "key": "B",
+          "text": "數位落差"
+        },
+        {
+          "key": "C",
+          "text": "資訊超載"
+        },
+        {
+          "key": "D",
+          "text": "數位機會。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "當 小琳 發現自己所寫的文章、照片大量遭到網友轉貼盜用時，除了向網站管理者提出檢舉之外， 小琳 還享有哪些保護措施？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對於盜用文章的網友留言辱罵，讓其他網友知道正牌作者是誰"
+        },
+        {
+          "key": "B",
+          "text": "號召親朋好友上網評理，為自己打抱不平"
+        },
+        {
+          "key": "C",
+          "text": "寄信恐嚇盜用文章的網友即將採取法律措施提告"
+        },
+        {
+          "key": "D",
+          "text": "請求網路服務業者（例如：中華電信）逕行將侵權內容移除。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "梅森 在 1986 年提出的資訊倫理四大議題，簡稱 PAPA ，係包含下列那四個議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隱私（ Privacy ）、正確性（ Accuracy ）、所有權（ Property ）、近用權（ Accessibility ）"
+        },
+        {
+          "key": "B",
+          "text": "隱私（ Privacy ）、責任權（ Accountability ）、所有權（ Property ）、近用權（ Accessibility ）"
+        },
+        {
+          "key": "C",
+          "text": "隱私（ Privacy ）、正確性（ Accuracy ）、所有權（ Property ）、可負擔性（ Affordability ）"
+        },
+        {
+          "key": "D",
+          "text": "優先權（ Priority ）、正確性（ Accuracy ）、所有權（ Property ）、近用權（ Accessibility ）。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「網路謠言」反應何種資訊倫理的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有權"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "正確性"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據 梅森 所提 PAPA 資訊倫理模式，若圖書館在其網站上提供來源不明或錯誤的資料，有違以下何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隱私權"
+        },
+        {
+          "key": "B",
+          "text": "正確性"
+        },
+        {
+          "key": "C",
+          "text": "所有權"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以下關於網路交友的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是一種拓展人際關係的管道，但仍要小心防範網路詐騙"
+        },
+        {
+          "key": "B",
+          "text": "絕對不要碰網路交友，危機重重"
+        },
+        {
+          "key": "C",
+          "text": "網友有財務困難時，必須出錢幫助他"
+        },
+        {
+          "key": "D",
+          "text": "當網友被人欺負時，可以快速地號召大家一起灌爆凶手的部落格。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路上書寫電子郵件或社交網站貼文時，下列哪一項較 不重要 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "字型"
+        },
+        {
+          "key": "B",
+          "text": "正確"
+        },
+        {
+          "key": "C",
+          "text": "清楚"
+        },
+        {
+          "key": "D",
+          "text": "簡潔。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有同學違反學校網路使用規範，下列哪一項為較 不可能 的處罰？",
+      "options": [
+        {
+          "key": "A",
+          "text": "書面警告"
+        },
+        {
+          "key": "B",
+          "text": "限制使用"
+        },
+        {
+          "key": "C",
+          "text": "停止使用"
+        },
+        {
+          "key": "D",
+          "text": "送警法辦。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "公共倫理著重每個人在不同的階段、不同領域中，應有的態度與正確作為。公共倫理所涉及的層面很廣，近來，不肖人士在網路散播「明星慾照」的事件，是缺乏何種倫理的行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作倫理"
+        },
+        {
+          "key": "B",
+          "text": "生命倫理"
+        },
+        {
+          "key": "C",
+          "text": "經濟倫理"
+        },
+        {
+          "key": "D",
+          "text": "資訊倫理。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在使用 Facebook 網站時若發現傳來不明的網址該如何因應？",
+      "options": [
+        {
+          "key": "A",
+          "text": "先點選了再說"
+        },
+        {
+          "key": "B",
+          "text": "若是朋友傳來的就可以點選"
+        },
+        {
+          "key": "C",
+          "text": "把網址轉貼給其他朋友"
+        },
+        {
+          "key": "D",
+          "text": "先確認傳訊息的人為認識的朋友並且有真正傳訊息的動作。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "不明的網址應該先確認連結的來源。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關網路禮儀的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路的使用中，需要建立一個友善且尊重的環境"
+        },
+        {
+          "key": "B",
+          "text": "人際互動要正確且清楚地表達想說的話"
+        },
+        {
+          "key": "C",
+          "text": "不喜歡某人時，可以大家一起抨擊他，用一些歧視或較難聽的字眼來攻擊"
+        },
+        {
+          "key": "D",
+          "text": "盡量不要轉發或張貼有病毒的郵件或文章。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "在網路交友上，依舊要建立具友善且尊重的環境，且不使用歧視與具偏見的說詞。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教導使用者「防範網路詐欺」是屬於下列何者推廣的範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊倫理"
+        },
+        {
+          "key": "B",
+          "text": "資訊檢索"
+        },
+        {
+          "key": "C",
+          "text": "數位學習"
+        },
+        {
+          "key": "D",
+          "text": "數位典藏。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關員工在職場上應有的倫理表現，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不在公司電腦內安裝即時通訊軟體或遊戲"
+        },
+        {
+          "key": "B",
+          "text": "不偷看不屬於自己身分的層級資訊"
+        },
+        {
+          "key": "C",
+          "text": "不理會公司的資安要求"
+        },
+        {
+          "key": "D",
+          "text": "不隨意在網路上公開批評自己的公司主管。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "在企業使用電腦必須遵守其規範與資訊安全要求，若企業明文規定不得安裝非公務以外的軟體時，員工皆必須遵守。若是發現在公用電腦有不同權限的資訊內容時，也應該抱持專業倫理不得窺探。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "何者為網路禮儀的正確示範？",
+      "options": [
+        {
+          "key": "A",
+          "text": "訊息打很慢的朋友請他打快點"
+        },
+        {
+          "key": "B",
+          "text": "每天早上發一則早安文"
+        },
+        {
+          "key": "C",
+          "text": "分享訊息、每則訊息一率轉貼好友"
+        },
+        {
+          "key": "D",
+          "text": "不散布謠言。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "資訊倫理常見的四大議題簡稱為 PAPA ，包含正確性（ Accuracy ）、財產權（ Property ）、近用權（ Accessibility ），與下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "政策（ Policy ）"
+        },
+        {
+          "key": "B",
+          "text": "保存（ Preservation ）"
+        },
+        {
+          "key": "C",
+          "text": "出版（ Publication ）"
+        },
+        {
+          "key": "D",
+          "text": "隱私（ Privacy ）。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "民間公益團體推動送二手電腦至偏遠山區，主要是處理有關社會中日益嚴重的何種議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位落差"
+        },
+        {
+          "key": "B",
+          "text": "電子商務"
+        },
+        {
+          "key": "C",
+          "text": "無線寬頻"
+        },
+        {
+          "key": "D",
+          "text": "遠距教學。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "送電腦至偏遠地區是為了解決數位落差。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路互動中，常以一些表情符號來增添趣味性，下列有關於表情符號的涵義，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "XD →大笑"
+        },
+        {
+          "key": "B",
+          "text": ":( →難過"
+        },
+        {
+          "key": "C",
+          "text": ":-P →有趣"
+        },
+        {
+          "key": "D",
+          "text": ":-x →眨眼。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "(Ｄ)為不予置評。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於使用者在網路上的行為，何者敘述 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網路上看到很好的文章想與大家分享，可以直接複製張貼在個人部落格與人分享"
+        },
+        {
+          "key": "B",
+          "text": "單純在網路上瀏覽網頁圖片、文字或音樂，並不會違反著作權法"
+        },
+        {
+          "key": "C",
+          "text": "不能盜拷軟體，是為了尊重他人的智慧財產"
+        },
+        {
+          "key": "D",
+          "text": "若是需要引用他人部落格中的內容，必須先告知原作者，在作者同意後才能使用。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "若有好文章想在部落格與大家分享時，在告知原作者後，才可以摘錄部份內文，並標示引用出處來源，再進行分享。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是指因教育程度、居住地區等因素的差異，而造成使用資訊科技的機會或能力，有所不同的社會現象？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路犯罪氾濫"
+        },
+        {
+          "key": "B",
+          "text": "人際關係疏離"
+        },
+        {
+          "key": "C",
+          "text": "數位落差"
+        },
+        {
+          "key": "D",
+          "text": "網路與生活結合。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於網路的敘述，下列哪一項說法正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "與網友交往要保持警惕，不要借錢給剛認識不久或從未謀面的網友，但可以大方接受網友的禮物"
+        },
+        {
+          "key": "B",
+          "text": "網路上言論自由是允許的，所以偶爾在網路上談論一些八卦、謠言或攻擊他人的言論，無傷大雅不可能會觸犯法律，不用放在心上"
+        },
+        {
+          "key": "C",
+          "text": "和網友談天說地是很平常的事，有意思的話約出來單獨見個面認識一下會更好"
+        },
+        {
+          "key": "D",
+          "text": "在網路聊天室與人聊天，可以談論任何話題，但還是要保持基本的尊重和禮儀，即使不知對方是什麼樣的人。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路的使用中，也會受到規範，下列哪一種身分需要受到資訊倫理規範？",
+      "options": [
+        {
+          "key": "A",
+          "text": "老師"
+        },
+        {
+          "key": "B",
+          "text": "駭客"
+        },
+        {
+          "key": "C",
+          "text": "網路業者"
+        },
+        {
+          "key": "D",
+          "text": "人人都需要遵守。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路禮儀的基本精神，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "清楚表達"
+        },
+        {
+          "key": "B",
+          "text": "互相尊重"
+        },
+        {
+          "key": "C",
+          "text": "使用注音文"
+        },
+        {
+          "key": "D",
+          "text": "友善互動。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "使用網際網路時，哪一項行為正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以隨意取用任何資料與圖片"
+        },
+        {
+          "key": "B",
+          "text": "遇到問題可以在網路討論區詢問別人"
+        },
+        {
+          "key": "C",
+          "text": "可以從網路下載圖片或資料轉寄給其他同學"
+        },
+        {
+          "key": "D",
+          "text": "從網路下載最新音樂影片跟同學分享。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿光 與女友分手後，將自己與女友的親密合照，張貼在部落格上，以供他人任意下載瀏覽，造成女友極大的困擾。請問 阿光 的作法違反了下列哪一種倫理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "行政倫理"
+        },
+        {
+          "key": "B",
+          "text": "藝術倫理"
+        },
+        {
+          "key": "C",
+          "text": "文化倫理"
+        },
+        {
+          "key": "D",
+          "text": "資訊倫理。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種行為可能會觸犯法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "結交網友，一同出遊"
+        },
+        {
+          "key": "B",
+          "text": "在 BBS 站揭露同學的缺點引為笑談"
+        },
+        {
+          "key": "C",
+          "text": "拍賣二手書籍"
+        },
+        {
+          "key": "D",
+          "text": "去電影出租店租片，在家和父母共賞。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "揭露他人隱私也有犯法的可能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於資訊倫理的議題下列哪一項敘述 不正確 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "我國以個人資料保護法及其他法律保障「隱私權」"
+        },
+        {
+          "key": "B",
+          "text": "「近用權」是維護個人對資訊使用的權力，且尊重和不去侵犯別人的資訊使用權"
+        },
+        {
+          "key": "C",
+          "text": "網友之間的分享已成為主要訊息來源，因此收到網路資訊要馬上轉寄給親朋好友"
+        },
+        {
+          "key": "D",
+          "text": "「著作權」的定義為「因著作完成所生之著作人格權及著作財產權」。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "網路的訊息正確性應該有所探討，且不該輕易轉寄給親朋好友。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種行為 不會 構成電腦犯罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "撰寫並散布電腦病毒"
+        },
+        {
+          "key": "B",
+          "text": "將 CD 音樂上傳到部落格中供網友下載"
+        },
+        {
+          "key": "C",
+          "text": "在部落格的文章中引用 唐朝 詩人 杜甫 的詩句"
+        },
+        {
+          "key": "D",
+          "text": "張貼色情網站的超連結。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)(Ｂ)(Ｄ)都是違反網路倫理相關議題。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "目前由 行政院 「 智慧國家推動小組 （ SMART TAIWAN 2030 ）」推行的「數位包容」政策中， 不包含 下列哪個項目？",
+      "options": [
+        {
+          "key": "A",
+          "text": "普及數位平權"
+        },
+        {
+          "key": "B",
+          "text": "培育數位人才"
+        },
+        {
+          "key": "C",
+          "text": "免費電子書推廣"
+        },
+        {
+          "key": "D",
+          "text": "精進數位學習環境。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於「資訊社會的社群」的敘述，下列何者是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "許多網路社群的存在，讓志同道合的朋友可以加入"
+        },
+        {
+          "key": "B",
+          "text": "個人都不需面對面交男、女朋友，可在網路中實踐法定上的婚姻"
+        },
+        {
+          "key": "C",
+          "text": "社交生活都可用網路社交來取代，人類從此開始過獨居的生活"
+        },
+        {
+          "key": "D",
+          "text": "鼓勵大眾對剛開始認識的網友，吐露最近的心事與隱私資訊。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)婚姻還是須由現實生活中來進行實踐法定婚約；(Ｃ)社交不能完全被網路交友來取代；(Ｄ)網友之間可以互相吐露心事，但個人隱私資訊依然不建議在網路上流傳或交流。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "詐騙集團常發出手機簡訊來欺騙消費者：「緊急通知─親愛的客戶您好，由於您的金融卡資料外洩，請至提款機確認您的密碼，如有任何問題請來電 (02) 12233541 。」此一情形反應了現代社會中的哪種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作倫理"
+        },
+        {
+          "key": "B",
+          "text": "資訊倫理"
+        },
+        {
+          "key": "C",
+          "text": "經濟倫理"
+        },
+        {
+          "key": "D",
+          "text": "科技倫理。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "此為隱私權外洩議題，故為資訊倫理。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "我們應該如何正確使用 MSN 或 Skype 等即時通訊軟體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "新增很多聯絡人，發揮使用效益"
+        },
+        {
+          "key": "B",
+          "text": "傳送個人私密資料，以策安全"
+        },
+        {
+          "key": "C",
+          "text": "安裝網路上找到的相關程式，讓即時通訊軟體更好用"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "(Ａ)新增自己的朋友就行，以免個人資料外洩給陌生人；(Ｂ)個人資料盡量不要在網路上分享；(Ｃ)網路上許多相關程式會有病毒的風險，安裝的那一刻也代表著自己的個資即將外洩。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教育部 為照顧弱勢學童的學習，積極招募大學資訊志工執行何種任務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "臉書社群夥伴"
+        },
+        {
+          "key": "B",
+          "text": "送志工到偏鄉家教"
+        },
+        {
+          "key": "C",
+          "text": "數位學伴課輔"
+        },
+        {
+          "key": "D",
+          "text": "快樂 E 學生。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "數位學伴的教師端以招募大學生擔任國中小學學生之學伴，提供資訊應用及學習輔導，希望透過學伴關係提升學生學習興趣，以促進學生端所在地區教育文化之提升，同時也藉此培養大學生社會服務情懷，深具教育意義。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "對於網路上的資訊內容使用，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對於網路上的資訊內容，不須經過查證確認就可以使用"
+        },
+        {
+          "key": "B",
+          "text": "網路上的著作物也受著作權法保障，不該任意使用複製、貼上"
+        },
+        {
+          "key": "C",
+          "text": "對於陌生人要求轉貼的文章一律都張貼在部落格分享給大家"
+        },
+        {
+          "key": "D",
+          "text": "看到新穎的廣告訊息應該多多點擊。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "(Ａ)網路上的資訊應經過確認再使用，以免錯誤訊息一再傳出；(Ｃ)轉貼文章需要經由告知原作者同意，且標示文章引用出處與來源；(Ｄ)對於不明廣告訊息不要點擊，以免電腦中毒。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者 不是 網路商家保護「個人資訊隱私權」的做法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "告知個人資料的使用原則"
+        },
+        {
+          "key": "B",
+          "text": "運用安全機制保護個人資料的隱密性"
+        },
+        {
+          "key": "C",
+          "text": "客戶可選擇是否提供全部的個人資料"
+        },
+        {
+          "key": "D",
+          "text": "禁止客戶修改個人資料以確保資訊完整性。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "(Ｄ)應該提供客戶可以隨時修改資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種行為符合資訊倫理的規範？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在部落格揭發他人隱私"
+        },
+        {
+          "key": "B",
+          "text": "大量使用火星文"
+        },
+        {
+          "key": "C",
+          "text": "在網路拍賣違禁品"
+        },
+        {
+          "key": "D",
+          "text": "檢舉網拍中販賣違禁品的賣家。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "(Ａ)揭發他人隱私有違法的可能；(Ｂ)盡量使用正確語言，才會容易與他人交流；(Ｃ)拍賣違禁品屬於犯法行為。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教育部 於民國 93 ～ 97 年為縮短國內數位城鄉落差，主要成立以下何種單位？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位機會中心"
+        },
+        {
+          "key": "B",
+          "text": "數位圖書館"
+        },
+        {
+          "key": "C",
+          "text": "資訊志工團隊"
+        },
+        {
+          "key": "D",
+          "text": "資訊素養推動小組。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "教育部　2005　年起實施「創造偏鄉數位機會推動計畫」，於全國　168　個偏鄉鄉鎮設立數位機會中心（DOC）。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以下何者是關於網路言論發表的正確敘述？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路上的言論與真實世界相同，每個人都必須要為自己所說過的話負責"
+        },
+        {
+          "key": "B",
+          "text": "言論自由的保護下，可以在網路上公開批評任何事物"
+        },
+        {
+          "key": "C",
+          "text": "網路言論必須由網際網路 ISP 業者全權負責管理"
+        },
+        {
+          "key": "D",
+          "text": "為增加文章的觀看人氣，可以使用一些煽動性的字眼。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)即便是言論自由，在公開的地方批評任何事物都是不被允許的；(Ｃ)網路言論所有人都要負責；(Ｄ)盡量不要使用煽動性的字眼在公開的網路平臺上。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教育部 補助偏遠地區國小及國中生國民電腦，讓該群學生的學校也擁有國民電腦連網的措施，最主要是為了解決？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社經地位"
+        },
+        {
+          "key": "B",
+          "text": "民主落差"
+        },
+        {
+          "key": "C",
+          "text": "文化再造"
+        },
+        {
+          "key": "D",
+          "text": "數位落差。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種行為 不違反 所有權？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒐集他人部落格文章出書販售"
+        },
+        {
+          "key": "B",
+          "text": "影印整本原文書"
+        },
+        {
+          "key": "C",
+          "text": "考生下載國中會考的考古題閱讀"
+        },
+        {
+          "key": "D",
+          "text": "使用網路上的盜版軟體及序號。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關資訊倫理的描述何者為真？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊科技助長個人隱私的侵害"
+        },
+        {
+          "key": "B",
+          "text": "資訊倫理守則等同法律"
+        },
+        {
+          "key": "C",
+          "text": "真實世界的倫理規範不適用於網路世界"
+        },
+        {
+          "key": "D",
+          "text": "資訊倫理僅規範資訊從業人員。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)資訊倫理不等同於法律，與生活上的社會規範、習俗、道德倫理較為相似；(Ｃ)網路世界與真實世界有許多相類似的習慣與模式，可以互相規範套用；(Ｄ)資訊倫理規範所有資訊使用者。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「狗仔隊」反應何種資訊倫理的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有權"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "資訊正確性"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關網路禮儀的敘述，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路的使用中，需要建立一個友善且尊重的環境"
+        },
+        {
+          "key": "B",
+          "text": "人際互動要正確且清楚地表達想說的話"
+        },
+        {
+          "key": "C",
+          "text": "不喜歡某人時，可以大家一起抨擊他，用一些歧視或較難聽的字眼來攻擊"
+        },
+        {
+          "key": "D",
+          "text": "不要轉發或張貼有病毒的郵件或文章。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "在網路交友上，依舊要建立具友善且尊重的環境，且不使用歧視與具偏見的說詞。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於網路社群網站的認知，下列敘述哪一項正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "應該完全相信社群網站的隱私權設定，在其網站上的資料不會外洩或被更改"
+        },
+        {
+          "key": "B",
+          "text": "隱私權設定會經由應用程式將社群網站串連在一起，只要曾登入過的社群網站，其隱私權設定一定相同"
+        },
+        {
+          "key": "C",
+          "text": "應嚴加控管社群網站的隱私設定，不適合利用網路社群網站傳輸銀行帳號或個人資料"
+        },
+        {
+          "key": "D",
+          "text": "我的社群網站資料被外洩，一定可以向網站經營者請求因為資料外洩造成損害的賠償。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)無論在哪個網站，網站上的資料都有可能外洩或被更改；(Ｂ)每一個登入過的社群網站會不一定相同，若有心人士盜用，其隱私權設定容易被更改；(Ｄ)個人資料外洩，網站經營者未必能進行賠償，有些資料外洩是駭客所為或個人疏失。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在個人部落格上撰寫文章，如果要引用別人的資料，應該如何處理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "大量一字不漏地複製文字"
+        },
+        {
+          "key": "B",
+          "text": "複製後可微幅修改"
+        },
+        {
+          "key": "C",
+          "text": "徵求原作者的同意"
+        },
+        {
+          "key": "D",
+          "text": "儘量修改，不要與原資料相同。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "使用公開的無線網路可以安全地進行下列哪項網路使用行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "收發電子郵件"
+        },
+        {
+          "key": "B",
+          "text": "登入網路銀行轉帳"
+        },
+        {
+          "key": "C",
+          "text": "查詢資料，不登入任何帳號密碼"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "收到垃圾郵件時，應該如何處理較為恰當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "馬上回信請對方不要再寄信"
+        },
+        {
+          "key": "B",
+          "text": "執行附加檔案，看看內容是什麼"
+        },
+        {
+          "key": "C",
+          "text": "轉寄給懂電腦的朋友看"
+        },
+        {
+          "key": "D",
+          "text": "直接刪除。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "最近駭客偽造 CNN 電子報，散播木馬病毒。萬一電腦因此中毒，可能會有哪些後果？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人資料被竊取盜用"
+        },
+        {
+          "key": "B",
+          "text": "電腦檔案被刪除"
+        },
+        {
+          "key": "C",
+          "text": "成為駭客可在遠端操控的電腦"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "隨著知識經濟、網際網路的發展，造成所謂「數位落差」（ Digital divide ），而此教育機會不均等並 未涉及 哪一個面向？",
+      "options": [
+        {
+          "key": "A",
+          "text": "城鄉差距"
+        },
+        {
+          "key": "B",
+          "text": "族群"
+        },
+        {
+          "key": "C",
+          "text": "階級"
+        },
+        {
+          "key": "D",
+          "text": "年齡。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "數位落差是指社會上性別、族群、社經地位、居住環境等有差異者，近用數位產品（如：3C　用品、電腦或網路等）的機會不均等。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關社群軟體之使用，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在 Facebook 貼文上按讚留言，可能面臨民、刑事究責"
+        },
+        {
+          "key": "B",
+          "text": "未獲得貼文原發文者同意，依然可以放心轉貼分享公開貼文"
+        },
+        {
+          "key": "C",
+          "text": "在社群軟體上討論他人隱私，可能面臨民、刑事究責"
+        },
+        {
+          "key": "D",
+          "text": "在社群軟體上點選網址連結，可能會洩漏個資。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "因為未獲得原貼文者的同意，就任意轉發貼文會有違法的可能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教育部 2005 年起實施「創造偏鄉數位機會推動計畫」，於全國 168 個偏鄉鄉鎮設立 數位機會中心 （ DOC ），下列哪一項 不是 數位機會中心 主要辦理的事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提供民眾資訊與網路相關服務與諮詢"
+        },
+        {
+          "key": "B",
+          "text": "提供民眾付費學習電腦應用"
+        },
+        {
+          "key": "C",
+          "text": "辦理數位學習相關應用研習"
+        },
+        {
+          "key": "D",
+          "text": "兼辦學童課後照顧。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關於「資訊倫理」的規範，以下哪個是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "基因改造作物可能引起資訊倫理的問題"
+        },
+        {
+          "key": "B",
+          "text": "有一則新聞報導： Google 3D 地圖可以幫你搜尋到好友的蹤跡，此會涉及到資訊倫理中近用權的議題"
+        },
+        {
+          "key": "C",
+          "text": "將重要的資料加密及備份才能保護自己的隱私權"
+        },
+        {
+          "key": "D",
+          "text": "駭客行為並未違反資訊倫理。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)基因改造作物引起的倫理問題為生命倫理，與資訊倫理較無相關性；(Ｂ)此一敘述所涉及的議題為隱私權；(Ｄ)駭客行為已違反資訊倫理。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路商家為保護客戶資訊隱私權，下列何者為常見的作法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用密碼控管、防火牆等安全機制"
+        },
+        {
+          "key": "B",
+          "text": "避免透露個人資料的使用原則"
+        },
+        {
+          "key": "C",
+          "text": "不讓客戶選擇提供全部或部分的個人資料"
+        },
+        {
+          "key": "D",
+          "text": "不提供客戶檢視與增修個人資料的管道。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)應提供客戶個人資料的使用原則，才能保障客戶使用權益；(Ｃ)應讓客戶選擇想提供的個人資料；(Ｄ)應提供客戶可以檢視或修改個人資料的管道。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "當網站要求使用者留下個人資料時，以下敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "觀察網站是否為釣魚網站，且留意網頁是否有安全保護"
+        },
+        {
+          "key": "B",
+          "text": "無論如何都可以留下真實通訊地址"
+        },
+        {
+          "key": "C",
+          "text": "觀察需要留下哪些個人資料，如果不想提供，則可填入別人的資料"
+        },
+        {
+          "key": "D",
+          "text": "將家人或朋友的資料當作自己的個人資料，是保護自己隱私資訊的好方法。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「網友發動人肉搜索」可能引發何種資訊倫理的爭議？",
+      "options": [
+        {
+          "key": "A",
+          "text": "智慧財產權"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "資訊正確性"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據資訊倫理四大議題的定義，「資訊在什麼情況下可以免費使用？什麼情況下應該付費或徵得所有權人的同意方能使用？」指的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "近用權（ Accessibility ）"
+        },
+        {
+          "key": "B",
+          "text": "正確性（ Accuracy ）"
+        },
+        {
+          "key": "C",
+          "text": "隱私權（ Privacy ）"
+        },
+        {
+          "key": "D",
+          "text": "所有權（ Property ）。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何項行為符合「資訊倫理」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "破解軟體程式，使原本要付費的程式可以免費取得"
+        },
+        {
+          "key": "B",
+          "text": "在網路上公告同學的姓名、生日、照片和住址，方便其他人聯絡"
+        },
+        {
+          "key": "C",
+          "text": "連結線上題庫，下載模擬考題，在考試前充分練習，做好準備"
+        },
+        {
+          "key": "D",
+          "text": "註冊網路新會員時，輸入他人的身分證字號以保護個資安全。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)破解軟體就是盜版，有違法的可能；(Ｂ)不得在網路上公開其他人個資；(Ｄ)不可將他人個資隨意使用。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關資訊倫理的內涵，下列敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "教導讀者如何遵守網路使用的禮節"
+        },
+        {
+          "key": "B",
+          "text": "教導讀者如何破解加密的文件"
+        },
+        {
+          "key": "C",
+          "text": "教導讀者如何保護及尊重個人隱私權"
+        },
+        {
+          "key": "D",
+          "text": "教導讀者如何尊重智慧財產權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "不該學會破解加密的文件，有犯法的可能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "一個有資訊素養的數位公民，應嚴守下列哪個事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "應多多在網路公共討論區指名道姓討論私人事務"
+        },
+        {
+          "key": "B",
+          "text": "未經過當事人同意，也可以將他人個資傳送給第三者"
+        },
+        {
+          "key": "C",
+          "text": "資訊使用行為，不應侵害他人的隱私"
+        },
+        {
+          "key": "D",
+          "text": "資訊管理者不需遵守其專業倫理規範，只須遵守資訊倫理就可以了。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ａ)應避免在網路公共討論區指名道姓討論私人事務；(Ｂ)未經過當事人同意，不可將他人個資傳送給第三者；(Ｄ)資訊管理者除了要遵守其專業倫理規範，也須遵守資訊倫理。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「網友發動人肉搜索」可能引發何種資訊倫理的爭議？",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有權"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "正確性"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「城鄉數位機會落差」反應何種資訊倫理的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有權"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "資訊正確性"
+        },
+        {
+          "key": "D",
+          "text": "近用權。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "縮短數位落差本質上是資訊近用權的實踐，也是資訊社會應予重視的問題。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "2020 年流行的新型冠狀病毒肺炎（簡稱：新冠肺炎），中央疫情指揮中心，每日公布確診病例，都用案＋數字（例如：案 1 大約幾歲、居住在哪一區）。此一舉動，是為了保護資訊倫理 PAPA 理論中的哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正確性"
+        },
+        {
+          "key": "B",
+          "text": "隱私權"
+        },
+        {
+          "key": "C",
+          "text": "近用權"
+        },
+        {
+          "key": "D",
+          "text": "所有權。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "為了保護個人隱私及空間隱私，個人資料（如：姓名）受個人資料保護法保護，依法不能任意公布。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項與網路禮儀的原則關係較 不密切 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "遣詞用字力求正確、簡潔與清楚"
+        },
+        {
+          "key": "B",
+          "text": "儘量用圖像或表情符號，以增加趣味"
+        },
+        {
+          "key": "C",
+          "text": "注意安全與隱私"
+        },
+        {
+          "key": "D",
+          "text": "表達友善與尊重。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列對於網路隱私權的敘述，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不要回覆來路不明的電子郵件"
+        },
+        {
+          "key": "B",
+          "text": "我們要勇於檢舉濫發垃圾郵件的業者"
+        },
+        {
+          "key": "C",
+          "text": "「電腦處理個人資料保護法」是目前保護我們隱私權的唯一法源"
+        },
+        {
+          "key": "D",
+          "text": "在聊天室我們要盡量使用與電子郵件相關的化名，這樣比較好記。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "因為會使有意人士容易找到個人相關資料，比較危險，所以盡量不要使用相關化名。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "由於傳播科技發達，個人資料常遭不當引用，使隱私權受到侵害。下列關於個人資料引用與隱私權保障的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人資料的保護亦屬憲法人格權的保障範圍"
+        },
+        {
+          "key": "B",
+          "text": "媒體報導揭露個人資料只要不提及姓名即可"
+        },
+        {
+          "key": "C",
+          "text": "在網路張貼與朋友聚會的合照涉及人身自由"
+        },
+        {
+          "key": "D",
+          "text": "個人的犯罪前科不受隱私權保障以維護公益。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)只要是個人資料都不可揭露，除非當事人同意或是重大案件犯人；(Ｃ)網路上張貼與朋友聚會的合照屬於隱私權的部分；(Ｄ)個人有前科的紀錄依舊受到隱私權保障。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關網路言論自由，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對於有去吃過的餐廳，若是自己覺得不好吃可以在網路上就所吃的食物進行評論，依個人親身體驗的陳述屬於「事實陳述」，在法律上不會有罪名"
+        },
+        {
+          "key": "B",
+          "text": "對於有去吃過的餐廳，若是自己覺得不好吃可以在網路上散播這間店賣的食物很難吃，要大家不要去踩地雷。依個人親身體驗的陳述屬於「事實陳述」，在法律上不會有罪名"
+        },
+        {
+          "key": "C",
+          "text": "在網路上發表餐館食物評價要考慮到店家處境，以善意、適當方式來發表文章"
+        },
+        {
+          "key": "D",
+          "text": "在網路上發表餐館食物評價若要具備事實程度，像是在店內看到不衛生時，最好拍照存證，並以客觀、公正態度來發表文章。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "若對於誹謗之事能證明為真實者，不予以處罰。但涉及私德與公共利益無關者，不在此限。必須是依善意發表言論，且為適當之評論者，才可在不罰的範圍內。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者不屬於數位落差的相關概念與議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由於經濟弱勢而無法擁有電腦與網路設備"
+        },
+        {
+          "key": "B",
+          "text": "由於企業資訊運用能力而造成的獲利差距"
+        },
+        {
+          "key": "C",
+          "text": "由於地區偏遠而缺乏通訊網路基礎設施"
+        },
+        {
+          "key": "D",
+          "text": "由於國家的貧窮與富有而產生的電腦資源差距。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "數位落差主要以服務經濟落勢地區或人群為對象，進行增設設備來消弭彼此間的差距，而非企業家用以獲利的方式。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以下有關資訊倫理 PAPA 理論的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "所有權：思考使用網路上查到的研究數據是否侵犯他人的智慧財產權"
+        },
+        {
+          "key": "B",
+          "text": "近用權：使用 Line 傳遞好友個人資料時，能保障其個資，避免資料不當外洩"
+        },
+        {
+          "key": "C",
+          "text": "正確性：拍賣網站能讓會員擁有對其基本資料的存取、檢視、改正錯誤及被告知資料如何被使用"
+        },
+        {
+          "key": "D",
+          "text": "隱私權：政府官方網站能提供真實的資料供民眾查詢。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)此為隱私權，且不能隨意傳遞好友資料給他人，除非經過本人同意；(Ｃ)此為近用權，非正確性；(Ｄ)為隱私權沒錯，但不可隨意提供真實資料隨意給民眾查詢。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現在科技越來越進步，政府各相關單位也開始利用資訊輔助，來管理各項事宜，但此一舉動可能引發哪種社會平等有關的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人隱私"
+        },
+        {
+          "key": "B",
+          "text": "資訊安全"
+        },
+        {
+          "key": "C",
+          "text": "數位落差"
+        },
+        {
+          "key": "D",
+          "text": "資料整合。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "有關於社會的平等，首先考慮到的就是城鄉的差距，而數位落差為城鄉最大的問題，偏遠地區對於執行資訊輔助相關事宜較有難度，故為此一選項。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

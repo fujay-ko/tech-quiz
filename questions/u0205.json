@@ -1,0 +1,4145 @@
+{
+  "chapter": "2下 第5章 媒體與資訊科技相關社會議題",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "沉迷於網路會對身體產生很大的負擔，睡眠嚴重不足甚至會有休克之風險。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我國憲法賦予人民言論自由的權利，所以可以自由地發表言論。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上的文字嘲弄及訊息恐嚇不一定會造成違法，但還是要加以防範，不能放任霸凌者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "根據歐洲理事會對「資訊失序」2017 年的報告中，《不實資訊》是指與事實不符，且有惡意，為了傷害特定對象或達到某種目的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "根據歐洲理事會對「資訊失序」2017 年的報告中，《惡意資訊》是指符合事實但有惡意，通常為了攻擊特定對象，刻意大肆渲染，造成對方傷害。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路霸凌中的訊息恐嚇，就是霸凌者透過電子郵件、手機簡訊或社群網站等，大量發送不實且負面的訊息，使受凌者受到誤解等精神傷害，甚至社交關係受到同儕排斥。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "霸凌者透過電子郵件、手機簡訊或社群網站等，大量發送不實且負面的訊息，使受凌者受到誤解等精神傷害，甚至社交關係受到同儕排斥。是屬於社交孤立。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當發現自己有無法控制的網路成癮問題，第一時間可以尋求師長及學校輔導人員的協助。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "可以自由地在網路上發表自己的自創歌曲，是屬於言論自由保障的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "享有言論自由的同時，也要尊重他人，並且發言時必深思熟慮。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "適當的使用網路以及善加利用其資源，網路就能成為一個有效的工具。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "霸凌的現象只會在校園裡出現，出社會後就不會發生。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "霸凌在各種團體中都會發生。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若是發現自己有沉迷於網路的情形，可以強迫自己在假日時多與同學及家人出門走走，離開網路世界。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "身邊的人在網路上散播假新聞和不實資訊，因為不會對自己造成危害，所以就不用去理會。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為檢視資訊失序，目前檢警單位對假訊息的定義主要包含惡意、虛假、具危害性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "有些網路成癮者，是在人際相處上較有困難的人，所以身邊若是有同學有這樣的狀況，多給予關心可以協助他走出困境。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "言論自由雖然是人民的基本權利，但為了顧及他人名譽、隱私及公共利益的保護，法律可以對言論自由做合理的限制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路世界中，不適用言論自由的保障及規範，所以可以盡情講我想說的話，不必負任何責任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "鑫鑫每次看到網路上有趣的資訊，不管內容是否確實，都會分享到各個群組，這樣的行為是違反了「三不二要」原則中的不散播。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊素養就是將網路上所看到、聽到的新聞資訊，直接傳給所有的親朋好友，跟他們分享。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "通常網路上的輿論指向就是事情的真相，所以可以放心地相信，因為大家都是這麼認為的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "有霸凌的狀況發生時，除了向學校信箱投訴，也可以向縣市反霸凌專線投訴。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華與安安常常傳送手機簡訊恐嚇同學阿平，認為這樣的行為很有趣，但卻造成阿平嚴重精神傷害，這就是網路霸凌中的訊息恐嚇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "沉迷網路會對身心造成很大的負擔，可能導致睡眠嚴重不足，甚至造成日常生活中精神不振和注意力不易集中。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "媒體是指承載、傳輸和控制資訊的材料及工具。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "長期使用網路玩線上遊戲，將會使專注力越來越集中。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "表達與溝通方式包含言語、寫作、歌曲和表演。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上可以使用匿名，所以當散播了不當的訊息內容，根本不用擔心法律責任的問題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "根據歐洲理事會對「資訊失序」2017 年的報告中，《錯誤資訊》是指與事實不符，且有惡意，為了傷害特定對象或達到某種目的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路社會可以匿名，所以當散播了不當的內容，根本不用擔心會有法律問題，因為找不到人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "透過　IP　位址追蹤，即可以找到發文者。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路霸凌中的「文字嘲弄」，通常用有歧視、嘲笑、甚至惡毒的文字，透過網路去批評或騷擾，造成受凌者極大的精神壓力。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿華在口罩公司擔任銷售經理，她為了讓自家的產品銷售量增加，進而在網路平臺發出口罩原料缺貨的消息，造成民眾恐慌，後來被證實原料無短缺，阿華散播這樣的資訊是屬於不實資訊。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路霸凌中的社交孤立，就是公開散布受凌者私密照，或經過變造的不實剪接照片及不雅的圖片，讓受凌者的名聲及生活受到汙衊與干擾。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "公開散布受凌者私密照，或經過變造的不實剪接照片及不雅的圖片，是屬於圖片干擾。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當有人傳惡意訊息霸凌的狀況發生，一定要先留下畫面截圖以保留證據。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路上資料繁多，但正確性有待查證，所以要確認過資訊的真實性才納入參考，不要輕易相信。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "人人都有散布資訊的主動權，所以更應該作為一個有資訊素養的數位公民。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若是有網路霸凌的相關法律疑問，可以尋找財團法人法律扶助基金會洽詢。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路世界中不適用言論自由的保障及規範，所以我可以盡情地說我想說的話，不必負任何責任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "歐洲理事會對「資訊失序」的報告中，「錯誤資訊」是指與事實不符，且有惡意，為了傷害特定對象或達到某種目的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只要是在 Google 搜尋到的資料都是正確的，可以完全相信。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上看到的資訊都是正確的，不用特別去查證。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小琪的媽媽在社區的社群網路群組中得知，喝橄欖油是一種瘦身的快速方法，於是照著做，小琪也覺得網路上很多人都有成功的經驗，所以一定是正確的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "科技日新月異，很多網路平臺的出現，讓民眾自由地在網路上發表言論，可以暢所欲言，不受法律控制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果想釐清自己有無網路沉迷的問題，可以至臺北市政府衛生局社區心理衛生中心網頁的心理評量專區，自行填寫「網路使用評量表」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "假日多出門踏青，是很好的放鬆方式，千萬別讓自己沉迷於網路世界。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在自己的社群平臺上發布訊息時，都要經過審慎的思考，以免造成他人的傷害。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "教育部在修正公布的教育基本法第八條，規定校園霸凌防制準則",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "現在網路上資料繁多，其中的正確性有待查證，所以一定要確認過資訊的真實性才納入參考，千萬不要輕易相信。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "拜特看波波不順眼，於是就在學校的網路粉絲專頁上，對波波有惡意的言語攻擊，但是因為拜特有個人言論自由且未有具體的肢體行為，所以不構成網路霸凌。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路是現代生活中不可或缺的工具，但其影響都是負面的，所以最好完全不要接觸網路。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網路也能幫助生活，以及了解更多的知識，只要適當的善加利用，也可以是一個很好的工具。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊素養就是將看到的新聞資訊，直接發給所有的親朋好友，跟他們分享。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "要經過查證，不是不適當的消息才能發給親友。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "媒體素養也可以稱為媒體識讀、資訊素養、媒介識讀。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "媒體素養與資訊素養不同。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "霸凌是一定要有肢體動作或其他行為，所以不友善的言語及文字的騷擾，不能構成霸凌。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "曉華看翰翰不爽，於是就在學校網路粉絲專頁上對翰翰有惡意的言語攻擊，但是因為曉華未有具體的肢體行為，所以不構成霸凌。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "這樣的行為構成霸凌，稱為「網路霸凌」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿霸在公司中惡意謠傳曉華與老闆是情侶關係，這樣的行為足以構成誹謗罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "目前我國與其他民主國家大都使用「事前限制」來規範言論自由。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "採「事後懲罰」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技泛指用於管理與處理資訊所採用各種技術的總稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果有任何被霸凌的情況發生，可以尋求任何一位師長的幫忙。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若是看到同學被霸凌，就算是以網路霸凌的方式，也要盡速告知師長，並協助同學，千萬不可袖手旁觀。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "上傳好友的不雅照不會怎麼樣，因為沒有用言語或文字攻擊他，所以不需要負任何法律責任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿布在網路上看到科工館要歇業的訊息，趕快上去官方網站以及撥電話至相關單位確認此項訊息的正確性。依據上述阿布的行為是「三不二要」原則中的要查證。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "享有言論自由的同時，在發言時也要尊重他人，並為自己說的話負責。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿平在網路上將自己對於小獎麵店的負面看法，客觀的分享於網路，並且只給了一星評價，但是這樣的行為已構成公然侮辱罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "只要言論客觀並且符合事實，不構成公然侮辱。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我國的司法院設有一個針對查證假新聞相關資訊的網站，稱為「司法院即時新聞澄清專區」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為「行政院即時新聞澄清專區」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小福在體育課上課時，用手機偷拍同班女同學，女學生心有不甘，自行在四下無人時偷出小福書包中的手機，將偷拍影片盜拷蒐證，這下小福涉及了「妨害秘密罪」，女學生因為是自保的行為，所以無罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "女學生也犯了「妨害秘密罪」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿亮因為好玩，而盜用斌瑞的 Facebook，然後傳無意義的訊息給斌瑞的好友，這樣的行為構成刑法無故入侵電腦罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上的訊息恐嚇會造成違法，因此要加以防範，不能放任霸凌者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "名軒約了兩位好友大目、雅雅到自己的家中聚餐，過程中與大目起了爭執，並且名軒辱罵大目不雅的詞句，但名軒這樣的行為並不構成公然侮辱罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "大瑞在學校被同學霸凌了，但是不敢與學校的任何人提起，此時的大瑞可以撥打教育部 24 小時專線 0800-200-885 尋求協助。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "防範不實資訊的「三不二要」原則中，「三不」是指不輕信、不承諾、不散播。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不輕信、不散播、不製造。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "大漢國中一名女同學，收到一則私人訊息，內容為指控她與校內某位教師是情侶關係的訊息，就算不是公開的訊息，傳訊息者也可能構成了誹謗的罪嫌。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "現今資訊發達，網路資源豐富，使用手機上網查找資料、接收資訊等已成日常，對於學生而言，平均每週上網 50 小時以上，並沒有網路沉迷的風險。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "天天和男朋友云云在火車站大廳大吵了一架，云云甚至口出惡言辱罵天天，但是天天與云云因為是情侶關係，所以云云的行為不構成公然侮辱罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "如果場地是在人來人往的公共場所，雙方口無遮攔地侮辱他方的惡言惡語，都是不特定的多數人所共見共聞，就構成公然侮辱罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "吃完麻辣燙的阿花感到肚子不適，於是上網找到一個治胃痛的方式，就是在兩分鐘內喝完一公升的冰開水，照做之後阿花不僅沒有比較舒服，胃反而更痛了。上述阿花看到的資訊是屬於惡意資訊。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "是屬於錯誤資訊。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "平均每星期上網超過 90 小時者，才會有較高網路沉迷的風險。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "超過　40　小時即是高風險群。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了維護網路秩序安全，目前檢警單位對於假訊息的定義有非常明確且不抽象的判定標準。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前對假訊息的定義仍過於抽象。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在網路上冒用別人之身分，來惡意散布謠言及發表不當的言論，不算是觸犯了法律，因為不是本人的帳號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "冒用別人的帳號來進行惡意行為也犯法。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路上的文字嘲弄或是訊息恐嚇的霸凌，一定會構成違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不一定會構成違法。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "有言論自由的保障，所以我們可以盡情的發言，並且不用為自己說過的話負責。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在選舉活動期間，臺灣 Google 平臺會暫停競選廣告，以免大量不實、惡意資訊混淆視聽。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "言論自由則是指人民有表達意見或思想等的權利，但是不包含收受資訊的權利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "也包含收受資訊的權利。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "防範不實資訊的「三不二要」原則中，「二要」是指要查證、要澄清。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不輕信、不散播、不製造。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "卿卿在火車站與一位婦女擦撞到之後，因情緒激動而辱罵對方三字經，這樣已經構成了誹謗罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "是構成公然侮辱罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小琪在自己的網路平臺上，舉辦了一個票選活動，選出校園中最常作弊的同學，就算不是事實，小琪也不在意，她只希望能增加自己網站的熱度。上述事件中，小琪違反了誹謗罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "公然侮辱罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "曉華在網路的群組聊天室中，辱罵了其中的另一位成員阿明，阿明身心受到重創，但是因為此群組中只有特定幾個人，所以曉華的行為不構成公然侮辱罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網路可以說是一個人人得以進出的場域，像是　BBS、聊天室，都是許多網友可以瀏覽或加入討論的地方，所以也符合「公然」的條件。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "萌萌在網路上散播合成的恐怖靈異照片，使閱覽者產生了極度的反感與畏懼，萌萌這樣的不當行為即犯法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "散播使人感到反感的照片，雖然讓人感到不適，但卻不是犯法的行為。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "防範不實資訊的「三不二要」原則中，「三不」是哪三項原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不輕信、不承諾、不散播"
+        },
+        {
+          "key": "B",
+          "text": "不澄清、不承諾、不散播"
+        },
+        {
+          "key": "C",
+          "text": "不理會、不製造、不散播"
+        },
+        {
+          "key": "D",
+          "text": "不輕信、不製造、不散播。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路上對他人說出甚麼言語會有公然侮辱的法律責任？",
+      "options": [
+        {
+          "key": "A",
+          "text": "罵髒話"
+        },
+        {
+          "key": "B",
+          "text": "瘋女人"
+        },
+        {
+          "key": "C",
+          "text": "畜生"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是言論表達的方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "表演"
+        },
+        {
+          "key": "B",
+          "text": "寫作"
+        },
+        {
+          "key": "C",
+          "text": "歌曲"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "防範不實資訊的「三不二要」原則中，「二要」是哪兩項原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "要認清、要查證"
+        },
+        {
+          "key": "B",
+          "text": "要澄清、要查證"
+        },
+        {
+          "key": "C",
+          "text": "要信服、要三思"
+        },
+        {
+          "key": "D",
+          "text": "要認清、要三思。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如何有效杜絕網路霸凌？",
+      "options": [
+        {
+          "key": "A",
+          "text": "多給予被霸凌者關懷及陪伴"
+        },
+        {
+          "key": "B",
+          "text": "絕對不可以一昧地跟隨霸凌者，用文字謾罵被害人"
+        },
+        {
+          "key": "C",
+          "text": "不要人云亦云，看到網路上有針對同學惡意謾罵的資訊，隨即與師長聯繫，並且協助被害者"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項比較可能是網路霸凌的徵兆？",
+      "options": [
+        {
+          "key": "A",
+          "text": "常常收到要求捐款的信件"
+        },
+        {
+          "key": "B",
+          "text": "經常收到網友轉傳的網路笑話"
+        },
+        {
+          "key": "C",
+          "text": "經常收到辱罵我的郵件"
+        },
+        {
+          "key": "D",
+          "text": "經常收到同學轉寄的藝人照片。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項對防範假新聞或不實消息沒有幫助？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不輕信"
+        },
+        {
+          "key": "B",
+          "text": "不查證"
+        },
+        {
+          "key": "C",
+          "text": "不散播"
+        },
+        {
+          "key": "D",
+          "text": "不製造。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項行為會犯了誹謗罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路上發表言論，致使他人的名譽受損"
+        },
+        {
+          "key": "B",
+          "text": "散布文字、圖畫，而指摘或傳述足以毀損他人名譽的具體事實"
+        },
+        {
+          "key": "C",
+          "text": "在網路上發佈不實訊息"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "若有網路霸凌的相關法律疑問，可以尋找下列何種機構的洽詢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "財團法人法律扶助基金會"
+        },
+        {
+          "key": "B",
+          "text": "教育部法律扶助基金會"
+        },
+        {
+          "key": "C",
+          "text": "慈祥法律扶助基金會"
+        },
+        {
+          "key": "D",
+          "text": "校園法律扶助基金會。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現在網站上非常便利隨時可搜尋需要的資料，而對於這些龐大的網路訊息，以下哪一個處理方式不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "都去官方網站找資料，不論是政府或是民間的"
+        },
+        {
+          "key": "B",
+          "text": "看到的資料只要是新聞媒體播報的，就一定是正確的"
+        },
+        {
+          "key": "C",
+          "text": "每一個資料要引用前，一定要查證過是否屬實"
+        },
+        {
+          "key": "D",
+          "text": "我都會多方搜尋資料，並且反覆確認其正確性。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據歐洲理事會對「資訊失序」2017 年的報告中，《錯誤資訊》的定義為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "指資訊雖與事實不符，但無惡意，也沒有造成傷害"
+        },
+        {
+          "key": "B",
+          "text": "指與事實不符，為了傷害特定對象或達到某種目的"
+        },
+        {
+          "key": "C",
+          "text": "符合事實但有惡意，刻意大肆渲染，造成對方傷害"
+        },
+        {
+          "key": "D",
+          "text": "符合事實但無惡意，刻意大肆渲染，為求曝光度。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪些方式無法檢視自己有沒有網路成癮的症狀？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可至臺北市政府衛生局社區心理衛生中心網頁，心理評量專區自行填寫「網路使用評量表」"
+        },
+        {
+          "key": "B",
+          "text": "可以詢問校內的專業輔導員"
+        },
+        {
+          "key": "C",
+          "text": "上網查資料，不管資料來源是哪裡，網路上的不會錯"
+        },
+        {
+          "key": "D",
+          "text": "與家長溝通，以及討論一個合理的解決方式。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "依依在網路上查找資料以及新聞，但是卻分不清楚這些資訊的真偽，她可以運用下列哪一方法去辨別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可以運用行政院即時新聞澄清專區"
+        },
+        {
+          "key": "B",
+          "text": "可以至官方網站，再確認資訊的正確性"
+        },
+        {
+          "key": "C",
+          "text": "不去瀏覽不明網站"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿金從友人口中得知，在某個通訊軟體的群組中，阿美說阿金有說要請大家吃龍蝦大餐，並且約在明天下午到海鮮餐廳一起用餐，但是阿金並沒有要這樣做，請問阿金接下來應該要如何處理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "趕快到群組澄清"
+        },
+        {
+          "key": "B",
+          "text": "告阿美誹謗罪"
+        },
+        {
+          "key": "C",
+          "text": "不理會，反正出事與阿金無關，是阿美說的"
+        },
+        {
+          "key": "D",
+          "text": "為了逞面子，只好請大家吃龍蝦大餐。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不是常見的網路霸凌行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳騷擾訊息給對方"
+        },
+        {
+          "key": "B",
+          "text": "公開他人的不雅照"
+        },
+        {
+          "key": "C",
+          "text": "在美食店家之評論區下方留言，給予建議"
+        },
+        {
+          "key": "D",
+          "text": "在網路上公開謾罵他人。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在網路世界，任何人都可以上網，所以言行應更謹慎"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌對被害人造成的傷害不大，因為也只有文字呈現，並無實際舉動"
+        },
+        {
+          "key": "C",
+          "text": "應該要珍惜能擁有言論的自由，並尊重他人言論"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "為檢視資訊失序，目前檢警單位對假訊息的定義主要包含下列哪一選項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "惡意"
+        },
+        {
+          "key": "B",
+          "text": "虛假"
+        },
+        {
+          "key": "C",
+          "text": "具危害性"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪個狀況符合「公然」的條件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通訊軟體群組"
+        },
+        {
+          "key": "B",
+          "text": "網路留言板"
+        },
+        {
+          "key": "C",
+          "text": "火車站大廳"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於霸凌的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "霸凌只限於校園內"
+        },
+        {
+          "key": "B",
+          "text": "霸凌有很多種形式"
+        },
+        {
+          "key": "C",
+          "text": "網路上也會出現霸凌的行為"
+        },
+        {
+          "key": "D",
+          "text": "不應該容忍霸凌出現在生活周遭，要勇於為被害者發聲。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小明的媽媽在網路上看到一則新聞，內容是說如果孩子從小學開始，每天吃 10 顆維他命 B 群，身高就會比較高，於是媽媽就讓小明照著吃，但是經過一年後，小明身體出現異樣，才發現這個方法是不正確的！請問上述網路資訊屬於下列哪一類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "醫學資訊"
+        },
+        {
+          "key": "B",
+          "text": "不實資訊"
+        },
+        {
+          "key": "C",
+          "text": "惡意資訊"
+        },
+        {
+          "key": "D",
+          "text": "錯誤資訊。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "霸凌的事件會出現在下列哪一場合中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公司"
+        },
+        {
+          "key": "B",
+          "text": "網路"
+        },
+        {
+          "key": "C",
+          "text": "學校"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "目前資訊幾乎都藉由網路傳播，其傳遞訊息的速度遠超過傳統媒體，其影響也超乎我們的想像。在充滿媒體資訊的生活中，請問下列哪一個是網路上的言論衍生出的議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊失序"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌"
+        },
+        {
+          "key": "C",
+          "text": "網路成癮"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路成癮者不會出現下列何種身體狀況？",
+      "options": [
+        {
+          "key": "A",
+          "text": "精神不振"
+        },
+        {
+          "key": "B",
+          "text": "注意力不集中"
+        },
+        {
+          "key": "C",
+          "text": "容易分心"
+        },
+        {
+          "key": "D",
+          "text": "身強體壯。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "奇奇想要檢視自己是否為一位網路成癮者，請問出現下列哪一症狀，代表她可能已經有網路沉迷的狀況？",
+      "options": [
+        {
+          "key": "A",
+          "text": "專注於網際網路或線上活動，且在下線後仍繼續想著上網"
+        },
+        {
+          "key": "B",
+          "text": "減少或停止使用網路，會覺得沮喪、心情低落或是脾氣煩躁"
+        },
+        {
+          "key": "C",
+          "text": "為了上網不惜影響重要的人際關係、工作、學業或工作機會的損失"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項比較不可能是網路上癮的徵兆？",
+      "options": [
+        {
+          "key": "A",
+          "text": "我經常會因為沒上網而心情鬱悶"
+        },
+        {
+          "key": "B",
+          "text": "我每天早上會查閱電子信箱的郵件"
+        },
+        {
+          "key": "C",
+          "text": "我上網時如有人打擾，我會感到不高興"
+        },
+        {
+          "key": "D",
+          "text": "我連續上網五、六個小時也不覺得累。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "媒體素養與下列何者不同？",
+      "options": [
+        {
+          "key": "A",
+          "text": "媒體識讀"
+        },
+        {
+          "key": "B",
+          "text": "資訊素養"
+        },
+        {
+          "key": "C",
+          "text": "媒介識讀"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路上公開受霸凌者的私密照，是下列何種霸凌行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "文字嘲弄"
+        },
+        {
+          "key": "B",
+          "text": "訊息恐嚇"
+        },
+        {
+          "key": "C",
+          "text": "圖像騷擾"
+        },
+        {
+          "key": "D",
+          "text": "社交孤立。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "商業網路大戶如臺灣 Google，包括其所屬的 YouTube 所有平臺，在選舉活動期間，會暫停競選廣告，這樣的用意為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因為政治話題有被法律規範不能出現在網路平臺中"
+        },
+        {
+          "key": "B",
+          "text": "不希望選舉廣告影響其他廣告的播出時間長度"
+        },
+        {
+          "key": "C",
+          "text": "為了避免被不實資訊操弄"
+        },
+        {
+          "key": "D",
+          "text": "因為選舉刊登廣告是不用付費的，所以會有損失。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "心理學家或精神科醫師指出，平均每週上網只要超過幾小時，即會有較高網路沉迷的風險？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 小時"
+        },
+        {
+          "key": "B",
+          "text": "40 小時"
+        },
+        {
+          "key": "C",
+          "text": "90 小時"
+        },
+        {
+          "key": "D",
+          "text": "120 小時。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "霸凌者透過電子郵件、手機簡訊或社群網站等，大量發送不實且負面的訊息，使受凌者人際關係惡化，讓受凌者社交關係受到同儕排斥，上述狀況屬於哪一類別之網路霸凌？",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖像騷擾"
+        },
+        {
+          "key": "B",
+          "text": "文字嘲弄"
+        },
+        {
+          "key": "C",
+          "text": "訊息恐嚇"
+        },
+        {
+          "key": "D",
+          "text": "社交孤立。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "霸凌會以下列哪一種形式發生？",
+      "options": [
+        {
+          "key": "A",
+          "text": "文字"
+        },
+        {
+          "key": "B",
+          "text": "言語"
+        },
+        {
+          "key": "C",
+          "text": "肢體動作"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "莉莉被班上的阿立偷拍不雅照片，並且阿立還傳訊息威脅她說，如果沒有給錢要將照片公開到網路上，這時莉莉可以怎麼做？",
+      "options": [
+        {
+          "key": "A",
+          "text": "趁大家不注意時，偷偷拿阿立手機，把照片刪除"
+        },
+        {
+          "key": "B",
+          "text": "趕快給阿立錢"
+        },
+        {
+          "key": "C",
+          "text": "將訊息畫面截圖下來做為證據，並尋求師長協助"
+        },
+        {
+          "key": "D",
+          "text": "也拍阿立的照片，威脅他要放到網路上。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小美收到了好友傳這則訊息給她，她應該要如何處裡，才是最好的方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不理會他"
+        },
+        {
+          "key": "B",
+          "text": "趕快傳給 30 位好友，這樣就能拿到禮券了"
+        },
+        {
+          "key": "C",
+          "text": "分享給家人，讓家人每天至少要吃 5 根香蕉"
+        },
+        {
+          "key": "D",
+          "text": "跟小華說不應該散播假消息，並且不輕信網路消息。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0205_image002.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "我國政府與其他民主國家現在主要採取什麼方式規範言論自由？",
+      "options": [
+        {
+          "key": "A",
+          "text": "事前提醒"
+        },
+        {
+          "key": "B",
+          "text": "事前限制"
+        },
+        {
+          "key": "C",
+          "text": "事後懲罰"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果看到周遭的同學遭遇網路霸凌的情況下，怎麼做是最好的方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "告訴師長，並且告訴所有同學，讓事情傳開來"
+        },
+        {
+          "key": "B",
+          "text": "告訴師長，並且低調的協助同學，避免同學遭受二次傷害"
+        },
+        {
+          "key": "C",
+          "text": "不理會，霸凌者會自知無聊，而不再冒犯受害者"
+        },
+        {
+          "key": "D",
+          "text": "不理會，因為介入後，自己也可能會受傷，讓事情更糟糕。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列對於「資訊素養」的敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊素養有助於媒體素養的提升"
+        },
+        {
+          "key": "B",
+          "text": "資訊素養指的是，個人知道何時需要資訊，並能正確利用"
+        },
+        {
+          "key": "C",
+          "text": "資訊素養又稱為媒介識讀"
+        },
+        {
+          "key": "D",
+          "text": "麥克盧爾提出資訊素養之相關概念。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不符合公然的條件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Line 的群組"
+        },
+        {
+          "key": "B",
+          "text": "Facebook 上的群組"
+        },
+        {
+          "key": "C",
+          "text": "與友人往還的電子郵件"
+        },
+        {
+          "key": "D",
+          "text": "教學平臺上的討論區。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "根據歐洲理事會對「資訊失序」2017 年的報告中，《不實資訊》的定義為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "符合事實但有惡意，刻意大肆渲染，造成對方傷害"
+        },
+        {
+          "key": "B",
+          "text": "指與事實不符，為了傷害特定對象或達到某種目的"
+        },
+        {
+          "key": "C",
+          "text": "符合事實但無惡意，刻意大肆渲染，為求曝光度"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項比較符合資訊科技的定義？",
+      "options": [
+        {
+          "key": "A",
+          "text": "泛指用於管理與處理資訊所採用各種技術的總稱"
+        },
+        {
+          "key": "B",
+          "text": "指承載、傳輸和控制資訊的材料及工具"
+        },
+        {
+          "key": "C",
+          "text": "只有與電腦有關的硬體算是資訊科技"
+        },
+        {
+          "key": "D",
+          "text": "包括平面媒體及電子媒體等大眾媒體。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項在社區的活動，最不符合言論自由中「表達個人思想或意見」的定義？",
+      "options": [
+        {
+          "key": "A",
+          "text": "某商家業務員向顧客說明 AI 咖啡機的操作方式與促銷活動"
+        },
+        {
+          "key": "B",
+          "text": "某非營利組織人員在講述數位平權的重要性與相關政策"
+        },
+        {
+          "key": "C",
+          "text": "某志工在社區舉辦反霸凌講座，分享防制經驗與觀點"
+        },
+        {
+          "key": "D",
+          "text": "某性別平等教育推廣員在宣導反性騷擾的觀念與具體做法。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "近年來因網路科技的快速發展，產生了很多新的傳播媒體，下列何者不是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "直播"
+        },
+        {
+          "key": "B",
+          "text": "影音分享平臺"
+        },
+        {
+          "key": "C",
+          "text": "雜誌"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以直接傳送電子郵件或手機簡訊等方式加以恐嚇，使受凌者疲於應付，造成嚴重精神傷害，這樣的方式是屬於哪一類別之網路霸凌？",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖像騷擾"
+        },
+        {
+          "key": "B",
+          "text": "文字嘲弄"
+        },
+        {
+          "key": "C",
+          "text": "訊息恐嚇"
+        },
+        {
+          "key": "D",
+          "text": "社交孤立。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果發現自己好像離不開網路世界，已經嚴重影響到生活了，應該如何尋求協助？",
+      "options": [
+        {
+          "key": "A",
+          "text": "向網友尋求陪伴"
+        },
+        {
+          "key": "B",
+          "text": "向師長尋求協助"
+        },
+        {
+          "key": "C",
+          "text": "沒關係，反正玩電腦根本不會影響到身體健康"
+        },
+        {
+          "key": "D",
+          "text": "與朋友疏離就不會感覺到自己的不一樣。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今有很多可以查證新聞真偽的網路資源，下列哪一個不是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "真的假的（https：//cofacts.g0v.tw/）"
+        },
+        {
+          "key": "B",
+          "text": "MyGoPen（https：//www.mygopen.com/）"
+        },
+        {
+          "key": "C",
+          "text": "使用 Line，搜尋 ID：confacts"
+        },
+        {
+          "key": "D",
+          "text": "立法院-即時新聞澄清專區。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "應為行政院-即時新聞澄清專區。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "幾位好友相約出來聚聚，在討論關於媒體及資訊識讀的話題，請問下列哪一個人的觀念錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿財：現在手機拿起來隨便就能搜尋資訊，但不是每一個資料都正確！"
+        },
+        {
+          "key": "B",
+          "text": "阿源：真的要查證過後，確認無誤才能相信。"
+        },
+        {
+          "key": "C",
+          "text": "阿廣：像我查證過後，確認是事實，就會直接下載網路照片，拿來用在我要出版的書裡面！"
+        },
+        {
+          "key": "D",
+          "text": "阿進：不過直接將查到的資訊，未經同意拿到書裡面用，應該會違法吧？"
+        }
+      ],
+      "answer": "C",
+      "explanation": "直接將他人拿來使用可能觸犯著作權法。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項行為不屬於個人言論自由的範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "寫文章譴責某官員言行不當"
+        },
+        {
+          "key": "B",
+          "text": "發表一篇科技萬能的論述"
+        },
+        {
+          "key": "C",
+          "text": "轉傳一篇網路上的文章給網友"
+        },
+        {
+          "key": "D",
+          "text": "演一齣諷刺時政的行動劇。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿布上傳了對彥軍的攻擊行為的影片，這樣的舉動可能會觸犯什麼法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "刑法傷害罪"
+        },
+        {
+          "key": "B",
+          "text": "妨害秘密罪"
+        },
+        {
+          "key": "C",
+          "text": "妨害風化罪"
+        },
+        {
+          "key": "D",
+          "text": "個人資料保護法。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在學校中，阿信比較害羞於交朋友，可可卻因為這樣攻擊他是孤僻怪人，並在網路上用惡毒的文字攻擊阿信。這樣的行為屬於下列哪一類之網路霸凌方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "文字嘲弄"
+        },
+        {
+          "key": "B",
+          "text": "訊息恐嚇"
+        },
+        {
+          "key": "C",
+          "text": "圖像騷擾"
+        },
+        {
+          "key": "D",
+          "text": "社交孤立。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "奇奇盜用阿俊的帳號，到網路上對他人隨意辱罵，上述盜用帳號的行為，觸犯了甚麼法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "刑法傷害罪"
+        },
+        {
+          "key": "B",
+          "text": "妨害秘密罪"
+        },
+        {
+          "key": "C",
+          "text": "刑法無故入侵電腦罪"
+        },
+        {
+          "key": "D",
+          "text": "個人資料保護法。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現在這個資訊發達的年代，在網路上留言不可不慎，請問下列哪一個行為不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "到食品業者的官網去留言，給予支持與建議"
+        },
+        {
+          "key": "B",
+          "text": "冒用家人的帳號去留言，這樣大家也不知道我是誰"
+        },
+        {
+          "key": "C",
+          "text": "在看網路新聞時，會確認資訊來源"
+        },
+        {
+          "key": "D",
+          "text": "不輕易相信網路上的所有訊息。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "長期沉迷於網路遊戲不會造成什麼影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "與同學之間的關係疏離"
+        },
+        {
+          "key": "B",
+          "text": "睡眠不足導致精神渙散"
+        },
+        {
+          "key": "C",
+          "text": "嚴重的話可能導致休克狀況"
+        },
+        {
+          "key": "D",
+          "text": "腦細胞會被活化，使思考更有邏輯。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿花一天在下課時，經過學校附近看到阿草在虐待流浪狗，氣得在網路上告訴所有人阿草的行為，並大罵阿草為腦殘、低能、不得好死等字眼，對於上述行為，下列哪一敘述是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不管如何，罵人就不對，而且阿花可能犯了公然侮辱罪"
+        },
+        {
+          "key": "B",
+          "text": "因為阿草本身的行為已不正確，所以阿花罵得並沒有錯"
+        },
+        {
+          "key": "C",
+          "text": "阿花罵的字眼不足以構成公然侮辱罪"
+        },
+        {
+          "key": "D",
+          "text": "因為阿花是在網路上罵的，所以不適用現實社會中的法律。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一個選項，不是防範假新聞或不實消息「三不二要」中的原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不輕信"
+        },
+        {
+          "key": "B",
+          "text": "不散播"
+        },
+        {
+          "key": "C",
+          "text": "不私藏"
+        },
+        {
+          "key": "D",
+          "text": "要查證。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小傑的媽媽上個月在家中被爸爸辱罵了一頓，因為爸媽在房間中，所以小傑不清楚他們發生了什麼事，但是媽媽氣得決定提告小傑的爸爸「公然侮辱罪」，結果卻不成立，不成立的原因是什麼呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "只有少數的特定人在場，就不能算是公然侮辱"
+        },
+        {
+          "key": "B",
+          "text": "因為爸爸罵的不夠兇"
+        },
+        {
+          "key": "C",
+          "text": "因為小傑沒聽到，所以沒有證人"
+        },
+        {
+          "key": "D",
+          "text": "就算在公共場合吵架，因為是夫妻，罪就不會成立。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "心理學家或精神科醫師指出，平均每週上網超過多少小時者，就有較高網路沉迷的風險？",
+      "options": [
+        {
+          "key": "A",
+          "text": "超過 30 小時"
+        },
+        {
+          "key": "B",
+          "text": "超過 35 小時"
+        },
+        {
+          "key": "C",
+          "text": "超過 40 小時"
+        },
+        {
+          "key": "D",
+          "text": "超過 45 小時。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者屬於「媒體」的一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "雜誌"
+        },
+        {
+          "key": "B",
+          "text": "廣播"
+        },
+        {
+          "key": "C",
+          "text": "直播"
+        },
+        {
+          "key": "D",
+          "text": "以上都屬於「媒體」。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿進因為不喜歡阿財，除了在網路上辱罵他之外，並舉辦了一個選舉活動，讓大家票選出該不該把阿財趕出這個村子。請問上述舉辦惡意選舉的行為，可能觸犯了甚麼法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "刑法公然污辱罪"
+        },
+        {
+          "key": "B",
+          "text": "誹謗罪"
+        },
+        {
+          "key": "C",
+          "text": "民法侵權行為"
+        },
+        {
+          "key": "D",
+          "text": "以上皆有可能。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是「惡意資訊」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路上謠傳吃一百公斤的西瓜會變白"
+        },
+        {
+          "key": "B",
+          "text": "新聞報導棉花即將停售，民眾要買要快"
+        },
+        {
+          "key": "C",
+          "text": "A 議員為了增加自己的支持率，在不確定真相的狀況下，放出對手 B 議員涉嫌貪汙的新聞"
+        },
+        {
+          "key": "D",
+          "text": "網路平臺上瘋傳，喝瓶裝水會中風。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿華在大賣場擔任銷售經理，她為了讓自家的產品銷售量增加，進而在網路上發布豬隻因為疫情的關係，可能近 10 年內會吃不到豬肉，造成民眾恐慌，大量購買肉製品，後來被證實是編造的。而阿華散播這樣的資訊是屬於何種資訊類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "惡意資訊"
+        },
+        {
+          "key": "B",
+          "text": "錯誤資訊"
+        },
+        {
+          "key": "C",
+          "text": "不實資訊"
+        },
+        {
+          "key": "D",
+          "text": "刻意資訊。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "生活中發生的哪些問題，會導致沉迷於網路的狀況？",
+      "options": [
+        {
+          "key": "A",
+          "text": "人際關係的困境"
+        },
+        {
+          "key": "B",
+          "text": "不想面對現實"
+        },
+        {
+          "key": "C",
+          "text": "與家長產生爭執，在家庭無法得到溫暖"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "某女藝人阿奇，忌妒另一知名女星小芳的人氣，而在網路平臺上指控小芳有抄襲歌詞的行為，但是經過證實，小芳是與另一歌手一起合作，所以並不是抄襲，這樣的行為是下列哪一類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "散播不實資訊"
+        },
+        {
+          "key": "B",
+          "text": "散播惡意資訊"
+        },
+        {
+          "key": "C",
+          "text": "散播錯誤資訊"
+        },
+        {
+          "key": "D",
+          "text": "散播演藝資訊。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於網路的使用，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "善用網路，它也可以是一個很好的工具"
+        },
+        {
+          "key": "B",
+          "text": "最好都不要使用網路"
+        },
+        {
+          "key": "C",
+          "text": "如果不使用資訊科技產品，可能因此喪失很多使用網路資源的機會"
+        },
+        {
+          "key": "D",
+          "text": "根據調查，臺灣民眾上網率已達百分之八十以上，其中 18 至 30 歲的民眾上網率已達到百分之百。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "有關媒體素養與資訊素養，下列哪一項正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "兩者沒有關聯"
+        },
+        {
+          "key": "B",
+          "text": "兩者可相輔相成"
+        },
+        {
+          "key": "C",
+          "text": "有資訊素養就不須媒體素養"
+        },
+        {
+          "key": "D",
+          "text": "有媒體素養就不須資訊素養。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今網路上資料眾多，資訊的真偽難以辨別，於是政府有設立一個網站，稱為「即時新聞澄清專區」，而此網站是哪一個行政單位負責的呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "行政院"
+        },
+        {
+          "key": "B",
+          "text": "警政署"
+        },
+        {
+          "key": "C",
+          "text": "立法院"
+        },
+        {
+          "key": "D",
+          "text": "司法院。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於網路霸凌的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "霸凌事件存在於校園內外，若不及時遏止，對受凌者、旁觀者，甚至霸凌者的身心發展影響鉅大"
+        },
+        {
+          "key": "B",
+          "text": "遇到霸凌事件，可撥打 24 小時免付費教育部防制校園霸凌專線，進行投訴"
+        },
+        {
+          "key": "C",
+          "text": "相較於現實中的霸凌，網路霸凌的傷害小了很多"
+        },
+        {
+          "key": "D",
+          "text": "文字嘲弄或是訊息恐嚇的網路霸凌不一定會構成違法。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "不管是何種霸凌方式，都會對受害者產生無法抹滅的傷害。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "我國政府在戒嚴時期主要採取什麼方式規範言論自由？",
+      "options": [
+        {
+          "key": "A",
+          "text": "事前提醒"
+        },
+        {
+          "key": "B",
+          "text": "事前限制"
+        },
+        {
+          "key": "C",
+          "text": "事後懲罰"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "元元發現了好友團團與同學之間的關係，越來越疏離，個性也越來越孤僻並且脾氣暴躁，每次假日她都說她在玩電腦，元元有點擔心，想要幫助團團，哪一個是最不適合的行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跟她一起每天玩電腦，在網路世界中陪伴她"
+        },
+        {
+          "key": "B",
+          "text": "陪著她尋求學校輔導人員或專業醫師的協助"
+        },
+        {
+          "key": "C",
+          "text": "可以在假日陪她一起出門踏青"
+        },
+        {
+          "key": "D",
+          "text": "了解她沉迷於網路的原因，或許是遇到了挫折。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現在藉由下列哪一項媒體，讓人人擁有主動權發布資訊？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電視"
+        },
+        {
+          "key": "B",
+          "text": "直播"
+        },
+        {
+          "key": "C",
+          "text": "廣播"
+        },
+        {
+          "key": "D",
+          "text": "報紙。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在下課時間，婷婷與好友們在討論一則網路新聞，他們對於資訊失序的看法，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "現在網路充滿假新聞，在群組更常看到朋友傳這樣的訊息過來"
+        },
+        {
+          "key": "B",
+          "text": "傳訊息的那個人又不知道真假，所以他沒有錯"
+        },
+        {
+          "key": "C",
+          "text": "我們平時就要留意這些不合理的資訊"
+        },
+        {
+          "key": "D",
+          "text": "像是動物傳染病防治條例中，也有訂定針對不實訊息的法令。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路的蓬勃發展對媒體傳播資訊的方式影響甚鉅，而民眾在使用資訊的習慣起了很大的變化，是什麼樣的變化呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "擁有散布資訊的主動權"
+        },
+        {
+          "key": "B",
+          "text": "民眾變成是被動的接受傳播媒體發布的資訊"
+        },
+        {
+          "key": "C",
+          "text": "社群媒體、影音分享平臺興起後，傳統媒體與資訊科技涇渭分明"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)是過去民眾都是被動的接受傳播媒體發布的資訊；(Ｃ)傳統媒體與資訊科技合而為一。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "安安因為忌妒美美人緣很好，有很多的朋友，所以傳了簡訊罵她，說她交那麼多朋友每個一定都是因為他們家有錢，甚至說她出賣身體換得朋友。請問下列關於上述事件的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "安安可能會涉及誹謗罪"
+        },
+        {
+          "key": "B",
+          "text": "美美應該要馬上截圖留下證據"
+        },
+        {
+          "key": "C",
+          "text": "因為安安是私底下傳訊息，所以不會構成任何罪名"
+        },
+        {
+          "key": "D",
+          "text": "言論自由的前提下，也要尊重他人，不該口出惡言。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "大奇對小棋訊息的回應，是「三不二要」原則中的哪一步？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不散播"
+        },
+        {
+          "key": "B",
+          "text": "不製造"
+        },
+        {
+          "key": "C",
+          "text": "要澄清"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0205_image004.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果要在報告中使用照片，但是卻不知道要如何運用才不侵權時，可以至哪一圖片授權網站去查詢呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "臺灣創用 CC"
+        },
+        {
+          "key": "B",
+          "text": "臺灣創用 DD"
+        },
+        {
+          "key": "C",
+          "text": "臺灣創用 VV"
+        },
+        {
+          "key": "D",
+          "text": "臺灣創用 KK。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "均均因為與瑜瑜起爭執，憤而在臉書發布了對瑜瑜的不堪言論，甚至飆國罵，但是她設定只有瑜瑜之外的其他好友看得到，而瑜瑜從其他好友口中得知消息後，很是氣憤。根據上述情況，下列何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "均均只是想抒發她的情緒，所以並沒有錯"
+        },
+        {
+          "key": "B",
+          "text": "瑜瑜做錯事了，當然要讓大家知道"
+        },
+        {
+          "key": "C",
+          "text": "因為瑜瑜沒看到言論，所以一定不構成公然侮辱"
+        },
+        {
+          "key": "D",
+          "text": "就算瑜瑜沒看到，但是在公開的網路上，並且均均有意讓大家看見，所以可能構成公然侮辱罪。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿平在網路上將自己對於小獎麵店的負面看法，客觀的分享於網路，並且只給了一星評價，這樣的分享是否觸法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "是，觸犯了公然侮辱罪"
+        },
+        {
+          "key": "B",
+          "text": "是，觸犯了誹謗罪"
+        },
+        {
+          "key": "C",
+          "text": "否，因為網路不適用於現實生活中言論自由的保障範圍"
+        },
+        {
+          "key": "D",
+          "text": "否，因為阿平是闡述事實，並無刻意誹謗的行為。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於「資訊失序」的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "目前檢警單位對假訊息定義，主要包括惡意、虛假、具危害性，但仍欠明確"
+        },
+        {
+          "key": "B",
+          "text": "災害防救法中，有納入禁止散播假新聞之規範"
+        },
+        {
+          "key": "C",
+          "text": "現在人人可以發布訊息，擁有散布資訊的主動權，所以更應該注意資訊散布的正確性"
+        },
+        {
+          "key": "D",
+          "text": "非營利組織《世界經濟論壇》表示，上網發表誤導性資訊一定都會受到大眾廣大的譴責。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "非營利組織《世界經濟論壇》表示，上網發表誤導性資訊幾乎不會遭到譴責，反而獲得更多關注。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於言論自由的相關保障，下列敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在享有言論自由的同時，也要尊重言論"
+        },
+        {
+          "key": "B",
+          "text": "言論自由是指人民有表達意見的權利，但不包括收受資訊的權利"
+        },
+        {
+          "key": "C",
+          "text": "我國憲法賦予人民言論自由的權利"
+        },
+        {
+          "key": "D",
+          "text": "言論自由雖然是人民的基本權利，但是法律還是可以對其做合理限制。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "也包括收受資訊的權利。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於言論自由的想法，下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "享有自由的同時，也應該為自己的話負責"
+        },
+        {
+          "key": "B",
+          "text": "現實社會中法律對於言論自由的保障範圍，不適用於網路社會"
+        },
+        {
+          "key": "C",
+          "text": "我國政府在戒嚴時期規範言論自由的方式，主要採取「事後懲罰」；而目前我國大都使用「事前防治」"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在學校中，阿萍在下課時間總是喜歡自己看著小說，比較害羞於交朋友。友友卻因為這樣攻擊她是孤僻怪人，並在網路上大肆發出他的照片，並用惡毒的文字攻擊她，面對如此不當的行為，我們應該如何幫助阿萍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "也將友友的照片放上網路罵她"
+        },
+        {
+          "key": "B",
+          "text": "一起攻擊阿萍，才不會被友友排擠"
+        },
+        {
+          "key": "C",
+          "text": "不理會阿萍，反正她也沒有開口說需要幫忙"
+        },
+        {
+          "key": "D",
+          "text": "陪著阿萍尋求師長的協助。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者一定不會構成公然侮辱罪中，「侮辱」的行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "飆罵他人三字經"
+        },
+        {
+          "key": "B",
+          "text": "在網路上辱罵他人"
+        },
+        {
+          "key": "C",
+          "text": "對他人潑糞"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是侮辱之行為。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於教育部防制校園霸凌專線的敘述，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "專線電話號碼為 0800-200-885"
+        },
+        {
+          "key": "B",
+          "text": "為 12 小時免費專線"
+        },
+        {
+          "key": "C",
+          "text": "就算是網路霸凌，也可以撥打這支電話尋求協助"
+        },
+        {
+          "key": "D",
+          "text": "防治霸凌人人有責，就算受凌人不是自己，也可以幫助他撥打電話求助。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "為　24　小時免付費專線。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是不當使用網路的方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "每天允許自己上網玩遊戲 20 分鐘"
+        },
+        {
+          "key": "B",
+          "text": "上網吸收更多的正確知識，並學會篩選何者是假訊息"
+        },
+        {
+          "key": "C",
+          "text": "每一款新上市的遊戲都要玩到最高等級"
+        },
+        {
+          "key": "D",
+          "text": "每個禮拜有 1 小時與家人一起玩益智線上遊戲。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "現今科技發達，網路霸凌事件頻傳，下列何者是應對網路霸凌的正確方法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "沒關係，事情忍了就過了，不要特別說出來"
+        },
+        {
+          "key": "B",
+          "text": "向縣市反霸凌專線投訴"
+        },
+        {
+          "key": "C",
+          "text": "將霸凌的證據蒐集好，並跟同學聯合發到網路上，公審霸凌者"
+        },
+        {
+          "key": "D",
+          "text": "如果發現被張貼自己的不雅照，不要說出來，這樣就不會有人知道這是我的照片。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "依照修正公布的教育基本法第八條中，對「校園霸凌」的定義，下列何者屬於校園霸凌？",
+      "options": [
+        {
+          "key": "A",
+          "text": "相同校內之學生對學生"
+        },
+        {
+          "key": "B",
+          "text": "不同校的學生與學生之間"
+        },
+        {
+          "key": "C",
+          "text": "不同大學的學生之間"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一個新聞內容屬於「錯誤資訊」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "瓜瓜車行祭出優惠活動，一輛機車減價 100,000,000 元"
+        },
+        {
+          "key": "B",
+          "text": "李姓知名女演員，為了拿到角色，出賣自己的身體，希望網友們能攻擊她，讓她退出影壇"
+        },
+        {
+          "key": "C",
+          "text": "衛生紙要搶要快，在一個月後，全世界的紙漿將停產，到時候就買不到了，快來本賣場搶購"
+        },
+        {
+          "key": "D",
+          "text": "知名男演員大奇，臉上有一個很大的痣，實在讓人看得作噁，呼籲民眾不要看他的戲！"
+        }
+      ],
+      "answer": "A",
+      "explanation": "並無其他目的及惡意。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "奇奇在網路平臺上的留言區罵了其他網友三字經，請問奇奇這樣是觸犯了什麼法律？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公然侮辱罪"
+        },
+        {
+          "key": "B",
+          "text": "公然誹謗罪"
+        },
+        {
+          "key": "C",
+          "text": "誹謗罪"
+        },
+        {
+          "key": "D",
+          "text": "公然侮辱罪及誹謗罪。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一行為已觸犯誹謗罪？",
+      "options": [
+        {
+          "key": "A",
+          "text": "對他人辱罵三字經"
+        },
+        {
+          "key": "B",
+          "text": "散布他人不雅照片"
+        },
+        {
+          "key": "C",
+          "text": "對他人潑屎"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)(Ｃ)為侮辱之罪嫌。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

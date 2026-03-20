@@ -1,0 +1,4260 @@
+{
+  "chapter": "1下 第4章 資料保護與資訊安全",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "小茗 得到流感，因為醫院診療的需要，可以經由 小茗 的同意而蒐集他的身分證號碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當事人如果已清楚了解蒐集單位針對個資運用的相關告知事項，並同意提供個資，蒐集單位可以不用照著個資法規定辦理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "近來隨著電子商務技術的成熟，網路購物盛行，所以為了避免自己的個資外洩，最好找尋有瀏覽加密的網站進行網路購物。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在遊樂場拍攝自己小孩與其他小孩一起遊玩的影片，不在個資法保護範圍內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "戶政事務所 因需要持有民眾的個資，所以要另訂定辦法保護個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果在電子郵件中，收到價格異常低的商品資訊與購買連結（例如：最新型的智慧型手機，售價卻只要原價的四分之一），要趕快購買，以免賣完。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了防止資料在傳輸時被竊取，應使用安全網站，有加密的安全網站，網址開頭通常是「 https:// 」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "曉諭 去 真真醫院 看診時，服務臺為了因應環保，可以讓 曉諭 在其他患者的就診資料背面空白處填寫個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "經由電腦處理的個人資料在個資法保護範圍內，手抄紀錄者則不屬於個資法保護範圍內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "平平百貨 邀請時裝達人 安安 擔任活動的講師，因 安安 已同意將個資提供給 平平百貨 ，所以在活動結束後， 安安 不得向百貨要求停止蒐集她的個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "絕大多數的電腦都已內建防火牆功能，協助保障資訊安全。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果在電子郵件中，收到價格異常低的商品資訊與購買連結（例如：最新型的智慧型手機，售價卻只要原價的四分之一），要趕快購買，以免賣完。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小翰 最近一直接到銀行推銷保險、貸款的電話，他決定要向此銀行問清楚他的個資是從哪裡得到，若是對方不說明清楚來源，則 小翰 可以向業者所屬相關主管機關檢舉，甚至提出賠償。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "林 老師為了研究並改進輔導學生的方式，將未經本人允許的學生學習歷程檔案帶給校外心理醫生研究使用，因為學生將資料交給老師就已經同意老師隨意使用，所以無法申訴。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "政府為規範個資的運用，以避免人格權受侵害，並促進個資的合理利用。規定公務機關或非公務機關對個資的蒐集、處理及利用，應有特定目的，並經當事人同意。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "求職時，當雇主要求要填寫個資時，應注意使用目的及相關事項，避免自身權益受損。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我們在利用他人個資時，應注意個人資料的合理性，以免觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個資法所定義的個資主要是保障法人的權益，包含姓名、出生年月日、護照號碼等等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為保障自然人的權益。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了使用方便，我們可以在所有社群軟體中，設定相同的帳號、密碼。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當事人如果已清楚了解蒐集單位針對個資運用的相關告知事項，並同意提供個資，蒐集單位可以不用照著個資法規定辦理。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "保護個資的任務交給執法單位就好，我們平常人不需要去注意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "經由電腦處理的個人資料是個資保護法的範圍，手抄記錄者則不屬於個資法保護範圍內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "手抄紀錄者也屬於個資法保護範圍內。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為確保個資安全，要特別注意避免於公共環境透過公用電腦，或以不明來源的無線上網方式使用網路服務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "非公務機關保有個資檔案者，依據個資法規定，也須訂定個資檔案安全維護計畫或業務終止後個資處理方法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "就算是自用的電腦也應定時更換社群軟體的密碼，避免遭到盜用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個人在讓別人使用個資前，應注意該蒐集的單位及蒐集目的，避免權益受損。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "欲使用他人個資，必須經過他人同意並告知其使用目的。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我們在個資法中具有揭露自身個資的決定權與控制權。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了防治病毒的隨時入侵，我們應設定防毒軟體定期掃描，並開啟防火牆。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當機關單位使用完個資後，當事人可立即要求機關單位刪除個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "非公務機關指的是圖書館、學校等機關，欲使用他人個資仍需小心避免觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "圖書館、學校乃指公務機關。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當發現自己的個資遭竊時，應立即報警，避免個資遭到濫用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "近來隨著電子商務技術的成熟，網路購物盛行，所以為了避免自己的個資外洩，最好要找尋有瀏覽加密的網站進行網路購物。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了避免個資外洩，使用完公用電腦應登出自己的帳號並刪除紀錄。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個資法的設立是為了促進個人資料的合理使用，保護自身權益。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "使用雲端帳號時，「登入自己的帳戶」這個步驟在 3A 安全防護中是屬於「認證」階段。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊安全（簡稱資安）意指為了保護資料／資訊及資訊系統，不會受到未經授權的人，執行如進入、使用、揭露、破壞、修改、窺視、記錄及銷毀等措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小茗 得到流感，而因為醫院診療的需要，可以經由 小茗 的同意而蒐集 小茗 身分證字號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "違反個人資料保護法只需要賠錢了事，不會對我造成任何影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "自己學校的學號受到個人資料保護法保護，他人不得任意使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "公務機關因執行業務需要運用他人個資時，可不用告知當事人直接使用資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應依據法令規定，才能蒐集、處理或利用。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "戶政事務所因需要持有民眾的個資，所以要另訂定辦法保護個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資安管理是指機構為防範非法入侵或攻擊的安全措施與過程，除了資安技術外，更要從管理著手。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "翰林國中 想要幫學校裡有特殊疾病的學生安排一些活動，但是必須蒐集他們的病歷資料，若是校方經過當事人書面同意，即可利用學生之病歷資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小芳 可隨時向信用卡銀行刪除自己的個資，不會違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "手機的 Wi-Fi 可以隨時開著，因為任何地方都有可能有 Wi-Fi 網路可以連接。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不用網路時應關閉　Wi-Fi　功能，若連接到不明的網路可能導致個人資料被竊取。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "曉諭 有天去 真真醫院 看診時，服務臺為了因應環保，可以讓 曉諭 在其他患者的就診資料背面空白處填寫個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在 4D 防護管理中，阻延（ delay ）最主要的目的為讓入侵者知道風險高而放棄入侵。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "阻延為因防禦力強，導致入侵行為費時而更容易被發現。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "我可以在使用完他人個資後，再告知當事人，這不會違法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林 在私人公司上班，該公司應具有專人負責管理員工個資；公務機關則不用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "非公務機關須訂定個資檔案安全維護計畫或業務終止後個資處理方法，公務機關則應有專人負責管理。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "應在電腦中安裝防毒軟體，並且停止防毒軟體的更新，才不容易遭駭客入侵竊取個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應隨時更新防毒軟體，增加防毒軟體資料庫，才能有效預防電腦病毒。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個人特徵因為較無法文字化，所以不在個人資料保護法的規範內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在遊樂場拍攝小孩與其他小孩一起遊玩的影片等，不在個資法保護範圍內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "透過文件的加密傳輸，可避免文件遭駭客竊取，保障資料的安全。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "如果公司機關未善盡保護員工或顧客個資，最嚴重可能要負刑事責任。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當發現自己的帳戶有遭盜用的疑慮時，應立即更換密碼，保護自身帳戶安全。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "許多廣告、海報都會提供 QR Code 讓民眾掃描，而當我們掃描完 QR Code 要開啟網站之前一定要先辨識連結網址的合理性，如果覺得怪怪的，最好就不要開啟，才能避免資料被竊取或是行動裝置中毒的風險。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個人的社交軟體名稱不在個人資料保護法的範疇內。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "常見的防毒軟體（ anti-virus software ）有很多種，例如： Avira Antivirus （小紅傘）等，只要有裝防毒軟體，系統就會變得非常安全，可以安心使用電腦。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "並非裝了防毒軟體，系統就安全無慮，因新病毒隨時在產生，因此要持續更新才能發揮防毒功效。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "當發現許久不見的同學突然傳送一個不明網址給你，應該立即點進去看是否有重要訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應先求證避免遭駭客入侵。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了不忘記自己的帳號密碼，應該把帳號密碼的資訊寫在書桌上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小華 是一名公司人事部主管，他可以將公司其他人的個資交給其他公司的 小莉 使用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "數位浮水印是指將特定的資訊嵌入數位資料中，若要複製有數位浮水印的資料，也會同步將嵌入的資訊複製下來。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "防火牆是一種協助保障資訊安全的裝置，本身可能是一臺擁有專屬功能的硬體，或是以軟體的方式架設在一般硬體上，用來保護網路而設置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "組織外部的應用系統安全防護，常採取認證（ Authentication ）、授權（ Authorization ）、紀錄（ Accounting ）三層的機制來管理資安的問題，也就是 3A 安全防護。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "更正為組織內部。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "翰翰 老師在開學前要聯絡班上同學家長告知開學事宜，他可以向學校索取家長的聯絡資訊。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資安的可用性是指能夠避免資料遭到未經授權的使用者所竄改。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "更正為完整性。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路釣魚（ Phishing ），就是利用假冒的身分，使人疏於求證而提供個人的帳號、密碼或卡號等機密資料。常見有不少冒用資訊單位或學校名義，散發系統通知郵件，以類似：「更新您的帳戶」等主旨。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小萍 想要去申辦信用卡，但銀行行員告知需填寫基本個資與工作，這是對雙方權益的保障。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "3A 安全防護中，第一步即為「授權」，依據使用者的身分或工作權限，給予使用者特定的權限。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "第一步應為「認證」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "個人家裡的電話號碼因為可以在電話簿內找到，因此不屬於個資法的保護範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "警察在辦案時，可以適時利用他人個資，避免錯失辦案線索。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "醫院為了評估病人是否具傳染病，可以在合理的情況下調閱他人的病史。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小林 喜歡在社群軟體上傳自己的生活照，由於照片是 小林 自己上傳並願意公開的，因此他人可以任意下載。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "平平百貨 邀請時裝達人安安擔任活動的講師，因 安安 已同意將個資提供給 平平百貨 ，所以在演講結束後， 安安 不得向百貨要求停止蒐集她的個資。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了讓班上其他同學更了解彼此，老師可以提供班上同學的手機號碼給其他同學，不須經過當事人同意。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在 3A 安全防護中，「認證」階段除可辨別使用者身分外，也可以紀錄使用者的使用時間。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "看到非公務業務相關、不明來源與可疑的郵件，要先點開來看，以確保郵件的真實性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不明郵件建議直接刪除、切勿開啟，也勿轉寄。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "社交工程（ Social engineering ）是一種竊取資料的攻擊行為，並非現在才有的資料竊取方法，早期的社交工程使用電話或信件方式來詢問個資，而目前大都使用電子郵件或網頁來進行攻擊。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "所有與人相關的資料都受到個資法的保護，因此不可以隨意拍照。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "「得以直接或間接方式識別該個人之資料」或個資法規範的十九個項目才受個資法保護。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "「摩斯密碼（ Morse code ）」屬於一種加密方式，必須經過解密才能讀取文件的內容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "防火牆的主要目的為過濾內部網路的資料，避免外部網路環境中毒。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為過濾外部網路的資料，避免內部網路或電腦中毒。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "4D 防護管理是指嚇阻（ deter ）、偵測（ detect ）、禁制（ deny ）、阻延（ delay ）這四項防護機制。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "顯性的數位浮水印是利用手動的方式印刷，包含的資訊可同步以視覺識別，避免遭非法複製。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應以數位方式印刷。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資安主要涉及資料本身的機密性（ Confidentiality ）、完整性（ Integrity ）及安全性（ Security ），三者合稱為 CIS 。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "安全性（Security）更正為可用性（Availability），三者合稱為　CIA。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "駭客發送大量訊息造成個人網路堵塞癱瘓，導致資料無法使用，是因為沒有確保資料的可用性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小寶 臨時找不到 小黑 ，因此可以要求 大白 提供 小黑 的聯絡方式，若 大白 直接提供資料給 小寶 ，則可能觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小花 騎車時遭對向來車擦撞，他立即拿起手機拍照存證的行為，屬於合理的個資蒐集。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "為了防止資料在傳輸時被竊取，應使用安全網站，有加密的安全網站開頭通常是「 https:// 」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿林 發現有一群人在虐待流浪狗，他將手機拿出並拍下施暴者的相片，要網友們一起找出施暴者，他未經本人允許將照片發到網路上，這違反了個資法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "個資法不罰基於公益目的蒐集的個資。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "平時收到電子郵件時，可以從寄件者、郵件主旨與附加檔案三方面來判斷郵件的真偽，其中附加檔案若有雙副檔名者，例如： .jpg.exe ，應立即找到正確格式，才能下載。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "若有雙副檔名者，應立即刪除。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "當我們在使用「社群媒體」時，下列哪一項 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建議將帳號設定為私人帳號，避免公開個人的資訊"
+        },
+        {
+          "key": "B",
+          "text": "拍攝影片時，應加工處理個人隱私資訊，以防洩漏個資"
+        },
+        {
+          "key": "C",
+          "text": "在公用電腦中登入社群媒體網站，因為是電腦版的網頁，不用擔心留下紀錄是否洩漏個資"
+        },
+        {
+          "key": "D",
+          "text": "加入雙重驗證手續，除了輸入帳號密碼，還使用其他驗證方式，讓駭客不輕易盜用帳號。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於「行動裝置的存取控制權」，下列敘述哪一項正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "安裝 App 時，不用管安裝前的各種資訊，一律按「下一步」、「同意」和「確定」"
+        },
+        {
+          "key": "B",
+          "text": "應該定期在「設定」中檢視 App 的權限，以維護手機的使用安全"
+        },
+        {
+          "key": "C",
+          "text": "在 App 更新之後，若出現新的隱私權限設定，一律按下「同意」"
+        },
+        {
+          "key": "D",
+          "text": "App 在安裝的過程中跳出權限設定，一旦按下「同意」就不能做修改。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小寶 想去辦理新的手機號碼，電信行員工要跟他索取個資，電信行員工應該跟 小寶 告知哪些事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用 小寶 資料的時間"
+        },
+        {
+          "key": "B",
+          "text": "使用 小寶 資料的目的"
+        },
+        {
+          "key": "C",
+          "text": "保密原則"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在判斷電子郵件的真偽時，可以從信箱位址來判斷，請問來自「教育機構」的位址為？",
+      "options": [
+        {
+          "key": "A",
+          "text": ".gov"
+        },
+        {
+          "key": "B",
+          "text": ". edu"
+        },
+        {
+          "key": "C",
+          "text": ".org"
+        },
+        {
+          "key": "D",
+          "text": ". tw 。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項 不是 個資的運用範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒐集"
+        },
+        {
+          "key": "B",
+          "text": "處理"
+        },
+        {
+          "key": "C",
+          "text": "利用"
+        },
+        {
+          "key": "D",
+          "text": "散布。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在個資法的規定中，哪一項資料除另有規定外，不得蒐集、處理或利用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "教育、職業"
+        },
+        {
+          "key": "B",
+          "text": "病歷、醫療"
+        },
+        {
+          "key": "C",
+          "text": "特徵、指紋"
+        },
+        {
+          "key": "D",
+          "text": "財務情況、社會活動。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林 是大學新鮮人，暑假時到加油站工讀，但老闆卻要他在到職時簽署個人資料使用同意書。請問下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不得隨意給他人個人資料，因此 小林 不能簽名"
+        },
+        {
+          "key": "B",
+          "text": "小林 急需這份工作，所以可以不用看內容就簽"
+        },
+        {
+          "key": "C",
+          "text": "應詳細閱讀此合約，保障自己的權益，若合約沒問題才可以簽名"
+        },
+        {
+          "key": "D",
+          "text": "不一定。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者 不屬於 個人資料保護法所規定的特種個資？",
+      "options": [
+        {
+          "key": "A",
+          "text": "病歷"
+        },
+        {
+          "key": "B",
+          "text": "身分證字號"
+        },
+        {
+          "key": "C",
+          "text": "性生活"
+        },
+        {
+          "key": "D",
+          "text": "犯罪前科。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一項個人資料 不受 個資法保護？",
+      "options": [
+        {
+          "key": "A",
+          "text": "暗戀對象"
+        },
+        {
+          "key": "B",
+          "text": "財務情況"
+        },
+        {
+          "key": "C",
+          "text": "指紋"
+        },
+        {
+          "key": "D",
+          "text": "護照號碼。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「因防禦力強，使入侵費時而提高被發現的機會。」這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小華 在某機關工作，他最主要的工作內容為管理學生的學習歷程檔案，避免遭有心人士竊取。請問 小華 工作的機關最有可能為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "法務部"
+        },
+        {
+          "key": "B",
+          "text": "教育部"
+        },
+        {
+          "key": "C",
+          "text": "交通部"
+        },
+        {
+          "key": "D",
+          "text": "文化部 。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在判斷電子郵件的真偽時，可以從信箱位址來判斷，請問來自「非營利機構」的位址為？",
+      "options": [
+        {
+          "key": "A",
+          "text": ".gov"
+        },
+        {
+          "key": "B",
+          "text": ". edu"
+        },
+        {
+          "key": "C",
+          "text": ".org"
+        },
+        {
+          "key": "D",
+          "text": ". tw 。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者 不是 常見的資安技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "防火牆"
+        },
+        {
+          "key": "B",
+          "text": "備份"
+        },
+        {
+          "key": "C",
+          "text": "數位浮水印"
+        },
+        {
+          "key": "D",
+          "text": "加密。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "個人資料雖受個資法保護，但因網路詐騙案件層出不窮，手法不斷更新，為確保個資安全，如果身處在外連接外部的網路， 不可以 做出下列哪個事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為確保自己不會忘記，將自己的帳號密碼存在記事本中"
+        },
+        {
+          "key": "B",
+          "text": "在登入電腦系統完成各項作業後，務必登出帳號"
+        },
+        {
+          "key": "C",
+          "text": "與他人共用電腦時，須關閉瀏覽器視窗或清除紀錄"
+        },
+        {
+          "key": "D",
+          "text": "勿點選來路不明的網址及程式。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於安裝防毒軟體，下列哪一項 不是 正確的觀念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "裝了防毒軟體系統就安全無慮"
+        },
+        {
+          "key": "B",
+          "text": "要持續更新防毒軟體才能發揮防毒功效"
+        },
+        {
+          "key": "C",
+          "text": "應預約掃描病毒時間，並設定主動掃描檢查，且定期執行"
+        },
+        {
+          "key": "D",
+          "text": "避免在使用電腦的工作時間進行掃描病毒。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "湘湘 順利應徵到一間廣告公司，助理要求她在公司的電腦中留下個人資料、身分證資料、帳號密碼等，為了防止個資外洩， 湘湘 不應該 做出哪項行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在登入電腦系統完成各項作業後，登出帳號"
+        },
+        {
+          "key": "B",
+          "text": "與他人共用電腦時，切記關閉瀏覽器視窗或清除紀錄，並關機，以防他人讀取你的個資"
+        },
+        {
+          "key": "C",
+          "text": "湘湘 如果已清楚了解廣告公司針對個資運用的相關告知事項，並同意提供個資，應提醒公司應依據個資法規定辦理，以確保個資的正確及安全"
+        },
+        {
+          "key": "D",
+          "text": "設定一組簡單、大家都可以猜到的密碼，這樣自己就不會忘記了。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小禎 是某補習班的老師，由於要進行課程的規畫與進度，因此他發下問卷讓補習班學生填寫，請問下列何者 不應出現 在問卷內容中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "出生年月日"
+        },
+        {
+          "key": "B",
+          "text": "健康檢查資料"
+        },
+        {
+          "key": "C",
+          "text": "就讀學校"
+        },
+        {
+          "key": "D",
+          "text": "聯絡方式。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "公務機關或非公務機關對個資的蒐集、處理及利用，應有特定目的，並經當事人同意（除個資法另有規定外），並要告知當事人下列事項，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒐集單位"
+        },
+        {
+          "key": "B",
+          "text": "蒐集目的"
+        },
+        {
+          "key": "C",
+          "text": "個資的類別"
+        },
+        {
+          "key": "D",
+          "text": "以上皆正確。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "美美 之前去逛 愛琴服飾店 有參加抽獎活動，收到一封中獎郵件（如附圖），請問她應該怎麼做？",
+      "options": [
+        {
+          "key": "A",
+          "text": "先打電話到門市確定是否真的有中獎，再回覆資料"
+        },
+        {
+          "key": "B",
+          "text": "趕快回覆資料以免期限過期"
+        },
+        {
+          "key": "C",
+          "text": "因為在網路傳輸過程資料很有可能被竊取，所以還是現場繳交資料較為妥當"
+        },
+        {
+          "key": "D",
+          "text": "因為是常逛的店家，互相都很熟識，所以直接回傳電子郵件是沒問題的。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image002.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關「數位浮水印」的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位浮水印分為顯性和隱性兩種"
+        },
+        {
+          "key": "B",
+          "text": "顯性的浮水印是肉眼可見的浮水印資料，包含的資訊可同步以視覺識別，通常包括著作權所屬者的名稱或標誌"
+        },
+        {
+          "key": "C",
+          "text": "隱性的浮水印也是以數位的方式加入資料中，但在一般的狀況下無法看見，主要功能與應用，是藉由隱密的設計，來避免或阻止數位資料未經授權而被非法複製，以保護著作權"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在使用線上購物的網站時，該網站會取得一些相關的個人資料，請問以下哪項資料是購物網站會存取的資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "客戶資料"
+        },
+        {
+          "key": "B",
+          "text": "病歷"
+        },
+        {
+          "key": "C",
+          "text": "護照號碼"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「法人」是在法律上擬人化的組織，下列何者隸屬於「法人」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "政府"
+        },
+        {
+          "key": "B",
+          "text": "法定機構"
+        },
+        {
+          "key": "C",
+          "text": "公司"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是可疑電子郵件的特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "寄信非正常時間"
+        },
+        {
+          "key": "B",
+          "text": "陌生人或極少來往的人的來信"
+        },
+        {
+          "key": "C",
+          "text": "要求提供敏感資料的信件"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "育昇 下課時在跟朋友們聊天， 育昇 說：「其實有的 Wi-Fi 熱點是假的，往往會引來一堆人連線上網，這時候，你在網路上的一舉一動，逃不出駭客的眼睛。若是更惡劣的駭客甚至還會在別人的電腦裡安裝間諜軟體，如影隨形，個資容易外洩。」朋友們則各自表達了自己的看法，你認為以下誰的想法才是正確的觀念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "安安 說：「哈哈哈怎麼可能，世界上沒這種事！」"
+        },
+        {
+          "key": "B",
+          "text": "小萍 說：「所以說外面不明的網路還是不要隨便連結，以確保自己的安全。」"
+        },
+        {
+          "key": "C",
+          "text": "大容 說：「但是是受害者自願連的阿，個資外洩了也沒辦法說那個駭客違反個資法吧！」"
+        },
+        {
+          "key": "D",
+          "text": "阿新 說：「反正我手機有設定密碼，他一定得不到我的個人資料。」。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "賓賓 急急忙忙地跑來找 筱萍 ，因為他發現他的電腦被駭客侵入了，個人資料都外洩了， 筱萍 給他的意見或方法，下列哪一項最適合？",
+      "options": [
+        {
+          "key": "A",
+          "text": "那以後就要隨時更換密碼"
+        },
+        {
+          "key": "B",
+          "text": "誰叫你要隨便就給人家密碼，沒救了"
+        },
+        {
+          "key": "C",
+          "text": "密碼跟別人共用就可以混淆駭客"
+        },
+        {
+          "key": "D",
+          "text": "隨便找一個網站安裝防毒軟體。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列是常見的場所及其使用個資範例，何者配對 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "銀行／帳戶資料"
+        },
+        {
+          "key": "B",
+          "text": "戶政事務所／宅配地址"
+        },
+        {
+          "key": "C",
+          "text": "學校／學籍資料"
+        },
+        {
+          "key": "D",
+          "text": "診所／病歷。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "(Ｂ)購物網站／宅配地址。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「直接阻止入侵行為。」這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列是常見的場所及其使用個資範例，何者配對正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "醫院／健康檢查報告"
+        },
+        {
+          "key": "B",
+          "text": "百貨公司／會員資料"
+        },
+        {
+          "key": "C",
+          "text": "中華電信／帳單地址"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "(Ｂ)購物網站／宅配地址。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「讓想入侵者知道風險高而放棄入侵。」這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項 不是 個資法所定義的個資？",
+      "options": [
+        {
+          "key": "A",
+          "text": "姓名、出生年月日、指紋"
+        },
+        {
+          "key": "B",
+          "text": "婚姻、家庭、教育"
+        },
+        {
+          "key": "C",
+          "text": "性別、個人興趣、服飾尺寸"
+        },
+        {
+          "key": "D",
+          "text": "社會活動、聯絡方式、財務狀況。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在判斷電子郵件的真偽時，可以從信箱位址來判斷，請問來自「政府機構」的位址為？",
+      "options": [
+        {
+          "key": "A",
+          "text": ".gov"
+        },
+        {
+          "key": "B",
+          "text": ". edu"
+        },
+        {
+          "key": "C",
+          "text": ".org"
+        },
+        {
+          "key": "D",
+          "text": ". tw 。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「系統能及時發現入侵行為。」這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林 是某公司人事部的主管，有次開會的主題是員工個資保護，請問下列何者 較不可能 是他們討論的內容？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加存放員工個資的資料庫"
+        },
+        {
+          "key": "B",
+          "text": "修改個資檔案安全維護計畫"
+        },
+        {
+          "key": "C",
+          "text": "全體員工個資由全體員工負責管理"
+        },
+        {
+          "key": "D",
+          "text": "將業務終止後的個資刪除。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「能夠避免資料遭到未經授權的使用者所竄改。」，請問這是資安意識的哪一種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用性"
+        },
+        {
+          "key": "B",
+          "text": "實用性"
+        },
+        {
+          "key": "C",
+          "text": "機密性"
+        },
+        {
+          "key": "D",
+          "text": "完整性。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖的郵件是哪種竊取資料的攻擊行為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社交工程"
+        },
+        {
+          "key": "B",
+          "text": "釣魚網站"
+        },
+        {
+          "key": "C",
+          "text": "垃圾郵件"
+        },
+        {
+          "key": "D",
+          "text": "詐騙郵件。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image004.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「將資料或資訊經由此過程，轉換為無法直接讀取內容的資訊；只有知道解密方法者，經由解密過程，才能將密文還原為可讀的明文內容。」請問上面這段話所描述的是哪項資安技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "防火牆"
+        },
+        {
+          "key": "B",
+          "text": "備份"
+        },
+        {
+          "key": "C",
+          "text": "數位浮水印"
+        },
+        {
+          "key": "D",
+          "text": "加密。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者為良好的個人資料保護習慣？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隨時對個人電腦掃毒，避免電腦中毒"
+        },
+        {
+          "key": "B",
+          "text": "外面的 Wi-Fi 可以隨時連接，不會有任何問題"
+        },
+        {
+          "key": "C",
+          "text": "不需要常常更換電腦的密碼，避免忘記"
+        },
+        {
+          "key": "D",
+          "text": "可以將自己的帳號給別人使用，互相分享。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列哪一種行為違反個人資料保護法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "學校可以將畢業生的資料提供給補習班使用"
+        },
+        {
+          "key": "B",
+          "text": "班上同學比賽得獎，學校將同學姓名張貼在榮譽榜"
+        },
+        {
+          "key": "C",
+          "text": "消費時，填寫會員卡加入店家的會員有折扣"
+        },
+        {
+          "key": "D",
+          "text": "里長為了發放政府提供的資源，向政府索取里民的地址。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "我們可以從郵件裡的哪一項資訊來判斷郵件的真偽？",
+      "options": [
+        {
+          "key": "A",
+          "text": "寄件者"
+        },
+        {
+          "key": "B",
+          "text": "郵件主旨"
+        },
+        {
+          "key": "C",
+          "text": "附加檔案"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問登入時出現以上畫面，這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image006.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項 不是 個資蒐集者依法要盡到保密及保護的責任？",
+      "options": [
+        {
+          "key": "A",
+          "text": "保持個資的正確性"
+        },
+        {
+          "key": "B",
+          "text": "告知當事人蒐集資料的特定目的、使用方式與範圍"
+        },
+        {
+          "key": "C",
+          "text": "做好安全處理並作適當的刪除與銷毀"
+        },
+        {
+          "key": "D",
+          "text": "不可刪除與銷毀。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "要了解資安問題，可以從下列哪項議題來討論？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資安意識"
+        },
+        {
+          "key": "B",
+          "text": "資安技術"
+        },
+        {
+          "key": "C",
+          "text": "資安管理"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者為個人資料保護法的目的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "促進個人資料合理的運用"
+        },
+        {
+          "key": "B",
+          "text": "保障當事人的隱私權"
+        },
+        {
+          "key": "C",
+          "text": "規範個人資料的蒐集、處理及利用"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列何者屬於法律中所定義的法人？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正在就讀國小的 小寶"
+        },
+        {
+          "key": "B",
+          "text": "小寶 爸爸工作的公司"
+        },
+        {
+          "key": "C",
+          "text": "小寶 姐姐所養的寵物狗"
+        },
+        {
+          "key": "D",
+          "text": "小寶 所崇拜的偶像團體。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「是一種協助保障資訊安全的裝置，本身可能是一臺擁有專屬功能的硬體，或是以軟體的方式架設在一般硬體上，用來保護網路而設置。」請問上面這段話所描述的是哪項資安技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "防火牆"
+        },
+        {
+          "key": "B",
+          "text": "備份"
+        },
+        {
+          "key": "C",
+          "text": "數位浮水印"
+        },
+        {
+          "key": "D",
+          "text": "加密。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "能夠在資料傳遞與儲存過程中確保其隱密性，避免未經授權的使用者有意或無意的揭露資料內涵，請問這是資安資料的哪一項特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用性"
+        },
+        {
+          "key": "B",
+          "text": "實用性"
+        },
+        {
+          "key": "C",
+          "text": "機密性"
+        },
+        {
+          "key": "D",
+          "text": "完整性。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路詐騙案件層出不窮，詐騙手法不斷更新，為確保個資安全，特別要注意自我保護，下列哪一項是 不當 的措施？",
+      "options": [
+        {
+          "key": "A",
+          "text": "妥善保管自己的個資，但可提供給親友"
+        },
+        {
+          "key": "B",
+          "text": "在電腦系統完成各項作業後，務必登出帳號"
+        },
+        {
+          "key": "C",
+          "text": "與他人共用電腦時，切記關閉瀏覽器視窗或清除紀錄，並關掉電源"
+        },
+        {
+          "key": "D",
+          "text": "儘可能不要使用公共場合中，任何人都能連接上網的無線網路。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於下列由「郵件主旨」來判斷郵件的真偽的方式，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主旨若與你無關，建議直接刪除"
+        },
+        {
+          "key": "B",
+          "text": "主旨用詞怪異、過於聳動或看似緊急事情"
+        },
+        {
+          "key": "C",
+          "text": "主旨與發信人的習慣不同"
+        },
+        {
+          "key": "D",
+          "text": "主旨標題太長。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小美 在登入遊戲帳號時，不小心打錯了 3 次密碼，結果系統顯示：您目前已無權限登入，請 30 分鐘之後再重新輸入密碼。請問這是 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林 老師是 A 班的班導，請問下列何者行為可能會觸犯個人資料保護法？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將自己的聯絡資訊公開給學生知道"
+        },
+        {
+          "key": "B",
+          "text": "將段考班級排名貼在公布欄讓學生比較"
+        },
+        {
+          "key": "C",
+          "text": "跟班級每一位學生在午休時間晤談"
+        },
+        {
+          "key": "D",
+          "text": "請班級家長填寫個人聯絡資料方便聯絡。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "哪一項個資在尊重當事人及合法情況下，可以蒐集、處理或利用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "病歷"
+        },
+        {
+          "key": "B",
+          "text": "財務情況"
+        },
+        {
+          "key": "C",
+          "text": "犯罪前科"
+        },
+        {
+          "key": "D",
+          "text": "基因。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「將特定的資訊嵌入數位資料中，若要複製這筆的資料，也會同步將嵌入的資訊複製下來，且分為顯性和隱性兩種。」請問上面這段話所描述的是哪項資安技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "防火牆"
+        },
+        {
+          "key": "B",
+          "text": "備份"
+        },
+        {
+          "key": "C",
+          "text": "數位浮水印"
+        },
+        {
+          "key": "D",
+          "text": "加密。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問登入時出現以上畫面，這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image008.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在網路上傳送資料時，需先將資料依既定格式切割為一個一個小塊，此一小塊稱為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "封包"
+        },
+        {
+          "key": "B",
+          "text": "訊框"
+        },
+        {
+          "key": "C",
+          "text": "區段"
+        },
+        {
+          "key": "D",
+          "text": "訊號。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "為確保個資安全，關於個人平時需要特別注意的事項，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "妥善保管自己的任何個資，不要任意將個資提供給他人"
+        },
+        {
+          "key": "B",
+          "text": "在登入電腦系統完成各項作業後，不必登出帳號"
+        },
+        {
+          "key": "C",
+          "text": "與他人共用電腦時，切記關閉瀏覽器視窗或清除紀錄，但可以不用關機"
+        },
+        {
+          "key": "D",
+          "text": "盡量使用任何人都能連接上網的無線網路。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)在登入電腦系統完成各項作業後，務必登出帳號；(Ｃ)與他人共用電腦時，切記關閉瀏覽器視窗或清除紀錄，需關機，以防他人讀取你的個資；(Ｄ)避免使用任何人都能連接上網的無線網路。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以三層的機制來管理資安的問題，也就是 3A 安全防護，下列哪一項是其合理的順序？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認證、授權、紀錄"
+        },
+        {
+          "key": "B",
+          "text": "認證、紀錄、授權"
+        },
+        {
+          "key": "C",
+          "text": "紀錄、認證、授權"
+        },
+        {
+          "key": "D",
+          "text": "授權、紀錄、認證。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於「保護個人資料的法令規定」，下列敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公務機關保有個資檔案者，依據個資法規定，應採行適當的安全措施，且有專人負責管理，以防止個資被非法竊取、竄改、毀損、滅失或洩漏"
+        },
+        {
+          "key": "B",
+          "text": "非公務機關保有個資檔案者，依據個資法規定，也須訂定個資檔案安全維護計畫或業務終止後個資處理方法"
+        },
+        {
+          "key": "C",
+          "text": "未善盡保護個資者，個資法或相關法律也有罰則處罰之"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小林 常常去圖書館使用電腦做作業，有天他發現他的社群帳號好像被盜用了，他仔細回想了一下，最後發現了原因。請問 小林 社群帳號被盜用的原因應該為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林 使用電腦時，常使用無痕模式開啟網頁"
+        },
+        {
+          "key": "B",
+          "text": "並固定每個月更換社群帳號的密碼"
+        },
+        {
+          "key": "C",
+          "text": "每次改完密碼都會把它抄在紙上，放在錢包裡面，每次要登入時都拿出來看"
+        },
+        {
+          "key": "D",
+          "text": "電腦使用完畢後就直接登出並關機。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "「能夠讓資料隨時保持堪用的狀態。」，請問這是資安意識的哪一種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用性"
+        },
+        {
+          "key": "B",
+          "text": "實用性"
+        },
+        {
+          "key": "C",
+          "text": "機密性"
+        },
+        {
+          "key": "D",
+          "text": "完整性。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項 不是 個資法中規定的使用範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒐集"
+        },
+        {
+          "key": "B",
+          "text": "處理"
+        },
+        {
+          "key": "C",
+          "text": "利用"
+        },
+        {
+          "key": "D",
+          "text": "運用。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教務處及學務處可以存取學生的資料應該要有差異。與前者有關的人員只能讀取／儲存學習成績資料；而後者則僅能讀取／儲存獎懲，請問這是屬於 3A 安全防護的哪一層？",
+      "options": [
+        {
+          "key": "A",
+          "text": "認證"
+        },
+        {
+          "key": "B",
+          "text": "授權"
+        },
+        {
+          "key": "C",
+          "text": "紀錄"
+        },
+        {
+          "key": "D",
+          "text": "加密。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種郵件，最好不要打開，應立即刪除？",
+      "options": [
+        {
+          "key": "A",
+          "text": "陌生人或非正常的時間寄信"
+        },
+        {
+          "key": "B",
+          "text": "主旨過於聳動或看似緊急事情"
+        },
+        {
+          "key": "C",
+          "text": "要求提供敏感資料的信件"
+        },
+        {
+          "key": "D",
+          "text": "以上皆建議立即刪除。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "曉明 是 美滿國中 的新生，因為他誤以為學校若擁有自己的個人資料是違反個資法，他在註冊時只願意填寫部分的個資。請問下列哪一項個人資料在尊重當事人及合法情況下，是可以被蒐集、處理或利用的呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "基因"
+        },
+        {
+          "key": "B",
+          "text": "犯罪前科"
+        },
+        {
+          "key": "C",
+          "text": "指紋"
+        },
+        {
+          "key": "D",
+          "text": "病歷。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖的可疑郵件稱為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "垃圾郵件"
+        },
+        {
+          "key": "B",
+          "text": "釣魚郵件"
+        },
+        {
+          "key": "C",
+          "text": "驗證郵件"
+        },
+        {
+          "key": "D",
+          "text": "詐騙郵件。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image010.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於個資法中當事人的權益，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小寶 申請信用卡時，應提交申請書，並填寫基本個資，對雙方才有保障"
+        },
+        {
+          "key": "B",
+          "text": "小林 發現自己的資料可能遭電信業者盜用，因此他可以立即解除與電信業者的合約並刪除個人的資料"
+        },
+        {
+          "key": "C",
+          "text": "小勳 可以隨時查詢閱覽自己提供給公司的個人資料用途"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問登入時出現以上畫面，這是屬於 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image012.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "為確保個資安全，關於個人平時需要特別注意的事項，何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "避免於公共環境透過公眾電腦，或以未知的無線上網方式使用網路服務"
+        },
+        {
+          "key": "B",
+          "text": "經常變更密碼，且勿與其他應用系統及服務的密碼共用"
+        },
+        {
+          "key": "C",
+          "text": "只要 小心確認，就可以點選來路不明的網址及程式"
+        },
+        {
+          "key": "D",
+          "text": "安裝防毒軟體，且隨時更新最新安全補強軟體以保護你的電腦。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "(Ｂ)在登入電腦系統完成各項作業後，務必登出帳號；(Ｃ)與他人共用電腦時，切記關閉瀏覽器視窗或清除紀錄，需關機，以防他人讀取你的個資；(Ｄ)避免使用任何人都能連接上網的無線網路。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "個資法中有明訂機關單位應保護個資檔案避免遭非法竊取，請問下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "私人機關應由專人保管所有個資"
+        },
+        {
+          "key": "B",
+          "text": "當個人資料使用完畢時，公務機關應立即刪除資料"
+        },
+        {
+          "key": "C",
+          "text": "資料未善盡保護責任，嚴重可能要面臨刑法"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "自然人與法人兩者都是法律用語。從生物學的觀點，如何區分兩者差異？",
+      "options": [
+        {
+          "key": "A",
+          "text": "自然人是在大自然中生長"
+        },
+        {
+          "key": "B",
+          "text": "法人是財團組織裡的員工"
+        },
+        {
+          "key": "C",
+          "text": "自然人是指出生而取得民事主體資格的人；而法人則指法律上擬人化的組織"
+        },
+        {
+          "key": "D",
+          "text": "自然人指法律上擬人化的組織；而法人則是指出生而取得民事主體資格的人。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖是 4D 防護管理的哪一種？",
+      "options": [
+        {
+          "key": "A",
+          "text": "嚇阻"
+        },
+        {
+          "key": "B",
+          "text": "偵測"
+        },
+        {
+          "key": "C",
+          "text": "禁制"
+        },
+        {
+          "key": "D",
+          "text": "阻延。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0104_image014.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小明 發現自己上傳到雲端的報告被別人入侵且修改過，這表示 小明 的報告資料本身缺乏資安意識的哪一種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用性"
+        },
+        {
+          "key": "B",
+          "text": "實用性"
+        },
+        {
+          "key": "C",
+          "text": "機密性"
+        },
+        {
+          "key": "D",
+          "text": "完整性。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小寶 去縣立圖書館借書時，發現自己圖書館證遺失了，因此館員請他重新填寫個人資料補辦理借書證。請問下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖書館是屬於公務機關，因此可以任意使用民眾個資"
+        },
+        {
+          "key": "B",
+          "text": "如果 小寶 認為自己不會再借書，可以註銷借書證並刪除自己的資料"
+        },
+        {
+          "key": "C",
+          "text": "小寶 可以隨時要求停止蒐集個資，停止後尚可繼續使用借書證"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小美 電腦內的資料被駭客入侵且看到了，這表示 小美 電腦內的資料本身缺乏資安意識的哪一種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用性"
+        },
+        {
+          "key": "B",
+          "text": "實用性"
+        },
+        {
+          "key": "C",
+          "text": "機密性"
+        },
+        {
+          "key": "D",
+          "text": "完整性。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "公務機關或非公務機關對個資的蒐集、處理及利用，應有特定目的，並經當事人同意（除個資法另有規定外），當事人也可就其個資向蒐集單位行使下列哪些權利？",
+      "options": [
+        {
+          "key": "A",
+          "text": "查閱或閱覽"
+        },
+        {
+          "key": "B",
+          "text": "製給複製本"
+        },
+        {
+          "key": "C",
+          "text": "補充或更正"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "請問下列關於個資的蒐集時應告知當事人的事項，何者 不在 法定應告知的事項內？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒐集的目的"
+        },
+        {
+          "key": "B",
+          "text": "使用的方式"
+        },
+        {
+          "key": "C",
+          "text": "使用機關負責人的電話"
+        },
+        {
+          "key": "D",
+          "text": "資料使用的時間。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於個人資料保護法中可蒐集、處理及利用的資料，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "父母可以隨意使用小孩的個資來簽約"
+        },
+        {
+          "key": "B",
+          "text": "由於現在比較少人使用指紋，因此指紋不屬於個人資料保護法的保護資料"
+        },
+        {
+          "key": "C",
+          "text": "小黑是公司的老闆，他可以去警察局查每一位員工是否有前科"
+        },
+        {
+          "key": "D",
+          "text": "如果隨意將同學的照片上傳到社群軟體上，可能會違法。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一張圖 沒有 浮水印？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "浮水印通常為淺色。",
+      "images": {
+        "stem": [
+          "u0104_image016.jpg",
+          "u0104_image018.jpg",
+          "u0104_image020.jpg",
+          "u0104_image022.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小華 自己架設的雲端資料庫被駭客入侵，系統一直顯示忙碌狀態，他的資料已無法使用，這表示 小華 所架設的雲端資料庫本身缺乏資安意識的哪一種特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可用性"
+        },
+        {
+          "key": "B",
+          "text": "實用性"
+        },
+        {
+          "key": "C",
+          "text": "機密性"
+        },
+        {
+          "key": "D",
+          "text": "完整性。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於個人資料保護法，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "阿達 的儲蓄金額因為可以逕自使用，因此不屬於個資法的保護範圍"
+        },
+        {
+          "key": "B",
+          "text": "小咪 的名字因為所有權屬於 小咪 ，所以可以隨便改名字不用告知政府機關"
+        },
+        {
+          "key": "C",
+          "text": "小寶 線上遊戲的暱稱也受到個人資料保護法的保護，因此不得隨便使用"
+        },
+        {
+          "key": "D",
+          "text": "雖然我的醫療診斷書都是由醫生所開，但診斷書也是屬於我的個人資料範圍。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "健健食品公司 最近招募了新員工，經理 小平 請助理協助輸入 小茗 的個人資料檔案到公司的電腦中，請問助理正在進行下列哪一項個人資料的運用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "蒐集"
+        },
+        {
+          "key": "B",
+          "text": "處理"
+        },
+        {
+          "key": "C",
+          "text": "利用"
+        },
+        {
+          "key": "D",
+          "text": "運用。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於由「附加檔案」來判斷郵件的真偽的方式，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "若附加檔案名稱顯示與你無關或檔名怪異、錯誤，切勿開啟，建議直接刪除"
+        },
+        {
+          "key": "B",
+          "text": "若電子郵件中帶有副檔名為「 .docx 」、「 .pptx 」等附件，應特別小心，勿任意開啟"
+        },
+        {
+          "key": "C",
+          "text": "若有雙副檔名者，例如「 .jpg.exe 」，應立即刪除。"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "除了要避免網路購物被詐騙之外，使用網頁瀏覽時也要留意網頁本身的安全性，為了避免個人資料在傳輸時被竊取，可以盡量去瀏覽安全網站，那安全網站的網址是什麼開頭的呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "http://"
+        },
+        {
+          "key": "B",
+          "text": "www://"
+        },
+        {
+          "key": "C",
+          "text": "https://"
+        },
+        {
+          "key": "D",
+          "text": "secure:// 。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於公務機關及非公務機關對於個資的蒐集及應用，下列何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "公務機關在蒐集個人的資料時應告知蒐集的目的及單位等事項"
+        },
+        {
+          "key": "B",
+          "text": "個人可以不提供資料給公務機關使用"
+        },
+        {
+          "key": "C",
+          "text": "非公務機關蒐集他人資料時必須提供當事人機關負責人的電話號碼"
+        },
+        {
+          "key": "D",
+          "text": "非公務機關的資料運用應注意不得違反個資法。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於「個人資料的合理利用」，下列敘述何者 錯誤 ？",
+      "options": [
+        {
+          "key": "A",
+          "text": "需告知當事人下列事項：蒐集單位、蒐集目的、個資的類別、利用期間、地區、對象及方式"
+        },
+        {
+          "key": "B",
+          "text": "當事人就其個資可向蒐集單位行使下列權利：查詢或閱覽、製給複製本、補充或更正、停止蒐集、處理或利用、刪除"
+        },
+        {
+          "key": "C",
+          "text": "當事人不得自由選擇提供的個資，只能了解提供時對自己權益的影響"
+        },
+        {
+          "key": "D",
+          "text": "當事人如果已清楚了解蒐集單位針對個資運用的相關告知事項，並同意提供個資，蒐集單位應依據個資法規定辦理，以確保個資的正確及安全。"
+        }
+      ],
+      "answer": "(Ｃ)",
+      "explanation": "(Ｃ)當事人得自由選擇提供個資，但也要了解不提供時對自己權益的影響。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關加密機密文件的步驟，請依正確順序排列？甲、開啟檔案，乙、設定密碼，丙、開啟加密檔案需輸入密碼，丁、將檔案加密，戊、確認密碼，己、加密完成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲丁乙戊己丙"
+        },
+        {
+          "key": "B",
+          "text": "甲丁戊乙己丙"
+        },
+        {
+          "key": "C",
+          "text": "甲乙丁戊己丙"
+        },
+        {
+          "key": "D",
+          "text": "甲丁乙戊丙己。"
+        }
+      ],
+      "answer": "(Ａ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "當我們在傳送與接收電子郵件時，為確保資訊安全，需注意下列哪一個事項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "請勿在私人信件傳送個人資訊"
+        },
+        {
+          "key": "B",
+          "text": "機密資料請使用加密或憑證選項"
+        },
+        {
+          "key": "C",
+          "text": "謹慎開啟任何形式的附件（信任的人寄來的才可開）"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "(Ｄ)",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "個資法第 5 條有規範蒐集、處理或利用個人資料的四大原則，下列哪一項 不符合 這四大原則？",
+      "options": [
+        {
+          "key": "A",
+          "text": "尊重當事人的權益"
+        },
+        {
+          "key": "B",
+          "text": "得逾越特定目的之必要範圍"
+        },
+        {
+          "key": "C",
+          "text": "應與蒐集的目的具有正當合理的關聯"
+        },
+        {
+          "key": "D",
+          "text": "採取誠實及信用的方法。"
+        }
+      ],
+      "answer": "(Ｂ)",
+      "explanation": "是不得逾越特定目的之必要範圍",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

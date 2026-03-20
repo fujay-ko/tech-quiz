@@ -1,0 +1,3893 @@
+{
+  "chapter": "3上 第1章 系統平臺",
+  "questions": [
+    {
+      "type": "是非",
+      "text": "目前的作業系統還無法做到提供視覺化的人機介面。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前的作業系統以選單或圖形為主，提供視覺化的人機介面。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "中央處理器及記憶體即是針對處理與儲存的主要硬體元件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在 CPU 內部有一小段的記憶體，稱為暫存器。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "輔助記憶體可用於儲存永久資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路出現後，系統平臺才能提供使用者與他人，在平臺上交換信息或共享資源。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "中央處理器只包含控制單元及算術／邏輯單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "還有記憶單元。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 使用率＞80％時，恐較難處理新的工作或突發事件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若使用區域網路，想查看網路狀態，可以到工作管理員中的「乙太網路」查看。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "系統平臺運作時，伺服器可以做為平臺的主機。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "作業系統 Windows Server 的提供者是 Linux。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "作業系統　Windows Server　的提供者是　Microsoft。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "DOS 系統採用選單或圖形為主的使用者介面。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "採用命令列。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊科技的系統平臺是指由一組硬體設備，就可以運作的環境，不需要任何軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "系統平臺是指一組硬體設備可供軟體運作的環境，可讓使用者與電腦系統互動。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "微處理器的功能在於，解釋電腦指令、執行算術和邏輯運算及處理軟體中的資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "Microsoft Windows、Linux 等作業系統有同時執行多項工作的能力。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "記憶體容量 1 GB＝1024 Bytes。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "1　GB＝1024　MB。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "1946 年第一部電腦出現時，因為技術不夠純熟，所以電腦的功能不多並且體積很小。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "早期的電腦體積很大。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "伺服器、手機、電腦都各自為一系統平臺。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "中央處理器的控制單元需單獨存在，才能有效處理輸入資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "控制單元並非單獨存在，而是分布在各單元中。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "條碼掃描器與滑鼠一樣屬於輸入設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "核心可獨立執行程式指令，加快程式的執行速度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "作業系統提供使用者與系統互動的操作介面。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "只有液晶螢幕能做為系統平臺之主機。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "液晶螢幕不能做為系統平臺的主機。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "螢幕、印表機屬於電腦主機中的輸出單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 的發展是由單核心到多核心。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小明正在打報告，他輸入的字元會透過輸入單元傳送到記憶單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦中大部分的主記憶體是唯讀記憶體，它不僅可以讀取，也可以寫入。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "電腦中大部分的主記憶體是隨機存取記憶體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "核心的發展讓電腦的計算及處理資料的能力變得更加快速。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "目前個人電腦的基本配為單一核心。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前個人電腦的基本配為雙核心。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦主機中的輸入單元簡稱為 MU。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "輸入單元簡稱　IU。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "以 Windows 10 系統為例，使用者可從「工作管理員」檢視作業系統的處理程序、效能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "在 CPU 內部還有一小段的記憶體，稱為暫存器。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "算術／邏輯單元內部還有一小段的記憶體，稱為暫存器。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 最好保持在使用率較低（如＜20％）時，如此才能充分利用資源。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應介於　20％到　80％之間較好。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "輸出單元會將處理過的結果，從記憶體取出，並只以文字的方式暫存於記憶體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "會以文字、數字、圖形或符號等方式暫存在記憶體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "以前一部傳統的電腦會有多個 CPU，而目前的電腦通常只有一個 CPU。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小賓的電腦是 Windows 10 系統，他無法在設定中的「系統」查看目前已啟動的安全措施。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "顯示器及音效卡都為電腦硬體的一部分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "從命令列到圖形介面，是作業系統的重要進展，讓使用者便於操作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "一般電腦中無法查看關於 GPU 的工作狀況。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "可從工作管理員中的效能查看。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "滑鼠、螢幕、鍵盤屬於電腦主機中的輸入單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "螢幕不屬於輸入單元。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "隨身碟的發明，逐漸取代了光碟片及磁碟的需求。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "以 Windows 10 系統為例，若要檢視硬碟的使用情形，可以至工作管理員中的「磁碟」查看。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 多核心及 GPU 的成功研發，這兩個進展明顯地提升了電腦處理資料的效率與效能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小平是一位 1970 年代的學生，當他使用電腦備份資料時，需要利用電腦外部的磁帶機或硬碟機。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路的進展是由單機伺服器到虛擬主機的網路技術。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "作業系統的發展是由多工整合為單工。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "是為單工發展到多工。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小明將報告打完後，要使用列印機列印出來，這時資料會從記憶單元傳入輸出單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "DOS、Linux 是屬於單工的作業系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Linux　是多工的作業系統。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "昔日一部傳統的電腦會通常會有多個 CPU，而目前的材料及技術則是在一顆晶片上裝上多個 CPU。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "傳統電腦通常只有一個　CPU。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若要將簡報檔案存放在隨身碟中，需要從中央處理單元將資料傳輸至輸出單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿華要製作公司的財務報表，於是用滑鼠點開了試算表軟體輸入資料，由軟體計算出結果，上述的行為只會經過輸入單元、記憶單元及輸出單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "還會通過算術／邏輯單元。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "單機伺服器以一部主機，支援多個網站與服務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "虛擬主機的網路技術，以一部主機支援多個網站與服務。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若想要檢查自己筆電的 Wi-Fi 網路連線狀態，可以至「設定」中的網路連線，查看乙太網路的狀況。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小平要計算自己的學期成績，他使用了試算表軟體來計算自己輸入的資料，此時他只需要透過算術／邏輯單元，資料結果就會顯示於螢幕上。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "還要透過輸入、輸出、記憶、控制等單元才能輸出結果。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若考量自己的硬碟容量不夠時，可以將照片、影片等檔案存放在雲端硬碟，這是異地備份的一種方式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "程序是指電腦目前正在執行的程式，由作業系統決定各個程序的執行順序。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "核心可以分別獨立執行程式指令，但會降低程式的執行速度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "核心可以提升程式的執行速度。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "安安買了容量為 4 TB 的硬碟，可以儲存 4096 GB 的資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "雲運算讓一群具有高速運算能力及大量儲存空間的電腦，可以不透過網路，就能提供分散式處理服務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "需透過網路。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "顯示器為資料輸出的終端裝置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "電腦主機中的算術／邏輯單元簡稱為 ALU。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "目前網路伺服器至少 8 核心。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "硬碟屬於主記憶體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "硬碟屬於輔助記憶體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "函式庫的內容必須要對使用者公開，使用者才能操作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "函式庫內容不一定要公開。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 是用於執行繪圖運算工作，通常具有數十個以上的運算核心，以執行大量計算；GPU 則著重於一般的運算工作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "GPU　是用於執行繪圖運算工作，通常具有數十個以上的運算核心，以執行大量計算；CPU　則著重於一般的運算工作。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "記憶單元屬於中央處理器的部分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "核心可以讓許多指令同時進行計算，加快程式的執行速度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "RAM 適合用來儲存開機自我測試程式或基本輸入輸出系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為　ROM。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "算術／邏輯單元負責將處理過的結果，從記憶體取出，以文字、數字、圖形或符號等方式暫存在記憶體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "是輸出單元負責。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "網路的傳輸速率單位常以 Gbps 表示。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "常用為　Kbps、Mbps。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "若電源中斷，只要重新供電，所有主記憶體中的資料就能被讀取。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "是　ROM　才能在斷電後依然能被讀取資料。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "小賓的電腦是 Windows 10 系統，若是他想看電腦的 RAM 容量為多少，可以到設定中的「系統」查看資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "王老師採用附圖所示的方式刪除 pdf 檔，推測王老師正在使用命令列介面的作業系統。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0301_image002.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "阿萍製作完資料後透過滑鼠點選，選擇儲存計算結果，上述動作運用到了輸入單元、中央處理單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "目前記憶體容量以 KB 最為普遍。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "以　GB　最為普遍。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "資訊系統中電腦硬體內，包含了系統平臺及電腦軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "資訊系統中系統平臺內包含了電腦軟體及電腦硬體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "記憶體的最基本單位為 Byte。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 處理圖形所需的時間較 GPU 還要短。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "B",
+      "explanation": "較　GPU　長。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "CPU 通常是從隨機存取記憶體讀取資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "是非",
+      "text": "安安將自己的報告做完儲存後，上網看了一下韓劇，看完才要列印出來，此時的資料在未輸出之前會暫存在記憶單元。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是"
+        },
+        {
+          "key": "B",
+          "text": "否"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "網路的傳輸速率常以下列哪兩種單位表示？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kbps、Mbps"
+        },
+        {
+          "key": "B",
+          "text": "Ibps、Kbps"
+        },
+        {
+          "key": "C",
+          "text": "Ibps、Mbps"
+        },
+        {
+          "key": "D",
+          "text": "bit、bytes。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "曉華幫媽媽去買硬碟，媽媽只跟他說買最大容量的硬碟，請問他應該選擇下列哪一容量？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 MB"
+        },
+        {
+          "key": "B",
+          "text": "1 TB"
+        },
+        {
+          "key": "C",
+          "text": "1 GB"
+        },
+        {
+          "key": "D",
+          "text": "1 KB。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "同學們在討論第一部個人電腦出現的時間，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是作業系統的進展？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從單核心到多核心"
+        },
+        {
+          "key": "B",
+          "text": "圖形處理器的研發"
+        },
+        {
+          "key": "C",
+          "text": "從命令列到圖形介面"
+        },
+        {
+          "key": "D",
+          "text": "結合網路雲運算。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者之功能為解釋電腦指令、執行算術和邏輯運算及處理軟體中的資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "CPU"
+        },
+        {
+          "key": "B",
+          "text": "GPU"
+        },
+        {
+          "key": "C",
+          "text": "終端機"
+        },
+        {
+          "key": "D",
+          "text": "控制單元。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者是 CPU 的最佳使用效率？",
+      "options": [
+        {
+          "key": "A",
+          "text": "5％"
+        },
+        {
+          "key": "B",
+          "text": "15％"
+        },
+        {
+          "key": "C",
+          "text": "65％"
+        },
+        {
+          "key": "D",
+          "text": "85％。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "算術／邏輯單元內有一小部分的記憶體，此記憶體名稱為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ALU"
+        },
+        {
+          "key": "B",
+          "text": "暫存器"
+        },
+        {
+          "key": "C",
+          "text": "微記憶體"
+        },
+        {
+          "key": "D",
+          "text": "隨機存取記憶體。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列對於系統平臺的概念何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "平臺是達成某種目標所安排的程序與使用的介面"
+        },
+        {
+          "key": "B",
+          "text": "系統指可讓某種工作運作的場域"
+        },
+        {
+          "key": "C",
+          "text": "資訊科技的系統平臺是指軟體並不包含硬體設備"
+        },
+        {
+          "key": "D",
+          "text": "網路出現後，系統平臺不僅提供使用者與他人互動，也可在平臺上交換信息或共享資源。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種記憶體即使電源中斷，其所儲存的資料並不會消失？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ROM"
+        },
+        {
+          "key": "B",
+          "text": "RAM"
+        },
+        {
+          "key": "C",
+          "text": "CPU"
+        },
+        {
+          "key": "D",
+          "text": "GPU。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以 Windows 10 為例，若要看自身電腦的核心數目，可以至哪一部分查找？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統中的顯示器"
+        },
+        {
+          "key": "B",
+          "text": "本機"
+        },
+        {
+          "key": "C",
+          "text": "工作管理員"
+        },
+        {
+          "key": "D",
+          "text": "網路設定。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種不是桌上型電腦的作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "macOS"
+        },
+        {
+          "key": "B",
+          "text": "Windows"
+        },
+        {
+          "key": "C",
+          "text": "Linux"
+        },
+        {
+          "key": "D",
+          "text": "Android。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "電腦硬體不包括下列哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "作業系統"
+        },
+        {
+          "key": "B",
+          "text": "液晶螢幕"
+        },
+        {
+          "key": "C",
+          "text": "電腦主機"
+        },
+        {
+          "key": "D",
+          "text": "終端裝置。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不是輔助記憶體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "暫存器"
+        },
+        {
+          "key": "B",
+          "text": "硬碟"
+        },
+        {
+          "key": "C",
+          "text": "隨身碟"
+        },
+        {
+          "key": "D",
+          "text": "光碟。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "通常電腦中的主記憶體為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "CPU"
+        },
+        {
+          "key": "B",
+          "text": "GPU"
+        },
+        {
+          "key": "C",
+          "text": "RAM"
+        },
+        {
+          "key": "D",
+          "text": "ROM。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何種記憶體適合用來儲存開機自我測試程式或基本輸入輸出系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ROM"
+        },
+        {
+          "key": "B",
+          "text": "RPM"
+        },
+        {
+          "key": "C",
+          "text": "RAM"
+        },
+        {
+          "key": "D",
+          "text": "RCM。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "通常作業系統會分配下列何者的容量給各個程序使用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主記憶體"
+        },
+        {
+          "key": "B",
+          "text": "輔助記憶體"
+        },
+        {
+          "key": "C",
+          "text": "磁碟機"
+        },
+        {
+          "key": "D",
+          "text": "暫存記憶體。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列有關作業系統的敘述，哪一項不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "管理記憶體"
+        },
+        {
+          "key": "B",
+          "text": "決定系統資源供需的優先順序"
+        },
+        {
+          "key": "C",
+          "text": "控制輸入與輸出裝置"
+        },
+        {
+          "key": "D",
+          "text": "編譯程式語言。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "系統平臺實際運作時，下列何者不能做為系統平臺的主機？",
+      "options": [
+        {
+          "key": "A",
+          "text": "桌上型電腦"
+        },
+        {
+          "key": "B",
+          "text": "平板電腦"
+        },
+        {
+          "key": "C",
+          "text": "手機"
+        },
+        {
+          "key": "D",
+          "text": "液晶螢幕。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "CPU 內不包含下列哪一單元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "算術邏輯單元"
+        },
+        {
+          "key": "B",
+          "text": "控制單元"
+        },
+        {
+          "key": "C",
+          "text": "記憶單元"
+        },
+        {
+          "key": "D",
+          "text": "輸出單元。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何裝置能將資料結果作輸出？",
+      "options": [
+        {
+          "key": "A",
+          "text": "顯示器"
+        },
+        {
+          "key": "B",
+          "text": "滑鼠"
+        },
+        {
+          "key": "C",
+          "text": "鍵盤"
+        },
+        {
+          "key": "D",
+          "text": "手寫板。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "容量 2048 KB 與下列何者相同？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 MB"
+        },
+        {
+          "key": "B",
+          "text": "2 MB"
+        },
+        {
+          "key": "C",
+          "text": "1 TB"
+        },
+        {
+          "key": "D",
+          "text": "2 TB。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以 Windows 10 為例，下列何者可以用於檢視電腦的規格？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作管理員"
+        },
+        {
+          "key": "B",
+          "text": "系統管理員"
+        },
+        {
+          "key": "C",
+          "text": "設定"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "目前主記憶體的容量單位，下列哪一種最普遍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "KB"
+        },
+        {
+          "key": "B",
+          "text": "MB"
+        },
+        {
+          "key": "C",
+          "text": "GB"
+        },
+        {
+          "key": "D",
+          "text": "EB。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "俞璇陪著媽媽去買手機，媽媽想要更了解各類手機的作業系統，於是去詢問店員，店員最不可能跟他提到哪一項作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Android"
+        },
+        {
+          "key": "B",
+          "text": "iOS"
+        },
+        {
+          "key": "C",
+          "text": "Windows Phone"
+        },
+        {
+          "key": "D",
+          "text": "Mac OS X。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "手機、平板的作業系統包含　Android、iOS　與　Windows Phone。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於函式庫的說法，何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由一群支援程式執行的函式所組成"
+        },
+        {
+          "key": "B",
+          "text": "提供數學運算、輸入／輸出等功能"
+        },
+        {
+          "key": "C",
+          "text": "其內容未必對使用者公開"
+        },
+        {
+          "key": "D",
+          "text": "函式通常需要由使用者寫入電腦系統裡。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於網路發展的敘述何者錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "因網路的發達，系統平臺的功能與應用也隨之提升"
+        },
+        {
+          "key": "B",
+          "text": "雲運算不需透過網路，即可提供分散式處理服務"
+        },
+        {
+          "key": "C",
+          "text": "網路的單機伺服器進展到虛擬主機的網路技術後，一部主機可以支援多個網站與服務"
+        },
+        {
+          "key": "D",
+          "text": "雲運算又可稱為網路運算。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以 Windows 10 為例，下列何者主要用來檢視作業系統的處理程序、效能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作管理員"
+        },
+        {
+          "key": "B",
+          "text": "系統管理員"
+        },
+        {
+          "key": "C",
+          "text": "設定"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "1 EB 等於多少 PB？",
+      "options": [
+        {
+          "key": "A",
+          "text": "32 PB"
+        },
+        {
+          "key": "B",
+          "text": "64 PB"
+        },
+        {
+          "key": "C",
+          "text": "514 PB"
+        },
+        {
+          "key": "D",
+          "text": "1024 PB。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不是手機的作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Android"
+        },
+        {
+          "key": "B",
+          "text": "iOS"
+        },
+        {
+          "key": "C",
+          "text": "Windows Phone"
+        },
+        {
+          "key": "D",
+          "text": "Unix。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "GPU 通常會具有幾個運算核心？",
+      "options": [
+        {
+          "key": "A",
+          "text": "單核心"
+        },
+        {
+          "key": "B",
+          "text": "雙核心"
+        },
+        {
+          "key": "C",
+          "text": "8 個以內"
+        },
+        {
+          "key": "D",
+          "text": "數十個以上。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何單元並未整合於中央處理器的晶片中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "控制單元"
+        },
+        {
+          "key": "B",
+          "text": "算術／邏輯單元"
+        },
+        {
+          "key": "C",
+          "text": "記憶單元"
+        },
+        {
+          "key": "D",
+          "text": "輸入單元。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "控制單元、算術／邏輯單元及一小部分的記憶單元整合在中央處理器的晶片中。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者不屬於輸入設備？",
+      "options": [
+        {
+          "key": "A",
+          "text": "條碼掃描器"
+        },
+        {
+          "key": "B",
+          "text": "滑鼠"
+        },
+        {
+          "key": "C",
+          "text": "終端機"
+        },
+        {
+          "key": "D",
+          "text": "鍵盤。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者不是多工的作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Linux"
+        },
+        {
+          "key": "B",
+          "text": "DOS"
+        },
+        {
+          "key": "C",
+          "text": "Unix"
+        },
+        {
+          "key": "D",
+          "text": "Windows。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "DOS　為單工的作業系統。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一種單元負責執行運算？",
+      "options": [
+        {
+          "key": "A",
+          "text": "輸入單元"
+        },
+        {
+          "key": "B",
+          "text": "算術／邏輯單元"
+        },
+        {
+          "key": "C",
+          "text": "控制單元"
+        },
+        {
+          "key": "D",
+          "text": "記憶單元。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "要將製作完的簡報資料，存進隨身碟中，主要需電腦中的下列哪一單元完成？",
+      "options": [
+        {
+          "key": "A",
+          "text": "輸入單元"
+        },
+        {
+          "key": "B",
+          "text": "輸出單元"
+        },
+        {
+          "key": "C",
+          "text": "控制單元"
+        },
+        {
+          "key": "D",
+          "text": "算術邏輯單元。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一單元負責協調各單元間的運作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "輸入／輸出單元"
+        },
+        {
+          "key": "B",
+          "text": "算術邏輯單元"
+        },
+        {
+          "key": "C",
+          "text": "控制單元"
+        },
+        {
+          "key": "D",
+          "text": "記憶單元。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列關於圖形處理器的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "簡稱 CPU"
+        },
+        {
+          "key": "B",
+          "text": "使處理圖形所需的大量運算，不再依賴中央處理器"
+        },
+        {
+          "key": "C",
+          "text": "處理圖形時需依賴中央處理器"
+        },
+        {
+          "key": "D",
+          "text": "降低電腦的運算能力。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "若要查看視訊運算的處理情形，應該要點選下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作管理員中的 CPU"
+        },
+        {
+          "key": "B",
+          "text": "工作管理員中的 GPU"
+        },
+        {
+          "key": "C",
+          "text": "工作管理員中的磁碟"
+        },
+        {
+          "key": "D",
+          "text": "工作管理員中的記憶體。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小琪將 Excel 打開，準備要開始打報告，這樣的動作會運用到下列哪一單元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "記憶單元"
+        },
+        {
+          "key": "B",
+          "text": "輸出單元"
+        },
+        {
+          "key": "C",
+          "text": "中央處理單元"
+        },
+        {
+          "key": "D",
+          "text": "以上皆有。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "在一單一晶片中，可植入兩個或兩個以上獨立的實體中央處理器稱為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "終端機"
+        },
+        {
+          "key": "B",
+          "text": "核心"
+        },
+        {
+          "key": "C",
+          "text": "CPU"
+        },
+        {
+          "key": "D",
+          "text": "GPU。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項不是電腦軟體範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "作業系統"
+        },
+        {
+          "key": "B",
+          "text": "終端機"
+        },
+        {
+          "key": "C",
+          "text": "函式庫"
+        },
+        {
+          "key": "D",
+          "text": "程式語言。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "終端機不屬於電腦軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "電腦硬體設備不包含以下何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "音效卡"
+        },
+        {
+          "key": "B",
+          "text": "記憶體"
+        },
+        {
+          "key": "C",
+          "text": "函式庫"
+        },
+        {
+          "key": "D",
+          "text": "CPU。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "函式庫屬於電腦軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖中是小涵的電腦工作效能狀況，小涵是使用下列何者網路連線方式呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "乙太網路"
+        },
+        {
+          "key": "B",
+          "text": "區域網路"
+        },
+        {
+          "key": "C",
+          "text": "無線網路"
+        },
+        {
+          "key": "D",
+          "text": "內部網路。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0301_image004.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖中電腦的核心數目為多少？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "249。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0301_image006.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小漢想把從小到大的照片永久的儲存在某一記憶裝置中，下列哪一方式最不適合？",
+      "options": [
+        {
+          "key": "A",
+          "text": "存於光碟中"
+        },
+        {
+          "key": "B",
+          "text": "存於隨身碟"
+        },
+        {
+          "key": "C",
+          "text": "存於電腦的 RAM 中"
+        },
+        {
+          "key": "D",
+          "text": "存於硬碟中。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "將下列記憶體容量 PB、KB、GB、EB 由小排到大為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "PB＜KB＜GB＜EB"
+        },
+        {
+          "key": "B",
+          "text": "KB＜EB＜GB＜PB"
+        },
+        {
+          "key": "C",
+          "text": "KB＜GB＜PB＜EB"
+        },
+        {
+          "key": "D",
+          "text": "EB＜PB＜KB＜GB。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿賓想要買一臺筆記型電腦送給媽媽，店員跟她介紹了一臺他們的熱銷款，提到規格是 8GB，請問 8GB 通常是指哪裡的記憶體呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "記憶卡"
+        },
+        {
+          "key": "B",
+          "text": "硬碟"
+        },
+        {
+          "key": "C",
+          "text": "主記憶體"
+        },
+        {
+          "key": "D",
+          "text": "SSD。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿寬正在趕期末作業，需要使用 Excel 去計算資料結果，並要到課堂上使用投影機展示報告，請問 Excel 計算資料以及使用投影機展示報告，分別主要為哪一單元負責？",
+      "options": [
+        {
+          "key": "A",
+          "text": "輸入單元／控制單元"
+        },
+        {
+          "key": "B",
+          "text": "控制單元／輸入單元"
+        },
+        {
+          "key": "C",
+          "text": "輸出單元／算術邏輯單元"
+        },
+        {
+          "key": "D",
+          "text": "算術邏輯單元／輸出單元。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖中 CPU 的使用率，效能為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為最佳效能"
+        },
+        {
+          "key": "B",
+          "text": "圖中並無顯示效能狀況"
+        },
+        {
+          "key": "C",
+          "text": "為低效能"
+        },
+        {
+          "key": "D",
+          "text": "為高效能。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0301_image007.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "教室中有一群朋友們在討論資訊系統，哪一個人的觀念錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "目前的個人電腦，主記憶體大都是配備容量至少多少的記憶體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 GB"
+        },
+        {
+          "key": "B",
+          "text": "16 GB"
+        },
+        {
+          "key": "C",
+          "text": "128 GB"
+        },
+        {
+          "key": "D",
+          "text": "256 GB。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿華用電腦做報告，他用滑鼠點開 Excel，正要開始建立檔案，請問他用滑鼠點選，就能開啟軟體的動作是主要是通過電腦中的哪一單元完成的呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "輸入單元"
+        },
+        {
+          "key": "B",
+          "text": "輸出單元"
+        },
+        {
+          "key": "C",
+          "text": "記憶單元"
+        },
+        {
+          "key": "D",
+          "text": "算術／邏輯單元。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果安安想要買能儲存自己照片的裝置，並且不佔電腦本身的記憶容量，使用何種方式最合適？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隨機存取記憶體"
+        },
+        {
+          "key": "B",
+          "text": "唯讀記憶體"
+        },
+        {
+          "key": "C",
+          "text": "輔助記憶體"
+        },
+        {
+          "key": "D",
+          "text": "暫存記憶體。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一單元負責將最終處理過的結果傳輸至終端機？",
+      "options": [
+        {
+          "key": "A",
+          "text": "算術邏輯單元"
+        },
+        {
+          "key": "B",
+          "text": "控制單元"
+        },
+        {
+          "key": "C",
+          "text": "輸入單元"
+        },
+        {
+          "key": "D",
+          "text": "輸出單元。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "阿賓正在製作公司的財務資料，透過 Excel 計算結果之後再使用 Powerpoint 做成簡報，能這樣同時運作兩個程式都是多虧了何項技術的發展？",
+      "options": [
+        {
+          "key": "A",
+          "text": "作業系統從單工到多工"
+        },
+        {
+          "key": "B",
+          "text": "雲運算的出現，讓一群具有高速運算能力及大量儲存空間的電腦"
+        },
+        {
+          "key": "C",
+          "text": "網路的單機伺服器進展到虛擬主機的網路技術"
+        },
+        {
+          "key": "D",
+          "text": "電腦公司的整合。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者不是輔助記憶體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬碟"
+        },
+        {
+          "key": "B",
+          "text": "記憶卡"
+        },
+        {
+          "key": "C",
+          "text": "光碟"
+        },
+        {
+          "key": "D",
+          "text": "隨機存取記憶體。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列哪一項是電腦的主記憶體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隨機存取記憶體"
+        },
+        {
+          "key": "B",
+          "text": "隨身碟"
+        },
+        {
+          "key": "C",
+          "text": "光碟"
+        },
+        {
+          "key": "D",
+          "text": "記憶卡。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以 Windows 10 系統為例，下列何者可以查看電腦的記憶體狀況？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工作管理員"
+        },
+        {
+          "key": "B",
+          "text": "系統管理員"
+        },
+        {
+          "key": "C",
+          "text": "系統管理員及工作管理員"
+        },
+        {
+          "key": "D",
+          "text": "無法查看。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列對於 CPU 的使用情況敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "以 Windows 10 為例，點選「效能」後，可檢視 CPU 的使用情形，但是無法檢視 GPU 的使用情形"
+        },
+        {
+          "key": "B",
+          "text": "CPU 最好保持在高度使用率"
+        },
+        {
+          "key": "C",
+          "text": "目前作業系統都為多工作業，CPU 會同時執行多個程序"
+        },
+        {
+          "key": "D",
+          "text": "使用率較低（如＜20％）時，表示還有很多資源可以使用，是較好的使用效率。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "CPU 又稱為下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "微處理器"
+        },
+        {
+          "key": "B",
+          "text": "顯示器"
+        },
+        {
+          "key": "C",
+          "text": "終端機"
+        },
+        {
+          "key": "D",
+          "text": "網路卡。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "CPU　稱為中央處理單元，也稱為中央處理器或微處理器。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "隨身碟的出現取代了下列哪一項存取設備？",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬碟機"
+        },
+        {
+          "key": "B",
+          "text": "軟碟機"
+        },
+        {
+          "key": "C",
+          "text": "暫存記憶體"
+        },
+        {
+          "key": "D",
+          "text": "隨機存取記憶體。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "如果要查看自家電腦區域網路連線狀況，要選擇下列哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有線網路"
+        },
+        {
+          "key": "B",
+          "text": "無線網路"
+        },
+        {
+          "key": "C",
+          "text": "乙太網路"
+        },
+        {
+          "key": "D",
+          "text": "乙太電路。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者不在電腦的 CPU 當中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "算術／邏輯單元"
+        },
+        {
+          "key": "B",
+          "text": "輸入單元"
+        },
+        {
+          "key": "C",
+          "text": "控制單元"
+        },
+        {
+          "key": "D",
+          "text": "暫存器。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何任務不是由作業系統負責？",
+      "options": [
+        {
+          "key": "A",
+          "text": "管理記憶體"
+        },
+        {
+          "key": "B",
+          "text": "編譯函式庫"
+        },
+        {
+          "key": "C",
+          "text": "決定系統資源供需的優先順序"
+        },
+        {
+          "key": "D",
+          "text": "網路管理。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "關於系統平臺的概念，下列哪一項敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "手機的軟硬體規格不適合做為系統平臺的主機"
+        },
+        {
+          "key": "B",
+          "text": "網路出現後，系統平臺可以讓使用者與他人共享資源"
+        },
+        {
+          "key": "C",
+          "text": "平臺是達成某種目標所安排的程序與使用的介面"
+        },
+        {
+          "key": "D",
+          "text": "系統是讓某種工作運作的場域。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "生活在 1970 年代的一位電腦工程人員欣欣，需要備份電腦中的資料時，可能會運用下列何種方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "利用外部的磁帶機"
+        },
+        {
+          "key": "B",
+          "text": "異地備份"
+        },
+        {
+          "key": "C",
+          "text": "網路備份"
+        },
+        {
+          "key": "D",
+          "text": "主記憶體。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "純家是從 1970 穿越到現代的電腦工程師，他還是希望自己的電腦跟以前一樣一次處理一項工作就好，請問你會建議她使用什麼作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Linux"
+        },
+        {
+          "key": "B",
+          "text": "Unix"
+        },
+        {
+          "key": "C",
+          "text": "DOS"
+        },
+        {
+          "key": "D",
+          "text": "Windows。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "欣欣正在使用電腦做資訊課的簡報作業，於是她打開 Word，並把檔案叫出來修改，過程中她都有記得按儲存，以免電腦突然當機沒存到，請問欣欣在過程中按存檔時，檔案會存在哪一單元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "記憶單元"
+        },
+        {
+          "key": "B",
+          "text": "控制單元"
+        },
+        {
+          "key": "C",
+          "text": "算術／邏輯單元"
+        },
+        {
+          "key": "D",
+          "text": "輸出單元。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "以 Windows 10 為例，對於 CPU 的使用情形，下列哪一項敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "目前作業系統都為多工作業，CPU 會同時執行多個程序"
+        },
+        {
+          "key": "B",
+          "text": "CPU 長期保持高度使用率，較能處理突發事件"
+        },
+        {
+          "key": "C",
+          "text": "CPU 使用率較低（如＜20％）時，表示有充分利用資源"
+        },
+        {
+          "key": "D",
+          "text": "在工作管理員的「服務」中，可以檢視 CPU 的使用情形。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "雲運算提供何種處理服務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "平行處理服務"
+        },
+        {
+          "key": "B",
+          "text": "快速處理服務"
+        },
+        {
+          "key": "C",
+          "text": "分散式處理服務"
+        },
+        {
+          "key": "D",
+          "text": "隨機式處理服務。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小豪的電腦連接著隨身碟，並直接從隨身碟的檔案中打開公司的成果報告資料，正在做修正時突然斷電，電腦直接關機，當開機時，小豪的電腦中哪一個記憶體裡的資料一定不會消失？",
+      "options": [
+        {
+          "key": "A",
+          "text": "RAM"
+        },
+        {
+          "key": "B",
+          "text": "ROM"
+        },
+        {
+          "key": "C",
+          "text": "隨身碟"
+        },
+        {
+          "key": "D",
+          "text": "一定都會消失。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "最基本的記憶體單位為何",
+      "options": [
+        {
+          "key": "A",
+          "text": "KiloByte"
+        },
+        {
+          "key": "B",
+          "text": "GigaByte"
+        },
+        {
+          "key": "C",
+          "text": "PetaByte"
+        },
+        {
+          "key": "D",
+          "text": "Byte。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小賓想要找自己的筆記型電腦作業系統的相關資訊，他最不可能查下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Windows"
+        },
+        {
+          "key": "B",
+          "text": "Android"
+        },
+        {
+          "key": "C",
+          "text": "Linux"
+        },
+        {
+          "key": "D",
+          "text": "Mac OS X。"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Android　為手機、平板的作業系統。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "一般來說，使用者可以在執行程式時，由下列何者呼叫函式庫的內容？",
+      "options": [
+        {
+          "key": "A",
+          "text": "編譯器"
+        },
+        {
+          "key": "B",
+          "text": "終端機"
+        },
+        {
+          "key": "C",
+          "text": "隨機存取記憶體"
+        },
+        {
+          "key": "D",
+          "text": "顯示卡。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "安安為了製作畢業影片，下載了一作業系統，但是安安在裝程式時沒有注意到是安裝在哪裡，這時安安最應該到哪一資料夾去查找此作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "C 槽"
+        },
+        {
+          "key": "B",
+          "text": "D 槽"
+        },
+        {
+          "key": "C",
+          "text": "隨機存取記憶體"
+        },
+        {
+          "key": "D",
+          "text": "顯示卡。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "通常作業系統都會安裝在　C　槽內。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者對於中央處理器的敘述是正確的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "目前個人電腦的基本配備至少都有雙核心，網路伺服器至少 8 核心"
+        },
+        {
+          "key": "B",
+          "text": "昔日一部傳統的電腦會通常會有多個 CPU，而目前的材料及技術則是在一顆晶片上裝上多個 CPU"
+        },
+        {
+          "key": "C",
+          "text": "CPU 處理圖形所需的時間較 GPU 還要短"
+        },
+        {
+          "key": "D",
+          "text": "中央處理器及記憶體即是針對處理與儲存的主要軟體元件。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "電腦主機中的算術／邏輯單元簡稱為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IU"
+        },
+        {
+          "key": "B",
+          "text": "MU"
+        },
+        {
+          "key": "C",
+          "text": "OU"
+        },
+        {
+          "key": "D",
+          "text": "ALU。"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "小平都會定期將自己的資料備份到雲端硬碟中，屬於下列哪一備份方式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "記憶體備份"
+        },
+        {
+          "key": "B",
+          "text": "輔助記憶體備份"
+        },
+        {
+          "key": "C",
+          "text": "異地備份"
+        },
+        {
+          "key": "D",
+          "text": "本地備份。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖中的電腦系統規格，請問 RAM 有多大容量呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.99 GB"
+        },
+        {
+          "key": "B",
+          "text": "12 GB"
+        },
+        {
+          "key": "C",
+          "text": "64 GB"
+        },
+        {
+          "key": "D",
+          "text": "上述並未有 RAM 的資訊。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0301_image009.jpg"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "下列何者不是作業系統的發展？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從命令列到圖形介面"
+        },
+        {
+          "key": "B",
+          "text": "從單工到多工"
+        },
+        {
+          "key": "C",
+          "text": "從單機伺服器進展到虛擬主機的網路技術"
+        },
+        {
+          "key": "D",
+          "text": "從 Dos 系統到 Windows 系統。"
+        }
+      ],
+      "answer": "C",
+      "explanation": "從單機伺服器進展到虛擬主機的網路技術是系統平臺的發展。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "當阿賓玩電腦遊戲時，處理器在執行遊戲時所需用的所有資料，都會儲存在哪一記憶體中？",
+      "options": [
+        {
+          "key": "A",
+          "text": "隨機存取記憶體"
+        },
+        {
+          "key": "B",
+          "text": "唯讀記憶體"
+        },
+        {
+          "key": "C",
+          "text": "永久記憶體"
+        },
+        {
+          "key": "D",
+          "text": "終端機。"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "type": "選擇",
+      "text": "附圖中的 238 GB 記憶體容量是指下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬碟"
+        },
+        {
+          "key": "B",
+          "text": "磁碟"
+        },
+        {
+          "key": "C",
+          "text": "暫存器"
+        },
+        {
+          "key": "D",
+          "text": "隨機存取記憶體。"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0301_image011.jpg"
+        ],
+        "options": {}
+      }
+    }
+  ]
+}
