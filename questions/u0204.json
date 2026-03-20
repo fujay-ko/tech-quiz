@@ -1446,13 +1446,13 @@
       "answer": "B",
       "explanation": "",
       "images": {
-        "stem": [
-          "u0204_image046.jpg",
-          "u0204_image048.jpg",
-          "u0204_image050.jpg",
-          "u0204_image052.jpg"
-        ],
-        "options": {}
+        "stem": [],
+        "options": {
+          "A": "u0204_image046.jpg",
+          "B": "u0204_image048.jpg",
+          "C": "u0204_image050.jpg",
+          "D": "u0204_image052.jpg"
+        }
       }
     },
     {
@@ -1891,13 +1891,13 @@
       "answer": "D",
       "explanation": "",
       "images": {
-        "stem": [
-          "u0204_image068.jpg",
-          "u0204_image070.jpg",
-          "u0204_image072.jpg",
-          "u0204_image074.jpg"
-        ],
-        "options": {}
+        "stem": [],
+        "options": {
+          "A": "u0204_image068.jpg",
+          "B": "u0204_image070.jpg",
+          "C": "u0204_image072.jpg",
+          "D": "u0204_image074.jpg"
+        }
       }
     },
     {
