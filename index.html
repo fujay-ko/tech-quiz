@@ -6,7 +6,6 @@
 <title>國中科技練習測驗</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <style>
 :root {
   --bg:#f7f6f2; --surface:#fff; --surface2:#f0efe9; --border:#e2e0d8;
@@ -25,25 +24,6 @@ body{font-family:'Noto Sans TC',sans-serif;background:var(--bg);color:var(--text
 .brand{font-family:'DM Mono',monospace;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:500}
 .home-headline{font-size:clamp(1.8rem,5vw,2.6rem);font-weight:700;line-height:1.2;letter-spacing:-.02em;margin-bottom:8px}
 .home-sub{color:var(--muted);font-size:.9rem;margin-bottom:36px}
-
-/* 上傳區域樣式 */
-.upload-box {
-  border: 2px dashed var(--border);
-  border-radius: var(--radius);
-  padding: 30px;
-  text-align: center;
-  background: var(--surface);
-  margin-bottom: 32px;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.upload-box:hover, .upload-box.dragover {
-  border-color: var(--accent);
-  background: var(--accent-bg);
-}
-.upload-box p { font-size: 0.9rem; color: var(--muted); margin-top: 8px; }
-.upload-icon { font-size: 24px; color: var(--accent); }
-
 .type-chips{display:flex;gap:8px;margin-bottom:32px;flex-wrap:wrap}
 .chip{padding:4px 14px;border-radius:20px;font-size:.78rem;font-weight:500;display:flex;align-items:center;gap:5px}
 .chip-tf{background:var(--tf-bg);color:var(--tf-color)}
@@ -138,14 +118,6 @@ body{font-family:'Noto Sans TC',sans-serif;background:var(--bg);color:var(--text
   <div class="topbar"><div class="brand">國中科技 · 練習測驗</div></div>
   <h1 class="home-headline">選擇單元<br>開始練習</h1>
   <p class="home-sub">每次隨機抽出 10 題是非 ＋ 10 題選擇，選項順序也會隨機打亂。</p>
-  
-  <!-- 新增：檔案上傳區 -->
-  <div class="upload-box" id="dropZone" onclick="document.getElementById('fileInput').click()">
-    <div class="upload-icon">📂</div>
-    <p>拖放 JSON 或 Excel (xlsx) 檔案到這裡，或點擊上傳</p>
-    <input type="file" id="fileInput" accept=".json,.xlsx" style="display:none">
-  </div>
-
   <div class="type-chips">
     <span class="chip chip-tf">● 是非題 ×10</span>
     <span class="chip chip-mc">● 選擇題 ×10</span>
@@ -236,12 +208,7 @@ async function loadChapters() {
     if (r.status==='fulfilled') { allChapters[r.value.name]=r.value.qs; loaded++; }
   });
   document.getElementById('loadingMsg').style.display = 'none';
-  if (loaded===0) { 
-    // 如果預設抓不到，不報錯，讓使用者可以手動上傳
-    document.getElementById('unitSection').style.display = 'block';
-    renderHome();
-    return;
-  }
+  if (loaded===0) { showError('找不到題庫，請確認 questions/ 資料夾已部署。'); return; }
   renderHome();
   document.getElementById('unitSection').style.display = 'block';
 }
@@ -249,12 +216,7 @@ async function loadChapters() {
 function renderHome() {
   const list = document.getElementById('unitList');
   list.innerHTML = '';
-  const entries = Object.entries(allChapters);
-  if (entries.length === 0) {
-    list.innerHTML = '<p style="text-align:center; color:var(--muted); padding:20px;">目前沒有題庫，請點擊上方區域上傳檔案。</p>';
-    return;
-  }
-  entries.forEach(([name, qs]) => {
+  Object.entries(allChapters).forEach(([name, qs]) => {
     const tf = qs.filter(q=>q.type==='是非').length;
     const mc = qs.filter(q=>q.type==='選擇').length;
     const item = document.createElement('div');
@@ -274,66 +236,10 @@ function renderHome() {
       selectedChapter = name;
       const btn = document.getElementById('startBtn');
       btn.disabled = false;
-      btn.textContent = `開始練習「${name}」 →`;
+      btn.textContent = '開始練習 →';
     };
     list.appendChild(item);
   });
-}
-
-// 處理檔案讀取
-document.getElementById('fileInput').onchange = e => handleFiles(e.target.files);
-const dropZone = document.getElementById('dropZone');
-dropZone.ondragover = e => { e.preventDefault(); dropZone.classList.add('dragover'); };
-dropZone.ondragleave = () => dropZone.classList.remove('dragover');
-dropZone.ondrop = e => { e.preventDefault(); dropZone.classList.remove('dragover'); handleFiles(e.dataTransfer.files); };
-
-function handleFiles(files) {
-  for (const file of files) {
-    const reader = new FileReader();
-    const isXlsx = file.name.endsWith('.xlsx');
-    reader.onload = async (e) => {
-      try {
-        if (isXlsx) {
-          const data = new Uint8Array(e.target.result);
-          const workbook = XLSX.read(data, { type: 'array' });
-          workbook.SheetNames.forEach(sheetName => {
-            const rows = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName], { defval: '' });
-            if (rows.length > 0) parseExcelRows(sheetName, rows);
-          });
-        } else {
-          const json = JSON.parse(e.target.result);
-          if (json.chapter && json.questions) {
-            allChapters[json.chapter] = json.questions;
-          }
-        }
-        renderHome();
-        document.getElementById('unitSection').style.display = 'block';
-      } catch (err) { alert('檔案格式解析失敗：' + err.message); }
-    };
-    if (isXlsx) reader.readAsArrayBuffer(file);
-    else reader.readAsText(file);
-  }
-}
-
-function parseExcelRows(sheetName, rows) {
-  const k = Object.keys(rows[0]), fk = cs => k.find(x => cs.includes(x.trim())) || '';
-  const kQ = fk(['題目','問題','question']), kAns = fk(['答案','answer','正確答案']), kTyp = fk(['題型','type']), kExp = fk(['解析','說明','explanation']);
-  
-  const qs = rows.filter(r => r[kQ] && r[kAns]).map(r => {
-    const type = kTyp ? String(r[kTyp]).trim() : '選擇';
-    const options = type === '是非' 
-      ? [{key:'A', text:'是'}, {key:'B', text:'否'}]
-      : ['A','B','C','D'].map(key => ({ key, text: String(r[fk([`選項${key}`,key])]||'').trim() })).filter(o=>o.text);
-    
-    return {
-      type: type,
-      text: String(r[kQ]).trim(),
-      options: options,
-      answer: String(r[kAns]).trim().toUpperCase().replace(/[()（）]/g, ''),
-      explanation: kExp ? String(r[kExp]).trim() : ''
-    };
-  });
-  if (qs.length) allChapters[sheetName] = qs;
 }
 
 function startQuiz() {
