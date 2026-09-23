@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Word 暫存鎖檔
+~$*.doc*
+*.tmp
+
+# 轉檔／驗證過程的暫存分析檔
+*_run.py
+*_diff.py
+u0305diff.txt
+t024*.txt
+c059*.txt
+stats.txt
+verify_*.txt
+inline.js
+
+# 系統檔
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# 編輯器
+.vscode/
+*.swp
+*~
+
+# GitHub 只上傳網頁需要的：排除轉檔來源與本機測試工具
+未分類/
+tests/

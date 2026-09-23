@@ -1,0 +1,4910 @@
+{
+  "chapter": "3上 第3章 網路技術與服務",
+  "questions": [
+    {
+      "id": "u0303_T001",
+      "type": "是非",
+      "text": "資策會、臺灣學術網路等機構所提供的服務以技術為主，因此屬於網際網路服務提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T002",
+      "type": "是非",
+      "text": "以下為行政院的網址：「www.ey.gov.tw」，其中「gov」代表的是機構類別。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T003",
+      "type": "是非",
+      "text": "在網址「www.edu.tw」中，「www」表示主機的名稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T004",
+      "type": "是非",
+      "text": "IEEE 802.11是一種無線區域網路標準，而Wi-Fi是以此標準實現的一種產品。第六代以IEEE 802.11ax為準，稱為Wi-Fi 6。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T005",
+      "type": "是非",
+      "text": "網路作業系統（Network Operating System，簡稱NOS）負責網路上的資源分配、安全控制及網路管理等。常見的網路作業系統有Windows Server、Linux、Unix等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T006",
+      "type": "是非",
+      "text": "可以利用業者提供的 VPN，瀏覽有限制區域 IP 的網站。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T007",
+      "type": "是非",
+      "text": "在網址中，埠位置通常省略不寫。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T008",
+      "type": "是非",
+      "text": "160.256.0.1代表某臺電腦主機的IP位置，可以再網路上搜尋到。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IP 位置的數值介於 0～255 之間。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T009",
+      "type": "是非",
+      "text": "資料庫伺服器用來存放可供使用者存取的資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T010",
+      "type": "是非",
+      "text": "ICP主要服務為建置基礎設施、設定連結以解決使用者的網路需求。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此為 ISP 提供的服務。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T011",
+      "type": "是非",
+      "text": "IPv6的格式如www.ncl.edu.tw呈現，主要由英文字母組成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IPv6 的格式是 8 組各 4 個 16 進位的數字所組成，每組數字以「:」來隔開。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T012",
+      "type": "是非",
+      "text": "物聯網的範疇包括交通監控、居家生活、能源管理等，可以讓我們的生活更加便利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T013",
+      "type": "是非",
+      "text": "紅外線（infrared）是以紅外線光波來傳送訊號，傳輸距離約1公里，如電視遙控器。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "紅外線傳輸距離非常近，傳輸距離改為 1 公尺較為合適。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T014",
+      "type": "是非",
+      "text": "ISP主要服務為建置基礎設施、設定連結以解決使用者的網路需求。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T015",
+      "type": "是非",
+      "text": "在以下的網址中「https://www.hle.com.tw/」，「com」表示機構名稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於機構的類別。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T016",
+      "type": "是非",
+      "text": "讓電腦可以彼此互相溝通的語言，稱為協定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T017",
+      "type": "是非",
+      "text": "電腦網路藉由傳輸媒介傳輸資料，可分為有線傳輸媒介及無線傳輸媒介。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T018",
+      "type": "是非",
+      "text": "網域名稱主要分成四個部分，其皆由介於0～255的數值組成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網域名稱由主機名稱、機構名稱、機構類別及地理名稱，共四個部分組成。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T019",
+      "type": "是非",
+      "text": "IPv6格式與IPv4格式相似，皆由4組數字所組成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IPv6 的格式是 8 組各 4 個 16 進位的數字所組成；IPv4 位址由四個介於 0～255 之間的數值所組成。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T020",
+      "type": "是非",
+      "text": "在網路的通訊協定中，「ftp」指的網路服務為檔案傳輸。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T021",
+      "type": "是非",
+      "text": "若公司服務內容是維修行動網路基地臺，則屬於網際網路內容提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T022",
+      "type": "是非",
+      "text": "臺灣地區負責發放網域名稱或IP位置的單位為臺灣網路資訊中心（TWNIC）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T023",
+      "type": "是非",
+      "text": "終端設備是指使用者所使用的個人電腦、筆記型電腦、平板電腦及智慧型手機等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T024",
+      "type": "是非",
+      "text": "小美在公司中負責維修行動網路基地臺，因此小美的公司屬於網際網路服務提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T025",
+      "type": "是非",
+      "text": "網域名稱伺服器具有IP位址及網域名稱，若網域名稱的機構類別後方無指定地理名稱，則地理名稱為美國。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T026",
+      "type": "是非",
+      "text": "IP位置與網域名稱相同，都是由一連串數字所組成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IP 位址由一組數字組成；網域名稱由主機名稱、機構名稱、機構類別及地理名稱，共四個部分組成。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T027",
+      "type": "是非",
+      "text": "選擇傳輸控制協定（Transmission Control Protocol，簡稱TCP）傳送資料的過程中，接收端與傳送端會不斷地確認資料是否送達，以確保資料準確地傳送到接收端。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T028",
+      "type": "是非",
+      "text": "藍牙（bluetooth）是由電訊業者Ericsson所研發，並與其同業共同制定的無線通訊協定。藍牙的特性是穿透力強，可一對多傳輸，常用來讓不同的行動裝置間進行連線，在短距離間交換語音及數據資料，形成個人區域網路（Personal Area Network，簡稱PAN）。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T029",
+      "type": "是非",
+      "text": "網路節點依封包所指定的傳輸位址來決定傳輸路徑。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T030",
+      "type": "是非",
+      "text": "傳輸控制協定／網際網路協定，在電腦網路之間傳送資料的方法，目前已逐漸被淘汰。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前已成為網際網路主要的通信協定。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T031",
+      "type": "是非",
+      "text": "IPv6是由8組4個16進位的數字所組成，且每個數字由「,」隔開。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T032",
+      "type": "是非",
+      "text": "無線相容認證（Wireless Fidelity，簡稱Wi-Fi）是無線資料傳輸的技術與規格，也就是採用IEEE 802.11系列標準的無線區域網路。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T033",
+      "type": "是非",
+      "text": "對於以效能優先考慮的傳輸，不建議選擇UDP協定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "對於以效能優先考慮的傳輸，「建議」選擇 UDP 協定。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T034",
+      "type": "是非",
+      "text": "微波（microwave）是一種無線電波，只能直線傳輸。常應用在衛星定位（GPS）導航、即時電視新聞的轉播。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T035",
+      "type": "是非",
+      "text": "無線射頻辨識（Radio Frequency IDentification，簡稱RFID）是一種無線通訊技術，它通過無線電波訊號識別目標及讀寫數據，達成物件識別、追蹤、查核等目的，常用於門禁系統、無人圖書館、物流管理、汽車防盜器、停車場管制、高速公路收費等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T036",
+      "type": "是非",
+      "text": "物聯網的應用範圍廣泛，舉凡家用電器、電腦、手機等載體，皆可透過網際網路互相傳遞訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T037",
+      "type": "是非",
+      "text": "當通訊協定為http時，埠位置為70。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "埠位置應為 80。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T038",
+      "type": "是非",
+      "text": "IPv4網路通訊位置是由一連串數字及英文字母所組成，表示主機位置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "無英文字母，僅由 0～255 的數值組成。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T039",
+      "type": "是非",
+      "text": "無線射頻辨識（Radio Frequency IDentification，簡稱RFID）是一種無線通訊技術，其中因為電子標籤（tag）與讀取器（reader）都有線圈，讀取器藉由內部的天線產生交流磁場，讓電子標籤與讀取器產生電流，利用電磁感應，以接觸方式來傳遞訊號。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "利用電磁感應，不需接觸也能夠傳遞訊號。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T040",
+      "type": "是非",
+      "text": "電信業者不屬於網際網路服務提供者（ISP），若網路有問題須諮詢政府單位解決問題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "電信業者屬於網際網路服務提供者（ISP）。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T041",
+      "type": "是非",
+      "text": "數據機（modem）是一般家用電腦上網必備的網路設備之一，用其做為轉換類比訊號及數位訊號的裝置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T042",
+      "type": "是非",
+      "text": "雙絞線（twisted pair）是由兩兩相互纏繞的銅線所製成，常應用於區域網路的佈線。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T043",
+      "type": "是非",
+      "text": "IP分享器是用來讓區域網路中的多臺電腦共用同一個IP位址上網。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T044",
+      "type": "是非",
+      "text": "電腦網路除了網路硬體設備之外，還需要軟體程式的控制與管理，才能順利運作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T045",
+      "type": "是非",
+      "text": "交換器（switch）是用來連接區域網路多部電腦設備，但同一時間只允許1對的連接埠交換訊息，而交換器已逐漸取代集線器。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "同一時間允許 2 對以上的連接埠交換訊息。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T046",
+      "type": "是非",
+      "text": "長程演進（Long Term Evolution，簡稱LTE）是電信業中用於手機及數位終端設備的高速無線通訊標準。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T047",
+      "type": "是非",
+      "text": "想要連上網路的電腦、智慧型手機必須具有IP位置，以提供或接收訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T048",
+      "type": "是非",
+      "text": "常見的社群交流服務，如Facebook，屬於網際網路內容提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T049",
+      "type": "是非",
+      "text": "無線基地臺（Access Point，簡稱AP）是以無線的方式連接多部電腦設備，與有線電腦設備之間交換訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T050",
+      "type": "是非",
+      "text": "閘道器（gateway）是用來連接使用同樣通訊協定的網路。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "閘道器（gateway）是用來連接使用「不同」通訊協定的網路。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T051",
+      "type": "是非",
+      "text": "網址www.ncl.edu.tw中，「edu」表示該機構的類別。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T052",
+      "type": "是非",
+      "text": "小林想要使用郵件系統這個網路服務，他應使用mailto這個通訊協定。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T053",
+      "type": "是非",
+      "text": "廣播電波（broadcast wave）穿透力強，不受限於特定方向，也不易受天候影響，如藍牙、Wi-Fi等都用來作為傳輸媒介。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T054",
+      "type": "是非",
+      "text": "小華在公司中負責維修行動網路基地臺，因此小華的公司屬於網際網路內容提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "為網際網路服務提供者。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T055",
+      "type": "是非",
+      "text": "郵件伺服器可用來收發郵件。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T056",
+      "type": "是非",
+      "text": "URL即表示全球資源定位器，用以標示網路資源所使用的通訊協定或網域名稱等訊息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T057",
+      "type": "是非",
+      "text": "網域名稱伺服器（DNS）主要用途為將IP位置轉換為可辨識的網域名稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "將網域名稱轉換為 IP 位置。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T058",
+      "type": "是非",
+      "text": "同軸電纜（coaxial cable）是使用銅線，並外包一層絕緣體所製成，以做為傳輸線路。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T059",
+      "type": "是非",
+      "text": "資料在傳輸時，會經過許多不同的節點，當通過節點時，網際網路協定（Internet Protocol，簡稱IP）會先檢查接收端與傳送端的位址，再決定傳送途徑。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T060",
+      "type": "是非",
+      "text": "資料交換技術是為了將資料正確且快速地傳送到接收端，而制定的傳輸路徑管理方法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T061",
+      "type": "是非",
+      "text": "通常在網址中，網域名稱代表的是伺服器主機的位置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T062",
+      "type": "是非",
+      "text": "常見的外送平臺服務由於技術層面較廣，因此該業者為網際網路內容提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "並非以技術層面為主。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T063",
+      "type": "是非",
+      "text": "目前較常使用的IP位置為128位元的IPv4，但由於用戶不斷增加，IPv4已面臨不敷使用的情況。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "128 位元為 IPv6。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T064",
+      "type": "是非",
+      "text": "在狹義的網路服務中，以電信業者的技術導向服務為主，提供用戶所需的網路服務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T065",
+      "type": "是非",
+      "text": "網路應用軟體即為提供使用者使用各項網路服務的軟體，例如：瀏覽器、電子郵件、搜索引擎、視訊軟體及Apps等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T066",
+      "type": "是非",
+      "text": "終端設備不用連上網路，也可以運用伺服器的各種服務，與其他端點分享資源。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T067",
+      "type": "是非",
+      "text": "光纖（optical fiber）是由極細小的玻璃纖維製成，用以傳輸光源訊號，常用在架設低速網路。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "常用在架設「高」速網路。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T068",
+      "type": "是非",
+      "text": "在網際網路中，IP位置即代表通訊位置，使資料送往指定的主機。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T069",
+      "type": "是非",
+      "text": "利用手機監控家中用電情況，並隨時將用電數據透過網路傳送至手機以利查看，是一種物聯網的運用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T070",
+      "type": "是非",
+      "text": "中繼器（repeater）是用來增強訊號，以彌補訊號傳輸距離限制的裝置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T071",
+      "type": "是非",
+      "text": "臺灣網路資訊中心簡稱資策會，主要業務範疇為讓民眾申請網域名稱。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "臺灣網路資訊中心負責統籌網域名稱及 IP 位置，並發放給資策會或中華電信讓用戶申請。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T072",
+      "type": "是非",
+      "text": "資料交換技術是為了將資料正確且快速地傳送到接收端而制定的傳輸路徑管理方法，採用封包交換（packet switching）來傳輸資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T073",
+      "type": "是非",
+      "text": "路由器（router）具有傳輸資料及路徑選擇的功能，可替資料傳輸選擇最佳的路徑。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T074",
+      "type": "是非",
+      "text": "IPv6網路通訊格式是由聯合國教科文組織所訂定，以解決IP位置不敷使用的狀況。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IPv6 通訊格式是由網際網路工程任務編組（IETF）所制定。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T075",
+      "type": "是非",
+      "text": "常見的外送平臺服務由於技術層面較廣，因此該業者為網際網路服務提供者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於網際網路內容提供者。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T076",
+      "type": "是非",
+      "text": "TCP的傳輸速度較慢，對於需要可靠性高的傳輸，選用TCP協定為宜。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T077",
+      "type": "是非",
+      "text": "在網址中，「http」表示網路服務中的路徑檔名。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "http 屬於通訊協定。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T078",
+      "type": "是非",
+      "text": "常見的IE、google Chrome瀏覽器由於預設的通訊協定為http，因此在輸入網址時可省略「http://」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T079",
+      "type": "是非",
+      "text": "選擇使用者資料包協定傳送資料的過程中，接收端與傳送端不會確認資料是否送達，傳輸速度較快，如果發生資料遺失的情形，也不重傳遺失的部分。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T080",
+      "type": "是非",
+      "text": "網路卡（Network Interface Card，簡稱NIC）是連上網路必備的硬體設備，每張網路卡都有獨一無二的編號，稱為實體位址。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T081",
+      "type": "是非",
+      "text": "橋接器（bridge）是用來連接同一網路中的不同區段，有過濾資料封包的功能，辨別資料封包的目的位址，以提高傳輸效率。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T082",
+      "type": "是非",
+      "text": "集線器（hub）是用來集中管理網路線，具有連結、重新分配及擴大訊號的功能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T083",
+      "type": "是非",
+      "text": "ISP所提供的服務模式主要以網路內容為主，包含文字、圖片、影音或社群媒體等資訊。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此為 ICP 提供的服務。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T084",
+      "type": "是非",
+      "text": "網域名稱無法使用中文，大多為數字或英文的組合。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "目前國內已有中文網域名稱的應用，例如：「http://中文.台灣」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T085",
+      "type": "是非",
+      "text": "某臺電腦主機的IP位址是160.256.0.1，此IP位址任何人都可以在網路上搜尋到。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IP 位置的數值介於 0～255 之間。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T086",
+      "type": "是非",
+      "text": "網站伺服器用來存放可供瀏覽器讀取的網頁資料。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_T087",
+      "type": "是非",
+      "text": "我們在網路上可以透過IP位置來辨識不同電腦。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C001",
+      "type": "選擇",
+      "text": "在1974年，羅伯特．卡恩和文頓．瑟夫提出使用傳輸控制協定／網際網路協定作為在電腦網路之間傳送資料的方法，目前已成為網際網路主要的通信協定，請問其簡稱為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "TOP / IP",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "TCP / IP",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "TCP / OP",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "TTP / DP",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C002",
+      "type": "選擇",
+      "text": "同軸電纜（coaxial cable）是使用銅線，並外包一層什麼材質所製成，以作為傳輸線路？",
+      "options": [
+        {
+          "key": "A",
+          "text": "尼龍",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "絕緣體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "矽膠",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電工膠帶",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C003",
+      "type": "選擇",
+      "text": "下列哪一種網路裝置能為傳輸資料選擇最佳的路徑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "橋接器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數據機",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "路由器",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C004",
+      "type": "選擇",
+      "text": "請問下列何者是屬於有線傳輸媒介？",
+      "options": [
+        {
+          "key": "A",
+          "text": "光纖",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "微波",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "廣播電波",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "紅外線",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C005",
+      "type": "選擇",
+      "text": "小琳因為最近牙痛，因此使用網路預約診所的掛號，請問診所的預約平臺是屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網際網路內容提供者",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網際網路服務提供者",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網際網路平臺協作者",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網際網路預約提供者",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C006",
+      "type": "選擇",
+      "text": "網際網路通訊協定不包含下列哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "TCP",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "RFID",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IP",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "UDP",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C007",
+      "type": "選擇",
+      "text": "請問下列關於URL的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通訊協定表示網路服務所使用的伺服器名稱與標準",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "路徑檔名通常為數字，會依通訊協定的不同而改變",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網域名稱通常代表伺服器主機的位址",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "埠位置表示伺服器主機所使用的 IP 位址",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C008",
+      "type": "選擇",
+      "text": "請問下列何者為RFID的特點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用一維條碼進行辨識",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "使用一維條碼進行辨識",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "接觸式訊號傳遞",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "非接觸式訊號傳遞",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C009",
+      "type": "選擇",
+      "text": "請問在4G無線行動寬頻通訊系統中扮演重要角色，並幾乎為全球採用的「長程演進」高速無線通訊標準英文簡稱為何呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "LTD",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "LCD",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "LTE",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "LAN",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C010",
+      "type": "選擇",
+      "text": "阿達上網查詢資料時，找到有一網址「http://www.lionsclubs.org/」，下列關於此網址的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "此網址的通訊協定為 www",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "此網址是屬於政府機關",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "此網址的機構名稱為 org",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "此網址的埠位址為 80",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(Ａ)通訊協定為 http；(Ｂ)政府機關的機構類別為.gov；(Ｃ)機構名稱為 lionsclubs。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C011",
+      "type": "選擇",
+      "text": "微波（microwave）是一種無線電波，常應用在衛星定位（GPS）導航、即時電視新聞的轉播，請問該無線電波以何種方式傳輸呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "有線傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "曲線傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "直線傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "隨機傳輸",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C012",
+      "type": "選擇",
+      "text": "請問下列關於網域名稱與IP位址的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網域名稱與 IP 位址相同，都是由數字所組成",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "IP 位址的格式主要分成 IPv4 及 IPv6",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "從不同的網域名稱無法了解該伺服器所在的國家",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "每一臺電腦皆具備網域名稱、IPv4 格式及 IPv6 格式",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)不同，僅 IP 位址是由數字組成；(Ｃ)可以；(Ｄ)具備網域名稱、IPv4 格式或 IPv6 格式。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C013",
+      "type": "選擇",
+      "text": "請問全球資源定位器中，必須包含以下哪個部分？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通訊協定",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網域名稱",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "埠位置",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C014",
+      "type": "選擇",
+      "text": "「交換器（switch）是用來連接區域網路多部電腦設備，但同一時間只允許1對的連接埠交換訊息，而交換器已逐漸取代集線器」，請問上列敘述，共有幾處描述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "0 處",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "1 處",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "2 處",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "3 處",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "同一時間允許 2 對以上的連接埠交換訊息。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C015",
+      "type": "選擇",
+      "text": "請問哪一個是網路伺服器的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "監控網路",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "驗證使用者身分",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "儲存資料",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C016",
+      "type": "選擇",
+      "text": "阿達在查詢資料時，發現有個DNS無指定地理名稱，請問該網址最有可能位於哪一個國家？",
+      "options": [
+        {
+          "key": "A",
+          "text": "澳洲",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "美國",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "韓國",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "日本",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C017",
+      "type": "選擇",
+      "text": "國中會考的網址為「http://cap.rcpet.edu.tw:80/files.html」，請問此網址的路徑檔名為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "http://",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "tw",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "80",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "files.html",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C018",
+      "type": "選擇",
+      "text": "請問下列關於ISP的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "ISP 指的是電訊業者所提供的服務",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "ISP 所提供的服務以技術導向為主",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "若一般住家欲使用網路服務，必須向 ISP 申請 IP 位址",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C019",
+      "type": "選擇",
+      "text": "請問下列何者不是ISP所提供的服務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建置網路基礎設施",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "架設網路交易平臺",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "裝設網路數據機",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "維護無線網路基地臺",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C020",
+      "type": "選擇",
+      "text": "請問下列哪一個機構主要工作為統籌國內之網域名稱及發放IP位址？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資策會",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "中華電信",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "臺灣網路資訊中心",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "教育部",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C021",
+      "type": "選擇",
+      "text": "我們在觀看影片時，常無須下載完整的影音檔案，可以透過網路直接觀看，這是透過媒體串流技術的關係。請問影音分享平臺是屬於何種網路服務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網際網路服務提供者",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網際網路平臺提供者",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網際網路內容提供者",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網際網路串流提供者",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C022",
+      "type": "選擇",
+      "text": "下列關於網域名稱的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不同主機具有不同網域名稱，但可以有相同 IP 位址",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網域名稱不能有中文字",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "同一臺電腦中網域名稱的呈現方式與 IP 格式不相同",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "可以直接向教育部申請私人網域名稱",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C023",
+      "type": "選擇",
+      "text": "請問下列何者為DNS的用途？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將網域名稱轉換為機器可辨識的 IP 位址",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將不同網域名稱設定為同一個 IP 位址",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "重新命名網域名稱",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "刪除特定 IP 位址",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C024",
+      "type": "選擇",
+      "text": "下列哪一項不是網路作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Windows Server",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "Unix",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Linux",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "iOS",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C025",
+      "type": "選擇",
+      "text": "在網域名稱中，不同的機構類別分別使用不同英文表示，請問下列哪一個網域名稱屬於政府機關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "http://www.redcross.org.tw/",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "http://www.moeaidb.gov.tw/",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "http://www.fashion.net/",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "http://www.google.com/",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "政府機關的機構類別為.gov。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C026",
+      "type": "選擇",
+      "text": "請問在一般的網域名稱中，不包含哪個部分？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主機名稱",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "機構類別",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "路徑檔名",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "機構名稱",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C027",
+      "type": "選擇",
+      "text": "請問我們常見Chrome、Firefox、IE等，為何種網路應用軟體呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "搜尋引擎",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "作業系統",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "瀏覽器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "資料庫系統",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C028",
+      "type": "選擇",
+      "text": "小華看到一筆資料為「A18E:45E8:1CAA:52D7:8542:9876:5AE8:143B」，請問這串資料最有可能是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IPv4 格式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "URL",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IPv6 格式",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網域名稱",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C029",
+      "type": "選擇",
+      "text": "請問下列何者是用來連接使用不同通訊協定的網路？",
+      "options": [
+        {
+          "key": "A",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "路由器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IP 分享器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "無線基地臺",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C030",
+      "type": "選擇",
+      "text": "請問下列何者是屬於有線傳輸媒介？",
+      "options": [
+        {
+          "key": "A",
+          "text": "紅外線",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "微波",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "廣播電波",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "同軸電纜",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C031",
+      "type": "選擇",
+      "text": "有一個URL：「http://cap.rcpet.edu.tw:80/files.html」，請問此URL的路徑檔名為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "http://",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "edu",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "80",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "files.html",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C032",
+      "type": "選擇",
+      "text": "請問在網際網路IP格式中，IPv6格式為幾位元？",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 位元",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "16 位元",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "64 位元",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "128 位元",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C033",
+      "type": "選擇",
+      "text": "請問哪一種伺服器可用來收發郵件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "郵件伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網站伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資料庫伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網頁伺服器",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C034",
+      "type": "選擇",
+      "text": "請問下列何者是一般家用電腦上網必備的網路設備之一，用其做為轉換類比訊號及數位訊號的裝置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "交換器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數據機",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "中繼器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "橋接器",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C035",
+      "type": "選擇",
+      "text": "網路作業系統（Network Operating System，簡稱NOS）負責網路上的資源分配、安全控制及網路管理等。請問下列何者並非作業系統？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unix",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "Linux",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Windows Server",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "Microsoft Office",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C036",
+      "type": "選擇",
+      "text": "請問當通訊協定為http時，其網址的埠位置應為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "60",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "80",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "100",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "120",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C037",
+      "type": "選擇",
+      "text": "請問下列何者屬於ICP？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資策會",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "中華電信公司",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路雲端服務系統",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "臺灣學術網路",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C038",
+      "type": "選擇",
+      "text": "請問下列何者最不可能被賦予IP位置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "智慧型手機",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "筆記型電腦",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "藍牙音響",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "智能電視",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "有使用到網際網路的設備才會設置 IP 位址。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C039",
+      "type": "選擇",
+      "text": "無線射頻辨識是一種無線通訊技術，它通過無線電波訊號識別目標及讀寫數據，達成物件識別、追蹤、查核等目的，常用於門禁系統、無人圖書館、物流管理、汽車防盜器、停車場管制、高速公路收費等，請問其英文簡稱為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "RFID",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "ADSL",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "LTE",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "TCP / IP",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C040",
+      "type": "選擇",
+      "text": "近幾年來IP網路位置除了IPv4格式外，亦另外制訂了IPv6格式。請問制訂IPv6的原因為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IPv4 的速度太慢，因此汰換掉 IPv4 格式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "IPv4 的技術已過氣，採用新的 IPv6 格式",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網際網路的伺服器及用戶數量增加，導致 IPv4 的數量不敷使用",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "IPv6 格式的所需的製作成本較 IPv4 格式便宜",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C041",
+      "type": "選擇",
+      "text": "IPv4是由4組數值所組成，請問各個數值是以什麼符號相隔？",
+      "options": [
+        {
+          "key": "A",
+          "text": ",",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": ":",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": ".",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "&",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C042",
+      "type": "選擇",
+      "text": "讓電腦間可以彼此互相溝通的語言稱作？",
+      "options": [
+        {
+          "key": "A",
+          "text": "協定",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "約定",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "規章",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "規定",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C043",
+      "type": "選擇",
+      "text": "物聯網的概念近幾年來非常熱門，請問物聯網必須要有下列哪一項技術才能運行？",
+      "options": [
+        {
+          "key": "A",
+          "text": "紅外線",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網際網路",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "藍芽",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "光碟",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C044",
+      "type": "選擇",
+      "text": "請問下列何者是屬於無線傳輸媒介？",
+      "options": [
+        {
+          "key": "A",
+          "text": "光纖",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "雙絞線",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "同軸電纜",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "廣播電波",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C045",
+      "type": "選擇",
+      "text": "有一網址「www.ncl.edu.tw」，請問在此網址中，「ncl」表示此網域之？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主機名稱",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "機構名稱",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "通訊協定",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "埠位置",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C046",
+      "type": "選擇",
+      "text": "光纖（optical fiber）是由極細小的玻璃纖維製成，用以傳輸光源訊號，常用在架設何種網路？",
+      "options": [
+        {
+          "key": "A",
+          "text": "高速網路",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "撥接網路",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "封閉式網路",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "開放性網路",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C047",
+      "type": "選擇",
+      "text": "有一網域名稱「www.cip.gov.tw」，請問本網址的機構類別為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "www",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "cip",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "gov",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "tw",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C048",
+      "type": "選擇",
+      "text": "雙絞線（twisted pair）常應用於區域網路的佈線，是由兩兩相互纏繞的何種線材所製成？",
+      "options": [
+        {
+          "key": "A",
+          "text": "鎳線",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "鐵線",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "銅線",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "銀線",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C049",
+      "type": "選擇",
+      "text": "請問下列何者是用來增強訊號，以彌補訊號傳輸距離限制的裝置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "中繼器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IP 分享器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C050",
+      "type": "選擇",
+      "text": "選擇傳輸控制協定（Transmission Control Protocol，簡稱TCP）傳送資料的過程中，接收端與傳送端會不斷地確認資料是否送達，請問下列何者並非其特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可確保資料準確地傳送到接收端",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "傳輸速度快",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "適用於需可靠性高的傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "傳輸速度慢",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ｂ)傳輸速度慢。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C051",
+      "type": "選擇",
+      "text": "請問哪一種伺服器用來存放可供使用者存取的資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "郵件伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網站伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資料庫伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C052",
+      "type": "選擇",
+      "text": "無線相容認證（Wireless Fidelity，簡稱Wi-Fi）是無線資料傳輸的技術與規格，也就是採用IEEE 802.11系列標準的無線區域網路，請問下列何者為其特性之一呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳輸速度快",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "傳輸距離長",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "已逐漸被淘汰",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "傳輸速度慢",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C053",
+      "type": "選擇",
+      "text": "請問下列何者具有傳輸資料及路徑選擇的功能，可替資料傳輸選擇最佳的路徑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "橋接器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "路由器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IP 分享器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "無線基地臺",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C054",
+      "type": "選擇",
+      "text": "選擇使用者資料包協定（User Datagram Protocol，簡稱 UDP）傳送資料的過程中，接收端與傳送端不會確認資料是否送達，傳輸速度較快，如果發生資料遺失的情形，會以何種方式處理呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "顯示遺失的部份",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "刪除遺失的部分",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "重新傳輸遺失的部分",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "不重傳遺失的部分",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C055",
+      "type": "選擇",
+      "text": "下列哪一種網路連結裝置都有獨一無二的編號？",
+      "options": [
+        {
+          "key": "A",
+          "text": "路由器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數據機",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C056",
+      "type": "選擇",
+      "text": "下列有關藍牙的敘述，哪一項不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "長距離傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "可進行一對多傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "由電信業者 Ericsson 所研發",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "可交換語音資料",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C057",
+      "type": "選擇",
+      "text": "下列何者屬於網際網路的IP位置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "192.168.100.-1",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "192.168.256.1",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "255.255.255.0",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "23.42.266.123",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "IP 位置的數值應屆於 0～255 之間。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C058",
+      "type": "選擇",
+      "text": "請問下列何者是屬於有線傳輸媒介？",
+      "options": [
+        {
+          "key": "A",
+          "text": "紅外線",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "微波",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "雙絞線",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "廣播電波",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C059",
+      "type": "選擇",
+      "text": "下列關於IPv4格式的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "由 12 個數字所組成",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "兩臺不同的電腦可能會產生同一組 IP",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "為目前最常見的網路 IP 格式",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "每次電腦重新啟動都會產生不同的 IP 位置",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)不一定；(Ｂ)每一臺電腦的 IP 位置是獨立的；(Ｄ)電腦 IP 位置是固定的。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C060",
+      "type": "選擇",
+      "text": "下列有關IP位址的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IP 位址的數字越大，代表其公司規模越大",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "IP 位址僅代表電腦的虛擬位置，無法確認為實際位置",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "同一個 IP 位址可以同時出現在手機與電腦上",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "我們可以透過 IP 位址使用網際網路傳遞訊息",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C061",
+      "type": "選擇",
+      "text": "請問下列何者屬於物聯網的應用？",
+      "options": [
+        {
+          "key": "A",
+          "text": "小林使用網路攝影機監控家中寵物的一舉一動",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "小花使用網路搜尋學校作業所需資料",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "小雅使用紅外線遙控器遙控家中電風扇",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "阿達利用手機傳送訊息給朋友小雅",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C062",
+      "type": "選擇",
+      "text": "請問下列何者屬於網際網路服務提供者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "社群媒體的小編",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路賣場的賣家",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電訊業者",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電腦零件製造商",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C063",
+      "type": "選擇",
+      "text": "請問下列關於通訊協定與網路服務的對應，何者正確？選項通訊協定網路服務甲ftp電子郵件乙mailto檔案伺服器丙file檔案傳輸丁telnet遠端登入",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "乙",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "丙",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "丁",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(Ａ) ftp-檔案傳輸；(Ｂ) mailto-電子郵件；(Ｃ) file-檔案伺服器。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C064",
+      "type": "選擇",
+      "text": "請問下列哪個網路伺服器位於臺灣地區？",
+      "options": [
+        {
+          "key": "A",
+          "text": "https://www.tycg.gov.tw/",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "https://www.gov.uk/",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "https://www.ed.gov/",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "http://www.moe.gov.cn/",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C065",
+      "type": "選擇",
+      "text": "請問哪一種伺服器用來存放可供瀏覽器讀取的網頁資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "郵件伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網站伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資料庫伺服器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C066",
+      "type": "選擇",
+      "text": "「是一種無線通訊技術，它通過無線電波訊號識別目標及讀寫數據，達成物件識別、追蹤、查核等目的，常用於門禁系統、無人圖書館、物流管理、汽車防盜器、停車場管制、高速公路收費等。因為電子標籤（tag）與讀取器（reader）都有線圈，讀取器藉由內部的天線產生交流磁場，讓電子標籤與讀取器產生電流，利用電磁感應，不需接觸也能夠傳遞訊號」，請問上列文字是針對何種通訊技術的描述呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "LTE",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "RFID",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Wifi",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "bluetooth",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C067",
+      "type": "選擇",
+      "text": "「橋接器（bridge）是用來連接同一網路中的相同區段，有過濾資料封包的功能，辨別資料封包的目的位址，但對傳輸效率無提升作用」，請問上列敘述，共有幾處描述錯誤？",
+      "options": [
+        {
+          "key": "A",
+          "text": "0 處",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "1 處",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "2 處",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "3 處",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "橋接器（bridge）是用來連接同一網路中的「不同」區段，有過濾資料封包的功能，辨別資料封包的目的位址，以「提高」傳輸效率。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C068",
+      "type": "選擇",
+      "text": "藍牙（bluetooth）是由電訊業者Ericsson所研發，並與其同業共同制定的無線通訊協定，請問何者並非其特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "穿透力強",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "可一對多傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "可連接不同的行動裝置",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "可於長距離間交換語音及數據資料",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "藍牙僅可於短距離間傳輸。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C069",
+      "type": "選擇",
+      "text": "請問關於IPv6格式的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IPv6 格式是由 4 組 128 位元的數字所組成",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "IPv6 格式中，各組數字間由「.」所區隔",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IPv6 所能提供的位址數量較 IPv4 多",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "IPv6 格式中，各組數字間由「,」所區隔",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)由 8 組 16 位元的數字組成；(Ｂ)(Ｄ)由「:」區隔。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C070",
+      "type": "選擇",
+      "text": "請問下列何者是屬於無線傳輸媒介？",
+      "options": [
+        {
+          "key": "A",
+          "text": "光纖",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "微波",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "同軸電纜",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "雙絞線",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C071",
+      "type": "選擇",
+      "text": "請問下列何者較不屬於物聯網的範疇？",
+      "options": [
+        {
+          "key": "A",
+          "text": "環境監測",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "交通控管",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "搜尋引擎",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "居家生活",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C072",
+      "type": "選擇",
+      "text": "下列哪一項是無線基地臺的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "溝通不同協定的網路",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "以無線的方式連接多部電腦設備",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "類比訊號與數位訊號的轉換",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "為傳輸資料選擇最佳路徑",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C073",
+      "type": "選擇",
+      "text": "請問.org是下列哪種機構類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "軍事機關",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "公司行號",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "非營利組織",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路機構",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C074",
+      "type": "選擇",
+      "text": "請問瀏覽器在何種狀況下，輸入的URL可以省略「http://」這個通訊協定？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當瀏覽器預設的通訊協定為「http」時",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "當電腦的 IP 位置與網域名稱相同時",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "當 URL 中無「http://」時",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "當 IP 的格式為 IPv6 時",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C075",
+      "type": "選擇",
+      "text": "網路卡（Network Interface Card，簡稱NIC）是連上網路必備的硬體設備，每張網路卡都有獨一無二的編號，稱為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "序列",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "協定",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "實體位址",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "虛擬位址",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C076",
+      "type": "選擇",
+      "text": "請問下列何者是屬於無線傳輸媒介？",
+      "options": [
+        {
+          "key": "A",
+          "text": "紅外線",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "雙絞線",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "同軸電纜",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "光纖",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C077",
+      "type": "選擇",
+      "text": "下列哪一項不是網際網路服務提供者的相關敘述？",
+      "options": [
+        {
+          "key": "A",
+          "text": "建置基礎設施，設定連結，連上網路",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "負責傳遞資料來往於使用者與目的地",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "這種服務的使用者必須按時付費",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "專門提供各種網路內容，供使用者利用",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C078",
+      "type": "選擇",
+      "text": "請問我們常簡稱為AP的Access Point為何項網路連接裝置呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "無線基地臺",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IP 分享器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "路由器",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C079",
+      "type": "選擇",
+      "text": "請問下列何者不屬於網路的通訊協定？",
+      "options": [
+        {
+          "key": "A",
+          "text": "html",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "ftp",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "telnet",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "file",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C080",
+      "type": "選擇",
+      "text": "廣義的網路服務指專門提供網路內容，供使用者使用的服務模式，請問下列何者不屬於廣義的網路服務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路購物平臺",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路設備維修員",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路影音平臺",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路社群媒體",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C081",
+      "type": "選擇",
+      "text": "請問下列何者並非集線器（hub）的對於網路集中管理的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "連結",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "重新分配",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "擴大訊號",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "類比轉數位",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C082",
+      "type": "選擇",
+      "text": "下列哪一項是數據機的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳輸資料及路徑選擇",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "用來連接使用不同通訊協定的網路",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "用來轉換類比訊號及數位訊號",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "與有線電腦設備之間訊息交換",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C083",
+      "type": "選擇",
+      "text": "下列哪一種網路裝置是用來連接使用不同通訊協定的網路？",
+      "options": [
+        {
+          "key": "A",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數據機",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "交換器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "路由器",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C084",
+      "type": "選擇",
+      "text": "紅外線（infrared）是以紅外線光波來傳送訊號，請問其傳輸距離約為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 公分",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "1 公尺",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "100 公尺",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "1 公里",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C085",
+      "type": "選擇",
+      "text": "請問下列何者具有地理名稱，可以透過地理名稱了解伺服器所在的國家？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IPv4",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "IPv6",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網域名稱",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C086",
+      "type": "選擇",
+      "text": "請問下列哪一個通訊協定的網路服務為全球資訊網？",
+      "options": [
+        {
+          "key": "A",
+          "text": "file",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "http",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "www",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "telnet",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C087",
+      "type": "選擇",
+      "text": "藍牙（bluetooth）是由電訊業者Ericsson所研發，並與其同業共同制定的無線通訊協定，請問下列何者為其可傳送的資料類型呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "語音資料",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數據資料",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "兩種類型皆可以傳輸",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "兩種類型皆無法傳輸",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0303_C088",
+      "type": "選擇",
+      "text": "資料在傳輸時，會經過許多不同的節點，當通過節點時，網際網路協定（InternetProtocol，簡稱IP）會先檢查接收端與傳送端的何項資訊，再決定傳送途徑？",
+      "options": [
+        {
+          "key": "A",
+          "text": "位址",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "長度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "種類",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "方向",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

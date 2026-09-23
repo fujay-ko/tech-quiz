@@ -1,0 +1,5186 @@
+{
+  "chapter": "2下 第4章 進階程式設計(2)",
+  "questions": [
+    {
+      "id": "u0204_T001",
+      "type": "是非",
+      "text": "在附圖的程式中，定位積木代表執行程式時，角色的初始位置。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T001_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T002",
+      "type": "是非",
+      "text": "執行附圖的程式後，產生的圖形為 {圖1} 。 {圖2}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T002_stem1.png",
+          "u0204_T002_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T003",
+      "type": "是非",
+      "text": "若要讓程式的執行速度減慢，應改變移動的位置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應增加 的積木。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T004",
+      "type": "是非",
+      "text": "如附圖，若要畫出六個正方形，須將主程式的「重複4次」改為「重複6次」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T004_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T005",
+      "type": "是非",
+      "text": "圖(一)與圖(二)的程式，其執行結果皆相同。 {圖1} 圖(一) {圖2} 圖(二)",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T005_stem1.png",
+          "u0204_T005_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T006",
+      "type": "是非",
+      "text": "執行附圖的程式，將可得到1個邊長為30的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "會產生 3 個邊長為 30 的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T006_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T007",
+      "type": "是非",
+      "text": "小華在上課時設計了附圖的程式，其中副程式主要的任務為繪製正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T007_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T008",
+      "type": "是非",
+      "text": "在附圖的程式中，副程式中的「重複4次」表示繪製不同正方形的間隔。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為繪製正方形的四個邊長。",
+      "images": {
+        "stem": [
+          "u0204_T008_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T009",
+      "type": "是非",
+      "text": "執行附圖的程式後，將會出現一邊長為10的正三角形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "圖形為一個正六邊形。",
+      "images": {
+        "stem": [
+          "u0204_T009_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T010",
+      "type": "是非",
+      "text": "在附圖的程式碼中，「等待0.5秒」的主要功能為減慢程式運作的速度。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T010_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T011",
+      "type": "是非",
+      "text": "副程式的執行可能導致電腦速度變慢，所以盡量不要用副程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T012",
+      "type": "是非",
+      "text": "將附圖程式的「移動15點」改為「移動30點」，即可發現執行結果為4個重疊的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "為 4 個相連的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T012_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T013",
+      "type": "是非",
+      "text": "副程式一定可以簡化程式碼，所以應儘量使用副程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T014",
+      "type": "是非",
+      "text": "一個程式中，最多只能有三個副程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T015",
+      "type": "是非",
+      "text": "附圖的程式執行後，結果為 {圖1} 。 {圖2}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "執行結果為 3 個逐漸擴大的正六邊形。",
+      "images": {
+        "stem": [
+          "u0204_T015_stem1.png",
+          "u0204_T015_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T016",
+      "type": "是非",
+      "text": "在設計小鳥吃蟲的程式時，為了讓小鳥嘴巴碰到蟲才有反應，判定的條件可以設為小鳥嘴巴的顏色。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T017",
+      "type": "是非",
+      "text": "可以透過改變副程式的變數，將主程式的程式碼模組化。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T018",
+      "type": "是非",
+      "text": "不可以在副程式中增加巢狀結構，因為會產生錯誤。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T019",
+      "type": "是非",
+      "text": "在附圖的程式中，「右轉90度」表示正方形的角度。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T019_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T020",
+      "type": "是非",
+      "text": "當發現程式有許多重複的指令或任務時，可使用副程式簡化。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T021",
+      "type": "是非",
+      "text": "副程式的程式碼一定比主程式的程式碼短。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T022",
+      "type": "是非",
+      "text": "程式模組化可能導致程式更複雜，因此每次都要設計兩種以上的程式碼，避免他人看不懂。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T023",
+      "type": "是非",
+      "text": "寫程式時我們可以利用副程式來簡化主程式，使程式更易閱讀。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T024",
+      "type": "是非",
+      "text": "附圖的程式執行後，將會得到1個正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T024_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T025",
+      "type": "是非",
+      "text": "將一程式依照不同任務分配給不同人設計副程式，可以大幅降低程式設計的時間。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T026",
+      "type": "是非",
+      "text": "附圖的程式執行後，將會得到的圖形為 {圖1} 。 {圖2}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "執行結果應為由下到上排列的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T026_stem1.png",
+          "u0204_T026_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T027",
+      "type": "是非",
+      "text": "在程式語言中，數字與布林值皆屬於一種變數。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T028",
+      "type": "是非",
+      "text": "「學校各處室組成校務行政系統，各司其職」，表示校務行政系統有使用到模組化的概念。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T029",
+      "type": "是非",
+      "text": "副程式無法節省程式所占用的記憶體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T030",
+      "type": "是非",
+      "text": "撰寫程式時，可將不同任務寫成不同副程式，增加程式可讀性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T031",
+      "type": "是非",
+      "text": "在設計小鳥吃蟲的程式時，若要讓小鳥跟著鼠標移動，可以使用 {圖1} 這個指令。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應使用 這個程式碼。",
+      "images": {
+        "stem": [
+          "u0204_T031_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T032",
+      "type": "是非",
+      "text": "設計小鳥吃蟲程式時，若控制小鳥點擊滑鼠後變換造型，程式可以依照附圖的方式設計。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T032_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T033",
+      "type": "是非",
+      "text": "可以透過模組化的概念將複雜的程式碼簡化，使其容易維護。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T034",
+      "type": "是非",
+      "text": "在Scratch中，使用函式積木完成撰寫任務內容及參數後，若更改主程式的參數值，也不會影響執行結果。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T035",
+      "type": "是非",
+      "text": "依據附圖的程式碼撰寫程式，可以畫出五個星星。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "只能畫出 1 個星星。",
+      "images": {
+        "stem": [
+          "u0204_T035_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T036",
+      "type": "是非",
+      "text": "在撰寫程式時，可將不同任務拆解成不同的模組，並由不同的人完成後再組裝起來。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T037",
+      "type": "是非",
+      "text": "設計小鳥吃蟲程式時，如果要讓蟲出現在隨機位置，可以使用 {圖1} 這個指令。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應使用 。",
+      "images": {
+        "stem": [
+          "u0204_T037_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T038",
+      "type": "是非",
+      "text": "執行附圖的程式，將會畫出4個正方形圖形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "只會畫出 1 個正方形圖形。",
+      "images": {
+        "stem": [
+          "u0204_T038_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T039",
+      "type": "是非",
+      "text": "如附圖，程式的執行結果為邊長相同且相鄰的方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "結果應為逐漸擴大的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T039_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T040",
+      "type": "是非",
+      "text": "公司分屬部門就是使用模組化的概念，各部門組成一間公司。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T041",
+      "type": "是非",
+      "text": "附圖的程式執行結果，最大的正方形邊長應為250點。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "邊長應為 150 點。",
+      "images": {
+        "stem": [
+          "u0204_T041_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T042",
+      "type": "是非",
+      "text": "撰寫程式時，可以直接執行副程式，無須透過主程式呼叫。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T043",
+      "type": "是非",
+      "text": "電腦主機是運用模組化的設計，例如：中央處理器（CPU）即可視為獨立的模組。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T044",
+      "type": "是非",
+      "text": "如附圖，程式執行的結果為4個逐漸擴大的方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "不會產生圖形。",
+      "images": {
+        "stem": [
+          "u0204_T044_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T045",
+      "type": "是非",
+      "text": "布林值只有兩種狀態，分別為X與Y。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "只有 True 或 False 兩種狀態。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T046",
+      "type": "是非",
+      "text": "設計小鳥吃蟲程式時，由於程式中需要一直產生蟲，因此可將產生蟲的動作包裝成獨立模組，方便主程式呼叫。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T047",
+      "type": "是非",
+      "text": "寫程式時，寫好副程式後即可自動執行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "副程式需被主程呼叫才會執行。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T048",
+      "type": "是非",
+      "text": "在附圖的程式中，「x改變50」指的是正方形的邊長。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "指的是正方形的間隔。",
+      "images": {
+        "stem": [
+          "u0204_T048_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T049",
+      "type": "是非",
+      "text": "通常電腦主機會包含許多模組，方便維修。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T050",
+      "type": "是非",
+      "text": "圖(一)與圖(二)的程式，其執行結果皆相同。 {圖1} 圖(一) {圖2} 圖(二)",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "圖(一)為 5 個向右排列的正六邊形，圖(二)不是。",
+      "images": {
+        "stem": [
+          "u0204_T050_stem1.png",
+          "u0204_T050_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T051",
+      "type": "是非",
+      "text": "可以依照程式的需求在Scratch 3.0中匯入自訂的舞臺背景。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T052",
+      "type": "是非",
+      "text": "如附圖，若欲將正方形的邊長改為40，需將程式中「移動50點」改為「移動40點」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應更改「移動 30 點」為「移動 40 點」。",
+      "images": {
+        "stem": [
+          "u0204_T052_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T053",
+      "type": "是非",
+      "text": "若將附圖程式的「右轉90度」改為「左轉90度」，程式執行後會由原本4個正方形變為1個正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "還是 4 個正方形。",
+      "images": {
+        "stem": [
+          "u0204_T053_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T054",
+      "type": "是非",
+      "text": "如附圖，若要繪製4個邊長為30的正五邊形，則應在空格處填上5。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應填上 30。",
+      "images": {
+        "stem": [
+          "u0204_T054_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T055",
+      "type": "是非",
+      "text": "執行附圖的程式後，將會出現兩個不同大小的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "圖形為兩個相同大小的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T055_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T056",
+      "type": "是非",
+      "text": "主機通常只需要主機板即可運作，無須其他模組。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T057",
+      "type": "是非",
+      "text": "硬碟、記憶卡都屬於電腦主機之模組。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T058",
+      "type": "是非",
+      "text": "副程式可以是一種函式或變數。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T059",
+      "type": "是非",
+      "text": "如附圖，程式的執行結果為邊長向左逐漸擴大的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為邊長向左逐漸縮小的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T059_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T060",
+      "type": "是非",
+      "text": "執行附圖的程式後，所得最小正方形邊長應為10。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "最小正方形邊長應為 30。",
+      "images": {
+        "stem": [
+          "u0204_T060_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T061",
+      "type": "是非",
+      "text": "執行附圖的程式後，會產生4個邊長等長的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為 6 個逐漸擴大的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T061_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T062",
+      "type": "是非",
+      "text": "設計小鳥吃蟲程式時，可以使用 {圖1} 這個指令讓被鳥吃的蟲消失。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T062_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T063",
+      "type": "是非",
+      "text": "若要將以下程式所產生的圖形變為正五邊形，則應將重複4次改為重複5次即可。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "除修正重複 4 次為重複 5 次外，仍應修正右轉的角度。",
+      "images": {
+        "stem": [
+          "u0204_T063_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T064",
+      "type": "是非",
+      "text": "圖(一)與圖(二)的程式，其執行結果都是畫出平行排列的正方形。 {圖1} 圖(一) {圖2} 圖(二)",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T064_stem1.png",
+          "u0204_T064_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T065",
+      "type": "是非",
+      "text": "在Scratch 3.0中，可以透過添加輸入方塊描述副程式的變數。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T066",
+      "type": "是非",
+      "text": "程式經過模組化後，通常會變得更容易除錯。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T067",
+      "type": "是非",
+      "text": "附圖的程式碼中，A屬於副程式。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T067_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T068",
+      "type": "是非",
+      "text": "程式碼的長度將會影響電腦機器運行該程式的時間。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T069",
+      "type": "是非",
+      "text": "設計小鳥吃蟲程式時，若要設定出現十隻蟲，可以依照附圖的方式設計程式。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T069_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T070",
+      "type": "是非",
+      "text": "在Scratch中，當發現程式中有許多重複的指令或任務時，可以使用函式積木來讓程式模組化，這樣在維護或修改程式上會更方便。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T071",
+      "type": "是非",
+      "text": "模組化有助於將大系統轉換為數個小系統，方便工作進行。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T072",
+      "type": "是非",
+      "text": "如附圖，若在程式的空白處填入40，則會輸出邊長為40點的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T072_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T073",
+      "type": "是非",
+      "text": "將程式進行模組化後，主程式可以更專注描述任務本身，而非任務細節。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T074",
+      "type": "是非",
+      "text": "在Scratch 3.0中，可使用變數來描述副程式的內容。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T075",
+      "type": "是非",
+      "text": "在設計規模較大的程式時，可以模組化的概念來輔助設計。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T076",
+      "type": "是非",
+      "text": "附圖程式的「邊長」，應屬於程式中的布林值。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於數字，非布林值。",
+      "images": {
+        "stem": [
+          "u0204_T076_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T077",
+      "type": "是非",
+      "text": "附圖的程式執行後，得到的三角形邊長最長為120點。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為 90 點。",
+      "images": {
+        "stem": [
+          "u0204_T077_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T078",
+      "type": "是非",
+      "text": "在Scratch 3.0中，函式積木的名稱可依照需求自己定義。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T079",
+      "type": "是非",
+      "text": "在使用Scratch 3.0寫程式時，可透過建立函式積木來設定副程式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T080",
+      "type": "是非",
+      "text": "如附圖，程式的執行結果為向左逐漸擴大的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_T080_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T081",
+      "type": "是非",
+      "text": "附圖的程式執行後，將會得到的圖形為 {圖1} 。 {圖2}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "圖形應為 。",
+      "images": {
+        "stem": [
+          "u0204_T081_stem1.png",
+          "u0204_T081_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T082",
+      "type": "是非",
+      "text": "關於下列程式，函式「畫圖2」的定義為繪製邊長為30的正方形。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為邊長為 60 的正方形。",
+      "images": {
+        "stem": [
+          "u0204_T082_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_T083",
+      "type": "是非",
+      "text": "程式模組化可能導致程式更複雜，所以必須撰寫更多的程式碼，以避免他人看不懂。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C001",
+      "type": "選擇",
+      "text": "關於附圖的程式碼，下列敘述何者正確？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "此程式沒有副程式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "所產生的分身將定位在固定的位置",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "當此角色碰到指定顏色時，會重新定位",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "此程式執行後，將產生 10 個角色的分身",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C001_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C002",
+      "type": "選擇",
+      "text": "請問在何種情況下我們可以使用副程式來簡化主程式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "任務中有許多重複撰寫的程式碼",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "任務中有較為複雜的程式碼",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "任務中有可以獨立完成的程式碼",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C003",
+      "type": "選擇",
+      "text": "請問在附圖的程式碼中，「重複3次」最主要目的為？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "繪製圖形的三個邊長",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "建立三個圖形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "重新定位三次",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "移動邊長 3 次",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C003_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C004",
+      "type": "選擇",
+      "text": "在小鳥吃蟲的程式中，出現了如附圖的程式碼，下列關於此程式碼的敘述何者錯誤？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "此為小鳥吃蟲的副程式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "表示蟲會產生在畫面中隨機的位置",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "將會有 8 隻蟲產生在畫面中",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "此程式可以直接執行",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "尚須主程式才可執行。",
+      "images": {
+        "stem": [
+          "u0204_C004_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C005",
+      "type": "選擇",
+      "text": "小林在課堂上設計了如附圖的程式，請問該程式的執行結果為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C005_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C005_A.png"
+          ],
+          "B": [
+            "u0204_C005_B.png"
+          ],
+          "C": [
+            "u0204_C005_C.png"
+          ],
+          "D": [
+            "u0204_C005_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C006",
+      "type": "選擇",
+      "text": "請問附圖程式中，「變數邊長設為0」的目的為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "重新命名變數",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將變數設定為數字",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "初始化變數",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "儲存邊長變數",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C006_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C007",
+      "type": "選擇",
+      "text": "如附圖，請問程式中 {圖1} 的目的為何？ {圖2}",
+      "options": [
+        {
+          "key": "A",
+          "text": "設計逐漸變大的圖形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "增加邊長的數量",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "新增不同變數",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "設計不同形狀的圖形",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C007_stem1.png",
+          "u0204_C007_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C008",
+      "type": "選擇",
+      "text": "關於附圖的程式，下列敘述何者錯誤？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "執行結果會產生 1 個正方形和 1 個正六邊形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "畫圖 1 所繪製的圖形為正方形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "畫圖 2 所產生的圖形邊長應為 30 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "將畫圖 2 這個副程式的右轉 60 度改為－60 度不會影響所產生的圖形",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "會產生 1 個正方形和 2 個六邊形，共三個圖形。",
+      "images": {
+        "stem": [
+          "u0204_C008_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C009",
+      "type": "選擇",
+      "text": "請問在附圖的程式中，「邊長」是屬於何種變數？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "布林值",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數字",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "字串",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "文字",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C009_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C010",
+      "type": "選擇",
+      "text": "請問在附圖的程式碼中，副程式的主要功能為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "設計圖形間隔",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "繪製圖形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "尋找定位點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C010_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C011",
+      "type": "選擇",
+      "text": "如附圖，請問此程式執行的結果應為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "間隔相等的正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "間隔相等的正三角形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "逐漸擴大的正方形",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "逐漸擴大的正三角形",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C011_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C012",
+      "type": "選擇",
+      "text": "請問下列哪一個程式有使用到巢狀迴圈？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0204_C012_A.png"
+          ],
+          "B": [
+            "u0204_C012_B.png"
+          ],
+          "C": [
+            "u0204_C012_C.png"
+          ],
+          "D": [
+            "u0204_C012_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C013",
+      "type": "選擇",
+      "text": "下列關於副程式的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "副程式無法直接執行",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "主程式可以透過呼叫來使用副程式",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "主程式一定需要副程式，避免程式碼過於複雜",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C014",
+      "type": "選擇",
+      "text": "如附圖，請問此程式執行後，最小的圖形邊長應為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "60 點",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "50 點",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "40 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "30 點",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C014_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C015",
+      "type": "選擇",
+      "text": "下列關於附圖程式的敘述何者正確？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "會產生 3 個分開的正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "變數 A 指的是轉彎的角度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "所產生的圖形間隔為 30 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "會產生3個相連的正三角形",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)(Ｄ)產生 3 個相連的正方形；(Ｃ)圖形間隔為 0 點。",
+      "images": {
+        "stem": [
+          "u0204_C015_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C016",
+      "type": "選擇",
+      "text": "請問附圖的程式中，「重複3次」指的是？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖形的邊長",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "圖形的角度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "畫圖的次數",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "圖形的副程式",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C016_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C017",
+      "type": "選擇",
+      "text": "關於Scratch 3.0中的角色設定，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "角色可以任意改變大小",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "可以在角色造型的介面中調整角色的顏色",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "可任意改變角色面朝的方向",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C018",
+      "type": "選擇",
+      "text": "根據附圖的程式碼，下列哪一項敘述正確？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "將依序畫出三個逐漸擴大的六邊形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將呈現三個不同大小且平行排列的六邊形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "三個圖形的筆跡寬度分別為 60、40、20 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "在主程式中，可直接修改欲繪製的六邊形邊長，且不須更改副程式",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C018_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C019",
+      "type": "選擇",
+      "text": "請問在附圖的程式中，「停筆」最主要的功能為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "避免圖形間隔過大",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "增加圖形的角度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "避免圖形相連",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "降低畫圖的速度",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C019_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C020",
+      "type": "選擇",
+      "text": "請問附圖中的A表示圖形的什麼？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "邊長數",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "邊長長度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "角度",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "面積",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C020_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C021",
+      "type": "選擇",
+      "text": "附圖為小林設計的程式碼，請問該程式中「移動80點」是表示什麼？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖形的副程式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "圖形的角度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "圖形的間隔",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "圖形的邊長",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C021_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C022",
+      "type": "選擇",
+      "text": "請問下列程式中有幾個副程式？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 個",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "2 個",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "3 個",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "4 個",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C022_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C023",
+      "type": "選擇",
+      "text": "請問下列何者屬於布林值？",
+      "options": [
+        {
+          "key": "A",
+          "text": "True",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "value",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "X",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "123",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C024",
+      "type": "選擇",
+      "text": "如附圖，請問下列何者為此程式的執行結果？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "A",
+      "explanation": "執行結果應為正六邊形。",
+      "images": {
+        "stem": [
+          "u0204_C024_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C024_A.png"
+          ],
+          "B": [
+            "u0204_C024_B.png"
+          ],
+          "C": [
+            "u0204_C024_C.png"
+          ],
+          "D": [
+            "u0204_C024_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C025",
+      "type": "選擇",
+      "text": "請問附圖的程式執行後所產生的圖形，邊長為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 點",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "50 點",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "180 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "200 點",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C025_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C026",
+      "type": "選擇",
+      "text": "請問附圖的程式中，副程式最主要的功能為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "繪製正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "規畫圖形間隔",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "規畫圖形位置",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C026_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C027",
+      "type": "選擇",
+      "text": "下列關於附圖程式碼的敘述，何者錯誤？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "執行後的結果將會顯示四個正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "程式的起始位置為（－140,－20）",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "若欲改變圖形的邊長，應修改主程式的「移動 30 點」",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(Ｃ)應該要修改副程式裡的「移動 30 點」。",
+      "images": {
+        "stem": [
+          "u0204_C027_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C028",
+      "type": "選擇",
+      "text": "如附圖，小寶希望產生圖的地方往中間靠一點，請問他應該如何修正程式？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "修正定位點",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "修正重複次數",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "增加主程式中移動的數字",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "增加副程式中右轉的角度",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C028_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C029",
+      "type": "選擇",
+      "text": "請問應透過何種方式在程式內達到模組化的功效？",
+      "options": [
+        {
+          "key": "A",
+          "text": "包裝主程式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "撰寫副程式",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "簡化主程式",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C030",
+      "type": "選擇",
+      "text": "在小鳥吃蟲的程式中，請問應如何設計才能讓小鳥跟隨滑鼠移動？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0204_C030_A.png"
+          ],
+          "B": [
+            "u0204_C030_B.png"
+          ],
+          "C": [
+            "u0204_C030_C.png"
+          ],
+          "D": [
+            "u0204_C030_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C031",
+      "type": "選擇",
+      "text": "如附圖，請問此程式的執行結果將會得到幾個圖形？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 個",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "4 個",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "6 個",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "8 個",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "將得到 2 個方形與 2 個正六邊形。",
+      "images": {
+        "stem": [
+          "u0204_C031_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C032",
+      "type": "選擇",
+      "text": "請問下列何者為主機內裝模組化後的優點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可隨時升級主機內配件",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "方便更換主機零組件",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "容易拆裝模組",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C033",
+      "type": "選擇",
+      "text": "小林想要設計可以生成兩個相連正方形的程式，他的程式如附圖所示，請問小林應如何修改程式才能達到目的？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "將「右轉 90 度」改為「左轉 90 度」",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將副程式的「移動 30 點」改為「x 改變 30」",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "將主程式的「移動 30 點」改為「移動 50 點」",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "程式沒有錯誤，不用修改",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C033_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C034",
+      "type": "選擇",
+      "text": "請問下列哪一個程式執行後為逐漸擴大的五邊形？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0204_C034_A.png"
+          ],
+          "B": [
+            "u0204_C034_B.png"
+          ],
+          "C": [
+            "u0204_C034_C.png"
+          ],
+          "D": [
+            "u0204_C034_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C035",
+      "type": "選擇",
+      "text": "下列關於附圖程式的敘述，何者正確？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "此程式共有三個副程式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "執行結果產生的圖形皆為正方形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "所產生的第二個圖形邊長為 80 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C035_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C036",
+      "type": "選擇",
+      "text": "附圖為Scratch 3.0的角色人物設定，請問若要改變貓咪的大小，應該改變下列哪一個項目？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "x、y",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "尺寸",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "方向",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "無法改變",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C036_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C037",
+      "type": "選擇",
+      "text": "請問下列何者為軟體開發實務中，副程式的主要功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加程式可讀性",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將主程式的問題拆解成獨立的模組",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "可交由多人設計副程式，整合成一大程式",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C038",
+      "type": "選擇",
+      "text": "請問附圖執行結果與下列何者相同？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C038_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C038_A.png"
+          ],
+          "B": [
+            "u0204_C038_B.png"
+          ],
+          "C": [
+            "u0204_C038_C.png"
+          ],
+          "D": [
+            "u0204_C038_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C039",
+      "type": "選擇",
+      "text": "下列哪一項不是電腦主機模組化的優點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "當記憶體容量不足時，可以換成更大容量的記憶體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "當硬碟壞掉時，可以只更換硬碟，不需要汰換整個主機",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "方便拆裝單一個零組件",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "零組件的功能與效能，可以互相支援",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C040",
+      "type": "選擇",
+      "text": "下列關於附圖的程式，何者錯誤？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "該程式執行結果為正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將會產生五個相同的圖形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "副程式的執行結果為產生邊長 40 的圖形",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "所產生的圖形間隔應為 70 點",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "該程式沒有副程式。",
+      "images": {
+        "stem": [
+          "u0204_C040_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C041",
+      "type": "選擇",
+      "text": "請問在Scratch 3.0中，應該如何設定副程式？",
+      "options": [
+        {
+          "key": "A",
+          "text": "新增畫筆功能",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "建立函式積木",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "增加重複次數",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "新增等待一秒指令",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C042",
+      "type": "選擇",
+      "text": "下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "不同型態的資料所使用的記憶體相同",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "布林值僅有兩種狀態",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電腦使用越多記憶體執行的速度越快",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "布林值只有 True 或 False 兩種狀態。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C043",
+      "type": "選擇",
+      "text": "請問下列何者為副程式的特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "可簡化主程式的程式碼",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "使程式容易閱讀",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "可節省程式設計的時間",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C044",
+      "type": "選擇",
+      "text": "下列關於附圖程式的執行結果，何者錯誤？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "執行結果的圖形有一頂點會在（－150,0）",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "該執行結果為正方形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "該圖形的邊長應為 30 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "執行結果表示該圖形的內角為 60 度",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "執行結果應為正三角形。",
+      "images": {
+        "stem": [
+          "u0204_C044_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C045",
+      "type": "選擇",
+      "text": "如附圖的程式碼，請問執行結果應為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C045_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C045_A.png"
+          ],
+          "B": [
+            "u0204_C045_B.png"
+          ],
+          "C": [
+            "u0204_C045_C.png"
+          ],
+          "D": [
+            "u0204_C045_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C046",
+      "type": "選擇",
+      "text": "請問將附圖程式的「右轉90度」改為「右轉－90度」，執行結果將會有什麼變化？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "圖形位置不變",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "圖形會往上移動",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "圖形會向下移動",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "視情況而定",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C046_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C047",
+      "type": "選擇",
+      "text": "附圖為Scratch 3.0的角色介面，請問應點選哪一個按鍵增加角色？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C047_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C047_A.png"
+          ],
+          "B": [
+            "u0204_C047_B.png"
+          ],
+          "C": [
+            "u0204_C047_C.png"
+          ],
+          "D": [
+            "u0204_C047_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C048",
+      "type": "選擇",
+      "text": "根據附圖的程式碼，下列哪一項函式積木可以在主程式中呼叫副程式？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C048_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C048_A.png"
+          ],
+          "B": [
+            "u0204_C048_B.png"
+          ],
+          "C": [
+            "u0204_C048_C.png"
+          ],
+          "D": [
+            "u0204_C048_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C049",
+      "type": "選擇",
+      "text": "請問附圖程式所執行的結果將得到幾個圖形？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 個",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "4 個",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "6 個",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "8 個",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "正方形 2 個、正三角形 4 個，共 6 個圖形。",
+      "images": {
+        "stem": [
+          "u0204_C049_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C050",
+      "type": "選擇",
+      "text": "請問附圖的執行結果與下列哪一個程式相同？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)不是四個正方形；(Ｂ)圖形向右移動；(Ｄ)圖形向上移動。",
+      "images": {
+        "stem": [
+          "u0204_C050_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C050_A.png"
+          ],
+          "B": [
+            "u0204_C050_B.png"
+          ],
+          "C": [
+            "u0204_C050_C.png"
+          ],
+          "D": [
+            "u0204_C050_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C051",
+      "type": "選擇",
+      "text": "如附圖，若要減慢繪製圖形的速度，可將「等待1秒」的積木加在哪裡較為適當？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲與乙之間",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "丙與丁之間",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "戊與己之間",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "己與庚之間",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C051_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C052",
+      "type": "選擇",
+      "text": "在小鳥吃蟲的程式中，可以使用何種程式碼讓被鳥吃的蟲消失？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0204_C052_A.png"
+          ],
+          "B": [
+            "u0204_C052_B.png"
+          ],
+          "C": [
+            "u0204_C052_C.png"
+          ],
+          "D": [
+            "u0204_C052_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C053",
+      "type": "選擇",
+      "text": "附圖為畫圖形的副程式，請問若要繪製三角形，程式裡的A、B應如何設定？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "A：120、B：3",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "A：90、B：3",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "A：3、B：120",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "A：3、B：90",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C053_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C054",
+      "type": "選擇",
+      "text": "請問下列何者為模組化的優點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "將許多小問題合併成大問題一次解決",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "程式將可以花較多時間處理複雜問題",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "模組化後的程式較方便維護與修正",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C055",
+      "type": "選擇",
+      "text": "請問在附圖的程式碼中，更改哪一個部分不會造成程式圖形的改變？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "將副程式的「右轉 90 度」改為「面朝 90 度」",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將副程式的「移動 20 點」改為「x 改變 20 點」",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "將副程式中的「右轉 90 度」改為「左轉 90 度」",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆會改變",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)(Ｂ)副程式皆畫出一條直線。",
+      "images": {
+        "stem": [
+          "u0204_C055_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C056",
+      "type": "選擇",
+      "text": "通常來說，我們可以透過副程式□設計程式所占用的記憶體。請問□應該填入什麼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "節省",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "不變",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "增加",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "不一定",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C057",
+      "type": "選擇",
+      "text": "如附圖，請問該程式執行後，所得最大圖形之邊長為？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 點",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "60 點",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "90 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "120 點",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C057_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C058",
+      "type": "選擇",
+      "text": "在小鳥吃蟲的程式中，出現了如附圖的程式碼，請問其中「等待0.2秒」的用途為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加滑鼠點擊的反應時間",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "讓小鳥彎腰的狀態持續 0.2 秒",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "滑鼠須點擊超過 0.2 秒小鳥才會彎腰",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "可刪除此程式碼，無任何用途",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C058_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C059",
+      "type": "選擇",
+      "text": "如附圖，請問如果要減慢 {圖1} 圖形繪製的速度，程式應如何修改？ {圖2}",
+      "options": [
+        {
+          "key": "A",
+          "text": "在主程式的 後面增加",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "在主程式的 後面增加",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "在副程式的 前面增加",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "在副程式的 前面增加 ",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C059_stem1.png",
+          "u0204_C059_stem2.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C059_A1.png",
+            "u0204_C059_A2.png"
+          ],
+          "B": [
+            "u0204_C059_B1.png",
+            "u0204_C059_B2.png"
+          ],
+          "C": [
+            "u0204_C059_C1.png",
+            "u0204_C059_C2.png"
+          ],
+          "D": [
+            "u0204_C059_D1.png",
+            "u0204_C059_D2.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C060",
+      "type": "選擇",
+      "text": "請問附圖的程式執行結果為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C060_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C060_A.png"
+          ],
+          "B": [
+            "u0204_C060_B.png"
+          ],
+          "C": [
+            "u0204_C060_C.png"
+          ],
+          "D": [
+            "u0204_C060_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C061",
+      "type": "選擇",
+      "text": "如附圖，請問此程式的執行結果為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C061_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C061_A.png"
+          ],
+          "B": [
+            "u0204_C061_B.png"
+          ],
+          "C": [
+            "u0204_C061_C.png"
+          ],
+          "D": [
+            "u0204_C061_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C062",
+      "type": "選擇",
+      "text": "請問如果要讓每一個執行後的圖形相連，應該調整附圖程式的哪個部分？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "主程式的「重複 4 次」改為「重複 5 次」",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "主程式的「移動 50 點」改為「移動 30 點」",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "副程式的「移動 30 點」改為「移動 40 點」",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "副程式的「右轉 90 度」改為「左轉 90 度」",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C062_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C063",
+      "type": "選擇",
+      "text": "請問附圖的程式執行後，執行結果應為何種形狀？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "邊長為 30 點的五邊形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "邊長為 30 點的星形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "邊長為 144 點的五邊形",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "邊長為 144 點的星形",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C063_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C064",
+      "type": "選擇",
+      "text": "請問附圖的程式執行結果為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C064_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C064_A.png"
+          ],
+          "B": [
+            "u0204_C064_B.png"
+          ],
+          "C": [
+            "u0204_C064_C.png"
+          ],
+          "D": [
+            "u0204_C064_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C065",
+      "type": "選擇",
+      "text": "在Scratch中，關於副程式的參數，下列哪一項敘述不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用函式積木的添加說明文字來描述參數",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "使用函式積木的添加輸入方塊來描述參數",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "定義參數使副程式更具彈性",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "呼叫副程式時，可以指定函式積木的參數值",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C066",
+      "type": "選擇",
+      "text": "請問附圖的程式中，貓咪畫圖的方向應為？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "順時針",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "逆時針",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "直線前進",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "不一定",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C066_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C067",
+      "type": "選擇",
+      "text": "附圖為向右產生間隔相同正方形的程式，小華想將改成為向左產生成間隔相同的正方形，要如何修改程式？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "改變定位點為（－10,0）",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "將「重複 5 次」改為「重複－5 次」",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "將「右轉 90 度」改為「右轉－90 度」",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "將「移動 30 點」改為「移動－30 點」",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C067_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C068",
+      "type": "選擇",
+      "text": "在Scratch中，關於程式模組化，下列哪一項敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "使用變數積木撰寫副程式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "執行副程式需透過主程式呼叫",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "副程式一定比主程式短",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "一個程式中最多有三個副程式",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C069",
+      "type": "選擇",
+      "text": "小林想讓附圖的程式執行結果不變的情況下，讓執行速度慢一點，請問他可以怎麼做？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "增加新的「事件」",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "增加「等待 1 秒」的指令",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "減少副程式移動的距離",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "增加主程式重複的次數",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C069_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C070",
+      "type": "選擇",
+      "text": "請問附圖的程式碼執行後，會產生幾個圖形？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 個",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "2 個",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "3 個",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "4 個",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C070_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C071",
+      "type": "選擇",
+      "text": "如附圖，下列關於此程式的敘述何者正確？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "此程式執行結果為 3 個三角形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "此程式最小的圖形的邊長為 40 點",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "此程式為間隔相同的圖形",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "此程式的筆粗會隨繪製的圖形先後改變",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C071_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C072",
+      "type": "選擇",
+      "text": "請問以下程式執行後，會得到哪些圖形？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "正方形、正五邊形、正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "正方形、正五邊形、直線",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "正方形、星形、正方形",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "正方形、星形、直線",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C072_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C073",
+      "type": "選擇",
+      "text": "請問附圖的程式執行後，所得的圖形間隔應為？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 點",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "30 點",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "40 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "50 點",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C073_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C074",
+      "type": "選擇",
+      "text": "有一程式如下，請問此程式執行後，圖形產生的方向應為？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "向左",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "向右",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "向上",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "向下",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C074_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C075",
+      "type": "選擇",
+      "text": "請問下列哪一個程式執行後為正六邊形？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0204_C075_A.png"
+          ],
+          "B": [
+            "u0204_C075_B.png"
+          ],
+          "C": [
+            "u0204_C075_C.png"
+          ],
+          "D": [
+            "u0204_C075_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C076",
+      "type": "選擇",
+      "text": "請問下列何者不屬於電腦主機內的模組？",
+      "options": [
+        {
+          "key": "A",
+          "text": "散熱風扇",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示卡",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路線",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "記憶卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C077",
+      "type": "選擇",
+      "text": "請問附圖的程式碼執行後，會產生什麼形狀？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "長方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "正方形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "平行四邊形",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "正六邊形",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C077_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C078",
+      "type": "選擇",
+      "text": "請問附圖程式碼的執行結果為何？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C078_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C078_A.png"
+          ],
+          "B": [
+            "u0204_C078_B.png"
+          ],
+          "C": [
+            "u0204_C078_C.png"
+          ],
+          "D": [
+            "u0204_C078_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C079",
+      "type": "選擇",
+      "text": "在設計小鳥吃蟲的程式時，請問若要產生十隻蟲，可以使用下列哪一個程式碼？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0204_C079_A.png"
+          ],
+          "B": [
+            "u0204_C079_B.png"
+          ],
+          "C": [
+            "u0204_C079_C.png"
+          ],
+          "D": [
+            "u0204_C079_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0204_C080",
+      "type": "選擇",
+      "text": "如附圖，老師希望繪製出五個正五邊形，請問空格處應填上多少？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "72",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "90",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "108",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "120",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C080_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C081",
+      "type": "選擇",
+      "text": "請問下列何者屬於模組化的概念？",
+      "options": [
+        {
+          "key": "A",
+          "text": "工廠內各部門分工合作，完成產品的產出",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "學校各處室各司其職，組成完整的校務行政系統",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "人類體內各器官所負責的功能不盡相同，組成人類個體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C082",
+      "type": "選擇",
+      "text": "如果將圖(一)的程式碼以副程式的方法重新設計成圖(二)，應在圖(二)的A、B位置分別填入？ {圖1} 圖(一) {圖2} 圖(二)",
+      "options": [
+        {
+          "key": "A",
+          "text": "0、30",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "30、60",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "60、90",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "90、120",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C082_stem1.png",
+          "u0204_C082_stem2.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C083",
+      "type": "選擇",
+      "text": "請問下列何者屬於變數？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數字",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "文字",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "布林值",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C084",
+      "type": "選擇",
+      "text": "如附圖的程式，請問下列何者敘述正確？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "上圖執行的結果為四個正方形",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "執行結果應為往右上方生成圖形",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "「移動 30 點」代表圖形的間隔距離為 30 點",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)為兩個正方形；(Ｃ)表示邊長為 30 點。",
+      "images": {
+        "stem": [
+          "u0204_C084_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0204_C085",
+      "type": "選擇",
+      "text": "小華想將附圖程式改為向右排列且逐漸擴大的圖形，應該如何修改程式碼？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "在丁下方增加",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "在甲下方增加",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "在乙上方增加",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "在丙上方增加 ",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0204_C085_stem.png"
+        ],
+        "options": {
+          "A": [
+            "u0204_C085_A.png"
+          ],
+          "B": [
+            "u0204_C085_B.png"
+          ],
+          "C": [
+            "u0204_C085_C.png"
+          ],
+          "D": [
+            "u0204_C085_D.png"
+          ]
+        }
+      }
+    }
+  ]
+}

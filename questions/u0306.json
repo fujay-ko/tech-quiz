@@ -1,0 +1,8475 @@
+{
+  "chapter": "3下 第3章 資訊產業與人類社會",
+  "questions": [
+    {
+      "id": "u0306_T001",
+      "type": "是非",
+      "text": "資訊科技對人類社會的影響，既廣且深，卻始終無法使個人生活型態及工作方式產生變化。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T002",
+      "type": "是非",
+      "text": "辦公場所與教室的電腦或網路系統建置和整合不屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T003",
+      "type": "是非",
+      "text": "通用軟體屬於系統軟體，由開發商依據某種電腦或網路系統設計的軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "通用軟體屬於應用軟體，主要為廣大使用者的需求開發的軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T004",
+      "type": "是非",
+      "text": "軟體業者為符合廣大使用者的需求，通常會開發通用性（general purpose）軟體，以滿足使用者生活及工作上的需求，例如：微軟的Office系列軟體、Google的相關免費軟體皆屬於通用性軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T005",
+      "type": "是非",
+      "text": "記憶體為電腦存放資料的主要元件，包括所有設備的驅動程式、作業系統、指令、資料等，皆必須先載入到記憶體中，才能讓中央處理器讀取。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T006",
+      "type": "是非",
+      "text": "套裝軟體通常屬於較為專業的通用軟體，包含統計軟體等等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T007",
+      "type": "是非",
+      "text": "ChatGPT可以讓我們的生活更加便利，但也造成了人類對於網路的依賴性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T008",
+      "type": "是非",
+      "text": "資訊科技促使社會更為透明與開放、資訊流通更快速，但獲得的資訊通常較單一。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T009",
+      "type": "是非",
+      "text": "「IT產業」的英文全稱為「information technologyindustry」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T010",
+      "type": "是非",
+      "text": "系統整合是將不同電腦硬體元件與軟體整合在一起的過程。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T011",
+      "type": "是非",
+      "text": "通常軟體開發與設計很複雜，因此較複雜的案件需要團隊分工完成任務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T012",
+      "type": "是非",
+      "text": "傳真機在網路通訊產業中，屬於上游產品，且應為有線通訊設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "乃屬於下游產品。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T013",
+      "type": "是非",
+      "text": "從事系統整合的業者稱為「系統整合商」，此類業者著重整合而非研發或製造。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T014",
+      "type": "是非",
+      "text": "手機、電腦主要就是系統整合後的產品，且系統整合商重視銷售與形塑品牌。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T015",
+      "type": "是非",
+      "text": "資訊科技因人性弱點可能產生問題，例如：網路色情、盜版侵權等，造成各式各樣的電腦網路犯罪。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T016",
+      "type": "是非",
+      "text": "支援服務與其他資訊產業的規模相比，相對較為龐大。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T017",
+      "type": "是非",
+      "text": "過度依賴網路可能會導致身心適應的問題，與社會脫鉤。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T018",
+      "type": "是非",
+      "text": "傳統商業活動漸漸數位化或網路化後，電子商務日趨活躍且發展快速，已成為跨地域或全球化的商業活動。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T019",
+      "type": "是非",
+      "text": "我們可以透過網路遊戲認識更多人，但仍應遵守網路禮儀，不得隨意謾罵他人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T020",
+      "type": "是非",
+      "text": "數位移民的原文為digital immigrant，指出生於數位時代之前的一代。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T021",
+      "type": "是非",
+      "text": "附圖的電腦硬體設備零組件應為「網路卡」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0306_T021_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T022",
+      "type": "是非",
+      "text": "個人或家庭軟硬體設備買賣屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T023",
+      "type": "是非",
+      "text": "從事軟體開發的工程師通常採取責任制，依據工作的案件大小進行程式的設計。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T024",
+      "type": "是非",
+      "text": "客製化組裝電腦主機不屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T025",
+      "type": "是非",
+      "text": "資訊產業通常需要較大量的資本挹注，且從業人員的專業素養要求高。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T026",
+      "type": "是非",
+      "text": "電腦的函式庫會因不同需求進行設計，所以屬於電腦軟體中的應用軟體，並且為客製化軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T027",
+      "type": "是非",
+      "text": "支援服務業常與其他產業合作，成為產業鏈的一環，或為其他產業的合作廠商。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T028",
+      "type": "是非",
+      "text": "資訊的進步與社交網站的普及化使工作效率提升，但也導致人類的壓力日漸遞增。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T029",
+      "type": "是非",
+      "text": "支援服務業（support service industry）是指從事支援一般機關團體或家庭個人的電腦及網路系統，使其能正常運作的行業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T030",
+      "type": "是非",
+      "text": "附圖為光通訊設備中常用來傳輸訊號的「光纖電纜」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0306_T030_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T031",
+      "type": "是非",
+      "text": "路由器、機上盒等設備皆屬於網路通訊產業的下游產品。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T032",
+      "type": "是非",
+      "text": "過度依賴網路可能會導致身心適應的問題，與社會脫鉤。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T033",
+      "type": "是非",
+      "text": "當收到來路不明的包裹時，應立即查證包裹來源地，避免遭受詐騙。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T034",
+      "type": "是非",
+      "text": "在使用社群軟體時，想講什麼就講什麼，不受任何法律的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網路言論依然受法律的規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T035",
+      "type": "是非",
+      "text": "在網路的世界中，仍必須時時保持警惕，避免資料遭盜取。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T036",
+      "type": "是非",
+      "text": "光通訊設備主要包含光纖電纜、光傳輸終端設備、機上盒等等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "機上盒屬於網路設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T037",
+      "type": "是非",
+      "text": "網路無遠弗屆，現我們已可以隨時傳送訊息給國外友人，無須另外付費。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T038",
+      "type": "是非",
+      "text": "電腦作業系統屬於電腦的硬體設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於軟體設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T039",
+      "type": "是非",
+      "text": "出生於數位時代之前的老一代被稱為數位原民。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T040",
+      "type": "是非",
+      "text": "由於光碟機已裝設於主機內，因此光碟機屬於電腦的終端設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於周邊設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T041",
+      "type": "是非",
+      "text": "在傳統商業活動日漸數位化或網路化後，電子商務日趨活躍，發展快速，已成為跨地域或全球化的商業活動。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T042",
+      "type": "是非",
+      "text": "資訊產業又被稱為AI產業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "稱為 IT 產業。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T043",
+      "type": "是非",
+      "text": "資訊的進步與社交網站的普及化使工作效率提升，但也導致人類的壓力日漸遞增。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T044",
+      "type": "是非",
+      "text": "電腦軟體主要分為系統軟體與應用軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T045",
+      "type": "是非",
+      "text": "系統整合（system integration）是指將所有不同電腦硬體元件及軟體整合在一起的過程，其目的是讓它們在功能上能使用多重系統進行運作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "系統整合是指將所有不同電腦硬體元件及軟體整合在一起的過程，其目的是讓它們在功能上能使用單一系統進行運作。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T046",
+      "type": "是非",
+      "text": "IT產業主要與電腦的軟硬體相關，早期被稱為電腦工業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T047",
+      "type": "是非",
+      "text": "網路犯罪層出不窮，我們應培養正確的網路使用習慣，避免成為下一位受害者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T048",
+      "type": "是非",
+      "text": "時下流行的社群軟體「instagram」已風靡全球，由於該軟體的總公司位於他國，因此不受到臺灣法規的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "仍具備法規規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T049",
+      "type": "是非",
+      "text": "電子資料交換（Electronic Data Interchange，簡稱EDI）技術迅速、正確，但成本相對高昂。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T050",
+      "type": "是非",
+      "text": "未成年人對網路的規範較無影響，因此未成年人可盡情在網路上謾罵或霸凌他人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "未成年人也不可在網路上謾罵或霸凌他人，依然受法律規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T051",
+      "type": "是非",
+      "text": "ChatGPT可以讓我們的生活更加便利，但也造成了人類對於網路的依賴性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T052",
+      "type": "是非",
+      "text": "電子商務發展迅速，我們在進行網路購物時須注意個人資訊的隱私性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T053",
+      "type": "是非",
+      "text": "系統整合較重視製造與研發，因此屬於系統整合商的科技公司，通常會採上下游模式進行產品的設計。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T054",
+      "type": "是非",
+      "text": "微軟所設計的Windows系統在電腦軟體中屬於系統軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T055",
+      "type": "是非",
+      "text": "過度使用社群軟體可能導致人類過度依賴、並缺乏人類社會的溫暖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T056",
+      "type": "是非",
+      "text": "數位原民的原文為digital natⅣe，指數位時代出生，伴隨著電玩、網路而長大的年輕世代。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T057",
+      "type": "是非",
+      "text": "電腦軟體設計是指程式設計人員為解決某種問題或達成某種目的，按照規畫的程序，撰寫程式令電腦運作的工作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T058",
+      "type": "是非",
+      "text": "個人手機的硬體維護與檢測屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T059",
+      "type": "是非",
+      "text": "辦公場所與教室的電腦或網路系統規畫屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T060",
+      "type": "是非",
+      "text": "我們可以透過網路社群軟體販售日常用品，此為電子商務的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T061",
+      "type": "是非",
+      "text": "在使用社群軟體時，想講什麼就講什麼，不受任何法律的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網路言論依然受法律的規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T062",
+      "type": "是非",
+      "text": "纜線數據機布建應屬於電信服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T063",
+      "type": "是非",
+      "text": "路由器主要是用於網路通訊中，且屬於網路設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T064",
+      "type": "是非",
+      "text": "資訊科技的發展，加快了全球化的速度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T065",
+      "type": "是非",
+      "text": "由於個人能善用科技與媒體，使得人人都有傳播資訊的主動權，但也衍生多元且複雜的社會議題，例如：假訊息充斥、言論自由無限上綱、網路霸凌等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T066",
+      "type": "是非",
+      "text": "在網路的世界中，仍必須時時保持警惕，避免資料遭盜取。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T067",
+      "type": "是非",
+      "text": "在系統整合中，硬體的整合較軟體的整合更為複雜。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "軟體整合較硬體整合複雜。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T068",
+      "type": "是非",
+      "text": "我們可以透過網路遊戲認識更多人，但仍應遵守網路禮儀，不得隨意謾罵他人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T069",
+      "type": "是非",
+      "text": "在學習方面，人們可以透過網路影片、社群平臺獲得資訊，加快學習的速度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T070",
+      "type": "是非",
+      "text": "電腦數據機由於使用到電纜，因此屬於有線通訊設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於網路設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T071",
+      "type": "是非",
+      "text": "電腦定期維護或故障維修、網路管理維護、資訊安全維護、病毒和惡意軟體移除服務、防毒系統服務等，皆屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T072",
+      "type": "是非",
+      "text": "IT產業發展至今，對人類社會帶來的皆是正面影響，並無負面影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "IT 產業對人類社會有正面的影響，但負面的影響也可能伴隨而來。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T073",
+      "type": "是非",
+      "text": "軟體開發通常需要硬體設備工程師協助設計程式，以達到用戶需求。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "應為軟體程式工程師設計。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T074",
+      "type": "是非",
+      "text": "全球化的主要特徵是難以迴避，表示我們在網路上的一言一行都可能被監視著。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T075",
+      "type": "是非",
+      "text": "電子商務發展迅速，我們在進行網路購物時須注意個人資訊的隱私性。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T076",
+      "type": "是非",
+      "text": "全球化的主要特徵是難以迴避，表示我們在網路上的一言一行都可能被監視著。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T077",
+      "type": "是非",
+      "text": "小林主要工作為設置網路電纜，其工作不屬於資訊產業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "設置網路電纜屬於資訊產業中網路通訊的電信服務業。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T078",
+      "type": "是非",
+      "text": "數位移民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T079",
+      "type": "是非",
+      "text": "辦公場所與教室的軟硬體設備更新或升級屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T080",
+      "type": "是非",
+      "text": "資訊產業依其特性，大致分為硬體製造、軟體設計、網路通訊、系統整合、支援服務，以及電子商務等六大類別。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T081",
+      "type": "是非",
+      "text": "IT技能檢定或認證不屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T082",
+      "type": "是非",
+      "text": "未成年人對網路的規範較無影響，因此未成年人可盡情在網路上謾罵或霸凌他人。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "未成年人也不可在網路上謾罵或霸凌他人，依然受法律規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T083",
+      "type": "是非",
+      "text": "電子商務服務仍受到現有法規規範，保障消費者及營業人的權利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T084",
+      "type": "是非",
+      "text": "軟體開發通常需經過使用者與客戶的需求進行分析，以進行後續的規畫。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T085",
+      "type": "是非",
+      "text": "電腦的函式庫會因不同需求進行設計，因此屬於電腦的應用軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "函式庫屬於電腦的系統軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T086",
+      "type": "是非",
+      "text": "金融交易逐漸走向電子化的綜合服務，形成一種新型的商業營運模式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T087",
+      "type": "是非",
+      "text": "企業內部線上事務處理、供應鍵管理、存貨管理、自動數據搜集等，不屬於電子商務的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T088",
+      "type": "是非",
+      "text": "因應使用者或客戶的特殊需求而開發的軟體，稱作通用性化軟體（general purpose），例如：校務行政系統、遠距醫療諮詢系統等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "因應使用者或客戶的特殊需求而開發的軟體，稱為客製化軟體（customized software）。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T089",
+      "type": "是非",
+      "text": "時下流行的社群軟體「instagram」已風靡全球，由於該軟體的總公司位於他國，因此不受到臺灣法規的規範。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "仍具備法規規範。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T090",
+      "type": "是非",
+      "text": "電子商務（e-commerce，簡稱電商）是指使用各種電子工具（如手機、電腦等）或網路從事的商業活動。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T091",
+      "type": "是非",
+      "text": "資訊產業主要是集技術、智慧與知識為一體的產業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T092",
+      "type": "是非",
+      "text": "附圖的軟體應屬於「客製化軟體」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "附圖為 Google 相關免費軟體，屬於「通用性軟體」。",
+      "images": {
+        "stem": [
+          "u0306_T092_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T093",
+      "type": "是非",
+      "text": "系統整合較為重視製造與研發，通常科技公司會採上下游模式進行產品的設計。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "較重視整合而非製造研發。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T094",
+      "type": "是非",
+      "text": "網路購物平臺不屬於資訊產業的一環。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "網路購物平臺是電子商務的一種，因此屬於資訊產業。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T095",
+      "type": "是非",
+      "text": "網路通訊硬體設備產品有上下游之分，下游產品主要是通訊終端零組件，如IC晶片等等。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "上游產品才為零組件。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T096",
+      "type": "是非",
+      "text": "電腦螢幕屬於電腦的終端裝置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T097",
+      "type": "是非",
+      "text": "在網路上錄製他人公開分享的影片並販售給他人不構成犯罪，因為他人已公開分享。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "仍構成著作權法的犯罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T098",
+      "type": "是非",
+      "text": "電子商務範圍相當廣泛，包羅萬象，在網路與商業活動交織互相影響下，新的電子商業模式平均要花費十年以上來形成。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T099",
+      "type": "是非",
+      "text": "軟體設備的更新屬於支援服務業的一環。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T100",
+      "type": "是非",
+      "text": "通常軟體開發與設計很複雜，因此較大型或複雜的案件需要團隊分工來完成任務。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T101",
+      "type": "是非",
+      "text": "滑鼠、鍵盤應屬於電腦零組件，主要是讓使用者輸入資訊給電腦。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於電腦的周邊設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T102",
+      "type": "是非",
+      "text": "資訊科技的發展，加快了全球化的速度，造成資訊科技對於人類社會，只有正面的影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T103",
+      "type": "是非",
+      "text": "近年來，人工智慧與機器人的相關技術從工業走進家庭，取代很多零碎或危險的工作。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T104",
+      "type": "是非",
+      "text": "IT產業對人類社會有正面的影響，但負面的影響也可能隨之而來。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T105",
+      "type": "是非",
+      "text": "資訊科技對人類社會就目前看來只有正面的影響。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T106",
+      "type": "是非",
+      "text": "我們可以透過網路社群軟體販售日常用品，此為電子商務的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T107",
+      "type": "是非",
+      "text": "為了防止電腦病毒的入侵，平時應隨時注意電腦防火牆有無關閉。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T108",
+      "type": "是非",
+      "text": "電子商務服務仍受到現有法規規範，保障消費者及營業人的權利。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T109",
+      "type": "是非",
+      "text": "企業內部線上事務處理、供應鍵管理、存貨管理和自動數據搜集等，不屬於電子商務的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T110",
+      "type": "是非",
+      "text": "通常系統整合業者必須考慮軟硬體的限制與規範後，再進行整合，避免功能失常。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T111",
+      "type": "是非",
+      "text": "現代人之所以容易產生身心適應問題，根據很多研究、報導可能與過度使用以及依賴電腦網路有關。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T112",
+      "type": "是非",
+      "text": "現今社會頻繁使用電子商務進行各種商業活動，已逐漸取代傳統的模式。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T113",
+      "type": "是非",
+      "text": "個人或家庭軟硬體設備買賣，不屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T114",
+      "type": "是非",
+      "text": "通常電腦硬體設備製造商會以集團方式經營，由各子公司生產不同產品，相互分享並共享資源。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T115",
+      "type": "是非",
+      "text": "電子資料交換（Electronic Data Interchange，簡稱EDI）是指業者間將業務上往來的文件以標準的電子資料格式，透過專線或網路的傳遞，將交易訊息傳達給交易對象，進行彼此交易的傳輸技術。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T116",
+      "type": "是非",
+      "text": "電腦硬體設備的產品，通常生命週期較短，容易被新產品取代。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T117",
+      "type": "是非",
+      "text": "電子郵件及社交網站普及，使得人際交流互動更加方便且頻繁。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T118",
+      "type": "是非",
+      "text": "過度使用社群軟體可能導致人類過度依賴、並缺乏人類社會的溫暖。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T119",
+      "type": "是非",
+      "text": "隨著社群媒體的發展，我們在網路上的發言必須更加謹慎，避免觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T120",
+      "type": "是非",
+      "text": "在網路上錄製他人公開分享的影片並販售給他人不構成犯罪，因為他人已公開分享。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "仍構成著作權法的犯罪。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T121",
+      "type": "是非",
+      "text": "當收到來路不明的包裹時，應立即查證包裹來源地，避免遭受詐騙。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T122",
+      "type": "是非",
+      "text": "記憶體為存放電腦系統的主要元件，並提供給中央處理器進行讀取。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T123",
+      "type": "是非",
+      "text": "資訊科技會產生社會價值的看法分歧，例如：電子圍牆因有監視功能，每個人的看法有所不同，有人認為有助於維護人身安全，但也有人認為恐侵犯個人隱私。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T124",
+      "type": "是非",
+      "text": "為了防止電腦病毒的入侵，平時應隨時注意電腦防火牆有無關閉。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T125",
+      "type": "是非",
+      "text": "線上直播銷售、行動支付、線上交寄、自助點餐機等，皆屬於電子商務的應用。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T126",
+      "type": "是非",
+      "text": "電腦硬體設備的產品生命週期通常短，容易被新產品取代。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T127",
+      "type": "是非",
+      "text": "微軟為了因應使用者需求，設計Office軟體，其屬於電腦的應用軟體。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T128",
+      "type": "是非",
+      "text": "車上常見的衛星導航系統屬於無線通訊設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T129",
+      "type": "是非",
+      "text": "附圖的電腦硬體設備零組件應為「顯示卡」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0306_T129_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T130",
+      "type": "是非",
+      "text": "支援服務業的範疇包含接受客戶諮詢IT相關問題。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T131",
+      "type": "是非",
+      "text": "個人或家庭軟硬體設備服務屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T132",
+      "type": "是非",
+      "text": "網路犯罪層出不窮，我們應培養正確的網路使用習慣，避免成為下一位受害者。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T133",
+      "type": "是非",
+      "text": "通常記憶體容量不會影響電腦設備的執行效能。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "記憶體容量會影響電腦設備的執行效能。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T134",
+      "type": "是非",
+      "text": "網路介面卡在電腦硬體設備中，是屬於終端裝置。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "屬於零組件。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T135",
+      "type": "是非",
+      "text": "在網路時代，創新與創業總是走在經濟活動的最前端，不斷產生新的商業模式，也改變了人的經濟行為。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T136",
+      "type": "是非",
+      "text": "線上購物屬於電子商務的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T137",
+      "type": "是非",
+      "text": "網路無遠弗屆，現我們已可以隨時傳送訊息給國外友人，無須另外付費。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T138",
+      "type": "是非",
+      "text": "在學習方面，人們可以透過網路影片、社群平臺獲得資訊，加快學習的速度。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T139",
+      "type": "是非",
+      "text": "網路通訊終端應用產品，可區分為五大類，分別為：網路設備、光通訊設備、無線通訊設備、有線通訊設備及電信服務業。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T140",
+      "type": "是非",
+      "text": "數位原民是指出生於數位時代之前的老一代，後來才接觸電玩、網路和手機等工具。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T141",
+      "type": "是非",
+      "text": "隨著資訊科技的發展，目前行動電話已發展到5G網路的應用，因此行動電話屬於無線通訊設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T142",
+      "type": "是非",
+      "text": "附圖的電腦硬體設備零組件應為「音效卡」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0306_T142_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T143",
+      "type": "是非",
+      "text": "目前行動電話已發展到5G網路的應用，因此行動電話屬於無線通訊設備。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T144",
+      "type": "是非",
+      "text": "附圖的電腦硬體設備零組件應為「顯示卡」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "此為「介面卡」。",
+      "images": {
+        "stem": [
+          "u0306_T144_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T145",
+      "type": "是非",
+      "text": "資訊產業相較其他產業而言，其產品生命週期較長。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "資訊產業的產品生命週期較短。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T146",
+      "type": "是非",
+      "text": "隨著社群媒體的發展，我們在網路上的發言必須更加謹慎，避免觸法。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T147",
+      "type": "是非",
+      "text": "租賃各種軟硬體設備、IT技能檢定或認證，屬於支援服務業的範疇。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T148",
+      "type": "是非",
+      "text": "附圖的軟體應屬於「通用性軟體」。 {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "附圖為微軟 Office 系列軟體，屬於「通用性軟體」。",
+      "images": {
+        "stem": [
+          "u0306_T148_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T149",
+      "type": "是非",
+      "text": "行動電話、衛星導航系統、衛星與微波通訊設備等，皆屬於「有線通訊設備」。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "行動電話、衛星導航系統、衛星與微波通訊設備皆屬於「無線通訊設備」。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_T150",
+      "type": "是非",
+      "text": "微處理器屬於網路通訊產業中的上游產品，主要以零組件為主。",
+      "options": [
+        {
+          "key": "A",
+          "text": "是",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "否",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C001",
+      "type": "選擇",
+      "text": "請問下列關於套裝軟體的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "屬於電腦中的系統軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "主要是為電腦使用者的需求而設計",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "遠距醫療諮詢系統屬於套裝軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)屬於應用軟體；(Ｃ)屬於客製化軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C002",
+      "type": "選擇",
+      "text": "請問下列關於資訊產業的敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "又被稱為 AI 產業",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "與資訊工業不盡相同",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "與其他行業關係密切",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ) IT 產業；(Ｂ)相同。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C003",
+      "type": "選擇",
+      "text": "在資訊及網路時代，要使社會更為和諧，使用者更需加強下列哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提升個人的資訊倫理素養",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "在社交網站儘量曝光增加知名度",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "儘量在網路貼文供人閱讀",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "對網路上的文章多加批評以引起討論",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C004",
+      "type": "選擇",
+      "text": "請問下列何者為電腦硬體零組件中的「顯示卡」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0306_C004_A.png"
+          ],
+          "B": [
+            "u0306_C004_B.png"
+          ],
+          "C": [
+            "u0306_C004_C.png"
+          ],
+          "D": [
+            "u0306_C004_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0306_C005",
+      "type": "選擇",
+      "text": "請問下列何者最有可能是數位移民？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1900 年出生的阿呆",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "1960 年出生的小新",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "2010 年出生的正男",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "2030 年出生的妮妮",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "數位移民應為出生於數位時代前的人，因此應選擇小新。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C006",
+      "type": "選擇",
+      "text": "小達在下載安裝APP時發現，APP要求存取手機位置及聯絡人資訊，請問在下載APP時應特別注意何種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C007",
+      "type": "選擇",
+      "text": "請問下列何者為電子商務現今的發展的趨勢及特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跨地域",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "全球化",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "發展快速",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C008",
+      "type": "選擇",
+      "text": "請問下列何者屬於電子商務的範疇？",
+      "options": [
+        {
+          "key": "A",
+          "text": "企業內部線上事務處理",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "供應鍵管理",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "自動數據搜集",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C009",
+      "type": "選擇",
+      "text": "請問下列關於系統軟體的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主要分為通用軟體及客製化軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "系統軟體可以分配電腦的系統資源及決定運作順序",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "使用時通常需要收費",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "統計軟體屬於系統軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)為應用軟體；(Ｃ)不一定；(Ｄ)為應用軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C010",
+      "type": "選擇",
+      "text": "阿中終於達到自己的升學目標，興高采烈的他，拿著獎學金組裝了一臺電腦，卻發現無法連接網路，經過送修後，工程師判斷可能是硬體零組件出了問題，請你幫阿中判斷，應該是下列哪一個硬體零組件發生故障？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示卡",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "音效卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C011",
+      "type": "選擇",
+      "text": "網路通訊產業的下游產品總共分為五大類，請問下列何者屬於無線通訊設備？",
+      "options": [
+        {
+          "key": "A",
+          "text": "行動電話",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "傳真機",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數據機",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "路由器",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)屬於有線通訊設備；(Ｃ)(Ｄ)屬於網路設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C012",
+      "type": "選擇",
+      "text": "請問電子資料交換的英文簡稱為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "SSD",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "HDI",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "EDI",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "MIB",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C013",
+      "type": "選擇",
+      "text": "觀察家認為，數位原民與數位移民兩代最大的差異在於下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "思考模式及工具使用方式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "科技產品使用種類",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "科技服務使用頻率",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C014",
+      "type": "選擇",
+      "text": "請問資訊科技的快速發展，影響了哪些層面？",
+      "options": [
+        {
+          "key": "A",
+          "text": "商業模式",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "身心發展",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "社會價值觀",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C015",
+      "type": "選擇",
+      "text": "森田在網路直播上看到有人說吃檸檬可以讓自己更快樂，請問針對這項消息，森田接下來的做法何者較為妥當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "立即傳訊告知友人",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "馬上在網站上反駁",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "立即查證",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "馬上去買檸檬來吃",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "針對網站上的消息，應先行查證。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C016",
+      "type": "選擇",
+      "text": "請問下列何者為網路通訊產品中的上游產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "閘道器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "光纖電纜",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "衛星定位",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "路由器",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)(Ｂ)(Ｄ)皆屬於下游產品。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C017",
+      "type": "選擇",
+      "text": "隨著社群媒體的發展，各種法律也衍生而出，請問下列何者為社群軟體衍生而出的社會議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "言論自由無限上綱",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "假訊息充斥",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C018",
+      "type": "選擇",
+      "text": "小花使用社群軟體時，發現有人有在販售耳機，但詢問時賣家卻要求要給私人的電話號碼，請問賣家的行為可能會造成何種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C019",
+      "type": "選擇",
+      "text": "電腦主機通常會具備函式庫，請問函式庫在電腦中是屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "系統軟體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "通用軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "客製化軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C020",
+      "type": "選擇",
+      "text": "請問下列關於網路通訊產業的產品，何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "屬於軟體設備",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "路由器不屬於網路通訊產業的產品",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路光纖電纜屬於光通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)屬於硬體設備；(Ｂ)屬於網路通訊產業的產品。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C021",
+      "type": "選擇",
+      "text": "請問下列何者最有可能是數位移民？",
+      "options": [
+        {
+          "key": "A",
+          "text": "1900 年出生的阿呆",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "1960 年出生的小新",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "2010 年出生的正男",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "2030 年出生的妮妮",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "數位移民應為出生於數位時代前的人，因此應選擇小新。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C022",
+      "type": "選擇",
+      "text": "請問下列何者屬於網路通訊產業產品中的電信服務業？",
+      "options": [
+        {
+          "key": "A",
+          "text": "類比與網路電話機",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "纜線數據機布建",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路攝影器材",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "光傳輸終端設備",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)(Ｃ)為有線通訊設備；(Ｄ)為光通訊設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C023",
+      "type": "選擇",
+      "text": "請問下列何者不屬於電腦硬體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "中央處理器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "喇叭",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "驅動程式",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "音效卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C024",
+      "type": "選擇",
+      "text": "請問網路通訊設備中的感測器晶片，是屬於網路通訊產業產品中的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路設備",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "終端零組件",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "無線通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "有線通訊設備",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C025",
+      "type": "選擇",
+      "text": "請問關於數位原民與數位移民的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路駭客一定是數位移民，從其他國家翻牆而來",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民的網路使用習慣通常與數位原民無異",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "不管是數位原民或數位移民，在使用網路時都應守法",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C026",
+      "type": "選擇",
+      "text": "請問下列何者不屬於支援服務業服務的對象或類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "防毒系統服務",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "病毒和惡意軟體移除",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "影片拍攝及剪輯",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "資訊安全維護",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C027",
+      "type": "選擇",
+      "text": "業者間將業務上往來的文件以標準的電子資料格式，透過專線或網路的傳遞，將交易訊息傳達給交易對象，進行彼此交易的傳輸技術，請問何者不是該技術的特點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "迅速",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "正確性高",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "成本較高",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C028",
+      "type": "選擇",
+      "text": "請問光纖到戶（FTTH）在網路通訊產業中，是屬於哪一類的下游產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電信服務業",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "無線通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "有線通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "光通訊設備",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C029",
+      "type": "選擇",
+      "text": "小達為了線上繳交證明文件，他使用了掃描器掃描自己的身分證。請問掃描器在電腦硬體中屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "零組件",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "終端裝置",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "周邊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電腦主機",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C030",
+      "type": "選擇",
+      "text": "電子商務在現今社會中已越來越盛行，請問下列何者為電子商務可能會遇到的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路詐騙",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯個人隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "易產生詐欺、交易糾紛，使人陷入收支失衡的困擾。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C031",
+      "type": "選擇",
+      "text": "請問SPSS統計軟體是屬於何種軟體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通用軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "套裝軟體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "客製化軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "應用軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C032",
+      "type": "選擇",
+      "text": "在網路通訊產業中，光纖電纜、光放大器等產品是屬於哪一類下游產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路設備",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "光通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "無線通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電信服務業",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C033",
+      "type": "選擇",
+      "text": "在資訊科技飛快發展的時代，若要維持健全心智，何項的觀念培養極其重要？",
+      "options": [
+        {
+          "key": "A",
+          "text": "正確的科技態度",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "科技倫理",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "科技道德",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C034",
+      "type": "選擇",
+      "text": "請問下列何種性質的工作，隨著資訊科技日新月異的發展，較有可能被電腦或機器人所取代？",
+      "options": [
+        {
+          "key": "A",
+          "text": "即時應變型",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "高創造性職業",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "高重複性工作",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C035",
+      "type": "選擇",
+      "text": "現在網路上常見的酸民，是由於網路社群軟體的發達而導致，請問造成酸民的主要原因為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "詐騙猖獗",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "言論自由無限上綱",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "盜版侵權",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C036",
+      "type": "選擇",
+      "text": "請問下列何者不屬於支援服務業服務的對象或類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "軟體的研發與改良",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "辦公室的網路建置",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "教室的電腦規畫",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "軟硬體設備的更新或升級",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C037",
+      "type": "選擇",
+      "text": "「業者間將業務上往來的文件以標準的電子資料格式，透過專線或網路的傳遞，將交易訊息傳達給交易對象，進行彼此交易的傳輸技術。它不僅迅速、正確，也節省成本」請問下列何者不是以上所描述的技術？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電子資料交換",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "EDI",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Electronic Data Interchange",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "digital native",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C038",
+      "type": "選擇",
+      "text": "請問下列何者為電腦硬體零組件中的「音效卡」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0306_C038_A.png"
+          ],
+          "B": [
+            "u0306_C038_B.png"
+          ],
+          "C": [
+            "u0306_C038_C.png"
+          ],
+          "D": [
+            "u0306_C038_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0306_C039",
+      "type": "選擇",
+      "text": "業者間將業務上往來的文件以標準的電子資料格式，透過專線或網路的傳遞，將交易訊息傳達給交易對象，進行彼此交易的傳輸技術，請問何者為該技術的特點？",
+      "options": [
+        {
+          "key": "A",
+          "text": "傳輸較耗時",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "正確性高",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "成本較高",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C040",
+      "type": "選擇",
+      "text": "請問下列何者為光纖到戶的英文簡稱？",
+      "options": [
+        {
+          "key": "A",
+          "text": "FTTH",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "ISP",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "FTTB",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "C.M.",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)網際網路服務供應商；(Ｃ)光纖到大樓；(Ｄ)纜線數據機。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C041",
+      "type": "選擇",
+      "text": "請問下列何者屬於電腦的終端裝置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "顯示器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "路由器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "鍵盤",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C042",
+      "type": "選擇",
+      "text": "請問下列何者不可能為金融交易的電子化可能帶來的影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "交易模式的改變",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "金融詐騙增多",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "多元投資工具的增加",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "商業模式的單一化",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C043",
+      "type": "選擇",
+      "text": "請問下列何者不屬於支援服務業服務的對象或類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "IT 相關學位授予",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "IT 問題諮詢",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "軟硬體設備租賃",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "IT 技能檢定或認證",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C044",
+      "type": "選擇",
+      "text": "請問下列何項形容詞較不適合用來描述現今社會資訊科技的發展？",
+      "options": [
+        {
+          "key": "A",
+          "text": "透明",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "開放",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "快速",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "單純",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C045",
+      "type": "選擇",
+      "text": "請問下列何者為系統軟體的功能？",
+      "options": [
+        {
+          "key": "A",
+          "text": "指揮電腦系統運作",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "決定運作順序",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "分配系統資源",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C046",
+      "type": "選擇",
+      "text": "請問從事系統整合的業者稱為「系統整合商」，請問此類業者著重的面向為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "整合",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "研發",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "製造",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "從事系統整合的業者稱為系統整合商，此類業者著重整合而非研發或製造。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C047",
+      "type": "選擇",
+      "text": "「指數位時代出生，伴隨著電玩、網路而長大的年輕世代」，請問上列敘述，描述的對象是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位難民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位人民",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C048",
+      "type": "選擇",
+      "text": "資訊科技帶給使用者便捷的生活，請問下列何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "教師可透過網路或平板載具引導學生，提升學習效果",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "儘管網路非常方便，同學仍不能過度依賴網路上的資訊",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "觀看社群軟體上的影片可以讓我們殺時間，但影片內容正確性仍需用戶自行判斷",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C049",
+      "type": "選擇",
+      "text": "請問下列何者屬於支援服務業的範疇？",
+      "options": [
+        {
+          "key": "A",
+          "text": "辦公場所網路建置",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "教室電腦規畫",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "軟硬體設備更新",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C050",
+      "type": "選擇",
+      "text": "請問附圖的光通訊設備是？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "音源線",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "光纖電纜",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "類比電纜",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電源線",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [
+          "u0306_C050_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C051",
+      "type": "選擇",
+      "text": "請問下列何者不是電腦軟體開發的歷程？",
+      "options": [
+        {
+          "key": "A",
+          "text": "客戶需求分析",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "系統規畫",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "系統文件撰述",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數據分析",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C052",
+      "type": "選擇",
+      "text": "網路與傳播媒體讓全球各國的距離更加鄰近，然網路的普及化的最大缺點是難以迴避，請問下列何者為網路全球化所衍生出的議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跨國詐騙",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "駭客橫行",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "勒索病毒",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C053",
+      "type": "選擇",
+      "text": "請問下列關於記憶體的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "為電腦存放資料的主要元件",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "記憶體容量會影響電腦的效能",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "可存放驅動程式、作業系統等資料",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C054",
+      "type": "選擇",
+      "text": "小迪是一名國中生，他有次在學校社群軟體上看到胖虎在說大雄的壞話，並揚言要在學校排擠大雄，請問胖虎的舉動已經造成了什麼問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C055",
+      "type": "選擇",
+      "text": "請問下列何種性質的工作，隨著資訊科技日新月異的發展，較不可能被電腦或機器人所取代？",
+      "options": [
+        {
+          "key": "A",
+          "text": "高創造型",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "高效率型",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "高重複型",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C056",
+      "type": "選擇",
+      "text": "請問下列何者通常被視為電腦硬體中的「周邊設備」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "鍵盤",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "常見的周邊設備有滑鼠、印表機、鍵盤、光碟機、掃描器、隨身碟、光碟片等。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C057",
+      "type": "選擇",
+      "text": "電子商務在現今社會中已越來越盛行，請問下列何者為電子商務可能會遇到的問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路詐騙",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯個人隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "易產生詐欺、交易糾紛，使人陷入收支失衡的困擾。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C058",
+      "type": "選擇",
+      "text": "資訊科技的發展越趨快速，使用方式也非常多元，身為數位原民的你，應抱持下列何項態度及責任？",
+      "options": [
+        {
+          "key": "A",
+          "text": "積極找出電子商務的漏洞並以之牟利",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "耐心協助家中長輩學習網路銀行的操作",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "趁網站標錯價使用機器人快速下單",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "直接複製網路上的文章作為自己的報告內容",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C059",
+      "type": "選擇",
+      "text": "硬體是指組成電腦及網路通訊的設備，下列哪一項屬於零組件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "顯示卡、光碟機",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "滑鼠、顯示器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡、網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "鍵盤、印表機",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C060",
+      "type": "選擇",
+      "text": "下列哪一項是網路通訊產業中網路設備的主要產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數據機、網路卡、路由器、機上盒等",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "光纖電纜、光收發器、光傳輸終端設備等",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "行動電話、衛星導航系統、衛星與微波通訊等",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "類比與網路電話機、傳真機、網路攝影機等",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C061",
+      "type": "選擇",
+      "text": "電子商務的發展越趨快速，使用方式也非常多元，對於哪一類的使用者，可能較容易在短時間內理解及上手？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位難民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位人民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位原民",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C062",
+      "type": "選擇",
+      "text": "小哲組裝了一臺電腦，卻發現音效出了問題，經過送修後，工程師判斷可能是硬體零組件出了問題，請你幫小哲判斷，應該是下列哪一個硬體零組件發生故障？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示卡",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "音效卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C063",
+      "type": "選擇",
+      "text": "電子商務在近幾年頗為盛行，然電子商務多少也引發了一些問題，請問下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在電商註冊資料可能會有個資外洩的問題",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "在無保障的平臺交易可能導致詐騙猖獗",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路交易引起的消費糾紛",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C064",
+      "type": "選擇",
+      "text": "露西在網路社群軟體上看到心儀的電子產品想要下單購買，請問在下單前他應注意哪件事情？",
+      "options": [
+        {
+          "key": "A",
+          "text": "詢問社群管理員內容真實性",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "上網爬文看是否有類似的詐騙行為",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "在有保障的網路平臺下單購買避免消費糾紛",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C065",
+      "type": "選擇",
+      "text": "請問下列何項由資訊科技帶來的影響有利無弊？",
+      "options": [
+        {
+          "key": "A",
+          "text": "線上課堂的實施",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "遠端工作的型態",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資訊共享的潮流",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C066",
+      "type": "選擇",
+      "text": "工業4.0讓工廠結合物聯網增加產能，但也造成了許多問負面影響，請問下列何者為是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "職場性騷擾",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "過度依賴機器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "減少原物料使用",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "人際關係互動頻繁",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C067",
+      "type": "選擇",
+      "text": "請問下列關於軟體設計人員的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "又被稱為軟體設計工程師",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "大多採責任制",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "軟體開發時間可能長達數年",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C068",
+      "type": "選擇",
+      "text": "小天拿著獎學金組裝了一臺電腦，卻發現電腦無法偵測到鍵盤滑鼠，經過送修後，工程師判斷可能是硬體零組件出了問題，請你幫小天判斷，應該是下列哪一個硬體零組件發生故障？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示卡",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "音效卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C069",
+      "type": "選擇",
+      "text": "請問因應使用者或客戶的特殊需求而開發的軟體稱作為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通用性軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "套裝軟體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "客製化軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "因應使用者或客戶的特殊需求而開發的軟體，屬於客製化軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C070",
+      "type": "選擇",
+      "text": "請問下列何者為電腦硬體中的「終端裝置」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "印表機",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "電腦終端裝置有顯示器，目前更有觸控互動式大尺寸顯示器。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C071",
+      "type": "選擇",
+      "text": "從小時候起，小寶的爸媽就給他一臺手機，讓他可以上網查詢資料，請問小寶屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位居民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位網民",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "數位原民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C072",
+      "type": "選擇",
+      "text": "下列何者為資訊產業的特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從業人員專業素養高",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "生命週期長",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "同一產業競爭少",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "資本門檻低",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)生命週期短；(Ｃ)競爭激烈；(Ｄ)資本門檻高。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C073",
+      "type": "選擇",
+      "text": "請問常見的Chrome、IE等搜尋引擎應屬於電腦中的？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "硬體設備",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "通用軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "客製化軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C074",
+      "type": "選擇",
+      "text": "支援服務業是指從事支援一般機關團體或家庭個人其電腦及網路系統正常運作的行業，下列哪一項不是支援服務業？。",
+      "options": [
+        {
+          "key": "A",
+          "text": "辦公室或教室的網路系統建置",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "電腦系統定期維護與故障維修",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "圖書館線上借書與還書",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "軟硬體設備更新或升級",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C075",
+      "type": "選擇",
+      "text": "我們常常使用隨身碟來存放資料，請問隨身碟在電腦硬體中屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "零組件",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "終端裝置",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "周邊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電腦主機",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C076",
+      "type": "選擇",
+      "text": "現代人之所以容易產生身心適應問題，根據很多研究、報導可能與何者有關？",
+      "options": [
+        {
+          "key": "A",
+          "text": "過度使用電子產品",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "依賴電腦網路",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路成癮",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C077",
+      "type": "選擇",
+      "text": "請問IT問題諮詢、軟硬體設備租賃、IT技能檢定或認證辦理等項目，通常是由下列何單位進行辦理？",
+      "options": [
+        {
+          "key": "A",
+          "text": "軟體設計師",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "系統整合商",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "支援服務業",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆非",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C078",
+      "type": "選擇",
+      "text": "網路的多元運用，使資訊得以共享，豐富了我們的知識、擴大了視野，也提升了生活品質。請問下列何者屬於網路的負面影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路霸凌",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "工作效率提高",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "工作量減少",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "言論自由",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C079",
+      "type": "選擇",
+      "text": "關於數位原民的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通常指的是年紀比較小的使用者",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "通常不會使用手機或行動載具上網",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "從小就伴隨網路或電玩長大",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "一定會玩手機遊戲",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "數位原民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C080",
+      "type": "選擇",
+      "text": "資訊科技的發達為社會帶來新的問題，下列哪一種不屬於負面影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路成癮",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路霸凌",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "資訊共享",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C081",
+      "type": "選擇",
+      "text": "電子商務在近幾年頗為盛行，然電子商務多少也引發了一些問題，請問下列敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "在電商註冊資料可能會有個資外洩的問題",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "在無保障的平臺交易可能導致詐騙猖獗",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路交易引起的消費糾紛",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C082",
+      "type": "選擇",
+      "text": "小達在下載安裝APP時發現，APP要求存取手機位置及聯絡人資訊，請問在下載APP時應特別注意何種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C083",
+      "type": "選擇",
+      "text": "請問下列何者不是電子商務所囊括的範圍？",
+      "options": [
+        {
+          "key": "A",
+          "text": "行動支付",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路銀行",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "紙本消費卷",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位消費卷",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C084",
+      "type": "選擇",
+      "text": "請問下列何者屬於程式語言？",
+      "options": [
+        {
+          "key": "A",
+          "text": "HTML5",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "Python",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Arduino",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C085",
+      "type": "選擇",
+      "text": "請問下列何者不屬於支援服務業服務的對象或類別？",
+      "options": [
+        {
+          "key": "A",
+          "text": "個人手機的硬體維護與檢測",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "電子產品代購",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電腦故障維修",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "客製化組裝電腦主機",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C086",
+      "type": "選擇",
+      "text": "澄澄是一名知名實況主，她常常會需要使用網路攝影機拍攝實況。請問網路攝影機在網路通訊產業中屬於哪一類的下游產品？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路設備",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "光通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "有線通訊設備",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "無線通訊設備",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C087",
+      "type": "選擇",
+      "text": "資訊科技的發達為社會帶來新的問題，下列哪一種不屬於負面影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路成癮",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路霸凌",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "資訊共享",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C088",
+      "type": "選擇",
+      "text": "小吳終於達到自己的升學目標，得以進入心目中夢想學校，興高采烈的他，拿著獎學金組裝了一臺電腦，卻發現顯示出了問題，經過送修後，工程師判斷可能是硬體零組件出了問題，請你幫小吳判斷，應該是下列哪一個硬體零組件發生故障？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示卡",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "音效卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C089",
+      "type": "選擇",
+      "text": "請問digital natⅣe一詞指的是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位難民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位人民",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C090",
+      "type": "選擇",
+      "text": "下列哪一項是軟體開發過程的合理順序？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統規畫→需求分析→程式設計→軟體測試與除錯",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "程式設計→需求分析→系統規畫→軟體測試與除錯",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "需求分析→系統規畫→程式設計→軟體測試與除錯",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "需求分析→程式設計→系統規畫→軟體測試與除錯",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C091",
+      "type": "選擇",
+      "text": "小寧的電腦音樂無法播出聲音，請人家修理後發現是音效卡壞掉，請問音效卡在電腦硬體中屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "零組件",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "周邊設備",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "終端裝置",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電腦主機",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C092",
+      "type": "選擇",
+      "text": "下列哪一種軟體是客製化軟體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "微軟的 Office 系列軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "SPSS 計套裝軟體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Google 的試算表軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "國中校務行政系統",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C093",
+      "type": "選擇",
+      "text": "請問下列何者不是電腦記憶體中內含的資料？",
+      "options": [
+        {
+          "key": "A",
+          "text": "作業系統",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "驅動程式",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "中央處理器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "系統運作指令",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C094",
+      "type": "選擇",
+      "text": "下列哪一項不是資訊產業的特徵？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊產業是集技術、智慧、知識為一體的產業",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "資訊產業對其從業人員的專業素養要求高",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資訊產業的產品生命週期長",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "資訊產業的產業間競爭非常劇烈",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C095",
+      "type": "選擇",
+      "text": "工業4.0讓工廠結合物聯網增加產能，但也造成了許多問負面影響，請問下列何者為是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "職場性騷擾",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "過度依賴機器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "減少原物料使用",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "人際關係互動頻繁",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C096",
+      "type": "選擇",
+      "text": "小迪是一名國中生，他有次在學校社群軟體上看到胖虎在說大雄的壞話，並揚言要在學校排擠大雄，請問胖虎的舉動已經造成了什麼問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C097",
+      "type": "選擇",
+      "text": "網際網路的發達讓我們工作更順暢，請問下列何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主管可隨時注意屬下的進度，提升工作效率",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "線上會議可以節省交通的時間及花費",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電腦網路的便利性可能造成人類過度依賴",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C098",
+      "type": "選擇",
+      "text": "「使用手機不見得是打電話，可能是聽音樂、看影片或發簡訊」請問上文的描述較可能是在指稱哪一族群的使用者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位難民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位人民",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C099",
+      "type": "選擇",
+      "text": "從小小寶的爸媽就給他一臺手機，讓他可以上網查詢資料，請問小寶屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位居民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位網民",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "數位原民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C100",
+      "type": "選擇",
+      "text": "請問關於數位原民與數位移民的敘述，下列何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路駭客一定是數位移民，從其他國家翻牆而來",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民的網路使用習慣通常與數位原民無異",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "不管是數位原民或數位移民，在使用網路時都應守法",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C101",
+      "type": "選擇",
+      "text": "下列哪一項敘述不正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統整合是指將不同電腦硬體元件及軟體整合在一起的過程",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "一般來說，軟體的整合比較複雜",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "一部電腦的硬體元件通常由不同的製造業者提供",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "同一部電腦的軟硬體元件通常由同一家製造業者提供",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C102",
+      "type": "選擇",
+      "text": "隨著社群媒體的發展，各種法律也衍生而出，請問下列何者為社群軟體衍生而出的社會議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "言論自由無限上綱",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路霸凌",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "假訊息充斥",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C103",
+      "type": "選擇",
+      "text": "請問下列何者為網路通訊的上游通訊終端零組件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "滑鼠",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "衛星定位",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "音效卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "介面卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "(Ａ)為硬體製造的周邊設備；(Ｃ)(Ｄ)非網路通訊終端零組件。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C104",
+      "type": "選擇",
+      "text": "關於數位原民的敘述何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "通常指的是年紀比較小的使用者",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "通常不會使用手機或行動載具上網",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "從小就伴隨網路或電玩長大",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "一定會玩手機遊戲",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "數位原民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C105",
+      "type": "選擇",
+      "text": "財團法人臺灣網路資訊中心（TWNIC）公布《2020臺灣網路報告》，其中上網率一項為非偏鄉（83.9%）vs.偏鄉（69.8%），此現象反映臺灣社會極需改善的是下列哪一項？",
+      "options": [
+        {
+          "key": "A",
+          "text": "提升工作效率與品質",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "縮短城鄉數位落差",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "促使社會更為開放",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "產生新的商業模式活絡了經濟",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C106",
+      "type": "選擇",
+      "text": "小花使用社群軟體時，發現有人有在販售耳機，但詢問時賣家卻要求要給私人的電話號碼，請問賣家的行為可能會造成何種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C107",
+      "type": "選擇",
+      "text": "請問下列何者屬於電腦的軟體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Google Map",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "主機板",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "顯示卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路卡",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C108",
+      "type": "選擇",
+      "text": "請問下列何項產業的發展最大程度的加快了全球化的速度？",
+      "options": [
+        {
+          "key": "A",
+          "text": "航運航空業",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "建築製造業",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資訊科技業",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "農林漁牧業",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C109",
+      "type": "選擇",
+      "text": "請問支援服務業是指支援何種對象的電腦及網路系統，使其能正常運作的行業？",
+      "options": [
+        {
+          "key": "A",
+          "text": "一般機關",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "團體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "家庭及個人",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C110",
+      "type": "選擇",
+      "text": "請問下列何者為電腦的零組件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "中央處理器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "散熱風扇",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "記憶體",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)(Ｂ)(Ｄ)屬於電腦主機內部裝置。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C111",
+      "type": "選擇",
+      "text": "「出生於數位時代之前的上一代」，請問上列敘述，描述的對象是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位難民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位人民",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C112",
+      "type": "選擇",
+      "text": "由於電子商務的盛行，小寶錄製電影院中的電影放置於網路上販售，請問小寶的行為可能造成何種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C113",
+      "type": "選擇",
+      "text": "請問下列何者為電腦硬體零組件中的「介面卡」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0306_C113_A.png"
+          ],
+          "B": [
+            "u0306_C113_B.png"
+          ],
+          "C": [
+            "u0306_C113_C.png"
+          ],
+          "D": [
+            "u0306_C113_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0306_C114",
+      "type": "選擇",
+      "text": "森田在網路直播上看到有人說吃檸檬可以讓自己更快樂，請問針對這項消息，森田接下來的做法何者較為妥當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "立即傳訊告知友人",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "馬上在網站上反駁",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "立即查證",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "馬上去買檸檬來吃",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "針對網站上的消息，應先行查證。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C115",
+      "type": "選擇",
+      "text": "請問下列何項敘述較不適當？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊科技對人類社會的影響，既廣且深",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "資訊科技的發展使個人生活型態及工作方式產生變化",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "資訊科技給我們的社會及經濟製造了機會與問題",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "身處快速變化的資訊時代，每個人的感受皆相同",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C116",
+      "type": "選擇",
+      "text": "電子商務是指使用各種電子工具或網路從事的商務活動，下列哪一項不是電子商務？",
+      "options": [
+        {
+          "key": "A",
+          "text": "線上借書",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "線上購物",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "線上交易",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電子支付",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C117",
+      "type": "選擇",
+      "text": "請問下列何者為電腦硬體零組件中的「網路卡」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "B",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "C",
+          "text": "",
+          "kind": "image"
+        },
+        {
+          "key": "D",
+          "text": "",
+          "kind": "image"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {
+          "A": [
+            "u0306_C117_A.png"
+          ],
+          "B": [
+            "u0306_C117_B.png"
+          ],
+          "C": [
+            "u0306_C117_C.png"
+          ],
+          "D": [
+            "u0306_C117_D.png"
+          ]
+        }
+      }
+    },
+    {
+      "id": "u0306_C118",
+      "type": "選擇",
+      "text": "設計程式時，我們常需要確認程式是否正常運作，並進行程式的修正與檢查。請問這個動作在軟體開發歷程中屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "用戶需求分析",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "系統規畫",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "軟體測試與除錯",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "系統文件",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C119",
+      "type": "選擇",
+      "text": "請問所謂e-commerce指的是？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電子錢包",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "電子商務",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "跨國商務",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "跨平臺商務",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C120",
+      "type": "選擇",
+      "text": "請問下列何者屬於IT產業（information technologyindustry）的一環？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統整合",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "支援服務",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電子商務",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "IT 產業包含硬體製造、軟體設計、網路通訊、系統整合、支援服務，以及電子商務等六大類別。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C121",
+      "type": "選擇",
+      "text": "請問下列何者為資訊產業的範疇？",
+      "options": [
+        {
+          "key": "A",
+          "text": "硬體製造",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路通訊",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "軟體設計",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C122",
+      "type": "選擇",
+      "text": "請問support service industry指的是何種行業？",
+      "options": [
+        {
+          "key": "A",
+          "text": "資訊科技業",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "創意投資業",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "支援服務業",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "傳統製造業",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C123",
+      "type": "選擇",
+      "text": "露西在網路社群軟體上看到心儀的電子產品想要下單購買，請問在下單前他應注意哪件事情？",
+      "options": [
+        {
+          "key": "A",
+          "text": "詢問社群管理員內容真實性",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "上網爬文看是否有類似的詐騙行為",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "在有保障的網路平臺下單購買避免消費糾紛",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C124",
+      "type": "選擇",
+      "text": "阿正的工作屬於責任制，且會依據不同的專案有不同的時程規畫，主要是撰寫Python或HTML5。請問阿正的工作為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "軟體程式工程師",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "硬體設備工程師",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "零件製程工程師",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "機械製圖工程師",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C125",
+      "type": "選擇",
+      "text": "請問下列何項不是由資訊科技帶來的弊端？",
+      "options": [
+        {
+          "key": "A",
+          "text": "假訊息充斥",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "言論自由無限上綱",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "性別歧視",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C126",
+      "type": "選擇",
+      "text": "數位原民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代；出生於數位時代之前的老一代則被稱為數位移民（digital immigrant）。請問這兩個用詞是馬克．普倫斯基在哪一年所提出？",
+      "options": [
+        {
+          "key": "A",
+          "text": "2001",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "2011",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "2010",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "2015",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C127",
+      "type": "選擇",
+      "text": "資訊科技帶給使用者便捷的生活，請問下列何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "教師可透過網路或平板載具引導學生，提升學習效果",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "儘管網路非常方便，同學仍不能過度依賴網路上的資訊",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "觀看社群軟體上的影片可以讓我們殺時間，但影片內容正確性仍需用戶自行判斷",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C128",
+      "type": "選擇",
+      "text": "請問digital immigrant一詞指的是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "數位原民",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "數位移民",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "數位難民",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "數位人民",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C129",
+      "type": "選擇",
+      "text": "請問下列何者不屬於支援服務業的特性？",
+      "options": [
+        {
+          "key": "A",
+          "text": "規模相對較小",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "對整個資訊科技營運的影響關係重大",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "常與其他產業合作",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "是獨立性較高的產業",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C130",
+      "type": "選擇",
+      "text": "網路與傳播媒體讓全球各國的距離更加鄰近，然網路的普及化的最大缺點是難以迴避，請問下列何者為網路全球化所衍生出的議題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "跨國詐騙",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "駭客橫行",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "勒索病毒",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C131",
+      "type": "選擇",
+      "text": "請問Electronic Data Interchange所指的是下列何者？",
+      "options": [
+        {
+          "key": "A",
+          "text": "電子資料交換",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "電子資訊對接",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電力資訊系統",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "電路控制中心",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C132",
+      "type": "選擇",
+      "text": "數位原民是指數位時代出生，伴隨著電玩、網路而長大的年輕世代；出生於數位時代之前的老一代則被稱為數位移民（digital immigrant）。請問這兩個用詞是由誰在2001年所提出？",
+      "options": [
+        {
+          "key": "A",
+          "text": "伊隆．馬斯克",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "馬克．普倫斯基",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "斯蒂芬．凱斯",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "米奇．卡普爾",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C133",
+      "type": "選擇",
+      "text": "在軟體開發過程中，為了滿足客戶，應先採取下列何種行動？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統規畫",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "客戶需求分析",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "程式設計",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "模組化規畫",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C134",
+      "type": "選擇",
+      "text": "請問下列何者屬於電腦的硬體設備？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主機板",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "記憶體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "喇叭",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C135",
+      "type": "選擇",
+      "text": "請問下列何者屬於網路通訊產業中的網路設備？(甲)網路卡(乙)衛星導航(丙)行動電話(丁)機上盒(戊)網路攝影機(己)路由器。",
+      "options": [
+        {
+          "key": "A",
+          "text": "甲乙丙",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "乙丁戊",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "丙戊己",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "甲丁己",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "(乙)(丙)屬於無線通訊設備、(戊)屬於有線通訊設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C136",
+      "type": "選擇",
+      "text": "請問下列何者屬於電腦的終端裝置？",
+      "options": [
+        {
+          "key": "A",
+          "text": "顯示器",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "硬碟機",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "滑鼠",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "掃描器",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "(Ｂ)屬於電腦主機內部裝置；(Ｃ)(Ｄ)屬於周邊設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C137",
+      "type": "選擇",
+      "text": "請問下列何者屬於電腦中主機內部的元件？",
+      "options": [
+        {
+          "key": "A",
+          "text": "光碟機",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "鍵盤",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電源供應器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "顯示器",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ａ)(Ｂ)屬於周邊設備；(Ｄ)屬於終端設備。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C138",
+      "type": "選擇",
+      "text": "請問下列何項關於人工智慧及機器人發展的趨勢敘述，何者正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "從工業走向家庭",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "無法取代很多零碎或危險的工作",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "無法取代高重複性的工作",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "該產業正逐漸衰退中",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C139",
+      "type": "選擇",
+      "text": "請你根據附圖判斷，此張介面卡若在不外接擴充裝置的狀態下，可以連接幾項周邊設備？ {圖1}",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 項",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "2 項",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "3 項",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "4 項",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "有 4 個插孔，所以可以連接 4 項周邊設備。",
+      "images": {
+        "stem": [
+          "u0306_C139_stem.png"
+        ],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C140",
+      "type": "選擇",
+      "text": "由於電子商務的盛行，小寶錄製電影院中的電影放置於網路上販售，請問小寶的行為可能造成何種問題？",
+      "options": [
+        {
+          "key": "A",
+          "text": "盜版侵權",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "侵犯隱私",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "網路霸凌",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C141",
+      "type": "選擇",
+      "text": "為了符合使用者的特殊需求，因而設計出相對應的軟體，請問該軟體被稱為？",
+      "options": [
+        {
+          "key": "A",
+          "text": "客製化軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "通用軟體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "IP 分享器",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "套裝軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C142",
+      "type": "選擇",
+      "text": "現在網路上常見的酸民，是由於網路社群軟體的發達而導致，請問造成酸民的主要原因為何？",
+      "options": [
+        {
+          "key": "A",
+          "text": "詐騙猖獗",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "言論自由無限上綱",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "網路色情",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "盜版侵權",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C143",
+      "type": "選擇",
+      "text": "請問下列何者通常被視為電腦硬體中的「周邊設備」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "光碟機",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "掃描器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "印表機",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "常見的周邊設備有滑鼠、印表機、鍵盤、光碟機、掃描器、隨身碟、光碟片等。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C144",
+      "type": "選擇",
+      "text": "網際網路的發達讓我們工作更順暢，請問下列何者敘述正確？",
+      "options": [
+        {
+          "key": "A",
+          "text": "主管可隨時注意屬下的進度，提升工作效率",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "線上會議可以節省交通的時間及花費",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "電腦網路的便利性可能造成人類過度依賴",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C145",
+      "type": "選擇",
+      "text": "小寶是一間公司的老闆，最近要拓展網路平臺，因此請工程師協助設計銷售的APP。請問該APP是屬於？",
+      "options": [
+        {
+          "key": "A",
+          "text": "系統軟體",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "通用軟體",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "套裝軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "客製化軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C146",
+      "type": "選擇",
+      "text": "請問下列何者通常被視為電腦硬體中的「周邊設備」？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路卡",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "顯示器",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "介面卡",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "印表機",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "常見的周邊設備有滑鼠、印表機、鍵盤、光碟機、掃描器、隨身碟、光碟片等。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C147",
+      "type": "選擇",
+      "text": "請問下列何項生活中的服務已逐漸走向電子化？",
+      "options": [
+        {
+          "key": "A",
+          "text": "商品販售",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "支付方式",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "郵件寄送",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "D",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C148",
+      "type": "選擇",
+      "text": "請問下列何者為因應使用者或客戶的特殊需求而開發的客製化軟體呢？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Word",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "校務行政系統",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "Google 線上文件編輯",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "以上皆是",
+          "kind": "text"
+        }
+      ],
+      "answer": "B",
+      "explanation": "因應使用者或客戶的特殊需求而開發的軟體，屬於客製化軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C149",
+      "type": "選擇",
+      "text": "網路的多元運用，使資訊得以共享，豐富了我們的知識、擴大了視野，也提升了生活品質。請問下列何者屬於網路的負面影響？",
+      "options": [
+        {
+          "key": "A",
+          "text": "網路霸凌",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "工作效率提高",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "工作量減少",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "言論自由",
+          "kind": "text"
+        }
+      ],
+      "answer": "A",
+      "explanation": "",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    },
+    {
+      "id": "u0306_C150",
+      "type": "選擇",
+      "text": "請問下列何者為專業導向的套裝軟體？",
+      "options": [
+        {
+          "key": "A",
+          "text": "Google Map",
+          "kind": "text"
+        },
+        {
+          "key": "B",
+          "text": "校務行政系統",
+          "kind": "text"
+        },
+        {
+          "key": "C",
+          "text": "SPSS 統計軟體",
+          "kind": "text"
+        },
+        {
+          "key": "D",
+          "text": "Office 系列軟體",
+          "kind": "text"
+        }
+      ],
+      "answer": "C",
+      "explanation": "(Ｂ)屬於客製化軟體；(Ａ)(Ｄ)屬於通用軟體。",
+      "images": {
+        "stem": [],
+        "options": {}
+      }
+    }
+  ]
+}

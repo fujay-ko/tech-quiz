@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>國中科技練習測驗</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<link rel="manifest" href="manifest.json">
+</head>
+<body>
+
+<div class="page active" id="homePage">
+  <div class="topbar"><div class="brand">國中科技 · 練習測驗</div></div>
+  <h1 class="home-headline">選擇單元<br>開始練習</h1>
+  <p class="home-sub">每次隨機抽題，題數可自訂（是非／選擇各 0–40，0 為不考）。也可開啟倒數提醒或即時回饋。選擇題選項內容會隨機重排。</p>
+  <div class="type-chips">
+    <span class="chip chip-tf" id="chipTF">● 是非題 ×10</span>
+    <span class="chip chip-mc" id="chipMC">● 選擇題 ×10</span>
+  </div>
+  <div class="settings-card" id="settingsCard">
+    <div class="section-label">出題設定</div>
+    <div class="count-row">
+      <div class="count-item">
+        <div class="count-name"><span class="q-tag tag-tf">是非題</span></div>
+        <div class="stepper">
+          <button class="step-btn step-left" type="button" onclick="stepCount('tf',-1)">−</button>
+          <input class="step-num" id="tfNum" type="number" min="0" max="40" value="10" oninput="inputCount('tf')">
+          <button class="step-btn step-right" type="button" onclick="stepCount('tf',1)">＋</button>
+        </div>
+        <div class="count-max" id="tfMax">庫存 —</div>
+      </div>
+      <div class="count-item">
+        <div class="count-name"><span class="q-tag tag-mc">選擇題</span></div>
+        <div class="stepper">
+          <button class="step-btn step-left" type="button" onclick="stepCount('mc',-1)">−</button>
+          <input class="step-num" id="mcNum" type="number" min="0" max="40" value="10" oninput="inputCount('mc')">
+          <button class="step-btn step-right" type="button" onclick="stepCount('mc',1)">＋</button>
+        </div>
+        <div class="count-max" id="mcMax">庫存 —</div>
+      </div>
+    </div>
+    <div class="toggle-row">
+      <label class="toggle-item">
+        <input type="checkbox" id="timedChk" onchange="toggleTimed()">
+        <span>倒數提醒（只提醒，不自動交卷）</span>
+      </label>
+      <span class="min-wrap" id="minWrap" style="display:none;">
+        <input class="step-num min-num" id="minNum" type="number" min="1" max="99" value="20" oninput="inputMinutes()"> 分鐘
+      </span>
+    </div>
+    <div class="toggle-row">
+      <label class="toggle-item">
+        <input type="checkbox" id="instantChk" onchange="toggleInstant()">
+        <span>即時回饋（作答後立刻顯示對錯，該題鎖定）</span>
+      </label>
+    </div>
+  </div>
+  <div id="errorBox" class="error-box" style="display:none;"></div>
+  <div id="loadingMsg" class="loading-msg">
+    載入題庫中<span class="loading-dot">.</span><span class="loading-dot">.</span><span class="loading-dot">.</span>
+  </div>
+  <div id="unitSection" style="display:none;">
+    <div id="draftBox" style="display:none;">
+      <div class="draft-text" id="draftText"></div>
+      <div class="draft-btns">
+        <button class="ra-btn ra-pri" onclick="continueDraft()">繼續上次作答 →</button>
+        <button class="ra-btn ra-sec" onclick="discardDraft()">放棄草稿</button>
+      </div>
+    </div>
+    <div class="section-row">
+      <div class="section-label">選擇章節</div>
+      <button class="link-btn" type="button" onclick="clearRecords()">清除作答紀錄</button>
+    </div>
+    <div class="unit-list" id="unitList"></div>
+    <button class="start-btn" id="startBtn" disabled onclick="startQuiz()">請先選擇章節</button>
+  </div>
+</div>
+
+<div class="page" id="quizPage">
+  <div class="quiz-nav">
+    <div class="quiz-chapter" id="quizChapter"></div>
+    <div class="quiz-right">
+      <div class="timer-disp" id="timerDisp" style="display:none;"></div>
+      <div class="quiz-count" id="quizCount"></div>
+    </div>
+  </div>
+  <div class="progress-wrap"><div class="progress-bar" id="progressBar"></div></div>
+  <div class="kbd-hint">⌨️ ↑↓ 換題 · A–D 作答 · Enter 交卷</div>
+  <div id="questionsList"></div>
+  <div class="submit-area">
+    <div class="time-warn" id="timeWarn" style="display:none;">⏰ 時間到，請交卷！</div>
+    <button class="submit-btn" onclick="submitQuiz()">提交所有答案</button>
+  </div>
+</div>
+
+<div class="page" id="resultPage">
+  <div class="result-top">
+    <div class="score-ring">
+      <svg viewBox="0 0 96 96">
+        <circle class="ring-track" cx="48" cy="48" r="43"/>
+        <circle class="ring-prog" id="ringProg" cx="48" cy="48" r="43"/>
+      </svg>
+      <div class="ring-label"><div class="ring-pct" id="ringPct">0%</div></div>
+    </div>
+    <div class="result-info">
+      <h2 id="resGrade"></h2>
+      <p id="resDetail"></p>
+    </div>
+  </div>
+  <div class="review-toggle">
+    <button class="ra-btn ra-sec" id="expToggle" onclick="toggleExpl()">顯示全部解析</button>
+  </div>
+  <div class="review-list" id="reviewList"></div>
+  <div class="result-actions">
+    <button class="ra-btn ra-sec" onclick="backHome()">← 換章節</button>
+    <button class="ra-btn ra-sec" id="retryBtn" onclick="retryWrong()">重練錯題</button>
+    <button class="ra-btn ra-pri" onclick="startQuiz()">再練一次 →</button>
+  </div>
+</div>
+
+<button id="topBtn" onclick="toTop()" title="回到頂端" style="display:none;">↑</button>
+
+<script src="app.js"></script>
+</body>
+</html>
