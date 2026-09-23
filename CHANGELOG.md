@@ -2,6 +2,10 @@
 
 格式：日期＋變更＋題數變化。轉檔或改版後請接著往下記，README 的統計表才對得上。
 
+## 2026-09-23 — sw.js 升 v2
+- `sw.js`：`CACHE='tech-quiz-v2'`（activate 自動清 v1）；App 外殼維持 cache-first，`questions/`＋`images/` 改 network-first（有網拿新、斷線吃快取）；路徑比對改比對路徑段，子路徑部署（如 `/tech-quiz/`）適用；預載清單加 `icon.svg`
+- 題數：2014，無變動
+
 ## 2026-09-23 — 工程化整批
 - git 本地版控（init＋.gitignore，不 commit、不設遠端，由使用者自行上傳）
 - `tests/`：`quiz_web.test.js`（網頁回歸 61 項）、`validate_bank.py`（答案／圖片／重複驗證＋統計）、`run_tests.bat` 一鍵測試

@@ -34,7 +34,7 @@ tech-quiz-main/
 ├── chapters.json       # 章節清單（name/file/是非數/選擇數，由 validator 產出）
 ├── manifest.json       # PWA 設定
 ├── icon.svg            # PWA 圖示
-├── sw.js               # PWA 離線快取（同源 cache-first）
+├── sw.js               # PWA 離線快取（外殼 cache-first、題庫/圖片 network-first）
 ├── 啟動測驗.bat        # 雙擊啟動本地伺服器並開啟瀏覽器
 │
 ├── questions/          # 題庫 JSON 檔
@@ -220,7 +220,7 @@ python tests/validate_bank.py # 資料驗證（答案非空、圖片引用存在
 ```
 
 - 改版或重跑轉檔後請先跑過測試再部署；`validate_bank.py` 失敗（exit 1）表示有缺答或缺圖
-- PWA 離線請手動驗證：開頁載入一次後關網路重整，應可正常作答（`sw.js` 同源 cache-first）
+- PWA 離線請手動驗證：開頁載入一次後關網路重整，應可正常作答（`sw.js` v2：外殼 cache-first、題庫/圖片 network-first 兜底）
 
 ---
 
@@ -231,7 +231,7 @@ python tests/validate_bank.py # 資料驗證（答案非空、圖片引用存在
 | HTML5 / CSS3 | 頁面結構與樣式（`index.html`＋`styles.css`） |
 | Vanilla JavaScript | 題庫載入、隨機抽題、答題邏輯（`app.js`） |
 | localStorage | 作答紀錄、草稿續答、出題設定（純本機，不上傳） |
-| Service Worker | PWA 離線快取（`sw.js`＋`manifest.json`，同源 cache-first） |
+| Service Worker | PWA 離線快取（`sw.js`＋`manifest.json`；外殼 cache-first、題庫/圖片 network-first） |
 | Noto Sans TC / DM Mono | Google Fonts 字型（需連線） |
 | CSS 自訂屬性 | 主題色彩統一管理 |
 
